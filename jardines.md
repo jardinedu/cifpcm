@@ -6,12 +6,12 @@ feature_image:
 ---
 
 1. [Jardín de los Talleres](#1-jard%C3%ADn-de-los-talleres)
-2. Jardines del patio central
-3. Jardines del patio central - sombra
-4. Jardines de la casita de sonido
-5. Jardín de Secretaría
-6. Parque norte
-7. Parque sur - proyecto de renaturalización
+2. [Jardines del patio central](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#2-jardines-del-patio-central)
+3. [Jardines del patio central - sombra](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#3-jard%C3%ADn-del-patio-central---sombra)
+4. [Jardín de Secretaría](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#4-jardines-de-secretar%C3%ADa)
+5. [Jardín de la casita de sonido](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#5-jardines-de-la-casita-de-sonido)
+6. [Parque norte](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#6-parque-norte)
+7. [Parque sur - proyecto de renaturalización](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#7-parque-sur---proyecto-de-renaturalizaci%C3%B3n)
 
 
 ![Barra verde](images/jard01barraverde.jpg)
