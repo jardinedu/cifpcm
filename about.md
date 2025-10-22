@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: Sobre el autor
+description: 
+feature_image: 
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+![José Mesa - Mataparda](images/retratomataparda.jpg)
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+**José Mesa Acosta** (Tenerife, 1963). Realizó la licenciatura de Bellas Artes entre Tenerife y Barcelona, especializándose en foto-cine-vídeo, y ejerciendo posteriormente como profesor técnico en los ciclos de Imagen y Sonido de Formación Profesional, desarrollando su carrera docente en el CIFP César Manrique.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Desde la década de 1980 trabaja en la crecaión artística con el seudónimo **Mataparda**. Sus intereses se dirigen hacia direcciones siempre complementarias. Así se enmarca su participación como socio fundador de la Asociación Cultural Patrimonio de Güímar y Asociación Cultural Sureste de Tenerife, con campañas para la protección del territorio y acciones para la salvaguarda del Camino de El Socorro y el espacio natural Malpaís de Güímar o la Montaña de Tindaya. En esta misma línea, su trabajo, conceptualmente relacional, aborda el espacio de las islas desde la documentación fotográfica, con un repositorio de imágenes en abierto que han sido utilizadas por otras plataformas e investigaciones que trabajan la misma orientación.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+Sus proyectos personales han abordado la música electrónica y el mail-art en la década de 1980, participando en los circuitos internacionales y recuperándose en los últimos años a través de vinilos y ediciones especiales como el catálogo de la exposición _Escuchar con los ojos. Arte sonoro en España (1961-2016)_ o la recopilación en vinilo _La ola interior. Spanish Ambient & Acid Exotism (1983-1990)_. En 2025 participa en el Festival Télex con _Prácticas sonoras de consolación_
 
-*Thank You for reading!*
+![Set para Télex](images/settelex025.jpg)
+
+En cuanto a lo fotográfico, desde 1985, hace uso de las cámaras pobres, tanto analógicas como digitales, con proyectos como _Mi Viaje con Ledrú_ (1991), _Perro_ (1990), _Al Sur_ (2006), _La Guía Atgette de Santa Cruz de Tenerife (2011- )_, _#turismo#islascanarias#instagram_ (2022), _Opuntia Piscinas_ (2024), con exposiciones en Madrid, Barcelona, La Coruña, Arlés, Braga, Tenerife y Gran Canaria. 
+
+Siempre centrando sus intereses en el territorio, ha desarrollado también los guiones y los dibujos de la serie de cómic _Espinita_ (1987-2010); y, desde hace unos años, trabaja y aborda los jardines del CIFP César Manrique desde la biodiversidad insular, haciéndose responsable de cuidado y evolución.
