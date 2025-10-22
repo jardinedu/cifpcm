@@ -28,16 +28,14 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+- text: El proyecto
+    url: https://jardinedu.github.io/cifpcm/inicio
+  - text: Los jardines. Guia de especies
+    url: https://jardinedu.github.io/cifpcm/jardines
+  - text: Bibliografía
+    url: https://jardinedu.github.io/cifpcm/biblio
+#  - text: Download
+#    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
@@ -55,7 +53,7 @@ plugins:
   - jekyll-paginate
 
 # http://jekyllrb.com/docs/pagination/
-paginate: 3
+paginate: 1
 paginate_path: '/page:num/'
 
 
