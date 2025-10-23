@@ -1167,12 +1167,12 @@ Es una planta perenne rizomatosa que crece en matas sueltas de unos 60 cm de alt
 _Farfugium japonicum_ (sinónimo _Ligularia tussilaginea_) se conoce como _capa de la reina_ o en inglés _leopard plant_, _green leopard plant_ or _tractor seat plant_ . En Japón, se le llama tsuwabuki.
 
 ![El espectáculo diario de las capas de la reina en la Plaza Weyler](images/jard12capasdelareinaplazaweyler.jpg)
+_El espectáculo diario de las capas de la reina en la Plaza Weyler_
 
 Además de sus espectaculares hojas de forma redondeada tiene una floración interesante, con tallos largos y flores de amarillo intenso semejantes a las margaritas.
 
-_Se han intruducido también dos ejemplares de un cultivar de capa de la reina variegada_
 ![Capa de la reina variegada](images/specpsfarfugiumvariegata.jpg)
-
+_Se han introducido también dos ejemplares de un cultivar de capa de la reina variegada_
 
 ***
 
