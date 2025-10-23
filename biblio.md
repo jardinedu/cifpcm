@@ -231,6 +231,5 @@ En término medio se ve la mansión de Sitio Litre con su característico mirado
 
 
 ***
-url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/inicio) 
-
+url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/about) 
 ***
