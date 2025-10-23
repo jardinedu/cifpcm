@@ -28,7 +28,7 @@ Planta Sapiens. Paco Calvo, Natalie Lawrence. Seix Barral. 2023
 ![La mente bien ajardinada](images/blamentebienajardinada1000px.jpg)
 La mente bien ajardinada. Sue Stuart-Smith. Debate. 2021
 
-![Color schemes for the flower garden](bcolorschemes1000px.jpg)
+![Color schemes for the flower garden](/¡images/bcolorschemes1000px.jpg)
 Color schemes for the flower garden. Gertrude Jekyll. Country Life. 1919.
 
 
@@ -83,7 +83,7 @@ En este Parque Central se utiliza la vegetación natural de la isla de Tenerife 
 Los distintos parterres del Parque no son restauraciones ecológicas sino exposiciones de plantas en parcelas realizadas por pisos de vegetación: Tabaibal Cardonal, Piso Termoesclerófilo Sabinar, Piso Termoesclerófilo Bosque Mixto, Piso Termoesclerófilo Sauceda Barranco, Piso Pinar, Piso Monte Verde, Piso Termoesclerófilo Transición a Monte Verde, Aprovechamiento de residuos orgánicos, Zona de Jardín Ornitófilo, Piso Matorral de Cumbre, Piso Termoesclerófilo Mixto, Zona de Experimentación, Piso Termoesclerófilo Mixto, Plantas singulares.
 
 ![206 y 2022](images/0904monteverdeull.jpg)
-_Representación del monteverde, 2016 y 2022._
+&emsp;&emsp;_Representación del monteverde, 2016 y 2022._
 
 Esta renovación ha sido fruto de la colaboración entre el Servicio de Parques y Jardines de la ULL y expertos en flora y fauna endémica de la Universidad de La Laguna, con el respaldo de los órganos de gestión universitarios. Prima la biodiversidad y los ecosistemas regionales con un enfoque multidisciplinar y sostenible y además cumple con una función didáctica y divulgativa:
 Este jardín también es una herramienta tanto para la docencia en los grados de Educación, Biología y Ciencias Ambientales, como para la investigación y transferencia a diferentes etapas educativas y a la sociedad. Así, el alumnado de Educación tiene en este jardín una representación de la flora canaria estructurada en los pisos de vegetación presentes en el archipiélago, permitiéndoles estudiar in situ la flora representativa de cada nivel, así como la formación y conservación de los diferentes ecosistemas. El alumnado de Ciencias Ambientales y Biología realiza supuestos prácticos con observación y recogida de datos y muestras para el desarrollo de trabajos en asignaturas generales de Botánica y Zoología. También se puede apreciar flora amenazada cuyas localidades naturales son escasas y de difícil acceso y que se encuentra en estos jardines.
@@ -100,7 +100,7 @@ En el Campus de Humanidades de Guajara se ha reacondicionado una ladera, al suro
 [Sitio web](https://jardincanario.grancanaria.com)
 
 ![Plano del Jardín Canario](images/0908jardincanarioplano.jpg)
-_Plano del jardín, en [Recursos digitales de Ecoescuela, Gobierno de Canarias](https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/tag/botanico/)_
+&emsp;&emsp;_Plano del jardín, en [Recursos digitales de Ecoescuela, Gobierno de Canarias](https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/tag/botanico/)_
 
 El Jardín Botánico Canario Viera y Clavijo, conocido también como Jardín Canario, se encuentra en Gran Canaria, Islas Canarias, nombrado en honor de José de Viera y Clavijo, naturalista canario del siglo XVIII, pionero de las Ciencias de la Naturaleza en el archipiélago. Está dedicado principalmente a las flores y plantas endémicas de las siete islas del Archipiélago Canario, incluyendo además especies de la Macaronesia. 
 La mayoría del Botánico se encuentra en terrazas del costado del barranco de Guiniguada. Cada especie posee su propia zona delimitada. 
@@ -133,7 +133,7 @@ En 1974, el Dr. David Bramwell fue nombrado segundo director del Jardín. En esa
 ## Jardín de Aclimatación de La Orotava e Hijuela del Botánico
 
 ![Plano Jardín de Aclimatación de La Orotava](images/0912aclimatacionplano.jpg)
-_Plano del jardín. La leyenda de  las especies se puede consultar en [Recursos digitales de Ecoescuela, Gobierno de Canarias](https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/tag/botanico/)_
+&emsp;&emsp;_Plano del jardín. La leyenda de  las especies se puede consultar en [Recursos digitales de Ecoescuela, Gobierno de Canarias](https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/tag/botanico/)_
 
 Es un jardín botánico situado en Puerto de la Cruz., aunque en su fundación el Puerto de la Cruz pertenecía al municipio de La Orotava y era conocido como Puerto de La Orotava, de ahí su nombre. Es Bien de Interés Cultural, con categoría de jardín histórico, desde 1994.
 Tiene sus orígenes en una orden de fundación de 1788, por el rey Carlos III de España,. Su labor inicial fue la de reunir plantas exóticas en las colonias españolas del Nuevo Mundo, para que después de un periodo de aclimatación en el Archipiélago, se trasladasen a los jardines reales de Madrid y Aranjuez. El Jardín de Aclimatación de La Orotava, era pues, tras el Real Jardín Botánico de Madrid, que también poco antes fue fundado por orden del rey Carlos III, el segundo jardín botánico de España. 
@@ -176,25 +176,25 @@ El nombre actual le viene dado por su primer propietario Archibald Little, quien
 Little realizó un conjunto de reformas para convertirla en un lugar de ocio y distracción. De este modo, la mansión fue reestructurada para transformarse en una fonda o quinta de descanso. Archibald Little, además, diseñó un jardín al característico estilo británico en el que plantó especies típicas de la flora canaria y tropical. 
 
 ![Vista del jardín Sitio Litre](images/0924litrevista.jpg)
-_Foto Till Krech.CCBy_
+&emsp;&emsp;_Foto Till Krech.CCBy_
 
 La casona del Sitio Litre es de estilo colonial con elementos de arquitectura doméstica canaria. El edificio está rematado por un mirador octogonal de estilo inglés colonial.
 Sitio Litre fue lugar de estancia o de visita para muchos extranjeros que visitaban la isla, como André Pierre Ledru, Humboldt, Marianne North,, Alfred Diston, Charles Piazzi Smyth, Agatha Christie o Richard F. Burton. 
 En 1852 fue vendido a Charles Smith y en 1996 a John Lucas, quien abrió al público los jardines.
 
 ![Marianne North en Ceilán](images/0926mariannecameron.jpg)
-_Marianne North fotografiada por Julia Margaret Cameron en Ceilán, la actual Sri Lanka, 1877_
+&emsp;&emsp;_Marianne North fotografiada por Julia Margaret Cameron en Ceilán, la actual Sri Lanka, 1877_
 
 Hay un nexo muy interesante entre Sitio Litre, la isla de Tenerife y uno de los jardines más importantes del mundo, Kew Gardens: la artista Marianne North. La famosa viajera y artista inglesa pasó dos meses en Tenerife en 1875, hospedada en la mansión, y pintó 26 cuadros con la flora y paisajes de la isla: vistas de este jardín, plantas endémicas incluyendo diversos dragos, panorámicas de diversos puntos del norte de la isla, etc.
 
 ![Marianne North dibujando en Ceilán](images/0928marianneceilan.jpg)
-_Marianne North dibujando en Ceilán, 1877. Foto de Julia Margaret Cameron_
+&emsp;&emsp;_Marianne North dibujando en Ceilán, 1877. Foto de Julia Margaret Cameron_
 
 Tras viajar por todo el mundo pintando Marianne North donó su obra a Kew Gardens, donde se construyó un edificio, la [Marianne North Gallery](https://www.kew.org/kew-gardens/whats-in-the-gardens/marianne-north-gallery), específicamente para reunir más de 800 piezas, con un diseño de la propia artista.
 Allí están expuestos los 26 cuadros de Tenerife, juntos en uno de los paneles. Una visita a Londres no está completa sin ir a Kew Gardens y visitar ese reducto de imágenes insulares en el contexto de una colección mundial. [Reproducciones de las pinturas de North.](https://en.wikipedia.org/wiki/User:Jane023/Paintings_by_Marianne_North)
 
 ![Marianne North Galleries en Kew Gardens](images/0930mariannekew.jpg)
-_Exterior y vista del interior. A la izquierda de la foto podemos ver la esquina del panel de Tenerife, abajo del todo, la 514. Vista del Puerto de Orotava, Tenerife._
+&emsp;&emsp;_Exterior y vista del interior. A la izquierda de la foto podemos ver la esquina del panel de Tenerife, abajo del todo, la 514. Vista del Puerto de Orotava, Tenerife._
 
 Esta es la lista completa de pinturas de Tenerife:
 - Número 502. Flores de granado, pintadas en Tenerife.
@@ -226,7 +226,7 @@ Esta es la lista completa de pinturas de Tenerife:
 
 
 ![Pintura 514](images/0932pintura514.jpg)
-_Pintura Número 514. Vista del Puerto de Orotava, Tenerife, desde el Sitio del Pardo.
+&emsp;&emsp;_Pintura Número 514. Vista del Puerto de Orotava, Tenerife, desde el Sitio del Pardo.
 En término medio se ve la mansión de Sitio Litre con su característico mirador hexagonal  y su drago._
 
 
