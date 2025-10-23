@@ -27,7 +27,7 @@ Igual que las plantas, los proyectos crecen: luego ha venido el trabajo con más
 
 Me llamo Jose, profesor del Centro. Siempre me ha gustado cuidar de las plantas, desde mis años en Bachillerato donde coleccionaba plantas nativas canarias en la azotea de mi casa hasta el jardín que trabajé y disfruté muchos años, en mi casa natal en Güímar. En este documento te hablaré del desarrollo de los jardines del CIFP desde 2018, con una guía de especies y datos sobre ellas que me parecen suficientemente interesantes. 
 
-![Ubicaciones de los jardines](images/01esquemajardines.png)
+![Ubicaciones de los jardines](images/01esquemajardines.jpg)
 
 * * *
 
