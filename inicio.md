@@ -42,7 +42,7 @@ Como primer paso hice un trabajo sistemático (que  se ha desarrollado a lo larg
 
 Tras quitar _Pennisetum_ durante un año, y sin ser este estrictamente un Proyecto de Innovación, sino una iniciativa educativa de concienciación, hacía 2018 le planteé al Director (en ese momento Michel) una intervención para recuperar un jardín frente a los Talleres 1 2 y 3. Razones didácticas en la puesta en valor de la flora canaria; también la flora que se ha usado en jardinería popular en las islas. En otro apartado escribo un poco más sobre esto.
 
-![Evolución del jardín de los Talleres](images/01evolucionjardintalleres20182020)
+![Evolución del jardín de los Talleres](images/01evolucionjardintalleres20182020.jpg)
 
 Por supuesto también está siempre presente una educación ambiental en su más puro sentido: valorar la Naturaleza y la Vida.
 Y más razones didácticas en ese despertar de la curiosidad sobre el mundo y la historia de los descubrimientos botánicos y el viaje de las plantas que supone un jardín. 
@@ -55,11 +55,12 @@ Por último, no creo que ni siquiera sea necesario explicar los beneficios para 
 
 ## ¿Qué jardinería?
 
-Si tuviera que definir qué tipo de jardínes se trabaja, sería simplemente ir construyendo diferentes entornos en una línea de una jardinería paisajística que busca volúmenes y colores, un lugar para contemplar al pasar y también estar (he colocado algunos bancos). Alrededor de los edificios del CIFP hay parterres con todo tipo de condiciones de insolación, humedad, acceso de personas, etc que se pueden abordar con diferentes estrategias.
+¿Jardinería o paisajismo? Me resulta difícil definir en qué tipo de jardínes me gusta trabajar. Quizá simplemente ir construyendo diferentes entornos, buscar volúmenes y colores. A veces son lugares para contemplar al pasar, otros son un fondo vegetal, otros son para estar (he colocado algunos bancos). Alrededor de los edificios del CIFP hay terrenos con todo tipo de condiciones de insolación, humedad, acceso de personas, etc que se pueden abordar con diferentes estrategias.
 
-Procuro tener jardines sostenibles, de bajo mantenimiento, adaptado en este caso a suelos pobres, alta insolación y poco riego, con plantas de larga vida, si es posible que se desarrollen desde pequeñas en el propìo jardín, incluso de semilla, evitando la _jardinería instantánea_ basada en plantas de vivero en floración que se retiran al cabo de pocos meses, o en esa otra variante en la que se compran plantas con muchos años de vida y se trasplantan. Por desgracia así funcionan muchos ajardinamientos. 
+Procuro tener jardines sostenibles, de bajo mantenimiento (este aspecto de la sostenibilidad me importa menos, va en contra del disfrute del jardín y su _tiempo_), adaptado en este caso a suelos pobres, alta insolación y poco riego, con plantas de larga vida.
+Si es posible prefiero plantas que se desarrollen desde pequeñas en el propìo jardín, incluso de semilla, evitando la _jardinería instantánea_ basada en plantas de vivero en floración que se retiran al cabo de pocos meses, o en esa otra variante en la que se compran plantas con muchos años de vida y se trasplantan. Por desgracia así funcionan muchos ajardinamientos. 
 No utilizo herbicidas ni tampoco sistemas como cubrir la tierra con malla, ni desbrozadoras o cortadoras de hilo (en los dos casos, fuentes de microplásticos). Elimino las malas hierbas a mano, respetando en lo posible plantas nativas que aparecen espontáneamente. Aquí no se trata de productividad -estamos haciendo jardinería, no agricultura- ni de prisas. 
-No soy jardinero profesional, ni siquiera tengo formación, como cursillos, en esta disciplina, y trabajo desde la observación y la intuición. Con un poco de creatividad, porque entiendo un jardín también como una obra plástica, efímera y en cambio constante.
+No soy jardinero profesional, ni siquiera tengo formación, como cursillos, en esta disciplina, y trabajo desde la observación y la intuición. Con un poco de creatividad, porque entiendo un jardín también como una obra plástica, efímera y en cambio constante. Por último, procuro leer sobre jardinería y paisajismo y observar a las propias plantas.
 
 * * *
 
