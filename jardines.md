@@ -51,16 +51,13 @@ Tenerife es la isla con un mayor número de poblaciones naturales que se encuent
 Primos del drago son los Troncos de Brasil, esa planta inmortal que siempre  has visto en la oficina donde vas a sacar un certificado. También son de la familia los preciosos árboles-drago de la isla de Socotra, en el este de África (y que quizá desaparezcan debido al calentamiento global).
 
 ![Raised by wolves](images/jard04socotra.jpg)
-&ensp;&thinsp;&ensp;&thinsp;_Raised by wolves, serie de televisión de 2020, utiliza como paisaje de ciencia ficción los dragos de Socotra_
+$\quad$ _Raised by wolves, serie de televisión de 2020, utiliza como paisaje de ciencia ficción los dragos de Socotra_
 
 El drago ha despertado mucho interés en científicos y viajeros a lo largo de la historia de Canarias, no sólo por ser especie emblemática de la Macaronesia y Canarias, sino por sus peculiaridades, como su longevidad o las propiedades curativas de su savia, alcanzando un estatus casi mítico.
 El estudio [La ilustración científica de la Dracaena draco de Canarias (1576-1970)])(https://www.ull.es/revistas/index.php/artes/article/download/6593/4479/) recopila una historia gráfica de este interés.
 
 ![Drago ilustraciones](images/jard04ilustracionesdrago.jpg)
-<ul>
 _El Bosco, El jardín de las delicias, 1500-1505. Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries. Marianne North, Drago San Juan de la Rambla, 1875._
-</ul>
-
 Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dragón. En la Edad Media su savia de color rojizo se asociaba a la mítica sangre de dragón, de propiedades mágicas.
 
 Oficialmente el drago es el símbolo vegetal oficial de la isla de Tenerife. Obviamente a la especie, que pudo llegar a las Islas hace 10 millones de años (en el Mioceno) esto poco le importa.
