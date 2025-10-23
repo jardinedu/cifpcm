@@ -43,20 +43,21 @@ En el centro del jardín tenemos un drago, puedes estimar su edad aproximada cal
 No es realmente un árbol, su tronco no es de madera sino la acumulación de las cicatrices de sus antiguas hojas, más o menos como las palmeras.
 En las Islas Canarias lo encontramos en la naturaleza en barrancos y medianías, aunque su hábitat favorito es -mala suerte- justo la zona dónde ahora están la mayoría de los pueblos: las medianías. Los indígenas y los primeros colonizadores europeos debieron poder pasar entre bosques de dragos, dragonales. Hoy quedan, en la naturaleza, unos pocos grupos de dragos salvajes, y ejemplares aislados en barrancos. Muchos topónimos nos hablan de dragos, algunos que servían precisamente como referencias geográficas: Barranco del Drago, Lomo del Drago, El Draguillo, etc. En en Gran Canaria los topónimos Dragonal Bajo y Dragonal Alto recuerdan que por allí, en el Barranco de Guiniguada, muy cerca del Jardín Canario, debió haber un bosque de dragos.
 
-![Dragonal Gran Canaria](images/jard04dragonalgrancanaria.jpg)
+&ensp;&thinsp;&ensp;&thinsp;![Dragonal Gran Canaria](images/jard04dragonalgrancanaria.jpg)
 _Mapa de Dragonal y antigua postal de la zona: Barranco de- Guiniguada_
 
 Tenerife es la isla con un mayor número de poblaciones naturales que se encuentra sobre todo en las zonas geológicamente más antiguas de esta isla, destacando el Macizo de Anaga, Macizo de Teno y Adeje. En La Palma destacan los bosquetes de dragos de Las Tricias y Buracas. En Gran Canaria hay algunos dragos silvestres y se identificó, en 1990, una nueva especie denomina drago de Gran Canaria _Dracaena tamaranae_. El hallazgo de esta especie se cuenta [en este artículo](https://pellagofio.es/islas/naturaleza-y-territorio/flora-y-fauna/la-primera-floracion-veinte-anos-despues/). Actualmente deben quedar alrededor de 70-80 ejemplares silvestres en la isla, además de otros en el Jardín Canario, de semillas recolectadas. Un artículo interesante:  [Los dragos del archipiélago canario](https://www.rinconesdelatlantico.es/num6/lector.php?id=142) por Rafael S. Almeida, en la revista Rincones del Atlántico.
 
 Primos del drago son los Troncos de Brasil, esa planta inmortal que siempre  has visto en la oficina donde vas a sacar un certificado. También son de la familia los preciosos árboles-drago de la isla de Socotra, en el este de África (y que quizá desaparezcan debido al calentamiento global).
 
-![Raised by wolves](images/jard04socotra.jpg)
+&ensp;&thinsp;&ensp;&thinsp;![Raised by wolves](images/jard04socotra.jpg)
 _Raised by wolves, serie de televisión de 2020, utiliza como paisaje de ciencia ficción los dragos de Socotra_
+
 El drago ha despertado mucho interés en científicos y viajeros a lo largo de la historia de Canarias, no sólo por ser especie emblemática de la Macaronesia y Canarias, sino por sus peculiaridades, como su longevidad o las propiedades curativas de su savia, alcanzando un estatus casi mítico.
 El estudio [La ilustración científica de la Dracaena draco de Canarias (1576-1970)])(https://www.ull.es/revistas/index.php/artes/article/download/6593/4479/) recopila una historia gráfica de este interés.
 
 ![Drago ilustraciones](images/jard04ilustracionesdrago.jpg)
-_El Bosco, El jardín de las delicias, 1500-1505. Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries. Marianne North, Drago San Juan de la Rambla, 1875._
+&ensp;&thinsp;&ensp;&thinsp;_El Bosco, El jardín de las delicias, 1500-1505. Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries. Marianne North, Drago San Juan de la Rambla, 1875._
 
 Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dragón. En la Edad Media su savia de color rojizo se asociaba a la mítica sangre de dragón, de propiedades mágicas.
 
