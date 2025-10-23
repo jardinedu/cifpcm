@@ -51,13 +51,15 @@ Tenerife es la isla con un mayor número de poblaciones naturales que se encuent
 Primos del drago son los Troncos de Brasil, esa planta inmortal que siempre  has visto en la oficina donde vas a sacar un certificado. También son de la familia los preciosos árboles-drago de la isla de Socotra, en el este de África (y que quizá desaparezcan debido al calentamiento global).
 
 ![Raised by wolves](images/jard04socotra.jpg)
->_Raised by wolves, serie de televisión de 2020, utiliza como paisaje de ciencia ficción los dragos de Socotra_
+&emsp;&emsp;_Raised by wolves, 2020.los dragos de Socotra como paisaje de ciencia-ficción_
 
 El drago ha despertado mucho interés en científicos y viajeros a lo largo de la historia de Canarias, no sólo por ser especie emblemática de la Macaronesia y Canarias, sino por sus peculiaridades, como su longevidad o las propiedades curativas de su savia, alcanzando un estatus casi mítico.
 El estudio [La ilustración científica de la Dracaena draco de Canarias (1576-1970)])(https://www.ull.es/revistas/index.php/artes/article/download/6593/4479/) recopila una historia gráfica de este interés.
 
 ![Drago ilustraciones](images/jard04ilustracionesdrago.jpg)
->_El Bosco, El jardín de las delicias, 1500-1505. Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries. Marianne North, Drago San Juan de la Rambla, 1875._
+&emsp;&emsp;_El Bosco, El jardín de las delicias, 1500-1505.
+&emsp;&emsp;Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries.
+&emsp;&emsp;Marianne North, Drago San Juan de la Rambla, 1875._
 
 Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dragón. En la Edad Media su savia de color rojizo se asociaba a la mítica sangre de dragón, de propiedades mágicas.
 
@@ -97,7 +99,8 @@ Esta investigación, que nos muestra qué direcciones pueden seguir las investig
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11082519/)
 
 ![mapaeuforbias](images/jard04mapaeuforbias.jpg)
-_En el mapa, poblaciones de _E. balsamifera (círculos)_, _E. adenensis_ (rombos) y _E. sepium (triángulos)_, y mapa de las poblaciones de _E. balsamifera_ estudiadas en las Islas Canarias._
+&emsp;&emsp;_E. balsamifera_ (círculos), _E. adenensis_ (rombos) y _E. sepium (triángulos)_ en África_ 
+&emsp;&emsp;_Poblaciones de _E. balsamifera_ estudiadas en las Islas Canarias._
 
 
 ***
@@ -115,7 +118,7 @@ Hasta hace pocos años se la llamaba _Euphorbia regis-jubae_, en honor al rey Ju
 Me permito incluir aquí un apunte para un desvío: Lamarck es quien estableció el término **biología**, y desarrolló la primera teoría sobre la evolución de la vida en su obra _Filosofía Zoológica_, publicada en 1809. La propuesta de Lamarck propició grandes debates, que hicieron posible las investigaciones de Darwin. Charles Darwin nació el mismo año de publicación de _Filosofía Zoológica_, y medio siglo después, en paralelo a Alfred Russel Wallace, desarrolló teorías que explicaban los mecanismos básicos de la evolución de las especies. Antes de eso Lamarck  ya había sido denostado y olvidado, terminando su vida en la miseria, dictando (estaba ciego) sus últimas obras a sus hijas. Sin embargo, a finales del siglo XX, científicas como Lynn Margulis han recuperado parte del pensamiento de Lamarck, por ejemplo en su obra _Planeta simbiótico_, de 1998, y con su hipótesis de la simbiogénesis como principal fuerza evolutiva. Esta hipótesis contradice el actual paradigma de la síntesis evolutiva moderna y los postulados de Darwin y por tanto del neodarwinismo. Vemos de nuevo cómo la Ciencia no trata de verdades absolutas, sino que propone teorías que más adelante serán extendidas o rebatidas. 
 
 ![Evolucion](images/jard04lamarckdarwinmargulis.jpg)
-_Lamarck, Darwin y Margulis_
+&emsp;&emsp;_Lamarck, Darwin y Margulis_
 
 ***
 
@@ -179,7 +182,7 @@ Es resistente a la sequía y a la insolación y es de la misma familia que las l
 ***
 
 ![Salado](images/spectschizogyne.jpg)
-_Tengo que decir que esta es una de mis plantas nativas favoritas para uso en jardinería sostenible: un buen volumen, color espectacular, floración casi constante_ 
+_Una de mis plantas nativas favoritas para jardinería sostenible: pocos cuidados, gran volumen, color y floración_ 
 
 ### Salado
 _Schizogyne sericea_
@@ -218,7 +221,8 @@ Las ramas del balo se han usado en el campo para cubrir las papas y así evitar 
 La palabra _balo_ se considera prehispánica, se recoge en el [Diccionario histórico del español de Canarias](https://www.rae.es/tdhle/balo) con usos escritos desde el siglo XVI, y se encuentra en la toponimia de las islas dando nombre a lugares con variantes como balo, baliera, balillo.
 
 ![Barranco de balos](images/jard05barrancodebalos.jpg)
-_Balos en el Barranco de Balos, Gran Canaria, junto a la estación de grabados indígenas [Los letreros de Balos](https://guanchismos.ulpgc.es/item/11613)_
+&emsp;&emsp;_Balos en el Barranco de Balos, Gran Canaria_
+&emsp;&emsp;_Balos junto a la estación de grabados indígenas [Los letreros de Balos](https://guanchismos.ulpgc.es/item/11613)_
 
 _Plocama_ podría proceder del griego _plochamos_, que significa cestería, aludiendo a sus ramillas intrincadas. _Pendula_ del latín _pendulus_, colgante, en referencia a sus ramas, que tienen un aspecto similar al del sauce llorón.
 
@@ -265,7 +269,7 @@ Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascende
 Esta planta es el bioindicador por excelencia del bosque termófilo en Fuerteventura convirtiéndose en la vegetación de sustitución cuando éste desaparece, en las cumbres de Jandía marca perfectamente el nivel hasta donde tiene influencia el mar de nubes y en el macizo de Betancuria cubre los picos que se ven envueltos en verano por las nieblas. Por debajo de 400 msnm. es raro. En la actualidad la especie está amenazada por la presencia de herbívoros que si bien no  comen sus tallos si lo hacen con sus flores impidiendo así la regeneración, también el tránsito de estos rebaños rompe las ramas y desestabiliza el sustrato.
 
 ![Jorao en Fuerteventura](images/jard05joraoftv.jpg)
-_Jorao en su medio natural en Fuerteventura. Foto: GH.Zell. CC-By_
+&emsp;&emsp;_Jorao en su medio natural en Fuerteventura. Foto: GH.Zell. CC-By_
 
 ***
 
@@ -306,7 +310,7 @@ Del griego _periploke_, abrazo, por cómo se enredan en sí mismo y también en 
 ![Duranta](images/spectduranta.jpg)
 
 ### Duranta
-_Duranta erecta _
+_Duranta erecta_
 
 Es un arbusto distribuido desde México a América del Sur y las Antillas. Se usa como planta ornamental en jardines tropicales y subtropicales de todo el mundo, y se ha naturalizado en muchos lugares. En México, los originarios de habla náhuatl la nombraban _xcambocoché_. En nuestro entorno no tiene nombres comunes conocidos, pero los ingleses, en una demostración de su interés en identificar las plantas, y también de su cursilería, le dan varios nombres comunes, como: _golden dewdrop_, _pigeon berry_, o _skyflower_ (gota de rocío dorada, baya de paloma o flor de cielo).
 Tiene flores muy vistosas color violeta y frutos amarillos lo convierten en un elemento destacado en los jardines. Las flores atraen a las mariposas.
