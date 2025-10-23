@@ -51,17 +51,13 @@ Tenerife es la isla con un mayor número de poblaciones naturales que se encuent
 Primos del drago son los Troncos de Brasil, esa planta inmortal que siempre  has visto en la oficina donde vas a sacar un certificado. También son de la familia los preciosos árboles-drago de la isla de Socotra, en el este de África (y que quizá desaparezcan debido al calentamiento global).
 
 ![Raised by wolves](images/jard04socotra.jpg)
-&emsp;&emsp;_Raised by wolves, 2020.los dragos de Socotra como paisaje de ciencia-ficción_
+&emsp;&emsp;_Raised by wolves, 2020. Los dragos de Socotra como paisaje de ciencia-ficción_
 
 El drago ha despertado mucho interés en científicos y viajeros a lo largo de la historia de Canarias, no sólo por ser especie emblemática de la Macaronesia y Canarias, sino por sus peculiaridades, como su longevidad o las propiedades curativas de su savia, alcanzando un estatus casi mítico.
 El estudio [La ilustración científica de la Dracaena draco de Canarias (1576-1970)])(https://www.ull.es/revistas/index.php/artes/article/download/6593/4479/) recopila una historia gráfica de este interés.
 
 ![Drago ilustraciones](images/jard04ilustracionesdrago.jpg)
-&emsp;&emsp;_El Bosco, El jardín de las delicias, 1500-1505.
-
-&emsp;&emsp;Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries.
-
-&emsp;&emsp;Marianne North, Drago San Juan de la Rambla, 1875._
+&emsp;&emsp;_El Bosco, El jardín de las delicias, 1500-1505. | Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries. | Marianne North, Drago San Juan de la Rambla, 1875._
 
 Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dragón. En la Edad Media su savia de color rojizo se asociaba a la mítica sangre de dragón, de propiedades mágicas.
 
