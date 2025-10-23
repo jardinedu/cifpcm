@@ -1432,17 +1432,35 @@ _Plumerias recién plantadas, octubre 2024_
 
 ![Barra verde](images/jard01barraverde.jpg)
 
-
 # 6. Parque norte
 
-En proyecto
+En esta zona tengo el proyecto de crear un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra, rescatando frutales que se encuentran en mal estado y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio.
+
 
 
 ![Barra verde](images/jard01barraverde.jpg)
 
 # 7. Parque sur - proyecto de renaturalización
 
-En proyecto
+![Proyecto renatura](images/jard20proyectorenaturalizacionAyB.jpg)
+_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
+
+Inspirado en el [bosque urbano](https://parissecret.com/es/bosque-urbano-frente-al-ayuntamiento/) plantado en la Plaza del Ayuntamiento de París (entre otras iniciativas para reverdecer la ciudad), surgió la idea de un proyecto en esa línea en la zona de patios en el lado sur del CIFP, una zona sin uso alguno y totalmente pavimentada. 
+
+![Paris](images/jard20bosqueparis.jpg)
+
+Hay mucho que leer sobre las ciudades verdes europeas, se puede empezar por el libro que encontramos en la web del **Ministerio para la transición ecológica y el reto demográfico** editado por la Diputació de Barcelona [Renaturalización de la ciudad](https://www.miteco.gob.es/es/ceneam/recursos/pag-web/renaturalizacion-ciudad.html).
+Luego, un libro nos lleva a otro libro.
+
+> Un concepto que profundiza y amplía la Nueva Agenda Urbana de Habitat III aprobada en 2016, donde se incluye además que las zonas verdes y los espacios públicos «son áreas multifuncionales para la interacción social, la salud humana y el bienestar». Actualmente en la Unión Europea se están dedicando muchos esfuerzos a desarrollar las infraestructuras verdes del territorio y avanzar en el desarrollo e implementación de Soluciones Basadas en la Naturaleza (SbN), que la Comisión Europea define como «acciones inspiradas, basadas o copiadas de la naturaleza, que utilizan o mejoran soluciones existentes para afrontar diversos retos ambientales, sociales y económicos, de manera sostenible y eficiente» (_del Prólogo de este libro_).
+
+Esta idea también se inspira en el proyecto de jardín del Campus Central de la ULL, donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
+
+![Campus central Sauceda de 2017 a 2022](images/jard20campuscentral20172022.jpg)
+_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
+
+***
+url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/inicio) 
 
 
 ***
