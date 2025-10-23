@@ -58,7 +58,9 @@ El estudio [La ilustración científica de la Dracaena draco de Canarias (1576-1
 
 ![Drago ilustraciones](images/jard04ilustracionesdrago.jpg)
 &emsp;&emsp;_El Bosco, El jardín de las delicias, 1500-1505.
+
 &emsp;&emsp;Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries.
+
 &emsp;&emsp;Marianne North, Drago San Juan de la Rambla, 1875._
 
 Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dragón. En la Edad Media su savia de color rojizo se asociaba a la mítica sangre de dragón, de propiedades mágicas.
@@ -100,6 +102,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC11082519/)
 
 ![mapaeuforbias](images/jard04mapaeuforbias.jpg)
 &emsp;&emsp;_E. balsamifera_ (círculos), _E. adenensis_ (rombos) y _E. sepium (triángulos)_ en África_ 
+
 &emsp;&emsp;_Poblaciones de _E. balsamifera_ estudiadas en las Islas Canarias._
 
 
@@ -222,6 +225,7 @@ La palabra _balo_ se considera prehispánica, se recoge en el [Diccionario hist�
 
 ![Barranco de balos](images/jard05barrancodebalos.jpg)
 &emsp;&emsp;_Balos en el Barranco de Balos, Gran Canaria_
+
 &emsp;&emsp;_Balos junto a la estación de grabados indígenas [Los letreros de Balos](https://guanchismos.ulpgc.es/item/11613)_
 
 _Plocama_ podría proceder del griego _plochamos_, que significa cestería, aludiendo a sus ramillas intrincadas. _Pendula_ del latín _pendulus_, colgante, en referencia a sus ramas, que tienen un aspecto similar al del sauce llorón.
