@@ -1459,12 +1459,8 @@ Esta idea también se inspira en el proyecto de jardín del Campus Central de la
 ![Campus central Sauceda de 2017 a 2022](images/jard20campuscentral20172022.jpg)
 _Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
 
-***
-url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/inicio) 
-
 
 ***
 url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/inicio) 
-
 
 ***
