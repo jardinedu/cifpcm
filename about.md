@@ -13,7 +13,7 @@ Desde la década de 1980 trabaja en la crecaión artística con el seudónimo **
 
 Sus proyectos personales han abordado la música electrónica y el mail-art en la década de 1980, participando en los circuitos internacionales y recuperándose en los últimos años a través de vinilos y ediciones especiales como el catálogo de la exposición _Escuchar con los ojos. Arte sonoro en España (1961-2016)_ o la recopilación en vinilo _La ola interior. Spanish Ambient & Acid Exotism (1983-1990)_. En 2025 participa en el Festival Télex con _Prácticas sonoras de consolación_
 
-![Set para Télex](images/settelex025.jpg)
+![Set para Télex](images/settelex2025.jpg)
 
 En cuanto a lo fotográfico, desde 1985, hace uso de las cámaras pobres, tanto analógicas como digitales, con proyectos como _Mi Viaje con Ledrú_ (1991), _Perro_ (1990), _Al Sur_ (2006), _La Guía Atgette de Santa Cruz de Tenerife (2011- )_, _#turismo#islascanarias#instagram_ (2022), _Opuntia Piscinas_ (2024), con exposiciones en Madrid, Barcelona, La Coruña, Arlés, Braga, Tenerife y Gran Canaria. 
 
