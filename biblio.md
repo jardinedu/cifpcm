@@ -28,7 +28,7 @@ Planta Sapiens. Paco Calvo, Natalie Lawrence. Seix Barral. 2023
 ![La mente bien ajardinada](images/blamentebienajardinada1000px.jpg)
 La mente bien ajardinada. Sue Stuart-Smith. Debate. 2021
 
-![Color schemes for the flower garden](/¡images/bcolorschemes1000px.jpg)
+![Color schemes for the flower garden](images/bcolorschemes1000px.jpg)
 Color schemes for the flower garden. Gertrude Jekyll. Country Life. 1919.
 
 
@@ -93,7 +93,7 @@ Por otra parte, este jardín ha sido y continúa siendo base de numerosos proyec
 
 En el Campus de Humanidades de Guajara se ha reacondicionado una ladera, al suroeste del recinto, aplicando los mismos criterios de renaturalización que en Campus Central.
 
-![Ladera en el Campus de Guajara](images/01jardintalleres2022.jpg)
+![Ladera en el Campus de Guajara](images/0906laderaguajara.jpg)
 
 ***
 ## Jardín Canario Viera y Clavijo
