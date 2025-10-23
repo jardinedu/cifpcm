@@ -97,9 +97,7 @@ Esta investigación, que nos muestra qué direcciones pueden seguir las investig
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11082519/)
 
 ![mapaeuforbias](images/jard04mapaeuforbias.jpg)
-&emsp;&emsp;_E. balsamifera_ (círculos), _E. adenensis_ (rombos) y _E. sepium (triángulos)_ en África_ 
-
-&emsp;&emsp;_Poblaciones de _E. balsamifera_ estudiadas en las Islas Canarias._
+&emsp;&emsp;_E. balsamifera_ (círculos), _E. adenensis_ (rombos) y _E. sepium (triángulos)_ en África_  | _Poblaciones de _E. balsamifera_ estudiadas en las Islas Canarias._
 
 
 ***
@@ -220,9 +218,7 @@ Las ramas del balo se han usado en el campo para cubrir las papas y así evitar 
 La palabra _balo_ se considera prehispánica, se recoge en el [Diccionario histórico del español de Canarias](https://www.rae.es/tdhle/balo) con usos escritos desde el siglo XVI, y se encuentra en la toponimia de las islas dando nombre a lugares con variantes como balo, baliera, balillo.
 
 ![Barranco de balos](images/jard05barrancodebalos.jpg)
-&emsp;&emsp;_Balos en el Barranco de Balos, Gran Canaria_
-
-&emsp;&emsp;_Balos junto a la estación de grabados indígenas [Los letreros de Balos](https://guanchismos.ulpgc.es/item/11613)_
+&emsp;&emsp;_Balos en el Barranco de Balos, Gran Canaria_ | _Balos junto a la estación de grabados indígenas [Los letreros de Balos](https://guanchismos.ulpgc.es/item/11613)_
 
 _Plocama_ podría proceder del griego _plochamos_, que significa cestería, aludiendo a sus ramillas intrincadas. _Pendula_ del latín _pendulus_, colgante, en referencia a sus ramas, que tienen un aspecto similar al del sauce llorón.
 
@@ -346,7 +342,7 @@ También llamado ágave atenuado, ágave del dragón o cuello de cisne, es una e
 Es una planta monocárpica, es decir, que florece una sola vez en su vida y luego muere (muere esa planta pero siguen creciendo todos los brotes a su alrededor). La floración es espectacular, con flores amarillas verdosas agrupadas en una densa inflorescencia, que alcanza los 3 m de altura, en principio vertical, pero que después cuelga, de forma muy característica.
 
 ![Agave en flor](images/jard08agavesenflor.jpg)
-_Ágave florecido, oeste de Tenerife_
+&emsp;&emsp;_Ágave florecido, oeste de Tenerife_
 
 ***
 
@@ -358,7 +354,7 @@ _Agave americana_ - 💀 Exótica invasora
 El ágave amarillo, pita o pitera (_henequén_ en Fuerteventura, a algunas variedades de pitera) es una planta originaria de México y el sur de Estados Unidos distribuida mundialmente. Cristóbal Colón describió en una ocasión que él había visto en el Caribe una planta que confundió con el aloe. Otros viajeros europeos la encontraron en zonas semidesérticas de Las Américas (razón de su nombre). En 1583 un aloe americano floreció por primera vez en Europa en el Jardín botánico de Pisa. Esta planta formó parte de las ilustraciones de la _Phytanthoza Iconografia_, un bonito libro de Johann W. Weinmann, primer ilustrador botánico.
 
 ![Agave Phytantoza](images/jard06agavephytantoza.jpg)
-_Agave americana según Weinmann_
+&emsp;&emsp;_Agave americana según Weinmann_
 
 _Phytanthoza Iconografia_ se puede descargar, junto con muchos otros materiales, de la [Biblioteca Digital del Real Jardín Botánico](https://bibdigital.rjb.csic.es/), un repositorio fabuloso.
 
@@ -369,7 +365,7 @@ Seguramente su uso más conocido es la producción de un licor destilado llamado
 Desde los primeras años del siglo XX surgieron iniciativas proponiendo el cultivo de piteras en Fuerteventura para la fabricación de cuerdas, comparándose a la isla con Yucatán y sus condiciones climáticas, y realizándose algunos cultivos experimentales en Lanzarote. Entre los años 30 y 40 del siglo XX, en la zona central y norte de Fuerteventura, ya se cultivaba el henequén para producir fibras textiles, como sustituto del esparto, y para hacer cabos de barco, sacos, sogas y tejidos. En la década de 1950 el Ministerio de Agricultura compró parcelas en Fuerteventura, Lanzarote y Lobos para pruebas del rendimiento económico del cultivo. Se usó  _Agave sisalana_, _Agave fourcroydes_ y _Agave americana_. En Villaverde se estableció una _Fábrica de fibras duras_, dedicada al tratamiento y comercialización de las hojas de henequén dependiente del Servicio de fibras duras del Ministerio. Tuvo importancia económica desde la década de 1950 hasta mediados de la década de 1980, una industria única en el archipiélago. La planta, una vez cortada y limpia, se exportaba a mercados peninsulares, especialmente a Málaga, donde se usaba para la confección de cordelería. Las fibras artificiales terminaron con esta industria, y los cultivos se abandonaron,´aún se pueden ver los restos en los alrededores de La Oliva. 
 
 ![Agaves Fuerteventura](images/jard06agavesfuerteventura.jpg)
-_Restos de cultivos de piteras cerca de La Oliva, Fuerteventura, 2020_
+&emsp;&emsp;_Restos de cultivos de piteras cerca de La Oliva, Fuerteventura, 2020_
 
 
 💀 Debido a su potencial colonizador y constituir una amenaza grave para las especies autóctonas, los hábitat o los ecosistemas, esta especie ha sido incluida en el [Catálogo Español de Especies Exóticas Invasoras](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-exoticas-invasoras/ce-eei-catalogo.html). Este ejemplar ya se encontraba en el jardín y está controlado pero si desaparece lo hay que plantearse una alternativa.
@@ -418,7 +414,7 @@ Aunque los ejemplares de este jardín son de flor blanca, algunos de los colores
 Hacia 1900, Carl Correns utilizó _Mirabilis_ como organismo modelo para sus estudios sobre la herencia citoplasmática. Usó las hojas variegadas de la planta para demostrar que ciertos factores externos al núcleo afectaban al fenotipo de una manera que no explicaban las teorías de Mendel. Correns propuso que el color de las hojas en _Mirabilis_ se transmitía a través de un modo de herencia uniparental: Cuando se cruzan plantas con flores de color rosa oscuro con plantas de flores blancas, se producen descendientes con flores de color rosa claro. Esto se considera una excepción a la Ley de dominancia de Mendel porque, en este caso, los genes de color rosa oscuro y blanco parecen tener la misma fuerza, por lo que ninguno domina completamente al otro. El fenómeno se conoce como dominancia incompleta. Es, pues, una planta que tuvo un papel importante en la historia de la genética.
 
 ![Colores Mirabilis](images/jard07coloresmirabilis.jpg)
-_Esquema de la transmisión de colores en Mirabilis_
+&emsp;&emsp;_Esquema de la transmisión de colores en Mirabilis_
 
 ***
 
@@ -432,21 +428,21 @@ En Canarias fue la principal industria durante medio siglo. El cultivo de la coc
 
 
 ![Malveina](images/jard07malveina.jpg)
-_WH Perkin. Frasco con malveína. Chal, teñido con el tinte malva de Perkin, exhibido en la Exposición Internacional de 1862. Traje de época teñido con malveína (las tres cosas, en el [Museo de la Ciencia de Londres](https://blog.sciencemuseum.org.uk/mauve-mania/))_
+&emsp;&emsp;_WH Perkin. | Frasco con malveína. | Chal, teñido con el tinte malva de Perkin, exhibido en la Exposición Internacional de 1862. | Traje de época teñido con malveína (las tres cosas, en el [Museo de la Ciencia de Londres](https://blog.sciencemuseum.org.uk/mauve-mania/))_
 
 Más recientemente ha habido un resurgir para la fabricación de cosméticos con pigmentos naturales, además de que siempre se ha mantenido a su cultivo para producir higos picos o tunos. 
 
 La abundancia de esta planta en las Islas Canarias durante siglos la convirtió casi en una seña de identidad paisajística desde mediados del siglo XIX.
 
 ![Mural Nestor](images/jard07nestor.jpg)
-_Alegoría del mar. Néstor Martín Fernández de la Torre, 1935. Mural en el Casino de Tenerife. Las especies vegetales que pinta aquí Néstor son: Monstera deliciosa, Euphorbia canariensis y Opuntia ficus-indica_.
+&emsp;&emsp;_Alegoría del mar. Néstor Martín Fernández de la Torre, 1935. Mural en el Casino de Tenerife. Las especies vegetales que pinta aquí Néstor son: Monstera deliciosa, Euphorbia canariensis y Opuntia ficus-indica_.
 
 **LA PLAGA** 💀 
 En los últimos años ha llegado a Canarias otro parásito, esta vez mortal, la cochinilla mexicana (_Dactilopyus opuntaie_), que pudre por completo la planta. Está empezando a afectar a los ejemplares de este jardín, y probablemente los matará a todos en uno o dos años. No se conocen tratamientos efectivos contra esta plaga. Se ha probado un tratamiento con extracto de neem (un remedio natural) pero no ha sido efectivo.
 Es un síntoma más de cambios climáticos globales debido a causas humanas, y un aviso de los peligros de las especies invasoras, sobre todo en ecosistemas insulares.
 
 ![Plaga de las pencas](images/jard07pencasafectadas.jpg)
-_Plantas afectadas, en 2023._
+&emsp;&emsp;_Plantas afectadas, en 2023._
 
 ***
 
@@ -513,32 +509,32 @@ He plantado una higuera planeando orientar su crecimiento mediante podas para qu
 # 2. Jardines del Patio central
 
 ![Nov 2024](images/jard10noviembre2024.jpg)
-_Noviembre 2024_
+&emsp;&emsp;_Noviembre 2024_
 
 Estos dos largos parterres, de unos 17 metros cada uno, estaban ocupados por cuatro árboles, ejemplares de flamboyán de más de 20 años de edad. Daban mucha sombra en verano y una floración espectacular hacia el mes de junio. Es una especie muy utilizada en Santa Cruz de Tenerife, y en general abundante en Canarias. En francés _flamboyant_ significa llamativo, vistoso.
 
 Su nombre científico es _Delonix regia_, originaria de Madagascar, donde está en peligro de extinción, mientras que es muy abundante en todo el mundo, especialmente en climas subtropicales.
 
 ![Rambla de las tinajas](images/jard10ramblatinajas.jpg)
-_Rambla de Santa Cruz, bordeada por ejemplares de flamboyán_
+&emsp;&emsp;_Rambla de Santa Cruz, bordeada por ejemplares de flamboyán_
 
 Por desgracia las raíces de esta especie son agresivas. Poco a poco fueron levantando el pavimento del patio, y en su búsqueda de agua, además de levantar el pavimento de la plaza central, llegaron subterráneamente hasta los baños del Pabellón 1, donde rompieron conducciones de agua y causaron varios problemas. Por esta razón se talaron en verano de 2022.
 
 ![Flamboyanes patio](images/jard10flamboyanespatio.jpg)
-_Línea de flamboyanes, 2016 (y su diferencia de altura y volumen según nos alejamos de la orientación sur). Tala en julio 2022._
+&emsp;&emsp;_Línea de flamboyanes, 2016 (y su diferencia de altura y volumen según nos alejamos de la orientación sur). | Tala en julio 2022._
 
 En 2022 la Vicedirectora Laura me planteó la remodelación de estos dos jardines. Asesorado por un amigo jardinero, propusimos una línea principal de _plumeria_ (también conocido como frangipán), por varias razones: la poca agresividad de sus raíces, su porte mediano, resistencia a la escasez de riegos, la vistosidad de sus flores e incluso su perfume. Además de estos arbolitos, pensé en una organización inicial de plantas que los acompañaran, aunque la jardinería no es una ciencia exacta, y el propio jardín ha ido sugiriendo su forma.
 
 ![Proyecto inicial](images/jard10proyectoinicial.jpg)
-_Proyecto original de remodelación, muy simple, 2022_
+&emsp;&emsp;_Proyecto original de remodelación, muy simple, 2022_
 
 ![Proyecto 2025](images/jard10proyecto2025.jpg)
-_El proyecto, modificado y enriquecindo por la propia dinámica del lugar, tres años después_
+&emsp;&emsp;_El proyecto, modificado y enriquecindo por la propia dinámica del lugar, tres años después_
 
 El parterre norte tiene menos insolación que el parterre sur. Conseguir una combinación de plantas adaptadas a cada lugar, con floración vistosa y unos mínimos de sostenibilidad ha sido proceso lento, de prueba y error.
 
 ![Variedades de frangipan primeras flores](images/jard10frangipanprimerasflores.jpg)
-_Variedades de frangipán con sus primeras flores en el jardín, 2023._
+&emsp;&emsp;_Variedades de frangipán con sus primeras flores en el jardín, 2023._
 
 ## Los frangipanes o plumerias
 Se hizo un esfuerzo por conseguir ejemplares de _plumeria_ con flores de colores diversos; las clásicas blancas de centro amarillo y también rosa, fucsia y naranja. Tardarán unos años en crecer pero le darán mucha personalidad al patio. En el futuro los frangipanes serán la especie visiblemente dominante pero también se está ajardinando con otras plantas. 
@@ -551,7 +547,7 @@ Su nombre científico es _Plumeria_, y hay mucha historia detrás: _Plumeria_ fu
 En el siglo XVII el botánico Ignacio de Mercado Morales escribe que el _Frangipani_ (aunque bajo el nombre _Calachuche_, una variante de la lenga náhuatl _kalachuchl_) provenía de “la Neuva Espalia” o “la Nueva España” (actual México). Esta hipótesis está respaldada por la propia familiaridad de Morales con la flora de la región, y fue reforzada por botánicos como el jesuita Georg Josef Camel SJ, quien nombra a la planta _Cacaloxochitl mexicana_ en sus _Descriptiones Fruticum et Arborum Luzonis_ (1704). Además, basándose en la filología, el botánico E. D. Merrill examinó los nombres utilizados para las especies de _Plumeria_ en todo el mundo y concluyó que muchos de ellos eran, en muchos casos, derivados de variantes mexicanas.
 
 ![frangipan2024](images/jard10frangipan2024.jpg)
-_Ejemplar plantado a comienzos de 2024_
+&emsp;&emsp;_Ejemplar plantado a comienzos de 2024_
 
 El nombre común inglés _Frangipani_ también tiene un sabor misterioso, aunque es producido artificialmente por el comercio y la publicidad. Se cree que proviene de la palabra francesa _frangipanier_. Los botánicos franceses relacionaron su aroma con el _frangipane_, un popular perfume de almendras para guantes fabricado por el noble marqués Muzio de Frangipani en el siglo XVII. 
 
@@ -560,14 +556,14 @@ Fascinante también esta otra historia: En el siglo XIX, un grupo de perfumistas
 La relación entre las flores y el orientalismo se extiende también a las fragancias. Los escritores franceses del siglo XIX identificaban a la mujer _oriental_ estereotipada por su aroma sensual, y las flores se asociaban con la feminidad. Este legado ha llegado hasta el siglo XXI, cuando las supuestas imágenes orientales en los anuncios de perfumes transmiten una sensación de erotismo, misterio y sumisión. 
 
 ![Frangipan flor junio 2025](images/jard10frangipanflorjunio2025.jpg)
-_Floraciones en junio 2025_
+&emsp;&emsp;_Floraciones en junio 2025_
 
 En perfumería moderna, del aceite de sus flores se extrae uno de los aromas básicos, y se puede encontrar en perfumes tan conocidos como _Coco Chanel, Versace Women, Jo Malone Frangipani Flower Cologne, Michael Kors Sparkling Blush_ o _Chanel Beige Eau de Parfum_.
 
 Además de _Plumeria rubra_ de diferentes colores, hay un ejemplar de _Plumeria pudica_: es la variedad  “ramo de novia”, de flor totalmente blanca y diferente forma de la hoja, originaria de Panamá, Colombia y Venezuela.
 
 ![Plumeria pudica](images/jard10plumeriapudica.jpg)
-_Plumeria “ramo de novia”_
+&emsp;&emsp;_Plumeria “ramo de novia”_
 
 
 
@@ -617,7 +613,7 @@ Es un arbusto de crecimiento rápido, revuelto, de tallos múltiples que puede c
 Se cultiva en muchos países alrededor del mundo donde se ha naturalizado. Incluso en partes de Australia está catalogada como invasora.
 
 ![tecomarias dos colores](images/jard11tecomariasdoscolores.jpg)
-_Los dos colores de las tecomarias del jardín_
+&emsp;&emsp;_Los dos colores de las tecomarias del jardín_
 
 ***
 
@@ -667,7 +663,7 @@ Aunque los ejemplares de este jardín son de flor blanca, algunos de los colores
 Hacia 1900, Carl Correns utilizó _Mirabilis_ como organismo modelo para sus estudios sobre la herencia citoplasmática. Usó las hojas variegadas de la planta para demostrar que ciertos factores externos al núcleo afectaban al fenotipo de una manera que no explicaban las teorías de Mendel. Correns propuso que el color de las hojas en _Mirabilis_ se transmitía a través de un modo de herencia uniparental: Cuando se cruzan plantas con flores de color rosa oscuro con plantas de flores blancas, se producen descendientes con flores de color rosa claro. Esto se considera una excepción a la Ley de dominancia de Mendel porque, en este caso, los genes de color rosa oscuro y blanco parecen tener la misma fuerza, por lo que ninguno domina completamente al otro. El fenómeno se conoce como dominancia incompleta. Es, pues, una planta que tuvo un papel importante en la historia de la genética.
 
 ![Colores Mirabilis](images/jard07coloresmirabilis.jpg)
-_Esquema de la transmisión de colores en Mirabilis_
+&emsp;&emsp;_Esquema de la transmisión de colores en Mirabilis_
 
 ***
 
@@ -695,7 +691,7 @@ La historia de botánicos como Ecklon nos da idea del gigantesco esfuerzo humano
 
 
 ![Ecklon](images/jard11ecklon.jpg)
-_Christian Ecklon_
+&emsp;&emsp;_Christian Ecklon_
 
 ***
 
@@ -767,7 +763,7 @@ Una última fantasía cinematográfica: en la película _La flor del mal (White 
 
 
 ![michelle](images/jard11michelle.jpg)
-_Michelle Pfeiffer recogiendo ramas de adelfa (La flor del mal, 2002). (En el cine no te lo creas todo, y con las plantas suele haber más agujeros de guion y fallos de raccord: ¿recuerdas aquella escena de Gladiator donde Máximo recordaba los jazmines de su villa en Hispania? Estas plantas llegaron a la Península Ibérica con los árabes, que las extendieron desde Oriente Medio, varios siglos después de que Hispania dejara de ser romana)_
+&emsp;&emsp;_Michelle Pfeiffer recogiendo ramas de adelfa (La flor del mal, 2002). (En el cine no te lo creas todo, y con las plantas suele haber más agujeros de guion y fallos de raccord: ¿recuerdas aquella escena de Gladiator donde Máximo recordaba los jazmines de su villa en Hispania? Estas plantas llegaron a la Península Ibérica con los árabes, que las extendieron desde Oriente Medio, varios siglos después de que Hispania dejara de ser romana)_
 
 ***
 
@@ -779,12 +775,12 @@ _Asclepias curassavica_
 Esta planta, con muchos nombres populares como: algodoncillo, venenillo, bandera española, mata ganado, etc. es una especie perenne del género _Asclepias_, en la familia _Apocynaceae_. Es nativa de la América tropical, y naturalizada en muchas otras partes del mundo. Se cultiva como planta ornamental de jardín y como fuente de alimento para las mariposas, en los jardines de mariposas. En este jardín estoy intentando aclimatarla por ese motivo: para que lo visiten las mariposas. 
 
 ![lepidopterus Georgia](images/jard11lepidopterosgeorgia.jpg)
-_Asclepias con su mariposa. Grabado coloreado a mano por John Abbot. [The natural history of the rarer lepidopterous insects of Georgia, volume 1 (1797)](https://www.biodiversitylibrary.org/item/5968#page/50/mode/2up)_
+&emsp;&emsp;_Asclepias con su mariposa. Grabado coloreado a mano por John Abbot. [The natural history of the rarer lepidopterous insects of Georgia, volume 1 (1797)](https://www.biodiversitylibrary.org/item/5968#page/50/mode/2up)_
 
 _Asclepias_ por Asklepios, dios de la Medicina en la mitología griega. _curassavica_ por la isla de Curaçao, en el Caribe.
 
 ![orugas monarca](images/jard11orugasmonarca.jpg)
-_Diciembre 2024. Apenas dos semanas después de plantar las Asclepias las mariposas ya localizaron  las plantas, pusieron sus huevos y nacieron orugas que empezaron a devorar  las hojas._
+&emsp;&emsp;_Diciembre 2024. Apenas dos semanas después de plantar las Asclepias las mariposas ya localizaron  las plantas, pusieron sus huevos y nacieron orugas que empezaron a devorar  las hojas._
 
 **La mariposa monarca**
 Esta planta atrae la mariposa monarca, Danaus plexippus, un espectacular insecto, de alas color naranja con líneas negras, fácilmente reconocible.
@@ -824,14 +820,14 @@ Tiene usos medicinales pero sobre todo, presencia en el arte. El motivo de la ho
 La revista Espores dedicó un artículo al [acanto en el arte](https://espores.org/es/es-plantas/el-acanto-en-el-arte/)
 
 ![Hoja de acanto](images/jard11mitoacanto.jpg)
-_El mito de la creación del orden corintio, según un dibujo de la traducción francesa de Vitruvio por Claude Perrault en 1689. Columnas corintias con capiteles de hoja de acanto en el Panteón de Roma. Foto: Carole Raddato CC-By-Sa _
+&emsp;&emsp;_El mito de la creación del orden corintio, según un dibujo de la traducción francesa de Vitruvio por Claude Perrault en 1689. Columnas corintias con capiteles de hoja de acanto en el Panteón de Roma. Foto: Carole Raddato CC-By-Sa_
 
 
 ***
 ***
 
 ![Evolución parterre](images/jard11evolucionparterre.jpg)
-_Evolución de uno de los parterres en unos 15 meses_
+&emsp;&emsp;_Evolución de uno de los parterres en unos 15 meses_
 
 
 ***
@@ -935,7 +931,7 @@ Margarita nativa de las Islas Canarias que llegó a este jardín por sí misma, 
 Su nombre _Argyranthemum_ procede del griego _argyros_, "plateado" y _anthemom_ "planta de flor", aludiendo a sus flores radiantes pálidas. _Frutescens_ del latín frutescere, que significa "echar o producir vástagos o renuevos" como referencia a su ramificación exuberante.
 
 ![Magarzas marzo 2025](images/jard11magarzasmarzo2025.jpg)
-_Grupo de magarzas nacidas espontáneamente, marzo 2025_
+&emsp;&emsp;_Grupo de magarzas nacidas espontáneamente, marzo 2025_
 
 ***
 
@@ -1006,13 +1002,12 @@ Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascende
 
 Desde mi experiencia es una planta nativa de Canarias muy interesante para jardines sostenibles, con tonalidades verde pastel en las hojas y flores de un intenso amarillo que duran mucho tiempo. Cada vez la veo más en viveros. El aspecto negativo: como explica el Dr. Arnoldo Santos, hay que tener precaución con la dispersión de endemismos en zonas fuera de su entorno natural.
 
-**^*
+***
 
 ![Bencomia](images/specpbencomia.jpg) 
 
 ### Bencomia
 💀 _Bencomia caudata_
-_Bencomia en noviembre 2024_
 
 Esta planta ya estaba en el jardín, plantada por varias profesoras que tuvieron una iniciativa de introducir flora canaria, vía el vivero del Cabildo. La bencomia prosperó y alcanzó 3-4 metros de altura. 
 
@@ -1119,7 +1114,6 @@ Se la ha cambiado de ubicación después de un año en que no se desarrollaba bi
 ***
 
 ![Selloum evolucion](images/specpsselloum.jpg)
-_P. selloum_
 
 ### Filodendro selloum y Filodendro xanadu
 _Thaumatophyllum bipinnatifidum_ y _Thaumatophyllum xanadu_
@@ -1131,6 +1125,7 @@ Hay dos especies muy similares usadas en jardinería: el _selloum_, de mayor des
 
 ![Xanadus](images/specpsxanadus.jpg)
 _P. xanadu_
+
 ***
 
 ![Filodendro rojo](images/specpsfilodendrorojo.jpg)
@@ -1174,10 +1169,10 @@ _Farfugium japonicum_ (sinónimo _Ligularia tussilaginea_) se conoce como _capa 
 ![El espectáculo diario de las capas de la reina en la Plaza Weyler](images/jard12capasdelareinaplazaweyler.jpg)
 _El espectáculo diario de las capas de la reina en la Plaza Weyler_
 
-Además de sus espectaculares hojas de forma redondeada tiene una floración interesante, con tallos largos y flores de amarillo intenso semejantes a las margaritas.
+Además de sus espectaculares hojas de forma redondeada tiene una floración interesante, con tallos largos y flores de amarillo intenso semejantes a las margaritas. Se han introducido también dos ejemplares de un cultivar de capa de la reina variegada.
 
 ![Capa de la reina variegada](images/specpsfarfugiumvariegata.jpg)
-_Se han introducido también dos ejemplares de un cultivar de capa de la reina variegada_
+_Capa de la reina variegada_
 
 ***
 
@@ -1242,7 +1237,7 @@ Aún hay algunos cultivos en los barrancos de Anaga y sobre todo en La Palma y L
 
 
 ![Cultivos de ñame en Anaga](images/jard12anaga.jpg)
-_cultivos de Ñamera en el Macizo de Anaga, Tenerife. Típica plaza en Canarias con ñameras en una fuente_
+&emsp;&emsp;_Cultivos de Ñamera en el Macizo de Anaga, Tenerife. Típica plaza en Canarias con ñameras en una fuente_
 
 ***
 
@@ -1274,7 +1269,7 @@ El nombre específico _leuconeura_ significa "de nervaduras blancas", en referen
 Linneo la nombró en homenaje al botánico italiano Bartolomeo Maranta (ca. 1500 - 1571) fue un médico, botánico, y teórico literario italiano. De 1554 a 1556, trabajó en el Jardín Botánico de Nápoles, que Gian Vincenzo Pinelli había fundado, y hacia 1568 había ayudado a desarrollar un incipiente jardín botánico en Roma.
 
 ![Maranta](images/jard12marantacultivares.jpg)
-_Cultivares de maranta_
+&emsp;&emsp;_Cultivares de maranta_
 
 ***
 
@@ -1342,7 +1337,7 @@ Tras florecer, las tres plantas desaparecieron en verano de 2025, siguiendo su c
 La _Canarina_ fue uno de los primeros endemismos canarios reconocido como tal por Linneo, descrito en su obra [Hortus Cliffortianus](https://bibdigital.rjb.csic.es/idurl/1/11198) en 1738.
 
 ![Canarinas silvestres](images/jard12canarinassilvestres.jpg)
-_Canarinas silvestres en el Monte del Agua. Los Silos, Tenerife._
+&emsp;&emsp;_Canarinas silvestres en el Monte del Agua. Los Silos, Tenerife._
 
 ***
 
@@ -1361,7 +1356,7 @@ Su nombre genérico deriva de la mitología griega, de Semele hija de Cadmo, fun
 La gibalbera era empleada tradicionalmente en las fiestas de muchos pueblos, tanto para adornar las entradas a las plazas y los balcones de las viviendas como las carrozas en las populares romerías, este uso se debe a que la gibalbera conservaba durante mucho tiempo las falsas hojas y los tallos con una coloración verde, como si estuviera recién cogida. 
 
 ![Gibalberas silvestres](images/jard12gibalberas.jpg)
-_Gibalberas en los bosques del Macizo de Anaga. Decoración tradicional con gibalberas en la Ermita de El Socorro, Güímar, en 2007 con motivo de la Bajada anual de la Virgen_
+&emsp;&emsp;_Gibalberas en los bosques del Macizo de Anaga. | Decoración tradicional con gibalberas en la Ermita de El Socorro, Güímar, en 2007 con motivo de la Bajada anual de la Virgen_
 
 ***
 
@@ -1390,7 +1385,6 @@ En el parterre corto había una serie de plantas dispares en malas condiciones: 
 Este parterre debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita bien olor.
 
 ![Parterre corto](images/jard13parterrecortoboceto.jpg)
-_Boceto del jardín_
 
 Se han trasladado las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades y se han unido los grupos de Tradescantia. 
 
@@ -1401,19 +1395,18 @@ Un grupo pequeño de _Anigozanthos_ de color rojizo-rosáceo que se están adapt
 Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada.
 
 ![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
-_Parterre recién plantado, agosto 2025_
+&emsp;&emsp;_Parterre recién plantado, agosto 2025_
 
 
 ## Parterre largo
 De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reorganizar una serie de hortensias que están en una línea dispersas, además de plantear un jardín basado en grupos de la misma planta, en general de porte bajo para mantener la visión en perspectiva (es un jardín más para mirar que para circular por él). Se intentará incluir especies de flora canaria junto a otras de bajo mantenimiento, Hay que retirar una crásulas que están en primer plano, sobrecrecidas, y que tapan la vista del resto del parterre
 
 ![Parterre largo](images/jard13parterrelargoestadoprevio.jpg)
-_Vista del parterre, agosto 2025_
+&emsp;&emsp;_Vista del parterre, agosto 2025_
 
 Este proyecto se intentará llevar a cabo a partir de septiembre-octubre 2025.
 
 ![Parterre largo](images/jard13parterrelargoboceto.jpg)
-_Boceto del jardín_
 
 
 
@@ -1426,12 +1419,11 @@ En octubre 2024 se empezaron a reacondicionar varios parterres alrededor de la C
 De momento se han plantado ejemplares de _Plumeria rubra_, recogidos de la tala de un antiguo ejemplar en la calle Heliodoro Rguez. Glez. de Santa Cruz.
 
 ![Jardin casita sonido](images/jard14casitasonidoboceto.jpg)
-_Boceto del jardín_
 
 En proyecto está controlar el excesivo crecimiento de las parchas, reorganizar los aloes y crasas, mantener magarzas que están brotando de forma natural, limpiar las belesas, plantar unos ejemplares de higuera, y poco a poco plantear un ajardinamiento.
 
 ![Plumerias sonido](images/jard14plumeriassonido.jpg)
-_Plumerias recién plantadas, octubre 2024_
+&emsp;&emsp;_Plumerias recién plantadas, octubre 2024_
 
 
 
@@ -1448,11 +1440,12 @@ En esta zona tengo el proyecto de crear un lugar donde el alumnado pueda estar, 
 # 7. Parque sur - proyecto de renaturalización
 
 ![Proyecto renatura](images/jard20proyectorenaturalizacionAyB.jpg)
-_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
+&emsp;&emsp;_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
 
 Inspirado en el [bosque urbano](https://parissecret.com/es/bosque-urbano-frente-al-ayuntamiento/) plantado en la Plaza del Ayuntamiento de París (entre otras iniciativas para reverdecer la ciudad), surgió la idea de un proyecto en esa línea en la zona de patios en el lado sur del CIFP, una zona sin uso alguno y totalmente pavimentada. 
 
 ![Paris](images/jard20bosqueparis.jpg)
+&emsp;&emsp;_Plaza del Ayuntamiento, París_
 
 Hay mucho que leer sobre las ciudades verdes europeas, se puede empezar por el libro que encontramos en la web del **Ministerio para la transición ecológica y el reto demográfico** editado por la Diputació de Barcelona [Renaturalización de la ciudad](https://www.miteco.gob.es/es/ceneam/recursos/pag-web/renaturalizacion-ciudad.html).
 Luego, un libro nos lleva a otro libro.
@@ -1462,7 +1455,7 @@ Luego, un libro nos lleva a otro libro.
 Esta idea también se inspira en el proyecto de jardín del Campus Central de la ULL, donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
 
 ![Campus central Sauceda de 2017 a 2022](images/jard20campuscentral20172022.jpg)
-_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
+&emsp;&emsp;_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
 
 
 ***
