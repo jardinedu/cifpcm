@@ -80,6 +80,9 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 Este es un jardín creado por el Servicio de Parques y Jardines de la Universidad de La Laguna. 
 Los inicios del jardín se remontan a las primeras plantaciones realizadas por estudiantes de Biología y residentes del Colegio Mayor Fernando. El espacio vivió diferentes etapas, que comenzaron con un diseño tradicional estilo versallesco y prosiguió con periodos de abandono. Sin embargo, en algo más de una década este espacio ha experimentado una profunda transformación hacia un modelo de jardinería sostenible y con identidad propia. En este sentido es interesante consultar el apartado [Metodología de trabajo](https://drive.google.com/file/d/1Ld8fxeftfDg1ZkDQrRLNJgEIEcQubHj6/view?usp=share_link).
 En este Parque Central se utiliza la vegetación natural de la isla de Tenerife en un modelo de jardinería diferente, con la menor antropización posible. Se trata de cerrar el ciclo natural de la vida dentro del espacio dando la misma importancia a todos los elementos, desde los más pequeños e invisibles que componen el suelo, hasta los más grandes y visibles, como los árboles. 
+
+![Vista del Campus Central](images/0904campuscentralvistas.jpg)
+
 Los distintos parterres del Parque no son restauraciones ecológicas sino exposiciones de plantas en parcelas realizadas por pisos de vegetación: Tabaibal Cardonal, Piso Termoesclerófilo Sabinar, Piso Termoesclerófilo Bosque Mixto, Piso Termoesclerófilo Sauceda Barranco, Piso Pinar, Piso Monte Verde, Piso Termoesclerófilo Transición a Monte Verde, Aprovechamiento de residuos orgánicos, Zona de Jardín Ornitófilo, Piso Matorral de Cumbre, Piso Termoesclerófilo Mixto, Zona de Experimentación, Piso Termoesclerófilo Mixto, Plantas singulares.
 
 ![206 y 2022](images/0904monteverdeull.jpg)
@@ -88,6 +91,9 @@ Los distintos parterres del Parque no son restauraciones ecológicas sino exposi
 Esta renovación ha sido fruto de la colaboración entre el Servicio de Parques y Jardines de la ULL y expertos en flora y fauna endémica de la Universidad de La Laguna, con el respaldo de los órganos de gestión universitarios. Prima la biodiversidad y los ecosistemas regionales con un enfoque multidisciplinar y sostenible y además cumple con una función didáctica y divulgativa:
 Este jardín también es una herramienta tanto para la docencia en los grados de Educación, Biología y Ciencias Ambientales, como para la investigación y transferencia a diferentes etapas educativas y a la sociedad. Así, el alumnado de Educación tiene en este jardín una representación de la flora canaria estructurada en los pisos de vegetación presentes en el archipiélago, permitiéndoles estudiar in situ la flora representativa de cada nivel, así como la formación y conservación de los diferentes ecosistemas. El alumnado de Ciencias Ambientales y Biología realiza supuestos prácticos con observación y recogida de datos y muestras para el desarrollo de trabajos en asignaturas generales de Botánica y Zoología. También se puede apreciar flora amenazada cuyas localidades naturales son escasas y de difícil acceso y que se encuentra en estos jardines.
 Por otra parte, este jardín ha sido y continúa siendo base de numerosos proyectos de innovación y transferencia educativa, así como proyectos regionales, nacionales e internaciones.
+
+![Patio interior](images/0904campuscentralvistaspatio.jpg)
+&emsp;&emsp;_Continuación del proyecto de renaturalización en el patio interior del edificio Central_  
 
 ### Ladera ajardinada en el Campus de Guajara.
 
@@ -150,6 +156,8 @@ Todavía me estremezco al recordar el extremo peligro que corrí durante esta ex
 En 1799, Humboldt llega al Jardín, se encuentra con Le Gros (que hace de guía para la subida al Teide) y cita diversas especies cultivadas en él. Este peregrinaje científico y “turístico” se continúa en la primera mitad del s. XX para culminar con la llegada, en 1943, de Sventenius, primer investigador que queda ligado de forma permanente al jardín y a la investigación botánica en las Islas durante 30 años. Sus labores estaban relacionadas con la investigación de la flora canaria y la formación de un excelente herbario, fruto de sus herborizaciones por todo el archipiélago canario, Madera, Salvajes y Cabo Verde, que cuenta con una colección de más de 30.000 ejemplares. Gracias a su interés se conserva una biblioteca, escasa en volúmenes, pero importante en contenido, especialmente en obras relacionadas con la botánica canaria, con un ejemplar de la Historia Natural de las Islas Canarias, que según don Bello y Espinosa perteneció al propio Berthelot.
 El Jardín posee un rico patrimonio vegetal, iniciado desde fines del siglo XVIII. Sin embargo, la carencia de registros históricos completos desde los inicios de su fundación, no nos permiten saber con exactitud la edad de los ejemplares más antiguos y su procedencia, pero son diversas las especies que superan los 150 años de antigüedad.
 Entre sus funciones está el mantenimiento y conservación de la Hijuela del Jardín Botánico ubicada en el centro de La Orotava, junto a la trasera del Ayuntamiento, pequeño y curioso espacio ajardinado con algo más de un siglo de existencia. 
+
+_(Texto basado en el [artículo de Arnoldo Santos](https://www.rinconesdelatlantico.com/num2/jardin_orotava.html) para la revista Rincones del Atlántico)_
 
 ### Hijuela del Botánico
 
