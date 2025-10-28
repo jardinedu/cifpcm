@@ -1432,7 +1432,7 @@ En proyecto está controlar el excesivo crecimiento de las parchas, reorganizar 
 
 Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmertas altas, un drago con mal desarrollo y varios frutales: nisperero, granado, limonero, naranjo, romero. Todo en un estado de abandono.
 
-![Parque norte medicion](images/jard20medicion parcelanorte.jpg)
+![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
 
 En esta zona tengo el proyecto de crear un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio. 
 
