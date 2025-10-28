@@ -1426,18 +1426,32 @@ En proyecto está controlar el excesivo crecimiento de las parchas, reorganizar 
 &emsp;&emsp;_Plumerias recién plantadas, octubre 2024_
 
 
-
 ![Barra verde](images/jard01barraverde.jpg)
 
 # 6. Parque norte
 
-En esta zona tengo el proyecto de crear un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra, rescatando frutales que se encuentran en mal estado y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio.
+Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmertas altas, un drago con mal desarrollo y varios frutales: nisperero, granado, limonero, naranjo, romero. Todo en un estado de abandono.
 
+![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
 
+En esta zona tengo el proyecto de crear un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio. 
+
+![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
+&emsp;&emsp;_Estado de la zona en octubre 2025_
 
 ![Barra verde](images/jard01barraverde.jpg)
 
 # 7. Parque sur - proyecto de renaturalización
+
+El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosaico, con escaleras, una fuente (seca, en desuso), algunos bancos, y muy escasa vegetación. 
+
+![Patios sur](images/jard20parquesurvistas1025.jpg)
+
+Es una superficie de aproximadamente 800m² cuyo único uso es como punto de concentración en casos de evacuación del Centro. Tampoco tiene uso para eventos.
+
+![Medición patios sur](images/jard20medicionparcelasur.jpg)
+
+Toda esta superficie pavimentada y sin sombra es una fuente de calor para los Talleres anexos y el Pabellón 2. mLa idea es muy simple: retirar todo el pavimento, acondicionar el acceso y circulación adaptada, tomas de agua y luz, etc. pero con suelo de tierra, sobre el cual plantar un bosque que convierta todo el espacio en zona de estar, con caminos, bancos, etc. Bajando además la temperatura de todos los edificios cercanos.
 
 ![Proyecto renatura](images/jard20proyectorenaturalizacionAyB.jpg)
 &emsp;&emsp;_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
