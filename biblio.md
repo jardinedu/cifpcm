@@ -66,6 +66,10 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 [Hortus Cliffortianus](https://bibdigital.rjb.csic.es/idurl/1/11198)
 
+[Ecología del gato cimarrón en el ecosistema termófilo de El Hierro (Islas Canarias) y su impacto sobre el lagarto gigante ( Gallotia simonyi) (1999)](https://accedacris.ulpgc.es/bitstream/10553/18184/1/0570396_00000_0000.pdf)
+
+[Gatos en islas. Un problema global de conservación. CISIC 2016](https://digital.csic.es/bitstream/10261/215154/1/Cat-Nogales-2016-ElinDiferente.pdf)
+
 
 ***
 ***
@@ -240,4 +244,5 @@ En término medio se ve la mansión de Sitio Litre con su característico mirado
 
 ***
 url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/about) 
+
 ***
