@@ -135,14 +135,14 @@ La taxonomía botánica clasifica y nombra a las plantas. Los nombres de las pla
 El  nombre común de _Dracaena draco_ es drago, y en este caso podríamos pensar que es un nombre inconfundible. Pero hay muchas plantas de nuestro Archipiélago que según la isla, zona de la isla o localidad se conocen con nombres distintos. Veamos un ejemplo extremo de una planta originaria de México y América del Sur y extendida por todo el mundo: la _Mirabilis jalapa_, que también está en estos jardines, tiene infinidad de nombres comunes en diversas partes del mundo, muchos de ellos en referencia a que abren sus flores y difunden su aroma al atardecer/anochecer:
 
 ![Mirabilis en Florida](images/02mirabilisflorida.jpg)
-_Mirabilis jalapa en Ghosh Grove, Rockledge, Florida. Foto: Thaumaturgist. CC:By,Sa.3.0_
+&emsp;&emsp;_Mirabilis jalapa en Ghosh Grove, Rockledge, Florida. Foto: Thaumaturgist. CC:By,Sa.3.0_
 
 > arrebolera, bella de noche, buenas noches, buenas tardes, dama de noche, diego, diego de noche, diegos de nit, dompedro, dompedros, don Diego de noche, don Pedro, don Pedros, don diego de noche, don diegos de noche, don juan de noche, don pedro, don pedro de llamas, don pedro desmayado, don pedro enamorado, don pedro pintado, don pedro remendado, don pedro salpicado, dondiego, dondiego de noche, donjuán de noche, falsa jalapa, flor de Panamá, galán de noche, hierba triste, jalapa, jalapa falsa, jazmines de Méjico, jazmines de México, juan de noche, maravilla, maravilla de Indias, maravilla de noche, maravilla del Perú, maravillas de Indias, maravillas de noche, noches, pedros, pepicos, pericones, pericos, pericón, periquitos, sampedros, san pedros, sanpedros, suspiros, trompetilla, zapatillos, marvel of Peru, four o'clock flower, marvel of the World, Pretty-by-night, Japanese Wonder Flower, Pearl of Egypt, linda tarde, maravilla amarilla, maravilla roja, tumba vaquero, tzojoyo, isha-var (tepehuano), atssuupojy (mixe), chuyem (tenek), etc. etc
 
 _dondiego de noche_ es quizá el nombre más común en España, pero por ejemplo en la lista anterior encontramos también _galán de noche_, que resulta especialmente confuso porque se usa también popularmente para otras especies, por ejemplo _Cestrum nocturnum_, una planta completamente diferente, que a su vez es conocida entre otros nombres como _dama de noche_, la misma denominación que también recibe otra planta _Epiphyllum hookeri_. La cantidad de nombres de plantas que se prestan a equívocos es inmensa, sobre todo en las especies más extendidas.
 
 ![Mirabilis distribución según Kew](images/02mirabilismapakew.jpg)
-_Distribución de Mirabilis jalapa, según Kew Gardens_
+&emsp;&emsp;_Distribución de Mirabilis jalapa, según Kew Gardens_
 
 Así pues, los nombres comunes pueden ser muy inexactos y no nos sirven para identificar ni por supuesto clasificar.
 
@@ -179,7 +179,7 @@ A pesar de su escasa superficie, alberga 17.631 especies terrestres y 7.888 mari
 Canarias tiene más de la mitad de endemismos de España: alrededor de 4.000 especies, de las cuales 3.000 son animales y 680 plantas. Un endemismo es una especie que solo encontramos (en todo nuestro planeta Tierra) en un determinado territorio. 
 
 ![Biodiversidad Malpais](images/02biodiversidadejemplomalpais.jpg)
-_Ejemplo de alta biodiversidad: El Malpaís de Güímar, protegido con la categoría Reserva Natural especial_
+&emsp;&emsp;_Ejemplo de alta biodiversidad: El Malpaís de Güímar, protegido con la categoría Reserva Natural Especial_
 
 En 2023 han sido descritos al menos 45 endemismos en el Archipiélago. No significa que se haya descubierto ese año, son el resultado de años o décadas de investigación hasta que la especie es definitivamente descrita y aceptada. La alta biodiversidad de las Islas también propicia que haya mayor investigación que en otras áreas.
 
@@ -188,15 +188,16 @@ El cambio climático, la introducción de especies exóticas invasoras (animales
 
 ### Dos ejemplos recientes para llorar: 
 
-- Una de las especies aceptadas en 2023, la [_Mourgona bethencourti_](https://www.molluscabase.org/aphia.php?p=taxdetails&id=1666829) es una babosa marina [encontrada en charcos de Gran Canaria y Tenerife[(https://infopuertos.com/hallan-nuevas-especies-de-babosas-marinas-en-pompones-de-algas-de-canarias-y-cabo-verde/). Únicamente se han encontrado dos ejemplares en San Miguel de Abona y en Punta de Pasito Blanco, donde fueron localizados en las piedras con algas.
+- Una de las especies aceptadas en 2023, la [_Mourgona bethencourti_](https://www.molluscabase.org/aphia.php?p=taxdetails&id=1666829) es una babosa marina [encontrada en charcos de Gran Canaria y Tenerife](https://infopuertos.com/hallan-nuevas-especies-de-babosas-marinas-en-pompones-de-algas-de-canarias-y-cabo-verde/). Únicamente se han encontrado **dos** ejemplares en San Miguel de Abona y en Punta de Pasito Blanco, donde fueron localizados en las piedras con algas.
 
 ![Babosa y lagarto](images/02babosaylagarto.jpg)
-_Mourgona bethencourti. Foto: Leopoldo Moro. | Gallotia galloti en La Palma. Foto: Uwe22 CC BY-SA 3.0_
+&emsp;&emsp;_Mourgona bethencourti. Foto: Leopoldo Moro. | Gallotia galloti en La Palma. Foto: Uwe22 CC BY-SA 3.0_
 
 - En los últimos años, la población de lagarto gigante de Tenerife _Gallotia intermedia_, se ha reducido de manera significativa por la proliferación de gatos asilvestrados. Una investigación de la ULL sobre la dieta de los felinos (gatos, no hay tros felinos en estas islas) ha descubierto que ahora se alimentan el triple de estos reptiles. Se estima que, si la situación no mejora, la especie se extinguirá en 10 o 15 años. (Con la indiferencia de La Ley de Bienestar Animal, de 2023, que especifica niveles de protección para los gatos asilvestrados). Se puede leer más sobre la amenaza que suponen los gatos a la fauna, especialmente en la islas, en el documento [Gatos en islas. Un problema global de conservación. CSIC 2016](https://digital.csic.es/bitstream/10261/215154/1/Cat-Nogales-2016-ElinDiferente.pdf).
 
 ![Impacto gatos islas](images/02graficoimpactogatosislascsic.jpg)
 
+***
 
 >Quien cuida un jardín vive sorprendido. Una sorpresa casi siempre feliz, que ahuyenta la nostalgia o los sentimientos negativos. (...) Nos adentramos en un registro que llamo el territorio mental de la esperanza.
 > <cite>― Gilles Clément
