@@ -36,7 +36,7 @@ Me llamo Jose, profesor del Centro. Siempre me ha gustado cuidar de las plantas,
 Hacia 2017 todos los parterres que rodean los edificios del Instituto estaban siendo colonizado por una especie invasora muy agresiva, el “rabo de gato” (_Pennisetum setaceum_, renombrado desde 2010 como _Cenchrus setaceus_), una de las especies más dañinas para la flora nativa de las Islas Canarias. 
 Como primer paso hice un trabajo sistemático (que  se ha desarrollado a lo largo de varios años) para eliminar esta especie siguiendo un protocolo adecuado. Se realizó una pequeña campaña informativa en los paneles de anuncios del Centro. Nunca es suficiente con la concienciación sobre la problemática de las especies exóticas en un sistema insular. Conozco el protocolo de contención del Pennisetum porque con regularidad colaboro con la Asociación Abeque, que hace salidas de control de esta especie en los barrancos de Teno.
 
-![Abeque 2019](images/0101rabogatomasca2019.jpg)
+![Abeque 2019](images/01rabogatomasca2019.jpg)
 &emsp;&emsp;_Voluntariado de la Asociación Abeque retira la invasora rabo de gato en Medio Barranco. Masca, 2019_
 
 * * *
