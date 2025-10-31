@@ -709,14 +709,14 @@ La historia de botánicos como Ecklon nos da idea del gigantesco esfuerzo humano
 &emsp;&emsp;_Christian Ecklon_
 
 ***
-
 ![Osteospermium](images/specposteospermium.jpg)
 
 ### Margarita del Cabo
-_Osteospermium fruticans_
+💀 _Osteospermium fruticans_
 
 Esta especie está muy cercana a las _Dimorphotecas_, en teoría es perenne mientras que las otras son anuales. Sin embargo, habrá que ver cómo se adaptan y se comportan en este jardín.
-Se están probando varios ejemplares de colores diversos. Debería ir floreciendo desde primavera hasta finales de otoño. 
+_Actualización_: Probé varios ejemplares de colores diversos, que florecieron un año para después perderse.
+Por razones de sostenibilidad, finalmente no los volví a sembrar sino que he recurrido a otra especie: _Asteriscus maritimus_ 
 
 ![Colores de las osteospermium](images/jard11coloresosteorpermium.jpg)
 
