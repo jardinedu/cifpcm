@@ -255,17 +255,32 @@ _Rumex_ es el nombre que se le daba en latín a todo el género (hay unas 120 es
 
 ![Jorao](images/spectjorao.jpg)
 
-### Jorao
-_Asteriscus sericeus_
+***
 
-Comúnmente llamado jorao, jorjao, jorado o tojia. En inglés se la nombra también como _Canary Island daisy_, lo que quizá explique que a veces en viveros se la llame _margarita majorera_, en lugar de por su nombre original.
-En Fuerteventura se la encuentra a unos 400-800m de altitud en Betancuria, Jandía, montaña Cardón y Tindaya. Originalmente endémica exclusiva de Fuerteventura, y ahora presente también en otras islas, y en Marruecos.
+![Jorao](images/spectjorao.jpg)
 
-Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascendentes siendo los más viejos de color gris oscuro, de hasta 1 m de altura. Sus hojas tienen una textura sedosa y sus flores son formalmente similares a las magarzas.
-Esta planta es el bioindicador por excelencia del bosque termófilo en Fuerteventura convirtiéndose en la vegetación de sustitución cuando éste desaparece, en las cumbres de Jandía marca perfectamente el nivel hasta donde tiene influencia el mar de nubes y en el macizo de Betancuria cubre los picos que se ven envueltos en verano por las nieblas. Por debajo de 400 msnm. es raro. En la actualidad la especie está amenazada por la presencia de herbívoros que si bien no  comen sus tallos si lo hacen con sus flores impidiendo así la regeneración, también el tránsito de estos rebaños rompe las ramas y desestabiliza el sustrato.
+### Margarita de mar
+_Pallenis maritima_
+
+Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_ (me lo vendieron como "margarita majorera", pero nunca ha crecido más allá de unos 30 cm de alto, con lo cual ya sé que se trata de una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
+
+Es un arbusto de tamaño pequeño, hasta 30cm. de alto, de base leñosa con hojas vellosas y llamativas flores amarillas (en realidad son inflorescencias, o sea grupos de flores) semejantes a las margaritas. Florece casi todo el año, en especial desde la primavera hasta bien entrado el verano. Son sinónimos: _Asteriscus maritimus_ y _Odontospermum maritimum_. 
+
+Soporta altos niveles de insolación, prolongadas sequías estivales y suelos salinos (halófila). Por esto es una planta ideal para xerojardinería. Es pionera en la colonización de suelos pobres, arenosos o rocosos, ayudando en la formación y estabilización de dunas costeras y previniendo la erosión. En el medio natural se la encuentra en acantilados, arenales costeros, de 0 a 200 msnm. 
+
+Es originaria del Mediterráneo occidental y central hasta Grecia, norte de África e islas Canarias. Se la llama también margarita de mar, asterisco marítimo, estrella de mar, Mediterranean Beach Daisy o Gold Coin. En inglés se la nombra también como _Canary Island daisy_, lo que quizá explique que a veces en viveros se la llame _margarita majorera_, causando confusión con el _jorao_.
+
+_Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las escamitas que existen en el receptáculo de numerosos miembros de la familia Asteraceae en la base de las flores, y se llama «receptáculo paleáceo» al que las tiene. _Maritima_, del mar.
+
+
+**El [jorao](https://es.wikipedia.org/wiki/Asteriscus_sericeus)**
+Por otra parte, el _Asteriscus sericeus_, comúnmente llamado jorao, jorjao, jorado o tojia, es un endemismo de la isla de Fuerteventura, aunque se ha introducido como ornamental en otras islas (sinónimo _Odontospermum sericeum_). Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascendentes siendo los más viejos de color gris oscuro, de hasta 1m. de altura. En Fuerteventura se la encuentra a unos 400-800m de altitud en Betancuria, Jandía, montaña Cardón y Tindaya. 
+En la actualidad la especie está amenazada por la presencia de herbívoros que si bien no  comen sus tallos si lo hacen con sus flores impidiendo así la regeneración, también el tránsito de estos rebaños rompe las ramas y desestabiliza el sustrato.
 
 ![Jorao en Fuerteventura](images/jard05joraoftv.jpg)
 &emsp;&emsp;_Jorao en su medio natural en Fuerteventura. Foto: GH.Zell. CC-By_
+
+_Histoire Naturelle des Îles Canaries_ (Webb et Berth. 1842.) en su Sección II: pag.237 recoge el _Odontospermum maritimum_ o _Asteriscus maritimus_ para Canarias, sin especificar localizaciones, y el Odontospermum sericeum, "Tojia en Fuerteventura", localizada "cerca del templo de Nuestra Señora de la Peña, en la isla Fuerteventura" pag.238
 
 ***
 
@@ -991,16 +1006,18 @@ El nombre _guaydil_ se considera una palabra indígena, aunque no se ha podido p
 
 ![Jorao](images/specpjorao.jpg)
 
-### Jorao
-_Asteriscus sericeus_
+### Margarita de mar
+_Pallenis maritima_
 
-Comúnmente llamado jorao, jorjao, jorado o tojia. En inglés se la nombra también como _Canary Islands daisy_, lo que quizá explique que en viveros se la llame "margarita majorera", en lugar de su nombre original.
+Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_ (me lo vendieron como "margarita majorera", pero nunca ha crecido más allá de unos 30 cm de alto, con lo cual ya sé que se trata de una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
 
-En Fuerteventura se la encuentra a unos 400-800m de altitud en Betancuria, Jandía, montaña Cardón y Tindaya. Originalmente endémica exclusiva de Fuerteventura, y ahora presente también en otras islas y en Marruecos. Esta planta es el bioindicador por excelencia del bosque termófilo en Fuerteventura convirtiéndose en la vegetación de sustitución cuando éste desaparece, en las cumbres de Jandía marca perfectamente el nivel hasta donde tiene influencia el mar de nubes, (y en el macizo de Betancuria cubre los picos que se ven envueltos en verano por las nieblas) por debajo de 400 msnm. es raro. En la actualidad están amenazados por la presencia de herbívoros que si bien no comen sus tallos si lo hacen con sus flores impidiendo así la regeneración, también el tránsito de estos rebaños rompe las ramas y desestabiliza el sustrato.
+Es un arbusto de tamaño pequeño, hasta 30cm. de alto, de base leñosa con hojas vellosas y llamativas flores amarillas (en realidad son inflorescencias, o sea grupos de flores) semejantes a las margaritas. Florece casi todo el año, en especial desde la primavera hasta bien entrado el verano. Son sinónimos: _Asteriscus maritimus_ y _Odontospermum maritimum_. 
 
-Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascendentes siendo los más viejos de color gris oscuro, de hasta 1 m de altura. Sus hojas tienen una textura sedosa y sus flores son formalmente similares a las magarzas. 
+Soporta altos niveles de insolación, prolongadas sequías estivales y suelos salinos (halófila). Por esto es una planta ideal para xerojardinería. Es pionera en la colonización de suelos pobres, arenosos o rocosos, ayudando en la formación y estabilización de dunas costeras y previniendo la erosión. En el medio natural se la encuentra en acantilados, arenales costeros, de 0 a 200 msnm. 
 
-Desde mi experiencia es una planta nativa de Canarias muy interesante para jardines sostenibles, con tonalidades verde pastel en las hojas y flores de un intenso amarillo que duran mucho tiempo. Cada vez la veo más en viveros. El aspecto negativo: como explica el Dr. Arnoldo Santos, hay que tener precaución con la dispersión de endemismos en zonas fuera de su entorno natural.
+Es originaria del Mediterráneo occidental y central hasta Grecia, norte de África e islas Canarias. Se la llama también margarita de mar, asterisco marítimo, estrella de mar, Mediterranean Beach Daisy o Gold Coin. En inglés se la nombra también como _Canary Island daisy_, lo que quizá explique que a veces en viveros se la llame _margarita majorera_, causando confusión con el _jorao_.
+
+_Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las escamitas que existen en el receptáculo de numerosos miembros de la familia Asteraceae en la base de las flores, y se llama «receptáculo paleáceo» al que las tiene. _Maritima_, del mar.
 
 ***
 
