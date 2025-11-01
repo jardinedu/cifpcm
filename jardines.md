@@ -10,9 +10,6 @@ feature_image:
 3. [Jardines del patio central - sombra](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#3-jard%C3%ADn-del-patio-central---sombra)
 4. [Jardín de Secretaría](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#4-jardines-de-secretar%C3%ADa)
 5. [Jardín de la casita de sonido](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#5-jardines-de-la-casita-de-sonido)
-6. [Parque norte](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#6-parque-norte)
-7. [Parque sur - proyecto de renaturalización](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#7-parque-sur---proyecto-de-renaturalizaci%C3%B3n)
-
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -1442,51 +1439,6 @@ En proyecto está controlar el excesivo crecimiento de las parchas, reorganizar 
 ![Plumerias sonido](images/jard14plumeriassonido.jpg)
 &emsp;&emsp;_Plumerias recién plantadas, octubre 2024_
 
-
-![Barra verde](images/jard01barraverde.jpg)
-
-# 6. Parque norte
-
-Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmertas altas, un drago con mal desarrollo y varios frutales: nisperero, granado, limonero, naranjo, romero. Todo en un estado de abandono.
-
-![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
-
-En esta zona tengo el proyecto de crear un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio. 
-
-![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
-&emsp;&emsp;_Estado de la zona en octubre 2025_
-
-![Barra verde](images/jard01barraverde.jpg)
-
-# 7. Parque sur - proyecto de renaturalización
-
-El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosaico, con escaleras, una fuente (seca, en desuso), algunos bancos, y muy escasa vegetación. 
-
-![Patios sur](images/jard20parquesurvistas1025.jpg)
-
-Es una superficie de aproximadamente 800m² cuyo único uso es como punto de concentración en casos de evacuación del Centro. Tampoco tiene uso para eventos.
-
-![Medición patios sur](images/jard20medicionparcelasur.jpg)
-
-Toda esta superficie pavimentada y sin sombra es una fuente de calor para los Talleres anexos y el Pabellón 2. mLa idea es muy simple: retirar todo el pavimento, acondicionar el acceso y circulación adaptada, tomas de agua y luz, etc. pero con suelo de tierra, sobre el cual plantar un bosque que convierta todo el espacio en zona de estar, con caminos, bancos, etc. Bajando además la temperatura de todos los edificios cercanos.
-
-![Proyecto renatura](images/jard20proyectorenaturalizacionAyB.jpg)
-&emsp;&emsp;_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
-
-Inspirado en el [bosque urbano](https://parissecret.com/es/bosque-urbano-frente-al-ayuntamiento/) plantado en la Plaza del Ayuntamiento de París (entre otras iniciativas para reverdecer la ciudad), surgió la idea de un proyecto en esa línea en la zona de patios en el lado sur del CIFP, una zona sin uso alguno y totalmente pavimentada. 
-
-![Paris](images/jard20bosqueparis.jpg)
-&emsp;&emsp;_Plaza del Ayuntamiento, París_
-
-Hay mucho que leer sobre las ciudades verdes europeas, se puede empezar por el libro que encontramos en la web del **Ministerio para la transición ecológica y el reto demográfico** editado por la Diputació de Barcelona [Renaturalización de la ciudad](https://www.miteco.gob.es/es/ceneam/recursos/pag-web/renaturalizacion-ciudad.html).
-Luego, un libro nos lleva a otro libro.
-
-> Un concepto que profundiza y amplía la Nueva Agenda Urbana de Habitat III aprobada en 2016, donde se incluye además que las zonas verdes y los espacios públicos «son áreas multifuncionales para la interacción social, la salud humana y el bienestar». Actualmente en la Unión Europea se están dedicando muchos esfuerzos a desarrollar las infraestructuras verdes del territorio y avanzar en el desarrollo e implementación de Soluciones Basadas en la Naturaleza (SbN), que la Comisión Europea define como «acciones inspiradas, basadas o copiadas de la naturaleza, que utilizan o mejoran soluciones existentes para afrontar diversos retos ambientales, sociales y económicos, de manera sostenible y eficiente» (_del Prólogo de este libro_).
-
-Esta idea también se inspira en el proyecto de jardín del Campus Central de la ULL, donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
-
-![Campus central Sauceda de 2017 a 2022](images/jard20campuscentral20172022.jpg)
-&emsp;&emsp;_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
 
 
 ***
