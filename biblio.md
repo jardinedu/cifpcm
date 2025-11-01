@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliografía
+title: 
 description: 
 feature_image: 
 ---
