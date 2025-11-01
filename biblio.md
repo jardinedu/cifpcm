@@ -272,7 +272,7 @@ Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto po
 
 ![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
 
-Esta tiene el potencial de ser un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra, con pocas intervenciones de jardinería en sí, y más cerca del paisajismo, manteniendo todos los elementos que den sombra y creen un espacio y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio. 
+Esta zona tiene el potencial de ser un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra, con pocas intervenciones de jardinería en sí, y más cerca del paisajismo, manteniendo todos los elementos que den sombra y creen un espacio y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio. 
 
 ![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
 &emsp;&emsp;_Estado de la zona en octubre 2025_
@@ -288,11 +288,11 @@ El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosa
 ![Proyecto renatura](images/jard20proyectorenaturalizacionAyB.jpg)
 &emsp;&emsp;_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
 
-Toda esta superficie pavimentada y sin sombra de aproximadamente 800m², cuyo único uso ha sido como punto de concentración en casos de evacuación del Centro. Una fuente de calor para los Talleres anexos y el Pabellón 2. La idea es muy simple: retirar todo el pavimento, acondicionar el acceso y circulación adaptada, tomas de agua y luz, etc. pero con suelo de tierra, sobre el cual plantar un bosque que convierta todo el espacio en zona de estar, con caminos, bancos, etc. bajando además la temperatura de todos los edificios cercanos. 
+Toda esta superficie pavimentada y sin sombra de aproximadamente 800m², cuyo único uso ha sido como punto de concentración en casos de evacuación del Centro es una fuente de calor para los Talleres anexos y el Pabellón 2. La idea es muy simple: retirar todo el pavimento, acondicionar el acceso y circulación adaptada, tomas de agua y luz, etc. pero con suelo de tierra, sobre el cual plantar un bosque que convierta todo el espacio en zona de estar, con caminos, bancos, etc. bajando además la temperatura de todos los edificios cercanos. 
 
 ![Medición patios sur](images/jard20medicionparcelasur.jpg)
 
-Inspirado en muchas iniciativas, como 
+En los últimos años múltiples iniciativas van en esa dirección: 
 - El [bosque urbano](https://parissecret.com/es/bosque-urbano-frente-al-ayuntamiento/) plantado en la Plaza del Ayuntamiento de París (entre otras iniciativas para reverdecer la ciudad)
 - El [Proyecto Madrid Río](https://es.wikipedia.org/wiki/Madrid_R%C3%ADo), el parque urbano levantado a lo largo de un tramo urbano del río Manzanares tras el soterramiento de la autovía de circunvalación M-30, comenzado en 2005 y unido a un plan desde 2015 para la renaturalización del río a su paso por la ciudad.
 - Los proyectos de renaturalización de ciudades del MITECO: [en 2025 se han aprobado 12 nuevos proyectos](https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/septiembre/el-miteco-continua-su-apuesta-por-la-renaturalizacion-de-ciudade.html), que se suman a los **73 proyectos** que se ejecutan con este mismo objetivo dentro del Plan de Recuperación, Transformación y Resiliencia.
@@ -301,7 +301,7 @@ Inspirado en muchas iniciativas, como
 &emsp;&emsp;_Dos ejemplos: Plaza del Ayuntamiento, París | Madrid Río_
 
 Hay mucho que leer sobre **ciudades verdes**, se puede empezar por el libro que encontramos en la web del **Ministerio para la transición ecológica y el reto demográfico** editado por la Diputació de Barcelona [Renaturalización de la ciudad](https://llibreria.diba.cat/cat/ebook/renaturalizacion-de-la-ciudad_62170).
-Mucho más completa es guía [Naturaleza y Salud: la infraestructura verde en la transición ecológica de las ciudades, Guía de lectura y recursos de información](https://www.zaragoza.es/contenidos/medioambiente/cda/CONAMA-LOCAL-Zaragoza%202023.pdf), publicada por CDAMAZ de Zaragoza 2023, un extenso repositorio de artículos y enlaces. 
+Mucho más completa es la guía [Naturaleza y Salud: la infraestructura verde en la transición ecológica de las ciudades, Guía de lectura y recursos de información](https://www.zaragoza.es/contenidos/medioambiente/cda/CONAMA-LOCAL-Zaragoza%202023.pdf), publicada por CDAMAZ de Zaragoza 2023, un extenso repositorio de artículos y enlaces. 
 
 ![Paris](images/jard20guiasrenaturalizacion.jpg)
 
