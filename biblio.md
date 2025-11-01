@@ -42,7 +42,8 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 > <cite>― [Gertrude Jekyll](https://www.countrylife.co.uk/gardens/gardening-tips/great-british-garden-makers-gertrude-jekyll-25395)</cite>
 
 ***
-** Referencias
+
+## Referencias
 
 [Diversidad florística en los jardines públicos de la ciudad de La Laguna (Tenerife), Patrimonio de la Humanidad](https://www.museosdetenerife.org/assets/downloads/file-147-6011eda4a3.pdf)
 
@@ -299,7 +300,7 @@ Mucho más completa es guía [Naturaleza y Salud: la infraestructura verde en la
 > «... las zonas verdes y los espacios públicos «son áreas multifuncionales para la interacción social, la salud humana y el bienestar». Actualmente en la Unión Europea se están dedicando muchos esfuerzos a desarrollar las infraestructuras verdes del territorio y avanzar en el desarrollo e implementación de Soluciones Basadas en la Naturaleza (SbN), que la Comisión Europea define como «acciones inspiradas, basadas o copiadas de la naturaleza, que utilizan o mejoran soluciones existentes para afrontar diversos retos ambientales, sociales y económicos, de manera sostenible y eficiente» 
 > <cite>― _del Prólogo de Renaturalización de la ciudad_.
 
-Por último, esta idea también se inspira muy directamente en el proyecto de jardín del Campus Central de la ULL, donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
+Por último, esta idea también se inspira muy directamente en el proyecto de [Jardín del Campus Central de la ULL](#jard%C3%ADn-de-flora-canaria-de-la-ull), donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
 
 ![Campus central Sauceda de 2017 a 2022](images/jard20campuscentral20172022.jpg)
 &emsp;_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
