@@ -267,6 +267,7 @@ _Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las e
 
 
 **El [jorao](https://es.wikipedia.org/wiki/Asteriscus_sericeus)**
+
 Por otra parte, el _Asteriscus sericeus_, comúnmente llamado jorao, jorjao, jorado o tojia, es un endemismo de la isla de Fuerteventura, aunque se ha introducido como ornamental en otras islas (sinónimo _Odontospermum sericeum_). Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascendentes siendo los más viejos de color gris oscuro, de hasta 1m. de altura. En Fuerteventura se la encuentra a unos 400-800m de altitud en Betancuria, Jandía, montaña Cardón y Tindaya. 
 En la actualidad la especie está amenazada por la presencia de herbívoros que si bien no  comen sus tallos si lo hacen con sus flores impidiendo así la regeneración, también el tránsito de estos rebaños rompe las ramas y desestabiliza el sustrato.
 
