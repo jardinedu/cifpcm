@@ -4,7 +4,13 @@ title: Bibliografía
 description: 
 feature_image: 
 ---
+1. [Bibliografía](#bibliograf%C3%ADa)
+2. [Referencias](#referencias)
+3. [Apéndice 1: Otros jardines en Tenerife y Gran Canaria](#ap%C3%A9ndice-1-otros-jardines-en-tenerife-y-gran-canaria)
+4. [Apéndice 2: Otros proyectos, otras ideas](#ap%C3%A9ndice-2-otros-proyectos-otras-ideas)
 
+
+   
 # Bibliografía
 
 Gran parte de la literatura sobre jardinería y jardines son libros con directrices de diseño, fotos con ejemplos de jardines perfectos, herramientas, accesorios, materiales, etc. A veces son libros maravillosos, pero casi siempre poco útiles.
