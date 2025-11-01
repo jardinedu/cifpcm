@@ -70,11 +70,16 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 [Gatos en islas. Un problema global de conservación. CISIC 2016](https://digital.csic.es/bitstream/10261/215154/1/Cat-Nogales-2016-ElinDiferente.pdf)
 
+[Renaturalización de la ciudad](https://llibreria.diba.cat/cat/ebook/renaturalizacion-de-la-ciudad_62170)
 
-***
-***
+[Naturaleza y Salud: la infraestructura verde en la transición ecológica de las ciudades, Guía de lectura y recursos de información](https://www.zaragoza.es/contenidos/medioambiente/cda/CONAMA-LOCAL-Zaragoza%202023.pdf)
+
+
+![Barra verde](images/jard01barraverde.jpg)
+
+
 	
-# Apéndice: Otros jardines en Tenerife y Gran Canaria
+# Apéndice 1: Otros jardines en Tenerife y Gran Canaria
 
 ## Jardín de flora canaria de la ULL
 [Sitio web](https://www.ull.es/centros/jardin-flora-canaria/jardin-canario-campus-central/)
@@ -241,6 +246,63 @@ Esta es la lista completa de pinturas de Tenerife:
 &emsp;&emsp;_Pintura Número 514. Vista del Puerto de Orotava, Tenerife, desde el Sitio del Pardo.
 En término medio se ve la mansión de Sitio Litre con su característico mirador hexagonal  y su drago._
 
+![Barra verde](images/jard01barraverde.jpg)
+
+
+# Apéndice 2: Otros proyectos, otras ideas
+
+Además del cuidado de los parterres construidos para jardines surgen ideas que van un poco más allá de la mera jardinería y entran dentro de los copnceptos de renaturalización y der estrategias para enfgrentarse a los nuevos retos climáticos.
+
+![Otros proyectos](images/01esquemaotrosjardineslogonov2025peq.jpg)
+
+
+***
+
+## 1. Parque norte
+
+Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmeras altas, un drago con mal desarrollo y varios frutales: nisperero, granado, limonero, naranjo, romero. Todo en un estado de abandono.
+
+![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
+
+Esta tiene el potencial de ser un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra, con pocas intervenciones de jardinería en sí, y más cerca del paisajismo, manteniendo todos los elementos que den sombra y creen un espacio y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio. 
+
+![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
+&emsp;&emsp;_Estado de la zona en octubre 2025_
+
+![Barra verde](images/jard01barraverde.jpg)
+
+## 2. Parque sur - proyecto de renaturalización
+
+El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosaico, con escaleras, una fuente (seca, en desuso), algunos bancos, y muy escasa vegetación. Hay algunas ideas de uso del espacio, pero su ubicación, dimensiones y perspectivas climáticas futuras abren la imaginación a pensar en si su renaturalización sería una opción posible.
+
+![Patios sur](images/jard20parquesurvistas1025.jpg)
+
+![Proyecto renatura](images/jard20proyectorenaturalizacionAyB.jpg)
+&emsp;&emsp;_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
+Toda esta superficie pavimentada y sin sombra de aproximadamente 800m², cuyo único uso ha sido como punto de concentración en casos de evacuación del Centro. Una fuente de calor para los Talleres anexos y el Pabellón 2. La idea es muy simple: retirar todo el pavimento, acondicionar el acceso y circulación adaptada, tomas de agua y luz, etc. pero con suelo de tierra, sobre el cual plantar un bosque que convierta todo el espacio en zona de estar, con caminos, bancos, etc. bajando además la temperatura de todos los edificios cercanos. 
+
+![Medición patios sur](images/jard20medicionparcelasur.jpg)
+
+Inspirado en muchas iniciativas, como 
+- El [bosque urbano](https://parissecret.com/es/bosque-urbano-frente-al-ayuntamiento/) plantado en la Plaza del Ayuntamiento de París (entre otras iniciativas para reverdecer la ciudad)
+- El [Proyecto Madrid Río](https://es.wikipedia.org/wiki/Madrid_R%C3%ADo), el parque urbano levantado a lo largo de un tramo urbano del río Manzanares tras el soterramiento de la autovía de circunvalación M-30, comenzado en 2005 y unido a un plan desde 2015 para la renaturalización del río a su paso por la ciudad.
+- Los proyectos de renaturalización de ciudades del MITECO: [en 2025 se han aprobado 12 nuevos proyectos](https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/septiembre/el-miteco-continua-su-apuesta-por-la-renaturalizacion-de-ciudade.html), que se suman a los **73 proyectos** que se ejecutan con este mismo objetivo dentro del Plan de Recuperación, Transformación y Resiliencia.
+
+![Paris](images/jard20bosqueparismadridrio.jpg)
+&emsp;&emsp;_Dos ejemplos: Plaza del Ayuntamiento, París | Madrid Río_
+
+Hay mucho que leer sobre **ciudades verdes**, se puede empezar por el libro que encontramos en la web del **Ministerio para la transición ecológica y el reto demográfico** editado por la Diputació de Barcelona [Renaturalización de la ciudad](https://llibreria.diba.cat/cat/ebook/renaturalizacion-de-la-ciudad_62170).
+Mucho más completa es guía [Naturaleza y Salud: la infraestructura verde en la transición ecológica de las ciudades, Guía de lectura y recursos de información](https://www.zaragoza.es/contenidos/medioambiente/cda/CONAMA-LOCAL-Zaragoza%202023.pdf), publicada por CDAMAZ de Zaragoza 2023, un extenso repositorio de artículos y enlaces. 
+
+![Paris](images/jard20guiasrenaturalizacion.jpg)
+
+> «... las zonas verdes y los espacios públicos «son áreas multifuncionales para la interacción social, la salud humana y el bienestar». Actualmente en la Unión Europea se están dedicando muchos esfuerzos a desarrollar las infraestructuras verdes del territorio y avanzar en el desarrollo e implementación de Soluciones Basadas en la Naturaleza (SbN), que la Comisión Europea define como «acciones inspiradas, basadas o copiadas de la naturaleza, que utilizan o mejoran soluciones existentes para afrontar diversos retos ambientales, sociales y económicos, de manera sostenible y eficiente» 
+> <cite>― _del Prólogo de Renaturalización de la ciudad_.
+
+Por último, esta idea también se inspira muy directamente en el proyecto de jardín del Campus Central de la ULL, donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
+
+![Campus central Sauceda de 2017 a 2022](images/jard20campuscentral20172022.jpg)
+&emsp;_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
 
 ***
 url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/about) 
