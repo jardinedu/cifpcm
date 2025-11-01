@@ -280,6 +280,7 @@ El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosa
 
 ![Proyecto renatura](images/jard20proyectorenaturalizacionAyB.jpg)
 &emsp;&emsp;_¿Sería posible convertir todo el lado sur del CIFP en un bosque?_
+
 Toda esta superficie pavimentada y sin sombra de aproximadamente 800m², cuyo único uso ha sido como punto de concentración en casos de evacuación del Centro. Una fuente de calor para los Talleres anexos y el Pabellón 2. La idea es muy simple: retirar todo el pavimento, acondicionar el acceso y circulación adaptada, tomas de agua y luz, etc. pero con suelo de tierra, sobre el cual plantar un bosque que convierta todo el espacio en zona de estar, con caminos, bancos, etc. bajando además la temperatura de todos los edificios cercanos. 
 
 ![Medición patios sur](images/jard20medicionparcelasur.jpg)
