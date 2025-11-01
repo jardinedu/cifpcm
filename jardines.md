@@ -252,10 +252,6 @@ _Rumex_ es el nombre que se le daba en latín a todo el género (hay unas 120 es
 
 ![Jorao](images/spectjorao.jpg)
 
-***
-
-![Jorao](images/spectjorao.jpg)
-
 ### Margarita de mar
 _Pallenis maritima_
 
