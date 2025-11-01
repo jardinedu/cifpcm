@@ -6,10 +6,10 @@ feature_image:
 ---
 
 1. [Jardín de los Talleres](#1-jard%C3%ADn-de-los-talleres)
-2. [Jardines del patio central](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#2-jardines-del-patio-central)
-3. [Jardines del patio central - sombra](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#3-jard%C3%ADn-del-patio-central---sombra)
-4. [Jardín de Secretaría](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#4-jardines-de-secretar%C3%ADa)
-5. [Jardín de la casita de sonido](https://github.com/jardinedu/cifpcm/blob/master/jardines.md#5-jardines-de-la-casita-de-sonido)
+2. [Jardines del patio central](#2-jardines-del-patio-central)
+3. [Jardines del patio central - sombra](#3-jard%C3%ADn-del-patio-central---sombra)
+4. [Jardín de Secretaría](#4-jardines-de-secretar%C3%ADa)
+5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
