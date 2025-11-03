@@ -1264,6 +1264,8 @@ Plantas perennes y muy longeva (hasta más de 100 años) de raíces rizomatosas 
 
 Muy del gusto de la era victoriana, causó sensación en el Reino Unido durante el siglo XIX como planta de interior de las casas acomodadas. 
 
+![Grupo de aspidistras](images/jard12grupoaspidistras.jpg)
+
 En este jardín de sombra he plantado dos grupos, la variedad tradicional y otra variegada de hoja más pequeña y color más claro.
 
 ***
