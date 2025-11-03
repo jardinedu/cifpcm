@@ -1051,7 +1051,7 @@ En los jardines del patio he introducido en marzo 2025 la especie de las zonas m
 
 ![Marcetella](images/specpmarcetella.jpg)
 
-### Marcetella
+### Palo sangre
 _Marcetella moquiniana_
 
 Es un árbol o arbusto que puede llegar a tener 4 m de altura,
@@ -1341,7 +1341,9 @@ _ Canarina canariensis_
 El vivero del Cabildo cedió tres ejemplares de canarina, trasplantadas en noviembre.
 Su hábitat principal son los bosques de laurisilva del archipiélago. Es una de las especies vegetales más emblemáticas de Canarias, considerada por algunos autores como la _flor nacional_ de las Islas. Tiene largos tallos trepadores, colgantes, o rastreros de hasta tres metros de longitud, y unas características flores, pedunculadas, de color anaranjado a rojo, en forma de campanilla, de  entre 3 y 6 cm. Su floración tiene lugar entre los meses de noviembre y mayo. Puede darse entre los 300 y los 1000 metros de altitud, en lugares sombríos y húmedos, en las islas de Tenerife, Gran Canaria, La Gomera, La Palma y El Hierro.
 
-Tras florecer, las tres plantas desaparecieron en verano de 2025, siguiendo su ciclo natural y deberían rebrotar de sus rizomas en otoño.
+![Canarinas rebrotando](images/jard12brotescanarina.jpg)
+
+Tras florecer, las tres plantas desaparecieron en verano de 2025, siguiendo su ciclo natural y empiezan a rebrotar de sus rizomas en otoño.
 
 ![Canarinas Linneo](images/jard12canarinaslinneo.jpg)
 
