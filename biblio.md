@@ -254,6 +254,20 @@ Esta es la lista completa de pinturas de Tenerife:
 &emsp;&emsp;_Pintura Número 514. Vista del Puerto de Orotava, Tenerife, desde el Sitio del Pardo.
 En término medio se ve la mansión de Sitio Litre con su característico mirador hexagonal  y su drago._
 
+## Plazas y parques en Santa Cruz y La Laguna
+
+![Parque Garcia Sanabria](images/0940garciasanabria.jpg)
+&emsp;&emsp;_Parque García Sanabria, Santa Cruz de Tenerife_
+
+![Plaza del Orche](images/0940orche.jpg)
+&emsp;&emsp;_Plaza del Orche, Santa Cruz de Tenerife_
+
+![Plaza Weyler](images/0940weyler.jpg)
+&emsp;&emsp;_Plaza Weyler, Santa Cruz de Tenerife_
+
+![Plaza del Adelantado](images/0940adelantado.jpg)
+&emsp;&emsp;_Plaza del Adelantado, La Laguna_
+
 ![Barra verde](images/jard01barraverde.jpg)
 
 
