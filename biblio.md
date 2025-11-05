@@ -259,16 +259,26 @@ En término medio se ve la mansión de Sitio Litre con su característico mirado
 ![Parque Garcia Sanabria](images/0940garciasanabria.jpg)
 &emsp;&emsp;_Parque García Sanabria, Santa Cruz de Tenerife_
 
+Con apenas un siglo de existencia (se aprobó el proyecto en 1926) se le considera el mayor parque urbano de las islas Canarias. Tiene categoría de BIC. Tiene un diseño con una fuente central y cuatro avenidas radiales, además de anillos interiores de paseos. En general la vegetación es densa y predominan las especies tropicales y subtropicales, con árboles y palmeras de gran tamaño. Junto a estas hay zonas con distintos estilos de jardinería: rosaledas, zonas de cactáceas, pasillo de bambú, rincón de plantas aromáticas, pérgolas de bouganvillas, etc.
+En 2004-2006 tuvo una reforma en la que se eliminaron o reformaron definitivamente las zonas destinadas a animales y se conectó con la Rambla todo el lado oeste.
+Encontramos más de 300 especies: palmeras, dragos, flamboyants, laureles de Indias, jacarandás, tuliperos de Gabón, ficus, hibiscos, ceibas, tamarindos.
+
+
 ![Plaza del Orche](images/0940orche.jpg)
 &emsp;&emsp;_Plaza del Orche, Santa Cruz de Tenerife_
+
+Creada en 2025 donde antes hubo una zona de aparcamientos, el proyecto de jardinería restituyó una fila de flamboyants, incluyó un grupo de palmeras, creó un amplio parterre elíptico y otro concéntrico a la antigua farola que ocupa el centro de la nueva plaza. En los parterres se ha optado por vegetación de bajo mantenimiento;: gauras, tulbagias, filodendros, etc. En los alcorques de los flamboyanes se ha optado por una selección de plantas nativas de muy bajo mantenimiento: magarza, incienso, lavanda, siempreviva, todas ellas de las variedades canarias. Es pues, el ajardinamiento más sostenible y responsable de todos los espacios públicos de Santa Cruz.
+
 
 ![Plaza Weyler](images/0940weyler.jpg)
 &emsp;&emsp;_Plaza Weyler, Santa Cruz de Tenerife_
 
+Una plaza para circular por ella, con diferentes tratamientos, desde grandes grupos de capas de la reina a la sombra de los laureles de Indias hasta la rosaleda soleada que rodea la fuente central. En varios parterres se usan bordes de roheo y otras especies y en general es un tratamiento casi decimonónico, al gusto francés.
+
+
 ![Plaza del Adelantado](images/0940adelantado.jpg)
 &emsp;&emsp;_Plaza del Adelantado, La Laguna_
 
-![Barra verde](images/jard01barraverde.jpg)
 
 
 # Apéndice 2: Otros proyectos, otras ideas
