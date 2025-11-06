@@ -257,6 +257,8 @@ En término medio se ve la mansión de Sitio Litre con su característico mirado
 ## Plazas y parques en Santa Cruz y La Laguna
 
 ![Parque Garcia Sanabria](images/0940garciasanabria.jpg)
+
+![Parque Garcia Sanabria](images/0940garciasanabria2.jpg)
 &emsp;&emsp;_Parque García Sanabria, Santa Cruz de Tenerife_
 
 Con apenas un siglo de existencia (se aprobó el proyecto en 1926) se le considera el mayor parque urbano de las islas Canarias. Tiene categoría de BIC. Tiene un diseño con una fuente central y cuatro avenidas radiales, además de anillos interiores de paseos. En general la vegetación es densa y predominan las especies tropicales y subtropicales, con árboles y palmeras de gran tamaño. Junto a estas hay zonas con distintos estilos de jardinería: rosaledas, zonas de cactáceas, pasillo de bambú, rincón de plantas aromáticas, pérgolas de bouganvillas, etc.
@@ -280,6 +282,16 @@ Una plaza para circular por ella, con diferentes tratamientos, desde grandes gru
 &emsp;&emsp;_Plaza del Adelantado, La Laguna_
 
 
+La Plaza del Adelantado es el espacio central en torno al cual se definirá la Villa de Abajo de La Laguna (La Villa de Arriba se concentra en torno a la Iglesia de la Concepción desde 1497). La plaza recibe este nombre porque el primer Adelantado, conquistador de La Palma y Tenerife, Don Alonso Fernández de Lugo, construyó su segunda residencia en un extremo de la Plaza de Abajo, en parte del terreno que hoy ocupa el convento de Santa Clara. Inicialmente, el Adelantado la bautizó como San Miguel de Los Ángeles, convirtiéndose posteriormente en Plaza Mayor de la Villa, aunque se sigue conociendo como Plaza del Adelantado. El Adelantado dispuso un trazado ordenado, en cuadrícula, como muestra el primer plano del ingeniero Leonardo Torriani hacia 1558. Las calles y los límites que definen el casco permanecen prácticamente inalterados hasta nuestros días. Como Plaza Mayor de la villa, fue el lugar donde se celebraban los actos públicos más relevantes, como fiestas, días de mercado, procesiones, corridas de toros e incluso ejecuciones de penas. Fue enlosada en 1798 y en 1843 se redistribuyó su interior con árboles y bancos.
+
+![Plaza del Adelantado](images/0940adelantadoespecies.jpg)
+
+La vegetación de la Plaza se organiza adaptándose a su trazado cuadrilátero con la fuente como centro. Un primer anillo circular está formado por laureles de indias y barbusano. A continuación cuatro parterres simétricos, alineados según los ejes diagonales de la plaza con setos recortados, césped y plantas de temporada, además de varias especies singulares como palmera canaria, drago, palmera de abanico china y palmito. El perímetro de la plaza es una alameda de tres y dos líneas de árboles de diferentes especies.
+Encontramos especies endémicas o macaronésicas, de origen asiático, australiano, del continente europeo y del continente americano. Las especies más abundante son Laurel de Indias, seguida de Aligustre y Olmo.
+
+**Relación de especies**: Ailanto (_Ailanthus altissima_), Ciprés (_Cupressus sempervirens_), Jacarandá (_Jacaranda mimosifolia_), Magnolio (_Magnolia grandiflora_), Plátano (_Platanus x hispanica_), Barbusano (_Apollonias barbujana_), Drago (_Dracaena draco_), Lagunaria (_Lagunaria patersonii_), Viñático (_Persea indica_), Rosal (_Rosa sp._), Mucuteno (_Cassis spectabile_), Laurel de Indias (_Ficus microcarpa_), Aligustre (_Ligustrum lucidum_), Palmera canaria (_Phoenix canariensis_), Tipuana (_Tipuana tipu_), Palmito (_Chamaerops humilis_), Roble australiano (_Grevillea robusta_), Palmera de abanico (_Livistonia chinensis_), Pitosporo (_Pittosporum undulatum_), Olmo (_Ulmus minor_).
+
+![Barra verde](images/jard01barraverde.jpg)
 
 # Apéndice 2: Otros proyectos, otras ideas
 
@@ -287,8 +299,6 @@ Además del cuidado de los parterres construidos para jardines surgen ideas que 
 
 ![Otros proyectos](images/01esquemaotrosjardineslogonov2025peq.jpg)
 
-
-***
 
 ## 1. Parque norte
 
