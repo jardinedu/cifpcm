@@ -1428,7 +1428,7 @@ De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reo
 
 Este proyecto se intentará llevar a cabo a partir de septiembre-octubre 2025.
 
-![Parterre largo](images/jard13parterrelargoboceto.jpg)
+![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
 
 
 
