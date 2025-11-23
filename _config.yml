@@ -34,6 +34,8 @@ navigation:
   url: https://jardinedu.github.io/cifpcm/jardines
 - text: Bibliografía y referencias. Apéndices
   url: https://jardinedu.github.io/cifpcm/biblio
+- text: Visual
+  url: https://jardinedu.github.io/cifpcm/visual
 #  - text: Download
 #    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
