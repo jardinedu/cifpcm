@@ -25,7 +25,7 @@ Mi teoría es que hacia la década de 1980, sobre una parcela donde previamente 
 Lo fundamental fue poner en valor la flora canaria ya existente y acompañarla de especies adecuadas.
 A partir de 2018 reordené plantas, eliminé especies inadecuadas para un jardín transitable (algunas cactáceas realmente peligrosas) y fui introduciendo especies nuevas: magarzas, lavandas, cardoncillo, salado, etc. Instalé bancos, dejé un paso transitable a lo largo del jardín y año a año el proyecto llega hasta hoy, siempre en proceso, y cada vez más equilibrado.
 
-![2025](images/jard03jardintalleres25.jpg)
+![2025](images/jard03jardintalleres2.jpg)
 
 Actualmente (2025) hay aproximadamente un 50% de especies nativas de Canarias, unas 14 especies, junto a otras 14 exóticas en las Islas.
 
