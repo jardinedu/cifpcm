@@ -4,8 +4,7 @@ title:
 description: 
 feature_image: 
 ---
-   
-# Imágenes
+
 
 ![Imágenes jardines](images/f01.jpg)
 
