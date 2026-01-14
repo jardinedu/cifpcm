@@ -1393,6 +1393,34 @@ Al igual que otras especies del género _Euphorbia_, toda la planta posee un lá
 Ocasionalmente se hibrida con _Euphorbia lamarckii_, dando lugar a un híbrido denominado _Euphorbia x navae_, y con _Euphorbia aphylla_, generando el híbrido llamado _Euphorbia x petterssonii_. También se ha citado su hibridación con _Euphorbia bourgeana_ en la Ladera de Güímar.
 Este caso es un buen ejemplo de por qué en jardinería con plantas nativas es recomendable usar especies que estén dentro de su área de distribución natural, dado el peligro de contaminación genética que supone el ponerlas en contacto con poblaciones de otras especies de su mismo género. Por ejemplo, ¿qué pasaría si usaras tajinaste rojo, especie de Tenerife, especialmente Las Cañadas del Teide y La Palma (_Echium Wildpretii_) en jardines en la zona del campus de Tafira, en Gran Canaria? ¿Afectaría a las poblaciones endémicas de tajinaste blanco (_Echium decaisnei_). De hecho, ya se considera una especie traslocada a la isla de Gran Canaria, escapada de su uso en jardinería, lo que quizá no haya sucedido aún es esa contaminación genética.
 
+***
+
+![Aichryson](images/specpsaichryson.jpg)
+_Aichryson en enero 2026_
+
+### Gongarillo
+_Aichryson laxum_
+
+_Aichryson_ es un género con unas 15 especies de plantas suculentas nativas de regiones subtropicales, principalmente de las Islas Canarias, con algunas en Azores, Madeira y Marruecos, y una en Portugal.
+_Aichryson_ está estrechamente relacionado con _Monanthes_ y _Aeonium_ (ambos géneros también endémicos de las Islas Canarias).
+
+_Aichryson laxum_ (_gongarillo canario, oreja de ratón, campanilla, melosilla_) es una especie tropical con hojas suculentas de la familia de las crasuláceas. Está en todas las Islas canarias, excepto en Lanzarote. Pertenece al grupo de especies herbáceas vellosas. Es una pequeña planta, anual o bianual, que crece en el suelo pero también en paredes, muros de fincas, incluso sobre árboles. De aspecto delicado y ramas frágiles la coloración de toda la planta puede variar desde el rojo al verde, según la insolación que reciba, tiene bellas flores amarillas en forma de estrella.
+
+Los ejemplares de este jardín se recolectaron de muros de fincas de viñedo en la zona alta de La Matanza, en los volcanes de San Antonio.
+
+_Aichryson_: del griego: aei, que significa "siempre" y chrysos, que significa "oro", por el color de las flores, persistentes durante mucho tiempo.
+_laxum_: del latín "laxo, flojo, poco apretado", aludiendo a las hojas blandas de esta planta.
+
+Sobre el nombre común _gongarillo_, el [Diccionario de guanchismos de la ULPGC dice](https://guanchismos.ulpgc.es/item/12623):
+
+>El nombre de Góngora es topónimo de Gran Canaria que recibe una punta del pequeño tramo de costa perteneciente al municipio de Artenara, un poco antes de llegar a la zona de la plataforma conocida por Las Arenas, entre Los Picachos y el Andén Verde. Es posible que este nombre de Góngora, que es el que nosotros hemos recogido de la tradición oral (La toponimia de Gran Canaria 1997: CDRom), sea deformación de la voz góngaro, como así recoge el GAC (172 A1 y A2), quien no solo cita la Punta de Góngaro sino además un Morro de Góngaro y una zona de costa con el simple nombre de Góngaro, de donde lo toman la punta y el morro. Si esto fuera así, parece evidente que Góngora es una interpretación por etimología popular desde el raro y casi desconocido góngaro.
+
+
+Es interesante el artículo [Notas taxonómicas y de nomenclatura sobre las Crassulaceae de las Islas Canarias, España](https://www.researchgate.net/publication/233493330_Taxonomic_and_nomenclatural_notes_on_Crassulaceae_of_the_Canary_Islands_Spain), publicado en Willdenowia 38, diciembre 2008 (Bañares Baudet, Á., Marrero Gómez, M. V. & Scholz, S.), donde se actualizan estudios sobre las crasuláceas canarias: _Aeonium_, _Monanthes_ y _Aichryson_. En él se confirma y describe el _Aichryson laxum_ var. _latipetalum_ en el Barranco de Añavingo, entre 800 y 1000msnm, ya mencionada por Praeger en 1929. En el municipio de Arafo, es un barranco muy profundo y aislado. El incendio de los montes de Tenerife de 2023 afectó también a la cuenca de este barranco.
+
+![Aichryson laxum latipetalum](images/jard13blatipetalum.jpg)
+&emsp;&emsp;_Flores de _Aichryson laxum_ var. _latipetalum_. Dibujos de Carlos M Rodríguez Hernández_
+
 
 ![Barra verde](images/jard01barraverde.jpg)
 
