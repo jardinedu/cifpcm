@@ -1415,12 +1415,12 @@ Sobre el nombre común _gongarillo_, el [Diccionario de guanchismos de la ULPGC 
 
 >El nombre de Góngora es topónimo de Gran Canaria que recibe una punta del pequeño tramo de costa perteneciente al municipio de Artenara, un poco antes de llegar a la zona de la plataforma conocida por Las Arenas, entre Los Picachos y el Andén Verde. Es posible que este nombre de Góngora, que es el que nosotros hemos recogido de la tradición oral (La toponimia de Gran Canaria 1997: CDRom), sea deformación de la voz góngaro, como así recoge el GAC (172 A1 y A2), quien no solo cita la Punta de Góngaro sino además un Morro de Góngaro y una zona de costa con el simple nombre de Góngaro, de donde lo toman la punta y el morro. Si esto fuera así, parece evidente que Góngora es una interpretación por etimología popular desde el raro y casi desconocido góngaro.
 
-
 Es interesante el artículo [Notas taxonómicas y de nomenclatura sobre las Crassulaceae de las Islas Canarias, España](https://www.researchgate.net/publication/233493330_Taxonomic_and_nomenclatural_notes_on_Crassulaceae_of_the_Canary_Islands_Spain), publicado en Willdenowia 38, diciembre 2008 (Bañares Baudet, Á., Marrero Gómez, M. V. & Scholz, S.), donde se actualizan estudios sobre las crasuláceas canarias: _Aeonium_, _Monanthes_ y _Aichryson_. En él se confirma y describe el _Aichryson laxum_ var. _latipetalum_ en el Barranco de Añavingo, entre 800 y 1000msnm, ya mencionada por Praeger en 1929. En el municipio de Arafo, es un barranco muy profundo y aislado. El incendio de los montes de Tenerife de 2023 afectó también a la cuenca de este barranco.
 
 ![Aichryson laxum latipetalum](images/jard13blatipetalum.jpg)
 &emsp;&emsp;_Flores de _Aichryson laxum_ var. _latipetalum_. Dibujos de Carlos M Rodríguez Hernández_
 
+Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasuláceas_ visitó Canarias en 1924 y 1926 para llevar a cabo una revisión sistemática de los géneros _Greenovia_, _Aeonium_, _Monanthes_ y _Aichryson_. Entre 1926 y 1930 publica una serie de artículos científicos sobre este grupo de plantas y en 1932 su libro _An Account of the Sempervivum Group_ fue publicado por The Royal Horticultural Society London. En el libro Praeger cataloga 62 especies en los cuatro géneros en Macaronesia y también comenta la existencia de numerosos híbridos naturales. Su monografía es una de las publicaciones más interesantes sobre la flora canaria del siglo XX. 
 
 ![Barra verde](images/jard01barraverde.jpg)
 
