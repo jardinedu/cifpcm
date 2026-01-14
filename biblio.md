@@ -82,6 +82,8 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 [Naturaleza y Salud: la infraestructura verde en la transición ecológica de las ciudades, Guía de lectura y recursos de información](https://www.zaragoza.es/contenidos/medioambiente/cda/CONAMA-LOCAL-Zaragoza%202023.pdf)
 
+[Notas taxonómicas y de nomenclatura sobre las Crassulaceae de las Islas Canarias, España] (https://www.researchgate.net/publication/233493330_Taxonomic_and_nomenclatural_notes_on_Crassulaceae_of_the_Canary_Islands_Spain)
+
 
 ![Barra verde](images/jard01barraverde.jpg)
 
