@@ -26,6 +26,7 @@ El jardín inicial de flora canaria que se recuperó (el de los Talleres) necesi
 Igual que las plantas, los proyectos crecen: luego ha venido el trabajo con más parterres, con otros problemas, otros objetivos y otros retos.
 
 Me llamo Jose, profesor del Centro. Siempre me ha gustado cuidar de las plantas, desde mis años en Bachillerato donde coleccionaba plantas nativas canarias en la azotea de mi casa hasta el jardín que trabajé y disfruté muchos años, en mi casa natal en Güímar. En este documento te hablaré del desarrollo de los jardines del CIFP desde 2018, con una guía de especies y datos sobre ellas que me parecen suficientemente interesantes. 
+Si quieres contactar conmigo escribe a: correoprofe@proton.me
 
 ![Ubicaciones de los jardines](images/01esquemajardineslogonov2025peq.jpg)
 
@@ -38,6 +39,8 @@ Como primer paso hice un trabajo sistemático (que  se ha desarrollado a lo larg
 
 ![Abeque 2019](images/01rabogatomasca2019.jpg)
 &emsp;&emsp;_Voluntariado de la Asociación Abeque retira la invasora rabo de gato en Medio Barranco. Masca, 2019_
+
+Llevo unos años haciendo un registro documental del trabajo de esta Asociación, si tienes interés puerdes verlo en esta [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL6YLHyr2qy4XSnBaiVcVvhs1uc1xccGLY)
 
 * * *
 
@@ -208,6 +211,6 @@ El cambio climático, la introducción de especies exóticas invasoras (animales
 
 
 ***
-url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/about) 
+url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
 
 ***
