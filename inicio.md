@@ -38,7 +38,7 @@ Hacia 2017 todos los parterres que rodean los edificios del Instituto estaban si
 Como primer paso hice un trabajo sistemático (que  se ha desarrollado a lo largo de varios años) para eliminar esta especie siguiendo un protocolo adecuado. Se realizó una pequeña campaña informativa en los paneles de anuncios del Centro. Nunca es suficiente con la concienciación sobre la problemática de las especies exóticas en un sistema insular. Conozco el protocolo de contención del Pennisetum porque con regularidad colaboro con la Asociación Abeque, que hace salidas de control de esta especie en los barrancos de Teno.
 
 ![Abeque 2019](images/01rabogatomasca2019.jpg)
-&emsp;&emsp;_Voluntariado de la Asociación Abeque retira la invasora rabo de gato en Medio Barranco. Masca, 2019_
+&emsp;&emsp;_Voluntariado de Abeque retira la invasora en Medio Barranco. Masca, 2019_
 
 Llevo unos años haciendo un registro documental del trabajo de esta Asociación, si tienes interés puerdes verlo en esta [Lista de reproducción de YouTube](https://www.youtube.com/playlist?list=PL6YLHyr2qy4XSnBaiVcVvhs1uc1xccGLY)
 
