@@ -350,6 +350,6 @@ Por último, esta idea también se inspira muy directamente en el proyecto de [J
 &emsp;_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
 
 ***
-url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@gmail.com / [bio](https://jardinedu.github.io/cifpcm/about) 
+url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
 
 ***
