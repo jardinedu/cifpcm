@@ -130,11 +130,12 @@ Me permito incluir aquí un apunte para un desvío: Lamarck es quien estableció
 
 ![Tabaiba roja](images/specteuforbiaatropurpurea.jpg)
 
-### Tabaiba majorera
+### Tabaiba roja o majorera
 _Euphorbia atropurpurea_
 
-A pesar de su nombre vulgar, tabaiba majorera, nada tiene que ver con la isla de Fuerteventura. Es endémica de la isla de Tenerife. Se desarrolla entre los 300 a 1100 msnm en el sur y oeste de la isla, desde el valle de Güímar hasta el macizo de Teno, creciendo en barrancos y laderas. Sus flores son llamativas inflorescencias de color rojo-púrpura. En este jardín tiene un crecimiento muy lento.
-Al igual que otras especies del género _Euphorbia_, toda la planta posee un látex de color blanco, pegajoso y detóxico.
+Tabaiba roja, o tabaiba mejorera o más comúnmente tabaiba majorera. A pesar de su nombre vulgar tabaiba majorera, nada tiene que ver con la isla de Fuerteventura, y quizá proviene de una confusión con mejorera, que puede tener su origen en la creencia de mejoraba la leche de las cabras que la consumían. Es endémica de la isla de Tenerife. Se desarrolla entre los 300 a 1100 msnm en el sur y oeste de la isla, desde el valle de Güímar hasta el macizo de Teno, creciendo en barrancos y laderas. Sus flores son llamativas inflorescencias de color rojo-púrpura. En este jardín tiene un crecimiento muy lento.
+
+Al igual que otras especies del género _Euphorbia_, toda la planta tiene un látex de color blanco, pegajoso y tóxico.
 
 Ocasionalmente se hibrida con _Euphorbia lamarckii_, dando lugar a un híbrido denominado _Euphorbia x navae_, y con _Euphorbia aphylla_, generando el híbrido llamado _Euphorbia x petterssonii_. También se ha citado su hibridación con _Euphorbia bourgeana_ en la Ladera de Güímar.
 Este caso es un buen ejemplo de por qué en jardinería con plantas nativas es recomendable usar especies que estén dentro de su área de distribución natural, dado el peligro de contaminación genética que supone el ponerlas en contacto con poblaciones de otras especies de su mismo género. Por ejemplo, ¿qué pasaría si usaras tajinaste rojo, especie de Tenerife, especialmente Las Cañadas del Teide y La Palma (_Echium Wildpretii_) en jardines en la zona del campus de Tafira, en Gran Canaria? ¿Afectaría a las poblaciones endémicas de tajinaste blanco (_Echium decaisnei_). De hecho, ya se considera una especie traslocada a la isla de Gran Canaria, escapada de su uso en jardinería, lo que quizá no haya sucedido aún es esa contaminación genética.
@@ -1104,11 +1105,11 @@ Cerrajilla menuda o cerrajilla, en principio se puede considerar una mala hierba
 Es una nativa de Canarias, no endémica ya que se extiende por todo el Mediterráneo, parte de África y hasta Pakistán.
 
 _Sonchus tenerrimus_ fue descrita por Carlos Linneo y publicado ya en _Species Plantarum_, y utilizó nombres muy antiguos:
-- _Sonchus_ viene del nombre griego de estas plantas, y ya aparece en la _Historia Naturalis_ de Plinio el Viejo.
-- _tenerrimus_: del latín tenerrimus: tierno, delicado, por sus hojas fina y estrechamente lobuladas. Ya en Ovidio en _Ars Amandi_ usa este nombre.
+_Sonchus_ viene del nombre griego de estas plantas, y ya aparece en la _Historia Naturalis_ de Plinio el Viejo.
+_tenerrimus_: del latín tenerrimus: tierno, delicado, por sus hojas fina y estrechamente lobuladas. Ya en Ovidio en _Ars Amandi_ usa este nombre.
 
 ![Primavera 2026 jardines del patio](images/primavera2026patio.jpg)
-_Cerrajilla mezclada de forma natural con magarzas y lavandas. primavera 2026_
+&emsp;&emsp;_Cerrajilla mezclada de forma natural con magarzas y lavandas. primavera 2026_
 
 
 ![Barra verde](images/jard01barraverde.jpg)
@@ -1320,11 +1321,13 @@ Linneo la nombró en homenaje al botánico italiano Bartolomeo Maranta (ca. 1500
 ![Calatea Medallion](images/specpscalateamedallion.jpg)
 
 ### Calatea Medallion
-_Goeppertia veitchiana_
+💀 _Goeppertia veitchiana_
 
 _Calathea_ es un género de plantas con flores perteneciente a la familia _Marantaceae_, con alrededor de 60 especies. Originarias de las Américas tropicales, muchas de estas especies son populares como plantas de maceta. Las hojas de _Calathea_ suelen ser grandes y con patrones coloridos con colores como rosa, naranja, rojo y blanco, y envés suele ser morado.
 
 Este género prefiere luz baja o media, y necesitan una humedad alta para imitar su hábitat natural. La especie se introdujo por primera vez como planta de interior en las décadas de 1970 y 1980. Con el paso de los años, las calateas se han convertido en una planta de interior popular gracias a sus atractivas hojas. Debido a la destrucción del hábitat, varias especies están en peligro de extinción.
+
+Por causas desconocidas la planta murió, quizá el invierno de 2025-2026, excepcionalmente frío o por su errónea ubicación en el jardín. En proyecto está crerar una pequeña colección de Calatheas.
 
 _Goeppertia veitchiana_ es endémica de Ecuador, recogida por el recolector de plantas Richard Pearce en 1862.
 
@@ -1420,8 +1423,9 @@ La gibalbera era empleada tradicionalmente en las fiestas de muchos pueblos, tan
 ### Tabaiba roja
 _Euphorbia atropurpurea_
 
-Tabaiba roja, o Tabaiba mejorera o más comúnmente Tabaiuba majorera. A pesar de su nombre vulgar tabaiba majorera, nada tiene que ver con la isla de Fuerteventura. Es endémica de la isla de Tenerife. Se desarrolla entre los 300 a 1100 msnm en el sur y oeste de la isla, desde el valle de Güímar hasta el macizo de Teno, creciendo en barrancos y laderas. Sus flores son llamativas inflorescencias de color rojo-púrpura. En este jardín tiene un crecimiento muy lento.
-Al igual que otras especies del género _Euphorbia_, toda la planta posee un látex de color blanco, pegajoso y tóxico.
+Tabaiba roja, o tabaiba mejorera o más comúnmente tabaiba majorera. A pesar de su nombre vulgar tabaiba majorera, nada tiene que ver con la isla de Fuerteventura, y quizá proviene de una confusión con mejorera, que puede tener su origen en la creencia de mejoraba la leche de las cabras que la consumían. Es endémica de la isla de Tenerife. Se desarrolla entre los 300 a 1100 msnm en el sur y oeste de la isla, desde el valle de Güímar hasta el macizo de Teno, creciendo en barrancos y laderas. Sus flores son llamativas inflorescencias de color rojo-púrpura. En este jardín tiene un crecimiento muy lento.
+
+Al igual que otras especies del género _Euphorbia_, toda la planta tiene un látex de color blanco, pegajoso y tóxico.
 
 Ocasionalmente se hibrida con _Euphorbia lamarckii_, dando lugar a un híbrido denominado _Euphorbia x navae_, y con _Euphorbia aphylla_, generando el híbrido llamado _Euphorbia x petterssonii_. También se ha citado su hibridación con _Euphorbia bourgeana_ en la Ladera de Güímar.
 Este caso es un buen ejemplo de por qué en jardinería con plantas nativas es recomendable usar especies que estén dentro de su área de distribución natural, dado el peligro de contaminación genética que supone el ponerlas en contacto con poblaciones de otras especies de su mismo género. Por ejemplo, ¿qué pasaría si usaras tajinaste rojo, especie de Tenerife, especialmente Las Cañadas del Teide y La Palma (_Echium Wildpretii_) en jardines en la zona del campus de Tafira, en Gran Canaria? ¿Afectaría a las poblaciones endémicas de tajinaste blanco (_Echium decaisnei_). De hecho, ya se considera una especie traslocada a la isla de Gran Canaria, escapada de su uso en jardinería, lo que quizá no haya sucedido aún es esa contaminación genética.
@@ -1475,11 +1479,13 @@ Este parterre debe tener una vegetación más bien baja, para no tapar la perspe
 
 Se han trasladado las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades y se han unido los grupos de Tradescantia. 
 
-Se han plantado pocas especies, (4) en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), relativamente resistentes a la sequía y la insolación. También se ha organizado una rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
+Se han plantado pocas especies, en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), relativamente resistentes a la sequía y la insolación. También se ha organizado una rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
+Una mancha de _Tradescantia pallida_.
 Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas. En pocas semanas ha crecido con energía.
 Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar un grupo más o menos compacto de tallos medianos muy móviles, con floración prolongada.
-Un grupo pequeño de _Anigozanthos_ de color rojizo-rosáceo que se están adaptando muy mal.
+Un grupo pequeño de _Anigozanthos_ de color rojizo-rosáceo que se están adaptando muy mal, y que finalmente desaparecieron, tras dos intentos.
 Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada.
+Un grupo de rhoeo (_Tyradescanta spathacea_).
 
 ![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
 &emsp;&emsp;_Parterre recién plantado, agosto 2025_
