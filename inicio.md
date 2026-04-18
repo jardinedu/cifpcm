@@ -192,7 +192,12 @@ En 2023 han sido descritos al menos 45 endemismos en el Archipiélago. No signif
 Desgraciadamente la fragilidad de los ecosistemas en Canarias también es una realidad. Nuestros endemismos disponen de menos recursos, sus poblaciones son reducidas y, por lo general, carecen de mecanismos de defensa ante depredadores. 
 El cambio climático, la introducción de especies exóticas invasoras (animales y vegetales), la presión humana, la saturación urbanística y el modelo de turistocracia afectan gravemente a las especies endémicas, muchas de ellas en peligro de extinción. 
 
-### Dos ejemplos recientes para llorar: 
+### Tres ejemplos recientes para llorar: 
+
+- El pico de paloma de La Gomera (_Lotus gomerythus_). En la revista [Conservación vegetal, número 24, noviembre 2020. Boletín de la Sociedad Española de Biología de la Conservación de Plantas](https://www.conservacionvegetal.org/wp-content/uploads/2020/12/Conservacion_24.pdf), a partir de la página 30, los protagonistas del descubrimiento cuentan su historia, en febrero de 2016: descubren el único ejemplar conocido de _Lotus gomerythus_. Obviamente la nueva especie necesitó estudios taxonómicos que la confirmaron como tal en 2019. Desde 2019, de ese ejemplar se obtuvieron hasta 50 esquejes pero ninguno sobrevivió. Finalmente en febrero de 2025 ese único ejemplar silvestre se secó y la especie se extinguió con él.
+
+![ L. gomerythus en floración (Foto: J. Martín-Carbajal).](images/02lotusgomerythus.jpg)
+&emsp;&emsp;_ Lotus gomerythus en floración (Foto: Javier Martín-Carbajal)._
 
 - Una de las especies aceptadas en 2023, la [_Mourgona bethencourti_](https://www.molluscabase.org/aphia.php?p=taxdetails&id=1666829) es una babosa marina [encontrada en charcos de Gran Canaria y Tenerife](https://infopuertos.com/hallan-nuevas-especies-de-babosas-marinas-en-pompones-de-algas-de-canarias-y-cabo-verde/). Únicamente se han encontrado **dos** ejemplares en San Miguel de Abona y en Punta de Pasito Blanco, donde fueron localizados en las piedras con algas.
 
