@@ -54,7 +54,7 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 [Diversidad florística en los jardines públicos de la ciudad de La Laguna (Tenerife), Patrimonio de la Humanidad](https://www.museosdetenerife.org/assets/downloads/file-147-6011eda4a3.pdf)
 
-[Charla sobre jardines históricos en Canarias por Dr. Arnoldo Santos](https://youtu.be/gdMhMR-dAIs)
+[Vídeo: Charla sobre jardines históricos en Canarias por Dr. Arnoldo Santos](https://youtu.be/gdMhMR-dAIs)
 
 [Guía de jardinería responsable en la Reserva de la Biosfera de La Palma](https://atajatusmatos.lapalmabiosfera.es/publicaciones/guia/)
 
@@ -82,7 +82,9 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 [Naturaleza y Salud: la infraestructura verde en la transición ecológica de las ciudades, Guía de lectura y recursos de información](https://www.zaragoza.es/contenidos/medioambiente/cda/CONAMA-LOCAL-Zaragoza%202023.pdf)
 
-[Notas taxonómicas y de nomenclatura sobre las Crassulaceae de las Islas Canarias, España] (https://www.researchgate.net/publication/233493330_Taxonomic_and_nomenclatural_notes_on_Crassulaceae_of_the_Canary_Islands_Spain)
+[Notas taxonómicas y de nomenclatura sobre las Crassulaceae de las Islas Canarias, España](https://www.researchgate.net/publication/233493330_Taxonomic_and_nomenclatural_notes_on_Crassulaceae_of_the_Canary_Islands_Spain)
+
+[Vídeo: Mario Mairal Pisa – El Ocaso invisible de la laurisilva. XXVII Jornadas Forestales de Gran Canaria](https://youtu.be/z4OBsSvbLX8)
 
 
 ![Barra verde](images/jard01barraverde.jpg)
