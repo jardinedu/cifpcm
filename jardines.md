@@ -921,7 +921,6 @@ En otoño empieza a recuperar sus hojas y cambia su aspecto. Un par de veces al 
 ***
 
 ![Salado](images/specpsalado.jpg)
-_Salado recién trasplantado, abril 2024 y noviembre 2024_
 
 ### Salado
 _Schizogyne sericea_
