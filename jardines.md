@@ -799,10 +799,12 @@ _Asclepias_ por Asklepios, dios de la Medicina en la mitología griega. _curassa
 &emsp;&emsp;_Diciembre 2024. Apenas dos semanas después de plantar las Asclepias las mariposas ya localizaron  las plantas, pusieron sus huevos y nacieron orugas que empezaron a devorar  las hojas._
 
 **La mariposa monarca**
+
 Esta planta atrae la mariposa monarca, Danaus plexippus, un espectacular insecto, de alas color naranja con líneas negras, fácilmente reconocible.
 La Asclepia es una planta hospedera para esta mariposa: los adultos visitan las flores, posteriormente los gusanos se alimentan de sus hojas y ponen huevos en la planta, reiniciando su ciclo.
 
 **Mariposas, orugas y el veneno de la asclepias**
+
 Las _Asclepias_ son plantas tóxicas. Los colores llamativos amarillo y negro de la oruga y naranja y negro de la mariposa adulta son un aviso (aposematismo o coloración de aviso) de que son tóxicos para la mayoría de los depredadores. Esta estrategia funciona porque la mayoría de los depredadores asocia colores chillones (especialmente naranja, amarillo y negro), con veneno y otras propiedades desagradables.
 La mariposa monarca contiene glucósidos cardíacos en su cuerpo, como resultado de que las orugas comen asclepias; las integran en sus tejidos y son tóxicas, así evitan a sus depredadores. 
 
@@ -810,6 +812,7 @@ Es uno de los pocos insectos que logra realizar travesías transatlánticas. Una
 
 
 **La migración de la Monarca**
+
 Una de las subespecies de la Monarca es especialmente conocida por su larga migración anual, desde Canadá a México.
 La migración de las mariposas monarca americanas (_D. plexippus plexippus_) es la más evolucionada de todas las especies conocidas de su tipo: vuelan hasta 5.000 km desde Estados Unidos y Canadá, donde se reproducen, hasta los bosques del centro de México, donde hibernan. Esta gran migración está bajo amenaza. El cambio climático, tanto en las áreas de hibernación en México como en las áreas de reproducción de verano en Estados Unidos, causa impacto en la migración de la monarca. La deforestación en los bosques mexicanos, la conversión de pastizales en tierras de cultivo, el uso de herbicidas y pesticidas y la reducción de las poblaciones de _Asclepia_ en sus rutas, son factores que se suman creando una tormenta perfecta para estas pequeñas criaturas.
 En julio de 2022, la Unión Internacional para la Conservación de la Naturaleza (UNIC) declaró a la mariposa monarca como una especie en peligro de extinción.
@@ -844,7 +847,6 @@ La revista Espores dedicó un artículo al [acanto en el arte](https://espores.o
 
 ![Evolución parterre](images/jard11evolucionparterre.jpg)
 &emsp;&emsp;_Evolución de uno de los parterres en unos 15 meses_
-
 
 ***
 ***
@@ -1085,6 +1087,23 @@ Hay una interrelación entre la leña buena y los reptiles del género _Gallotia
 
 Tiene propiedades antibacterianas y analgésicas, con un uso medicinal tradicional importante. También tuvo usos en la fabricación de agujas, lanzaderas para telares y utensilios de pequeño tamaño, al ser su madera dura y perdurable.
 
+***
+
+![Cerrajilla](images/specpsonchustcerrajilla2.jpg)
+
+### Cerrajilla
+_Sonchus tenerrimus_
+
+Cerrajilla menuda o cerrajilla, en principio se puede considerar una mala hierba, o planta adventicia: nadie la ha sembrado, nadie decidió dónde y por qué utilizarla, pero no deja de ser una planta interesante por su floración espectacular y también por otros motivos: destaca por su capacidad de colonización de terrenos empobrecidos o alterados por la actividad humana. Es frecuente en bordes de caminos, zonas urbanas degradadas, huertos, márgenes de campo e incluso ambientes salinos cercanos a la costa. En los xerojardines, el _Sonchus tenerrimus_ surge de forma espontánea y tiene múltiples ventajas ecológicas: protege el suelo de la erosión, fomenta la biodiversidad al atraer insectos polinizadores y sirve de alimento para aves y otros animales. Es verdad que hay que controlar que no invada sario controlar su expansión, ya que puede brotar entre las juntas del pavimento o sitios poco deseados, pero su mantenimiento es mínimo y su valor ecológico notable.
+
+Es una nativa de Canarias, no endémica ya que se extiende por todo el Mediterráneo, parte de África y hasta Pakistán.
+
+_Sonchus tenerrimus_ fue descrita por Carlos Linneo y publicado ya en _Species Plantarum_, y utilizó nombres muy antiguos:
+- _Sonchus_ viene del nombre griego de estas plantas, y ya aparece en la _Historia Naturalis_ de Plinio el Viejo.
+- _tenerrimus_: del latín tenerrimus: tierno, delicado, por sus hojas fina y estrechamente lobuladas. Ya en Ovidio en _Ars Amandi_ usa este nombre.
+
+![Primavera 2026 jardines del patio](images/primavera2026patio.jpg)
+_Cerrajilla mezclada de forma natural con magarzas y lavandas. primavera 2026_
 
 
 ![Barra verde](images/jard01barraverde.jpg)
@@ -1361,6 +1380,15 @@ La _Canarina_ fue uno de los primeros endemismos canarios reconocido como tal po
 ![Canarinas silvestres](images/jard12canarinassilvestres.jpg)
 &emsp;&emsp;_Canarinas silvestres en el Monte del Agua. Los Silos, Tenerife._
 
+
+**Historia del género Canarina**
+
+En las _XXVII Jornadas Forestales de Gran Canaria_ celebradas en 2020 Mario Mairal dio una interesante charla online donde desarrolló una tesis sobre el uso de la _Canarina_ como especie central para un plan de protección y recuperación de la laurisilva en una zona de protección que incluya a las tres paleoislas de Tenerife. Desarrolló la historia de la especie, desde sus inicios en Asia hasta su expansión en África septentrional, actual Sahara, para luego retroceder hasta enclaves en la periferia de esa gran distribución.
+
+![Distribución del género Canarina](images/mapadistribucioncanarina.jpg)
+
+Recomendable ver la ponencia: [Mario Mairal Pisa – El Ocaso invisible de la laurisilva](https://youtu.be/z4OBsSvbLX8?si=heW8fnri1-bbs37E)
+
 ***
 
 ![Gibalbera](images/specpssemele.jpg)
@@ -1384,11 +1412,11 @@ La gibalbera era empleada tradicionalmente en las fiestas de muchos pueblos, tan
 
 ![Tabaiba roja](images/specpeuforbiaatropurpurea.jpg)
 
-### Tabaiba majorera
+### Tabaiba roja
 _Euphorbia atropurpurea_
 
-A pesar de su nombre vulgar, tabaiba majorera, nada tiene que ver con la isla de Fuerteventura. Es endémica de la isla de Tenerife. Se desarrolla entre los 300 a 1100 msnm en el sur y oeste de la isla, desde el valle de Güímar hasta el macizo de Teno, creciendo en barrancos y laderas. Sus flores son llamativas inflorescencias de color rojo-púrpura. En este jardín tiene un crecimiento muy lento.
-Al igual que otras especies del género _Euphorbia_, toda la planta posee un látex de color blanco, pegajoso y detóxico.
+Tabaiba roja, o Tabaiba mejorera o más comúnmente Tabaiuba majorera. A pesar de su nombre vulgar tabaiba majorera, nada tiene que ver con la isla de Fuerteventura. Es endémica de la isla de Tenerife. Se desarrolla entre los 300 a 1100 msnm en el sur y oeste de la isla, desde el valle de Güímar hasta el macizo de Teno, creciendo en barrancos y laderas. Sus flores son llamativas inflorescencias de color rojo-púrpura. En este jardín tiene un crecimiento muy lento.
+Al igual que otras especies del género _Euphorbia_, toda la planta posee un látex de color blanco, pegajoso y tóxico.
 
 Ocasionalmente se hibrida con _Euphorbia lamarckii_, dando lugar a un híbrido denominado _Euphorbia x navae_, y con _Euphorbia aphylla_, generando el híbrido llamado _Euphorbia x petterssonii_. También se ha citado su hibridación con _Euphorbia bourgeana_ en la Ladera de Güímar.
 Este caso es un buen ejemplo de por qué en jardinería con plantas nativas es recomendable usar especies que estén dentro de su área de distribución natural, dado el peligro de contaminación genética que supone el ponerlas en contacto con poblaciones de otras especies de su mismo género. Por ejemplo, ¿qué pasaría si usaras tajinaste rojo, especie de Tenerife, especialmente Las Cañadas del Teide y La Palma (_Echium Wildpretii_) en jardines en la zona del campus de Tafira, en Gran Canaria? ¿Afectaría a las poblaciones endémicas de tajinaste blanco (_Echium decaisnei_). De hecho, ya se considera una especie traslocada a la isla de Gran Canaria, escapada de su uso en jardinería, lo que quizá no haya sucedido aún es esa contaminación genética.
@@ -1421,6 +1449,10 @@ Es interesante el artículo [Notas taxonómicas y de nomenclatura sobre las Cras
 &emsp;&emsp;_Flores de _Aichryson laxum_ var. _latipetalum_. Dibujos de Carlos M Rodríguez Hernández_
 
 Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasuláceas_ visitó Canarias en 1924 y 1926 para llevar a cabo una revisión sistemática de los géneros _Greenovia_, _Aeonium_, _Monanthes_ y _Aichryson_. Entre 1926 y 1930 publica una serie de artículos científicos sobre este grupo de plantas y en 1932 su libro _An Account of the Sempervivum Group_ fue publicado por The Royal Horticultural Society London. En el libro Praeger cataloga 62 especies en los cuatro géneros en Macaronesia y también comenta la existencia de numerosos híbridos naturales. Su monografía es una de las publicaciones más interesantes sobre la flora canaria del siglo XX. 
+
+![Aichryson](images/aychrisonenflor.jpg)
+&emsp;&emsp;_Floración en primavera 2026_
+
 
 ![Barra verde](images/jard01barraverde.jpg)
 
