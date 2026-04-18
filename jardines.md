@@ -36,22 +36,24 @@ Actualmente (2025) hay aproximadamente un 50% de especies nativas de Canarias, u
 ### Drago
 _Dracaena draco_
 
-En el centro del jardín tenemos un drago. No es realmente un árbol, su tronco no es de madera sino la acumulación de las cicatrices de sus antiguas hojas, más o menos como las palmeras (ambas son monocotiledóneas). Las estimaciones de edad de los dragos se han basado en el conteo de ramas, aunque es un método poco exacto. Aplicándolo a nuestro drago su edad aproximada (unos 15 años por cada vez que ha florecido y se ha ramificado) debe ser al menos 30 años.
+En el centro del jardín tenemos un drago. 
+Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dragón. En la Edad Media su savia de color rojizo se asociaba a la mítica sangre de dragón, de propiedades mágicas.
+
+El drago no es realmente un árbol, su tronco no es de madera sino la acumulación de las cicatrices de sus antiguas hojas, más o menos como las palmeras (ambas son monocotiledóneas). Las estimaciones de edad de los dragos se han basado en el conteo de ramas, aunque es un método poco exacto. Aplicándolo a nuestro drago su edad aproximada (unos 15 años por cada vez que ha florecido y se ha ramificado) debe ser al menos 30 años.
 
 Estas dataciones poco exactas pueden estar cambiando. Hay estudios recientes, además realizados en Canarias, que establecen nuevos métodos de datación de las monocotiledóneas. En equipo de Franco Biondi, de la Universidad de Nevada, Reno, USA, con un equipo que incluía investigadores de la ULPGC, llevó a cabo un estudio de dragos y palmeras en Canarias, publicado en 2023 en el boletín [Plants](https://www.mdpi.com/journal/plants) [Longevity Estimates of Canary Palms and Dragon Trees via Radiocarbon Dating: Initial Results](https://accedacris.ulpgc.es/bitstream/10553/128675/1/plants-13-00045.pdf).
 
 > Estimar correctamente la esperanza de vida máxima de las especies vegetales es fundamental para los estudios demográficos y de historia de vida, necesarios para comprender los impactos climáticos. Las monocotiledóneas arbóreas, que pueden alcanzar más de 30 m de altura y más de 5 m de perímetro de tronco, son difíciles de datar debido a que no presentan dormancia estacional; por lo tanto, su longevidad se ha estimado mediante diversos métodos basados ​​en el tamaño. En este estudio, se evaluó la datación por radiocarbono (¹⁴C) con espectrometría de masas con acelerador (AMS) como herramienta complementaria para determinar la edad de dos monocotiledóneas emblemáticas: la palmera canaria y el drago ... Gracias a la constante mejora de las herramientas de espectrometría de masas con carbono 14 (14C-AMS), estas pueden contribuir a perfeccionar el conocimiento científico existente sobre la megaflora carismática de la Macaronesia.
 
 ![Ejemplares estudio 2023](images/spectdragobiondi.jpg)
-_Dragos y palmeras de los que se tomaron muestras en el estudio del equipo de Biondi_
+&emsp;&emsp;_Dragos y palmeras de los que se tomaron muestras en el estudio del equipo de Biondi_
 
 En las Islas Canarias encontramos al drago en la naturaleza en barrancos y medianías, aunque su hábitat favorito es -mala suerte- justo la zona dónde ahora están la mayoría de los pueblos: las medianías. Los indígenas y los primeros colonizadores europeos debieron poder pasar entre bosques de dragos, dragonales. Hoy quedan, en la naturaleza, unos pocos grupos de dragos salvajes, y ejemplares aislados en barrancos. Muchos topónimos nos hablan de dragos, algunos que servían precisamente como referencias geográficas: Barranco del Drago, Lomo del Drago, El Draguillo, etc. En en Gran Canaria los topónimos Dragonal Bajo y Dragonal Alto recuerdan que por allí, en el Barranco de Guiniguada, muy cerca del Jardín Canario, debió haber un bosque de dragos.
 
 ![Dragonal Gran Canaria](images/jard04dragonalgrancanaria.jpg)
 &emsp;&emsp;_Mapa de Dragonal y antigua postal de la zona: Barranco de Guiniguada_
 
-Tenerife es la isla con un mayor número de poblaciones naturales que se encuentra sobre todo en las zonas geológicamente más antiguas de esta isla, destacando el Macizo de Anaga, Macizo de Teno y Adeje. En La Palma destacan los bosquetes de dragos de Las Tricias y Buracas. En Gran Canaria hay algunos dragos silvestres y se identificó, en 1990, una nueva especie denomina drago de Gran Canaria _Dracaena tamaranae_. El hallazgo de esta especie se cuenta [en este artículo](https://pellagofio.es/islas/naturaleza-y-territorio/flora-y-fauna/la-primera-floracion-veinte-anos-despues/). Actualmente deben quedar alrededor de 70-80 ejemplares silvestres en la isla, además de otros en el Jardín Canario, de semillas recolectadas. Un artículo interesante:  [Los dragos del archipiélago canario](https://www.rinconesdelatlantico.es/num6/lector.php?id=142) por Rafael S. Almeida, en la revista Rincones del Atlántico.
-
+Tenerife es la isla con un mayor número de poblaciones naturales que se encuentra sobre todo en las zonas geológicamente más antiguas de esta isla, destacando el Macizo de Anaga, Macizo de Teno y Adeje. En La Palma destacan los bosquetes de dragos de Las Tricias y Buracas. 
 Primos del drago son los Troncos de Brasil, esa planta inmortal que siempre  has visto en la oficina donde vas a sacar un certificado. También son de la familia los preciosos árboles-drago de la isla de Socotra, en el este de África (y que quizá desaparezcan debido al calentamiento global).
 
 ![Raised by wolves](images/jard04socotra.jpg)
@@ -63,10 +65,13 @@ El estudio [La ilustración científica de la Dracaena draco de Canarias (1576-1
 ![Drago ilustraciones](images/jard04ilustracionesdrago.jpg)
 &emsp;&emsp;_El Bosco, El jardín de las delicias, 1500-1505. | Sergent-Marceau, 1832, para Histoire Naturelle des Îles Canaries. | Marianne North, Drago San Juan de la Rambla, 1875._
 
-Su nombre científico, _Dracaena draco_, proviene de la raíz latina _Draco_, dragón. En la Edad Media su savia de color rojizo se asociaba a la mítica sangre de dragón, de propiedades mágicas.
+**Dragos de Gran Canaria**
+En Gran Canaria hay algunos dragos silvestres. Después de tantos siglos, se identificó, en 1990, una nueva especie denomina drago de Gran Canaria _Dracaena tamaranae_. 
+El hallazgo de esta especie es para mí una historia casi increíble: se cuenta [en este artículo](https://pellagofio.es/islas/naturaleza-y-territorio/flora-y-fauna/la-primera-floracion-veinte-anos-despues/). Actualmente deben quedar alrededor de 70-80 ejemplares silvestres en la isla, además de otros en el Jardín Canario, de semillas recolectadas. 
+
+Un artículo interesante:  [Los dragos del archipiélago canario](https://www.rinconesdelatlantico.es/num6/lector.php?id=142) por Rafael S. Almeida, en la revista Rincones del Atlántico.
 
 Oficialmente el drago es el símbolo vegetal oficial de la isla de Tenerife. Obviamente a la especie, que pudo llegar a las Islas hace 10 millones de años (en el Mioceno) esto poco le importa.
-
 
 ***
 
@@ -226,7 +231,7 @@ La palabra _balo_ se considera prehispánica, se recoge en el [Diccionario hist�
 
 _Plocama_ podría proceder del griego _plochamos_, que significa cestería, aludiendo a sus ramillas intrincadas. _Pendula_ del latín _pendulus_, colgante, en referencia a sus ramas, que tienen un aspecto similar al del sauce llorón.
 
-Estos datos y más se recogen en la extensa [ficha sobre la _Plocama pendula_](https://www.conecte.es/media/com_concibe/files/Plocama%20pendula.pdf) dentro del Inventario Español de los Conocimientos Tradicionales relativos a la Biodiversidad, IECTB](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-espanol-de-los-conocimientos-tradicionales/inventario_esp_conocimientos_tradicionales.html), promovido por el Ministerio de Agricultura, Alimentación y Medio Ambiente. Otra forma de ver estos datos es en [su ficha](https://www.conecte.es/index.php/es/plantas/1710-plocama-pendula/usos-tradicionales).
+Estos datos y más se recogen en la extensa [ficha sobre la _Plocama pendula_](https://www.conecte.es/media/com_concibe/files/Plocama%20pendula.pdf) dentro del [Inventario Español de los Conocimientos Tradicionales relativos a la Biodiversidad, IECTB](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-espanol-de-los-conocimientos-tradicionales/inventario_esp_conocimientos_tradicionales.html), promovido por el Ministerio de Agricultura, Alimentación y Medio Ambiente. Otra forma de ver estos datos es en [su ficha](https://www.conecte.es/index.php/es/plantas/1710-plocama-pendula/usos-tradicionales).
 
 ![Inventario](images/jard05portadainventarioconocimientos.jpg)
 
