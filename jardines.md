@@ -854,6 +854,9 @@ La revista Espores dedicó un artículo al [acanto en el arte](https://espores.o
 ![Evolución parterre](images/jard11evolucionparterre.jpg)
 &emsp;&emsp;_Evolución de uno de los parterres en unos 15 meses_
 
+![Primavera 2026](images/jard11abril2026.jpg)
+&emsp;&emsp;_Un invierno muy lluvioso y la propia evolución del jardín: primavera 2026_
+
 ***
 ***
 
