@@ -183,7 +183,9 @@ _(Texto basado en el [artículo de Arnoldo Santos](https://www.rinconesdelatlant
 ### Hijuela del Botánico
 
 La Hijuela del Botánico, conocido simplemente como La Hijuela, es un espacio público ajardinado en la parte trasera del Ayuntamiento de la Villa de La Orotava. Fue creado en 1788 por iniciativa del VI Marqués de Villanueva del Prado, Alonso de Nava y Grimón, quien lo concibió como un centro complementario del Jardín de Aclimatación de la Orotava, que se encuentra en el municipio del Puerto de la Cruz. Este jardín, está ubicado en el que fue el huerto del antiguo convento de San José, en la trasera del actual Ayuntamiento. Alberga numerosas especies de plantas y árboles de todos los continentes.
+
 ***
+
 ## Jardín Botánico de El Portillo “Wolfredo Wildpret”
 
 ![Vista del jardín con el teide al fondo](images/0918portilloteide.jpg)
@@ -194,7 +196,9 @@ Este jardín, integrado dentro del Parque Nacional del Teide, ocupa una parcela 
 
 Están representadas más del 75% de las especies superiores que alberga el Parque Nacional. Existen además laboratorios con cámaras de germinación y banco de germoplasma, desarrollando un programa de recuperación de especies en peligro de extinción. En el vivero del Jardín Botánico de El Portillo se desarrolla todo el ciclo de la planta: la selección de semillas, crecimiento en invernaderos y en zonas de acondicionamiento climático, la plantación controlada y protegida y la definitiva cuando adquiera el porte necesario para su supervivencia.
 El Jardín Botánico de El Portillo se denomina desde 2024 ‘Jardín Botánico Wolfredo Wildpret’, en homenaje al biólogo y catedrático de Botánica de la Universidad de La Laguna.
+
 ***
+
 ## Jardín Sitio Litre
 [Sitio web](https://jardindeorquideas.com/historia/)
 
@@ -257,6 +261,8 @@ Esta es la lista completa de pinturas de Tenerife:
 ![Pintura 514](images/0932pintura514.jpg)
 &emsp;&emsp;_Pintura Número 514. Vista del Puerto de Orotava, Tenerife, desde el Sitio del Pardo.
 En término medio se ve la mansión de Sitio Litre con su característico mirador hexagonal  y su drago._
+
+***
 
 ## Plazas y parques en Santa Cruz y La Laguna
 
