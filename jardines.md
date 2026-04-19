@@ -392,7 +392,7 @@ Desde los primeras años del siglo XX surgieron iniciativas proponiendo el culti
 &emsp;&emsp;_Restos de cultivos de piteras cerca de La Oliva, Fuerteventura, 2020_
 
 
-💀 Debido a su potencial colonizador y constituir una amenaza grave para las especies autóctonas, los hábitat o los ecosistemas, esta especie ha sido incluida en el [Catálogo Español de Especies Exóticas Invasoras](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-exoticas-invasoras/ce-eei-catalogo.html). Este ejemplar ya se encontraba en el jardín y está controlado pero si desaparece lo hay que plantearse una alternativa.
+💀 Debido a su potencial colonizador y constituir una amenaza grave para las especies autóctonas, los hábitat o los ecosistemas, esta especie ha sido incluida en el [Catálogo Español de Especies Exóticas Invasoras](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-exoticas-invasoras/ce-eei-catalogo.html). Este ejemplar ya se encontraba en el jardín y está controlado pero no debería volverse a introducir. Parece un tanto inútil, ya que los agaves, aunque sin tener el potencial invasor de otras especies, como el rabo de gato, constituyen parte de lo que reconocemos como paisaje natural de nuestras islas.
 
 ***
 
