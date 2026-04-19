@@ -26,7 +26,7 @@ El jardín inicial de flora canaria que se recuperó (el de los Talleres) necesi
 Igual que las plantas, los proyectos crecen: luego ha venido el trabajo con más parterres, con otros problemas, otros objetivos y otros retos.
 
 Me llamo Jose, profesor del Centro. Siempre me ha gustado cuidar de las plantas, desde mis años en Bachillerato donde coleccionaba plantas nativas canarias en la azotea de mi casa hasta el jardín que trabajé y disfruté muchos años, en mi casa natal en Güímar. En este documento te hablaré del desarrollo de los jardines del CIFP desde 2018, con una guía de especies y datos sobre ellas que me parecen suficientemente interesantes. 
-Si quieres contactar conmigo escribe a: correoprofe@proton.me
+Si quieres contactar conmigo puedes escribirme a: correoprofe@proton.me
 
 ![Ubicaciones de los jardines](images/01esquemajardineslogonov2025peq.jpg)
 
@@ -194,7 +194,7 @@ El cambio climático, la introducción de especies exóticas invasoras (animales
 
 ### Tres ejemplos recientes para llorar: 
 
-- El pico de paloma de La Gomera (_Lotus gomerythus_). En la revista [Conservación vegetal, número 24, noviembre 2020. Boletín de la Sociedad Española de Biología de la Conservación de Plantas](https://www.conservacionvegetal.org/wp-content/uploads/2020/12/Conservacion_24.pdf), a partir de la página 30, los protagonistas del descubrimiento cuentan su historia, en febrero de 2016: descubren el único ejemplar conocido de _Lotus gomerythus_. Obviamente la nueva especie necesitó estudios taxonómicos que la confirmaron como tal en 2019. Desde 2019, de ese ejemplar se obtuvieron hasta 50 esquejes pero ninguno sobrevivió. Finalmente en febrero de 2025 ese único ejemplar silvestre se secó y la especie se extinguió con él.
+- El pico de paloma de La Gomera (_Lotus gomerythus_). En la revista [Conservación vegetal, número 24, noviembre 2020. Boletín de la Sociedad Española de Biología de la Conservación de Plantas](https://www.conservacionvegetal.org/wp-content/uploads/2020/12/Conservacion_24.pdf), a partir de la página 30, los protagonistas del descubrimiento cuentan su historia, en febrero de 2016: descubren el único ejemplar conocido de _Lotus gomerythus_. Obviamente la nueva especie necesitó estudios taxonómicos que la confirmaron como tal en 2019. Desde 2019, de ese ejemplar se obtuvieron hasta 50 esquejes pero ninguno sobrevivió. Finalmente en febrero de 2025 ese único ejemplar silvestre, aislado en lo alto de un roque casi inaccesible, se secó y la especie se extinguió con él. 
 
 ![ L. gomerythus en floración (Foto: J. Martín-Carbajal).](images/02lotusgomerythus.jpg)
 &emsp;&emsp;_Lotus gomerythus en floración (Foto: Javier Martín-Carbajal)._
@@ -204,7 +204,7 @@ El cambio climático, la introducción de especies exóticas invasoras (animales
 ![Babosa y lagarto](images/02babosaylagarto.jpg)
 &emsp;&emsp;_Mourgona bethencourti. Foto: Leopoldo Moro. | Gallotia galloti, La Palma. Foto: Uwe22 CC BY-SA 3.0_
 
-- En los últimos años, la población de lagarto gigante de Tenerife _Gallotia intermedia_, se ha reducido de manera significativa por la proliferación de gatos asilvestrados. Una investigación de la ULL sobre la dieta de los felinos (gatos, no hay tros felinos en estas islas) ha descubierto que ahora se alimentan el triple de estos reptiles. Se estima que, si la situación no mejora, la especie se extinguirá en 10 o 15 años. (Con la indiferencia de La Ley de Bienestar Animal, de 2023, que especifica niveles de protección para los gatos asilvestrados). Se puede leer más sobre la amenaza que suponen los gatos a la fauna, especialmente en la islas, en el documento [Gatos en islas. Un problema global de conservación. CSIC 2016](https://digital.csic.es/bitstream/10261/215154/1/Cat-Nogales-2016-ElinDiferente.pdf).
+- En los últimos años, la población de lagarto gigante de Tenerife _Gallotia intermedia_, se ha reducido de manera significativa por la proliferación de gatos asilvestrados. Una investigación de la ULL sobre la dieta de los felinos (gatos, no hay otros felinos en estas islas) ha descubierto que ahora se alimentan el triple de estos reptiles. Se estima que, si la situación no mejora, la especie se extinguirá en 10 o 15 años. (Con la indiferencia de La Ley de Bienestar Animal, de 2023, que especifica niveles de protección para los gatos asilvestrados). Se puede leer más sobre la amenaza que suponen los gatos a la fauna, especialmente en la islas, en el documento [Gatos en islas. Un problema global de conservación. CSIC 2016](https://digital.csic.es/bitstream/10261/215154/1/Cat-Nogales-2016-ElinDiferente.pdf).
 
 ![Impacto gatos islas](images/02graficoimpactogatosislascsic.jpg)
 
