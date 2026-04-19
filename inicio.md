@@ -197,12 +197,12 @@ El cambio climático, la introducción de especies exóticas invasoras (animales
 - El pico de paloma de La Gomera (_Lotus gomerythus_). En la revista [Conservación vegetal, número 24, noviembre 2020. Boletín de la Sociedad Española de Biología de la Conservación de Plantas](https://www.conservacionvegetal.org/wp-content/uploads/2020/12/Conservacion_24.pdf), a partir de la página 30, los protagonistas del descubrimiento cuentan su historia, en febrero de 2016: descubren el único ejemplar conocido de _Lotus gomerythus_. Obviamente la nueva especie necesitó estudios taxonómicos que la confirmaron como tal en 2019. Desde 2019, de ese ejemplar se obtuvieron hasta 50 esquejes pero ninguno sobrevivió. Finalmente en febrero de 2025 ese único ejemplar silvestre se secó y la especie se extinguió con él.
 
 ![ L. gomerythus en floración (Foto: J. Martín-Carbajal).](images/02lotusgomerythus.jpg)
-&emsp;&emsp;_ Lotus gomerythus en floración (Foto: Javier Martín-Carbajal)._
+&emsp;&emsp;_Lotus gomerythus en floración (Foto: Javier Martín-Carbajal)._
 
 - Una de las especies aceptadas en 2023, la [_Mourgona bethencourti_](https://www.molluscabase.org/aphia.php?p=taxdetails&id=1666829) es una babosa marina [encontrada en charcos de Gran Canaria y Tenerife](https://infopuertos.com/hallan-nuevas-especies-de-babosas-marinas-en-pompones-de-algas-de-canarias-y-cabo-verde/). Únicamente se han encontrado **dos** ejemplares en San Miguel de Abona y en Punta de Pasito Blanco, donde fueron localizados en las piedras con algas.
 
 ![Babosa y lagarto](images/02babosaylagarto.jpg)
-&emsp;&emsp;_Mourgona bethencourti. Foto: Leopoldo Moro. | Gallotia galloti en La Palma. Foto: Uwe22 CC BY-SA 3.0_
+&emsp;&emsp;_Mourgona bethencourti. Foto: Leopoldo Moro. | Gallotia galloti, La Palma. Foto: Uwe22 CC BY-SA 3.0_
 
 - En los últimos años, la población de lagarto gigante de Tenerife _Gallotia intermedia_, se ha reducido de manera significativa por la proliferación de gatos asilvestrados. Una investigación de la ULL sobre la dieta de los felinos (gatos, no hay tros felinos en estas islas) ha descubierto que ahora se alimentan el triple de estos reptiles. Se estima que, si la situación no mejora, la especie se extinguirá en 10 o 15 años. (Con la indiferencia de La Ley de Bienestar Animal, de 2023, que especifica niveles de protección para los gatos asilvestrados). Se puede leer más sobre la amenaza que suponen los gatos a la fauna, especialmente en la islas, en el documento [Gatos en islas. Un problema global de conservación. CSIC 2016](https://digital.csic.es/bitstream/10261/215154/1/Cat-Nogales-2016-ElinDiferente.pdf).
 
