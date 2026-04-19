@@ -307,12 +307,17 @@ Finalmente después de una floración al cabo del primer año desapareció.
 ### Cornical
 _Periploca laevigata_
 
-Es un arbusto de tallos muy entrelazados unos con otros, de estrechas hojas lanceoladas y opuestas¡. El fruto de entre 5 y 10 cm de longitud tiene de cuernos opuestos, de ahí su nombre vulgar. Las semillas son de color pardo con un penacho de pelos blancos que las hace volar en el viento. 
-Crece en terrenos volcánicos o calizos, pedregosos  secos, próximos al mar, en comunidades de tabaibal-cardonal o matorral, entre 5 y los 50 msnm. de altitud. 
+Es un arbusto de tallos muy entrelazados unos con otros, de estrechas hojas lanceoladas y opuestas¡. El fruto de entre 5 y 10 cm de longitud tiene forma de cuernos opuestos, de ahí su nombre vulgar cornical. Las semillas son de color pardo con un penacho de pelos blancos que las hace volar en el viento. 
+Crece en terrenos volcánicos o calizos, pedregosos  secos, próximos al mar, en comunidades de tabaibal-cardonal o matorral, entre 5 y los 50 msnm. de altitud. Suele buscar una planta cercana arbustiva que utiliza como soporte para enredar sus ramas, por ejemplo lo puedes encontrar dentro de un cardón, enredado en sus brazos. Este ejemplar suele prolongar ramas hacia el senecio cercano, buscando soporte. Cuando despejé este cornical de un cactus que lo asfixiaba le construi un soporte triangular de hierros a unos 40cm. del suelo, que le ha permitido tener una forma casi arbustiva.
 
-Además de en las Islas Canarias se distribuye por el norte de África y sureste de España. En la península ibérica  está en la Región de Murcia, Almería y parte de Alicante. 
+Además de en las Islas Canarias se distribuye por otras islas macaronésicas (Salvajes y Cabo Verde) el norte de África (Siria, Egipto, Libia, Túnez, Argelia y Marruecos) y sureste de España. En la península ibérica  está en la Región de Murcia, Almería y parte de Alicante. 
 
-_Periploca laevigata_ fue descrita por el botánico William Aiton y publicado en Hortus Kewensis. Este libro de 1789 era un catálogo de 1789 de todas las especies de plantas y luego en cultivo en el Royal Botanic Gardens, Kew, que eran la gran mayoría de las especies de plantas en el cultivo de toda Inglaterra.
+Para algunos autores existen tres especies de cornical en el área que comprende el Mediterráneo occidental y las islas macaronésicas. Las poblaciones del Mediterráneo y noroeste de África serían _Periploca angustifolia Labill._, diferente a la especie canaria _P. laevigata_ y a la de las islas de Cabo Verde._P. chevalieri_. Estudios más recientes, sin embargo, consideran una sola especie, _P. laevigata_ a pesar de la gran variación en algunos rasgos (por ejemplo, forma o tamaño de la hoja, etc.).
+
+![Periplocas](images/jard05periplocas.jpg)
+&emsp;&emsp;_Periplocas en Chã das Caldeiras, Isla de Fogo. Foto: Ji-Elle, y en Parque Natural Cabo de Gata, Andalucía. Foto: Krzysztof Ziarnek, Kenraiz. Ambas fotos bajo licencia CC:BySa._
+
+_Periploca laevigata_ fue descrita por el botánico William Aiton y publicado en _Hortus Kewensis_. Este libro de 1789 era un catálogo de 1789 de todas las especies de plantas y luego en cultivo en el Royal Botanic Gardens, Kew, que eran la gran mayoría de las especies de plantas en el cultivo de toda Inglaterra.
 
 Del griego _periploke_, abrazo, por cómo se enredan en sí mismo y también en plantas cercanas. De esa misma raiz viene la palabra periplo, un largo viaje, recorrido o circunnavegación que por lo general regresa al punto de partida.  _laevigata_ viene del latín liso.
 
