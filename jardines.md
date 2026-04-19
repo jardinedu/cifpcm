@@ -611,6 +611,11 @@ Una planta que ya estaba en el jardín, y con los cuidados se ha ido extendiendo
 
 Tiene como nombres comunes _amor de hombre_ o _purpurina_. Es originaria de México, y su nombre científico _Tradescantia pallida_ es un homenaje a Sir John Tradescant (hijo), botánico inglés, quien trajo a Europa, entre otras especies, las magnolias.
 
+![Herbario TYradescantia p.](images/jard10TradescantiapallidaPalmerRose1907.jpg)
+
+Los primeros ejemplares de _Tradescantia pallida_ identificados. Fueron recogidos por el explorador, botánico y arqueólogo Edward Palmer mientras trabajaba para el Smithsonian, en el estado de Tamaulipas, México, en 1907 y descritos por el botánico Joseph Nelson Rose en 1911. Se pueden ver en las [Colecciones Botánicas del Museo Nacional de Historia Natural](https://collections.nmnh.si.edu/search/botany/), perteneciente al Smithsonian. 
+
+
 ***
 
 ![Tecoma](images/specptecoma.jpg)
