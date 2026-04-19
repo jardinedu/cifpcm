@@ -299,14 +299,14 @@ Encontramos especies endémicas o macaronésicas, de origen asiático, australia
 
 # Apéndice 2: Otros proyectos, otras ideas
 
-Además del cuidado de los parterres construidos para jardines surgen ideas que van un poco más allá de la mera jardinería y entran dentro de los copnceptos de renaturalización y der estrategias para enfgrentarse a los nuevos retos climáticos.
+Además del cuidado de los parterres construidos para jardines surgen ideas que van un poco más allá de la mera jardinería y entran dentro de conceptos de renaturalización y de estrategias para enfrentarse a los nuevos retos climáticos.
 
 ![Otros proyectos](images/01esquemaotrosjardineslogonov2025peq.jpg)
 
 
 ## 1. Parque norte
 
-Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmeras altas, un drago con mal desarrollo y varios frutales: nisperero, granado, limonero, naranjo, romero. Todo en un estado de abandono.
+Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmeras altas, un drago con mal desarrollo y varios frutales: nisperero, granado, limonero, naranjo, romero. Todo en un estado de un cierto abandono.
 
 ![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
 
@@ -327,7 +327,7 @@ El lugar puede tener un gran potencial. Simplemente haciendo algo de mantenimien
 
 ## 2. Parque sur - proyecto de renaturalización
 
-El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosaico, con escaleras, una fuente (seca, en desuso), algunos bancos, y muy escasa vegetación. Hay algunas ideas de uso del espacio, pero su ubicación, dimensiones y perspectivas climáticas futuras abren la imaginación a pensar en si su renaturalización sería una opción posible.
+El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosaico, con escaleras, una fuente (seca, en desuso hace muchos años), algunos bancos, y muy escasa vegetación. Hay algunas ideas de uso del espacio, pero su ubicación, dimensiones y perspectivas climáticas futuras abren la imaginación a pensar en si su renaturalización sería una opción posible.
 
 ![Patios sur](images/jard20parquesurvistas1025.jpg)
 
