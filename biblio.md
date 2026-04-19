@@ -317,11 +317,8 @@ Esta zona tiene el potencial de ser un lugar donde el alumnado pueda estar, pase
 
 El lugar puede tener un gran potencial. Simplemente haciendo algo de mantenimiento y disfrutando de su estado semi-natural. Tras una mínima limpieza de troncos secos, podas y retirada de y basuras diversas, despues de un invierno muy lluvioso, en primavera 2026 se convirtió en una espectacular pradera de cerrajillas y cardos, puntuada con los árboles que se empiezan a recuperar. Es un momento casi efímero pero puede indicar una opción para tratar ese sitio.
 
-![Parque norte abril 2026](images/jard20parquenortevistas1025.jpg)
+![Parque norte abril 2026](images/jard20parquenortevistasabr2026.jpg)
 &emsp;&emsp;_Flores silvestres en abril 2026_
-
-![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
-&emsp;&emsp;_Estado de la zona en octubre 2025_
 
 ![Barra verde](images/jard01barraverde.jpg)
 
