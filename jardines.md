@@ -106,7 +106,7 @@ Esta investigación, que nos muestra qué direcciones pueden seguir las investig
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11082519/)
 
 ![mapaeuforbias](images/jard04mapaeuforbias.jpg)
-&emsp;&emsp;_E. balsamifera_ (círculos), _E. adenensis_ (rombos) y _E. sepium (triángulos)_ en África_  | _Poblaciones de _E. balsamifera_ estudiadas en las Islas Canarias._
+&emsp;&emsp;_E. balsamifera (círculos), E. adenensis_ (rombos) y E. sepium (triángulos) en África  | Poblaciones de E. balsamifera estudiadas en las Islas Canarias._
 
 
 ***
