@@ -363,7 +363,7 @@ _Agave attenuata_
 También llamado ágave atenuado, ágave del dragón o cuello de cisne, es una especie suculenta perteneciente a la familia de las agaváceas. Es originaria de México, raro en el medio natural pero muy popular en jardinería.
 Es una planta monocárpica, es decir, que florece una sola vez en su vida y luego muere (muere esa planta pero siguen creciendo todos los brotes a su alrededor). La floración es espectacular, con flores amarillas verdosas agrupadas en una densa inflorescencia, que alcanza los 3 m de altura, en principio vertical, pero que después cuelga, de forma muy característica.
 
-En este Centr también hay una gran colonia de ágaves en un parterre entre los pabellones 3 y 4. En diciembre 2025 han florecido algunos ejemplares por primera vez en muchos años.
+En este Centro también hay una gran colonia de ágaves en un parterre entre los pabellones 3 y 4. En diciembre 2025 han florecido algunos ejemplares por primera vez en muchos años.
 
 ![Agave en flor](images/jard082025agavesenflor.jpg)
 &emsp;&emsp;_Ágaves florecidos en diciembre 2025_
