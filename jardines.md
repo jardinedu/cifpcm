@@ -664,13 +664,17 @@ Son pequeños arbustos, de alrededor de 1m. de altura, de color verde oscuro, re
 ***
 
 ![Romero](images/specpromero.jpg)
-_Romero recién plantado, verano 2025, y tres meses después_
+_Romero recién plantado, verano 2025_
 
 ### Romero
 _Salvia rosmarinus_ (hasta hace pocos años se llamaba _Rosmarinus officinalis_)
 
 El romero es un arbusto aromático, leñoso, de hoja perenne, muy ramificado y ocasionalmente achaparrado y que puede llegar a medir hasta 2 m de altura. Es una planta con una larga historia cultural y de usos. Muy adecuada para jardines de bajo mantenimiento.
 
+![Romero en Kohler](images/Jard07RomeroKohlerT2pg589.jpg)
+&emsp;&emsp;_Romero en Köhler's Medicinal Plants, 1887. Tomo 2, pg. 589_
+
+_Köhler's Medizinal-Pflanzen_ (_Köhler's Medicinal Plants_) es una rara guía medicinal alemana publicada originalmente en 3 volúmenes (vol.I, 1887; vol.II, 1890; vol.III, 1897). Fue obra de Hermann Adolph Koehler (1834-1879), editada después de su muerte por Gustav Pabst, y contiene 283 láminas de los ilustradores Walther Müller, C.F.Schmidt, y K.Gunther. Se puede descargar en PDF desde [Archive.org](https://archive.org/search?query=K%C3%B6hler+Medicinal+Plants)
 ***
 
 ![Euryops](images/specpeuryops.jpg)
