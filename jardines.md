@@ -677,6 +677,7 @@ Romero viene del nombre latino de la planta _ros maris_ o _ros marinus_ (rocio d
 &emsp;&emsp;_Romero en Köhler's Medicinal Plants, 1887. Tomo 2, pg. 589_
 
 _Köhler's Medizinal-Pflanzen_ (_Köhler's Medicinal Plants_) es una rara guía medicinal alemana publicada originalmente en 3 volúmenes (vol.I, 1887; vol.II, 1890; vol.III, 1897). Fue obra de Hermann Adolph Koehler (1834-1879), editada después de su muerte por Gustav Pabst, y contiene 283 láminas de los ilustradores Walther Müller, C.F.Schmidt, y K.Gunther. Se puede descargar en PDF desde [Archive.org](https://archive.org/search?query=K%C3%B6hler+Medicinal+Plants)
+
 ***
 
 ![Euryops](images/specpeuryops.jpg)
