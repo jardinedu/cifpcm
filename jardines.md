@@ -671,6 +671,8 @@ _Salvia rosmarinus_ (hasta hace pocos años se llamaba _Rosmarinus officinalis_)
 
 El romero es un arbusto aromático, leñoso, de hoja perenne, muy ramificado y ocasionalmente achaparrado y que puede llegar a medir hasta 2 m de altura. Es una planta con una larga historia cultural y de usos. Muy adecuada para jardines de bajo mantenimiento.
 
+Romero viene del nombre latino de la planta _ros maris_ o _ros marinus_ (rocio del mar), empleado por Ovidio, Virgilio, Plinio, Horacio. _Ros maris_ se contrajo en las formas vulgares tardías como romaris, y luego mutó en romarum, romarius y romarium, que da lugar a romero. En ingles es rosemary. En francés (romarin) o italiano (rosmarino) se forma el nombre del romero a partir de la otra variante ros marinus. 
+
 ![Romero en Kohler](images/Jard07RomeroKohlerT2pg589.jpg)
 &emsp;&emsp;_Romero en Köhler's Medicinal Plants, 1887. Tomo 2, pg. 589_
 
