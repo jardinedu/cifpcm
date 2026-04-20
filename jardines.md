@@ -181,10 +181,13 @@ Su nombre _Argyranthemum_ procede del griego _argyros_, "plateado" y _anthemom_ 
 ### Lavanda
 _Lavandula canariensis_ 
 
-También llamada mato risco, lavanda, romanillo o yerba risco, es un endemismo canario, frecuente y hasta abundante en barrancos y laderas pedregosas del Cardonal-tabaibal, formando parte de la vegetación típica de ese ecosistema. Aparece menos en áreas cálidas y soleadas de los bosques termófilos.
-En el año 2004 se publicó una revisión del género Lavandula que determinó que hay hasta siete subespecies de esta planta, una por cada una de las islas de nuestro archipiélago
-Las lavandas de este jardín se trajeron de la zona costera del Valle de Güímar. Tras varios intentos una de ellas arraigó y ahora su propia semillas van haciendo que aparezcan nuevas plantas.
-Es resistente a la sequía y a la insolación y es de la misma familia que las lavandas que se utilizan comercialmente para fabricar perfumes, aunque con menos olor. También se han llevado plántulas al jardín del patio y allí se está multiplicando.
+También llamada matorrisco, lavanda, romanillo o yerba risco, es un endemismo canario, frecuente y hasta abundante en barrancos y laderas pedregosas del cardonal-tabaibal, formando parte de la vegetación típica de ese ecosistema. Aparece menos en áreas cálidas y soleadas de los bosques termófilos. 
+
+Es resistente a la sequía y a la insolación y es de la misma familia que las lavandas que se utilizan comercialmente para fabricar perfumes, aunque con menos olor. Lavandula es un género de plantas aromáticas de unas 40 especies distribuidas desde las islas macaronésicas hasta la India. Cinco especies son nativas de las Islas Canarias (cuatro endémicas), conocidas como “matorriscos”: L. canariensis (presente en todas las islas principales), L. minutolii (Gran Canaria y Tenerife), L. buchii (Tenerife), L. bramwellii (Gran Canaria) y L. pinnata (Lanzarote, también presente en Madeira). 
+
+En la conferencia sw 2021 [La especiación de las lavandas en las Islas Canarias: cuándo, dónde y cómo](https://www.researchgate.net/publication/366153989_La_especiacion_de_las_lavandas_en_las_Islas_Canarias_cuando_donde_y_como), presentada en el Primer Congreso Español de Botánica se expuso este estudio sobre muestras de poblaciones de las cinco especies canarias. Sus conclusiones son que en las Islas Canarias ha habido por lo menos dos colonizaciones por parte del genero Lavándula. Las especies L. buchii, L. minutolii y L. bramwellii se han originado a partir de la especie de distribución mas amplia: L. canariensis. L. Pinnata (presente en lanzarote) aparece como un linaje independiente al resto de especies canarias.
+
+Las lavandas de este jardín se trajeron de la zona costera del Valle de Güímar. Tras varios intentos una de ellas arraigó y ahora su propia semillas van haciendo que aparezcan nuevas plantas. También se han llevado plántulas al jardín del patio y allí se está multiplicando. 
 
 ***
 
@@ -263,34 +266,6 @@ _Rumex_ es el nombre que se le daba en latín a todo el género (hay unas 120 es
 
 ***
 
-![Jorao](images/spectjorao.jpg)
-
-### Margarita de mar
-_Pallenis maritima_
-
-Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_ (me lo vendieron como "margarita majorera", pero nunca ha crecido más allá de unos 30 cm de alto, con lo cual ya sé que se trata de una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
-
-Es un arbusto de tamaño pequeño, hasta 30cm. de alto, de base leñosa con hojas vellosas y llamativas flores amarillas (en realidad son inflorescencias, o sea grupos de flores) semejantes a las margaritas. Florece casi todo el año, en especial desde la primavera hasta bien entrado el verano. Son sinónimos: _Asteriscus maritimus_ y _Odontospermum maritimum_. 
-
-Soporta altos niveles de insolación, prolongadas sequías estivales y suelos salinos (halófila). Por esto es una planta ideal para xerojardinería. Es pionera en la colonización de suelos pobres, arenosos o rocosos, ayudando en la formación y estabilización de dunas costeras y previniendo la erosión. En el medio natural se la encuentra en acantilados, arenales costeros, de 0 a 200 msnm. 
-
-Es originaria del Mediterráneo occidental y central hasta Grecia, norte de África e islas Canarias. Se la llama también margarita de mar, asterisco marítimo, estrella de mar, Mediterranean Beach Daisy o Gold Coin. En inglés se la nombra también como _Canary Island daisy_, lo que quizá explique que a veces en viveros se la llame _margarita majorera_, causando confusión con el _jorao_.
-
-_Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las escamitas que existen en el receptáculo de numerosos miembros de la familia Asteraceae en la base de las flores, y se llama «receptáculo paleáceo» al que las tiene. _Maritima_, del mar.
-
-
-**El [jorao](https://es.wikipedia.org/wiki/Asteriscus_sericeus)**
-
-Por otra parte, el _Asteriscus sericeus_, comúnmente llamado jorao, jorjao, jorado o tojia, es un endemismo de la isla de Fuerteventura, aunque se ha introducido como ornamental en otras islas (sinónimo _Odontospermum sericeum_). Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascendentes siendo los más viejos de color gris oscuro, de hasta 1m. de altura. En Fuerteventura se la encuentra a unos 400-800m de altitud en Betancuria, Jandía, montaña Cardón y Tindaya. 
-En la actualidad la especie está amenazada por la presencia de herbívoros que si bien no  comen sus tallos si lo hacen con sus flores impidiendo así la regeneración, también el tránsito de estos rebaños rompe las ramas y desestabiliza el sustrato.
-
-![Jorao en Fuerteventura](images/jard05joraoftv.jpg)
-&emsp;&emsp;_Jorao en su medio natural en Fuerteventura. Foto: GH.Zell. CC-By_
-
-_Histoire Naturelle des Îles Canaries_ (Webb et Berth. 1842.) en su Sección II: pag.237 recoge el _Odontospermum maritimum_ o _Asteriscus maritimus_ para Canarias, sin especificar localizaciones, y el Odontospermum sericeum, "Tojia en Fuerteventura", localizada "cerca del templo de Nuestra Señora de la Peña, en la isla Fuerteventura" pag.238
-
-***
-
 ![Lotus](images/spectlotus.jpg)
 
 Corazoncillo
@@ -329,7 +304,6 @@ Del griego _periploke_, abrazo, por cómo se enredan en sí mismo y también en 
 ## ESPECIES NO NATIVAS DE CANARIAS
 
 
-
 ![Duranta](images/spectduranta.jpg)
 
 ### Duranta
@@ -342,6 +316,34 @@ Las hojas y bayas de la planta pueden ser tóxicas, así que no te las comas.
 
 El nombre _Duranta_ le fue dado en honor de Castor Durantes, un botánico italiano del siglo XV.  
 Este ejemplar fue una donación de un profesor.
+
+***
+
+![Jorao](images/spectjorao.jpg)
+
+### Margarita de mar
+_Pallenis maritima_
+
+Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_ (me lo vendieron como "margarita majorera", pero nunca ha crecido más allá de unos 30 cm de alto, con lo cual ya sé que se trata de una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
+
+Es un arbusto de tamaño pequeño, hasta 30cm. de alto, de base leñosa con hojas vellosas y llamativas flores amarillas (en realidad son inflorescencias, o sea grupos de flores) semejantes a las margaritas. Florece casi todo el año, en especial desde la primavera hasta bien entrado el verano. Son sinónimos: _Asteriscus maritimus_ y _Odontospermum maritimum_. 
+
+Soporta altos niveles de insolación, prolongadas sequías en verano y suelos salinos (halófila). Por esto es una planta ideal para xerojardinería. Es pionera en la colonización de suelos pobres, arenosos o rocosos, ayudando en la formación y estabilización de dunas costeras y previniendo la erosión. En el medio natural se la encuentra en acantilados, arenales costeros, de 0 a 200 msnm. 
+
+Es originaria del Mediterráneo occidental y central hasta Grecia, norte de África e islas Canarias. Se la llama también margarita de mar, asterisco marítimo, estrella de mar, Mediterranean Beach Daisy o Gold Coin. En inglés se la nombra también como _Canary Island daisy_, lo que quizá explique que a veces en viveros se la llame _margarita majorera_, causando confusión con el _jorao_.
+
+_Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las escamitas que existen en el receptáculo de numerosos miembros de la familia Asteraceae en la base de las flores, y se llama «receptáculo paleáceo» al que las tiene. _Maritima_, del mar.
+
+
+**El [jorao](https://es.wikipedia.org/wiki/Asteriscus_sericeus)**
+
+Por otra parte, el _Asteriscus sericeus_, comúnmente llamado jorao, jorjao, jorado o tojia, es un endemismo de la isla de Fuerteventura, aunque se ha introducido como ornamental en otras islas (sinónimo _Odontospermum sericeum_). Es un arbusto con aroma intenso, muy ramificado desde la base, de tallos ascendentes siendo los más viejos de color gris oscuro, de hasta 1m. de altura. En Fuerteventura se la encuentra a unos 400-800m de altitud en Betancuria, Jandía, montaña Cardón y Tindaya. 
+En la actualidad la especie está amenazada por la presencia de herbívoros que si bien no  comen sus tallos si lo hacen con sus flores impidiendo así la regeneración, también el tránsito de estos rebaños rompe las ramas y desestabiliza el sustrato.
+
+![Jorao en Fuerteventura](images/jard05joraoftv.jpg)
+&emsp;&emsp;_Jorao en su medio natural en Fuerteventura. Foto: GH.Zell. CC-By_
+
+_Histoire Naturelle des Îles Canaries_ (Webb et Berth. 1842.) en su Sección II: pag.237 recoge el _Odontospermum maritimum_ o _Asteriscus maritimus_ para Canarias, sin especificar localizaciones, y el Odontospermum sericeum, "Tojia en Fuerteventura", localizada "cerca del templo de Nuestra Señora de la Peña, en la isla Fuerteventura" pag.238
 
 ***
 
