@@ -1515,7 +1515,7 @@ Un grupo de rhoeo (_Tyradescanta spathacea_).
 
 
 ## Parterre largo
-De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reorganizar una serie de hortensias que están en una línea dispersas, además de plantear un jardín basado en grupos de la misma planta, en general de porte bajo para mantener la visión en perspectiva (es un jardín más para mirar que para circular por él). Se intentará incluir especies de flora canaria junto a otras de bajo mantenimiento, Hay que retirar una crásulas que están en primer plano, sobrecrecidas, y que tapan la vista del resto del parterre
+De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reorganizar una serie de hortensias que están en una línea dispersas, además de plantear un jardín basado en grupos de la misma planta, en general de porte bajo para mantener la visión en perspectiva (es un jardín más para mirar que para circular por él). Hay que retirar una crásulas que están en primer plano, sobrecrecidas, y que tapan la vista del resto del parterre.
 
 ![Parterre largo](images/jard13parterrelargoestadoprevio.jpg)
 &emsp;&emsp;_Vista del parterre, agosto 2025_
@@ -1525,6 +1525,9 @@ Este proyecto se intentará llevar a cabo a partir de septiembre-octubre 2025.
 ![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
 
 
+El proyecto de Renaturalización en el cual participó el Centro incluye ubicar aquí dos mesas con bancos para el alumnado. Considerando esto, he calculado la ubicación y dimensiones de estas mesas y adaptado el proyecto en consecuencia. Estoy organizando dos islas de plantas con flores: una de ellas jjunmto al paso, de modo que desde muy cerca se pueda ver la floración de las hortensias. He trasplantado la línea de hortensias y las he reunido en un grupo más compacto. Estaban muy envejecidas, así que las he podado dentro de lo posible, intentando rejuvenecerlas. También he traido de vivero tres nuevas plantas, esperando tener un grupo interesante en unos meses. Lo complementan un helecho nacido espontáneamente, algunos rhoeos y un jazmín que espero enredar en las columnas metálicas, en el paso, de modo que disperse su perfume al pasar junto a él. El segundo grupo, a distancia media, es un proyecto de rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá.
+
+![Parterre en abril 2026](images/jard13parterrelargoabril26.jpg)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
