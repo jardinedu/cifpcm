@@ -13,9 +13,9 @@ feature_image:
    
 # Bibliografía
 
-Gran parte de la literatura sobre jardinería y jardines son libros con directrices de diseño, fotos con ejemplos de jardines perfectos, herramientas, accesorios, materiales, etc. A veces son libros maravillosos, pero casi siempre poco útiles.
-Me parece más interesante encontrar libros de pensamiento sobre jardinería y plantas. Aquí hay una pequeña selección.
+Gran parte de la literatura sobre jardinería y jardines son libros con directrices de diseño, fotos con ejemplos de jardines perfectos, herramientas, accesorios, materiales, etc. A veces son libros maravillosos, pero casi siempre poco útiles. Me parece más interesante encontrar libros de pensamiento sobre jardinería y plantas. Es que todo lo demás lo da la experiencia, la observación y el aprendizaje lento. 
 
+Aquí hay una pequeña selección:
 
 ![La sabiduría del jardinero](images/bsabiduriajardinero1000px.jpg)
 La sabiduría del jardinero. Gilles Clément. Gustavo Gili. 2021
@@ -50,7 +50,7 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 ***
 
-## Referencias
+## Referencias: vídeos, manuales, guías, repositorios, etc.
 
 [Diversidad florística en los jardines públicos de la ciudad de La Laguna (Tenerife), Patrimonio de la Humanidad](https://www.museosdetenerife.org/assets/downloads/file-147-6011eda4a3.pdf)
 
