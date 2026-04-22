@@ -41,7 +41,8 @@ Color schemes for the flower garden. Gertrude Jekyll. Country Life. 1919.
 
 Gertude Jekyll me interesa, no tanto por sus ideas sobre el uso del color (con tanta influencia posterior), o por tantas de sus propuestas, sino por pensamientos tan acertados como este fragmento de _On gardening_:
 
-> *Un credo de jardinería* (fragmento)__
+> *Un credo de jardinería* (fragmento)
+
 > No pretendo tener habilidades literarias ni conocimientos botánicos, ni siquiera conocer los mejores métodos prácticos de cultivo; pero he vivido entre flores al aire libre durante muchos años, sin escatimar esfuerzos en el trabajo, y he llegado a tener una relación muy íntima y amistosa con muchas plantas en crecimiento, adquiriendo ciertos instintos que, aunque no están claramente definidos, constituyen un conocimiento útil.
 Pero la lección que he aprendido a fondo, y deseo transmitir a otros, es conocer la felicidad duradera que brinda el amor por un jardín. Me alegra ver a alguien, y especialmente a los niños, preguntando por las flores, deseando tener su propio jardín y trabajando con esmero en ellos. Porque el amor por la jardinería es una semilla que, una vez sembrada, nunca muere, sino que siempre crece y crece hasta convertirse en una fuente duradera y cada vez mayor de felicidad.
 Soy una firme defensora de un tratamiento pictórico del jardín y el bosque, principalmente con grandes efectos y, en segundo lugar, con detalles menos bellos. Además, de organizar las plantas, los árboles y los espacios verdes de forma que se vean felices y acogedores, sin que se note el esfuerzo consciente. Busco la belleza y la armonía en todas partes, y especialmente la armonía del color. Un jardín así tratado brinda la deliciosa sensación de reposo, frescura y el más puro disfrute de la belleza, que, a mi entender, es el mejor cumplimiento de su propósito; mientras que para el trabajador diligente, su felicidad es como la ofrenda de un himno constante de alabanza. Pues sostengo que el mejor propósito de un jardín es deleitar y refrescar la mente, calmar, refinar y elevar el corazón con un espíritu de alabanza y agradecimiento. Es cierto que quienes practican la jardinería de la mejor manera lo encuentran así. He aprendido mucho, y sigo aprendiendo, de los jardines de otras personas, y la lección más profunda es no decir nunca "Lo sé": hay muchísimo que aprender, y las condiciones de los diferentes jardines varían enormemente, incluso cuando el suelo y la situación parecen similares y se encuentran en la misma zona.
@@ -155,8 +156,11 @@ En 1974, el Dr. David Bramwell fue nombrado segundo director del Jardín. En esa
 > “La idea que inspiró la creación de este jardín botánico en 1952 fue la de conservar en un lugar toda la riqueza botánica de los archipiélagos de Canarias, Azores, Madeira, Cabo Verde y de un pequeño enclave del continente africano que constituye en su conjunto la denominada Región Macaronésica.
 > El Jardín Botánico Canario Viera y Clavijo puede considerarse como pionero en la nueva filosofía imperante del último tercio del siglo XX de considerar los jardines botánicos como centros dedicados a la conservación de plantas y en especial de aquellas especies amenazadas de extinción que viven en el propio territorio o área en que se encuentran enclavados.
 > La colección de planta viva cultivada en el Jardín está compuesta fundamentalmente de endemismos canarios y macaronésicos, pero también hay una importante representación de elementos exóticos en las colecciones del "jardín de cactus", "jardín del mundo" y "palmetum".
+
 > (del folleto del Jardín)
+
 ***
+
 ## Jardín de Aclimatación de La Orotava e Hijuela del Botánico
 
 ![Plano Jardín de Aclimatación de La Orotava](images/0912aclimatacionplano.jpg)
@@ -295,7 +299,7 @@ Una plaza para circular por ella, con diferentes tratamientos, desde grandes gru
 La Plaza del Adelantado es el espacio central en torno al cual se definirá la Villa de Abajo de La Laguna (La Villa de Arriba se concentra en torno a la Iglesia de la Concepción desde 1497). La plaza recibe este nombre porque el primer Adelantado, conquistador de La Palma y Tenerife, Don Alonso Fernández de Lugo, construyó su segunda residencia en un extremo de la Plaza de Abajo, en parte del terreno que hoy ocupa el convento de Santa Clara. Inicialmente, el Adelantado la bautizó como San Miguel de Los Ángeles, convirtiéndose posteriormente en Plaza Mayor de la Villa, aunque se sigue conociendo como Plaza del Adelantado. El Adelantado dispuso un trazado ordenado, en cuadrícula. En el primer plano de la ciudad, del ingeniero Leonardo Torriani hacia 1558 se ve cómo las calles y los límites que definen el casco permanecen prácticamente inalterados hasta nuestros días. La Plaza del Adelantado, señalada como G, es un espacio cuadrangular con la característica fuente, aún vacío, pero ya con un espacio igual al actual, aunque de ese entorno solo quedan hoy la Ermita de San Miguel, marcada como F, y quizá algún inmueble. 
 
 ![Plaza del Adelantado por Torriani](images/0940adelantadotorriani.jpg)
-&emsp;&emsp;_Fragmento del plano de la Laguna en "Descripción e historia del reino de las Islas Canarias", de leonardo Torriani, 1558_
+&emsp;&emsp;_Fragmento del plano de la Laguna en "Descripción e historia del reino de las Islas Canarias", de Leonardo Torriani, 1558_
 
 Como Plaza Mayor de la villa, fue el lugar donde se celebraban los actos públicos más relevantes, como fiestas, días de mercado, procesiones, corridas de toros e incluso ejecuciones de penas. Fue enlosada en 1798 y en 1843 se redistribuyó su interior con árboles y bancos.
 
