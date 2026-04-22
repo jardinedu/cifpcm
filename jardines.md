@@ -1492,42 +1492,47 @@ Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasul
 # 4. Jardines de Secretaría
 
 En 2025 se empezaron a reacondicionar dos parterres junto al edificio de Secretaría. 
-
+Estos parterres, que se pueden considerar uno solo, dividido por la escalinata de acceso al patio, y a los que no había llegado hasta este año 2025, de alguna forma son la puerta de entrada al Centro, de modo que deberían funcionar como una bienvenida.
 
 ## Parterre corto
 En el parterre corto había una serie de plantas dispares en malas condiciones: platanillo, strelitzia y tradescantia, con requisitos de agua muy diferentes, etc.
-Este parterre debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita bien olor.
+Este parterre debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita buen olor.
 
 ![Parterre corto](images/jard13parterrecortoboceto.jpg)
 
 Se han trasladado las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades y se han unido los grupos de Tradescantia. 
 
 Se han plantado pocas especies, en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), relativamente resistentes a la sequía y la insolación. También se ha organizado una rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
-Una mancha de _Tradescantia pallida_.
-Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas. En pocas semanas ha crecido con energía.
-Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar un grupo más o menos compacto de tallos medianos muy móviles, con floración prolongada.
-Un grupo pequeño de _Anigozanthos_ de color rojizo-rosáceo que se están adaptando muy mal, y que finalmente desaparecieron, tras dos intentos.
-Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada.
-Un grupo de rhoeo (_Tyradescanta spathacea_).
+Una mancha de _Tradescantia pallida_, tapizante.
+Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas.
+Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar una masa de tallos medianos muy móviles, con floración prolongada.
+💀 Un grupo pequeño de _Anigozanthos_ de color rojizo-rosáceo que se están adaptando muy mal, y que finalmente desaparecieron, tras dos intentos.
+Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada, con el objetivo de que dispersen su aroma.
+Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tapizante.
 
 ![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
 &emsp;&emsp;_Parterre recién plantado, agosto 2025_
 
 
 ## Parterre largo
-De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reorganizar una serie de hortensias que están en una línea dispersas, además de plantear un jardín basado en grupos de la misma planta, en general de porte bajo para mantener la visión en perspectiva (es un jardín más para mirar que para circular por él). Hay que retirar una crásulas que están en primer plano, sobrecrecidas, y que tapan la vista del resto del parterre.
+De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reorganizar una serie de hortensias que están en una línea dispersas, además de plantear un jardín basado en grupos de pocas plantas, en general de porte bajo para mantener la visión en perspectiva (es un jardín más para mirar que para circular por él). Hay que trasladar unas crásulas que están en primer plano, sobrecrecidas, y que tapan la vista del resto del parterre. También se han reubicado una serie de rocas volcánicas que formaban dos montículos centrales y que, sin mucha sorpresa, ocultaban un problema: unos antiguos troncos secos de árboles muertos, retirarlos con sus raíces ha sido un trabajo inicial muy duro.
 
 ![Parterre largo](images/jard13parterrelargoestadoprevio.jpg)
 &emsp;&emsp;_Vista del parterre, agosto 2025_
 
-Este proyecto se intentará llevar a cabo a partir de septiembre-octubre 2025.
+Este primer proyecto, que planeaba para finales de 2025, finalmente no se va a llevar a cabo debido a la participación de Centro en la convocatoria de proyectos de Renaturalización de la Consejería de Educación.
 
 ![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
+&emsp;&emsp;_Primer proyecto del parterre, ya desechado_
 
+El proyecto de Renaturalización se aprobó, aunque falta su ejecución. Incluye ubicar en este parterre dos mesas con bancos para el alumnado. Considerando esto, he calculado la ubicación y dimensiones de estas mesas y adaptado el proyecto en consecuencia. Estoy organizando dos islas de plantas con flores: hortensias y rosales, en parte para mantener el trabajo previo de otras jardineras y jardineros que plantaron y cuidaron aquí estas dos especies. 
 
-El proyecto de Renaturalización en el cual participó el Centro incluye ubicar aquí dos mesas con bancos para el alumnado. Considerando esto, he calculado la ubicación y dimensiones de estas mesas y adaptado el proyecto en consecuencia. Estoy organizando dos islas de plantas con flores: una de ellas jjunmto al paso, de modo que desde muy cerca se pueda ver la floración de las hortensias. He trasplantado la línea de hortensias y las he reunido en un grupo más compacto. Estaban muy envejecidas, así que las he podado dentro de lo posible, intentando rejuvenecerlas. También he traido de vivero tres nuevas plantas, esperando tener un grupo interesante en unos meses. Lo complementan un helecho nacido espontáneamente, algunos rhoeos y un jazmín que espero enredar en las columnas metálicas, en el paso, de modo que disperse su perfume al pasar junto a él. El segundo grupo, a distancia media, es un proyecto de rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá.
+El primer grupo son hortensias, en el lado del paso, de modo que desde muy cerca se pueda ver su floración. He trasplantado la línea de hortensias antiguas (las más lejanas estaban demasiado distantes) y las he reunido en un grupo más compacto. Estaban muy envejecidas, así que las he podado dentro de lo posible, intentando rejuvenecerlas. También he traido de vivero tres nuevas hortensias, esperando tener un grupo interesante en unos meses. Lo complementan un helecho nacido espontáneamente y que al despejarlo un poco está adquiriendo un buen porte, algunos rhoeos, un grupo de lilium rescatado de este mismo parterre y un jazmín que espero enredar en las columnas metálicas, en el paso de la gente, de modo que disperse su perfume al pasar junto a él. 
+
+El segundo grupo, a distancia media, es un proyecto de rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá. Lo complementa un grupo de lirios rescatado también y algunos rhoeos.
 
 ![Parterre en abril 2026](images/jard13parterrelargoabril26.jpg)
+&emsp;&emsp;_Vista del parterre, abril 2026_
 
 ![Barra verde](images/jard01barraverde.jpg)
 
