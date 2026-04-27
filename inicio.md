@@ -199,7 +199,7 @@ El cambio climático, la introducción de especies exóticas invasoras (animales
 ![ L. gomerythus en floración (Foto: J. Martín-Carbajal).](images/02lotusgomerythus.jpg)
 &emsp;&emsp;_Lotus gomerythus en floración (Foto: Javier Martín-Carbajal)._
 
-- Una de las especies aceptadas en 2023, la [_Mourgona bethencourti_](https://www.molluscabase.org/aphia.php?p=taxdetails&id=1666829) es una babosa marina [encontrada en charcos de Gran Canaria y Tenerife](https://infopuertos.com/hallan-nuevas-especies-de-babosas-marinas-en-pompones-de-algas-de-canarias-y-cabo-verde/). Únicamente se han encontrado **dos** ejemplares en San Miguel de Abona y en Punta de Pasito Blanco, donde fueron localizados en las piedras con algas. ¿siguen vivas estas dos babosas?¿hay alguna más de su especie em algún charco, o han muerto por la contanimación marina, la desaparición de las costas por presión urbanística y turística?
+- Una de las especies aceptadas en 2023, la [_Mourgona bethencourti_](https://www.molluscabase.org/aphia.php?p=taxdetails&id=1666829) es una babosa marina [encontrada en charcos de Gran Canaria y Tenerife](https://infopuertos.com/hallan-nuevas-especies-de-babosas-marinas-en-pompones-de-algas-de-canarias-y-cabo-verde/). Únicamente se han encontrado **dos** ejemplares en San Miguel de Abona y en Punta de Pasito Blanco, donde fueron localizados en las piedras con algas. ¿siguen vivas estas dos babosas?¿hay alguna más de su especie en algún charco, o han muerto por la contaminación marina, la desaparición de las costas por presión urbanística y turística?
 
 ![Babosa y lagarto](images/02babosaylagarto.jpg)
 &emsp;&emsp;_Mourgona bethencourti. Foto: Leopoldo Moro. | Gallotia galloti, La Palma. Foto: Uwe22 CC BY-SA 3.0_
