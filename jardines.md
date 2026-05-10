@@ -1144,8 +1144,7 @@ Continuando los parterres del Patio central, entre el Pabellón 1 y el Aula ATEC
 
 ![Vistas jardin sombra](images/jard12vistasjardinsombra.jpg)
 
-Busco una combinación de plantas interesantes que vivan bien en esas condiciones y que ofrezcan una variante respecto a los otros jardines, creando un pequeño espacio un poco selvático y refrescante. 
-
+Busco una combinación de plantas interesantes que vivan bien en esas condiciones y que ofrezcan una variante respecto a los otros jardines, creando un pequeño espacio un poco selvático y refrescante, y si es posible con algo del espíritu de la jardinería tradicional canaria de patios interiores en sombra.
 
 ![Esquema jardin patio sombra](images/jard12esquemajardinsombra.jpg)
 
@@ -1175,7 +1174,7 @@ _Monstera adansonii_
 La _Monstera adansonii_ procede de las selvas de América Central e Indias Occidentales, con una característica poco habitual: sus hojas en forma de corazón están llenas de orificios. Es parecida a la Monstera deliciosa, pero en tamaño reducido.
 Necesita calor, humedad y poca insolación (reproduciendo las condiciones de una selva tropical). Se cree que los agujeros son un mecanismo para permitir que pase luz y agua a las partes bajas de la planta. 
 
-Se la ha cambiado de ubicación después de un año en que no se desarrollaba bien, y ahora, a finales de 2025, parece que ha encontrado un buen sitio.
+Se la ha cambiado de ubicación ya dos veces, buscando un lugar donde se desarrolle de forma óptima.
 
 ***
 
@@ -1273,7 +1272,10 @@ _Asclepias asediadas por las mariposas monarca, verano 2025_
 
 ### Asclepias
 _Asclepias curassavica_
-En este parterre estoy intentando aclimatarlas también para atraer a las mariposas. Las condiciones de luz y humedad parecen serle más favorables.
+En este parterre estoy intentando aclimatarlas también para atraer a las mariposas. Las condiciones de luz y humedad parecen serle más favorables. Ya han sufrido ataques de los gusanos de la mariposa Monarca dejándolas sin una sola hoja, para recuperarse rápidamente.
+
+![Orugas devoran Asclepia](images/specpsorugasabril2026.jpg)
+_Orugas devorando la planta a mediados de abril 2026_
 
 ***
 
@@ -1325,34 +1327,41 @@ En este jardín de sombra he plantado dos grupos, la variedad tradicional y otra
 
 ***
 
-![Maranta tricolor](images/specpsmaranta.jpg)
-_Maranta al anochecer, elevando sus hojas. Diminuta flor de la maranta_
+## COLECCIÓN DE CALATEAS Y MARANTAS
 
-### Maranta
-_Maranta leuconeura_ - tricolor
+En mayo 2026 estoy intentando crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso y aprovechando que la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda, hay que observar la evolución. Todas son plantas exóticas, de selvas de Amréica Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. 
+En proyecto está combinar estas plantas con algunos ejemplos de plantas de laurisilva, un habitat con similitudes een humedad y luz.
+
+![Coleccion de Calateas y Marantas](images/jard12coleccioncym.jpg)
+&emsp;&emsp;_Colección de Calateas y Marantas_
+
+### Marantas
+_Maranta leuconeura_  y _Maranta leuconeura_ variegata (tricolor) 
+
+![Maranta leuconeura y tricolor](images/specpsmarantaleuconeraytricolor.jpg)
+_Marantas_
 
 La _Maranta_, originaria de las selvas tropicales de América Central y del Sur, es una planta exótica conocida por sus llamativas hojas decoradas con patrones únicos.
 El nombre específico _leuconeura_ significa "de nervaduras blancas", en referencia a las hojas. Estas hojas permanecen extendidas durante el día y se pliegan hacia arriba por la noche, como si rezaran, de ahí su nombre común de "planta de la oración". Este comportamiento es un ejemplo de ritmo circadiano. Sus flores son pequeñas, de color blanco a púrpura, no tan llamativas como el follaje. Los dibujos de sus hojas son el motivo de su uso en jardinería.
+
+![Maranta tricolor](images/specpsmaranta.jpg)
+_Maranta al anochecer, elevando sus hojas. Diminuta flor de la maranta_
 
 Linneo la nombró en homenaje al botánico italiano Bartolomeo Maranta (ca. 1500 - 1571) fue un médico, botánico, y teórico literario italiano. De 1554 a 1556, trabajó en el Jardín Botánico de Nápoles, que Gian Vincenzo Pinelli había fundado, y hacia 1568 había ayudado a desarrollar un incipiente jardín botánico en Roma.
 
 ![Maranta](images/jard12marantacultivares.jpg)
 &emsp;&emsp;_Cultivares de maranta_
 
-***
 
-![Calatea Medallion](images/specpscalateamedallion.jpg)
+### Calateas
+_Goeppertia louisae_, _Calathea Roseopicta- Crimson y _Goeppertia picturata_ Argentea.
 
-### Calatea Medallion
-💀 _Goeppertia veitchiana_
+![3 Calateas](images/specps3calateas.jpg)
 
 _Calathea_ es un género de plantas con flores perteneciente a la familia _Marantaceae_, con alrededor de 60 especies. Originarias de las Américas tropicales, muchas de estas especies son populares como plantas de maceta. Las hojas de _Calathea_ suelen ser grandes y con patrones coloridos con colores como rosa, naranja, rojo y blanco, y envés suele ser morado.
 
 Este género prefiere luz baja o media, y necesitan una humedad alta para imitar su hábitat natural. La especie se introdujo por primera vez como planta de interior en las décadas de 1970 y 1980. Con el paso de los años, las calateas se han convertido en una planta de interior popular gracias a sus atractivas hojas. Debido a la destrucción del hábitat, varias especies están en peligro de extinción.
 
-Por causas desconocidas la planta murió, quizá el invierno de 2025-2026, excepcionalmente frío o por su errónea ubicación en el jardín. En proyecto está crerar una pequeña colección de Calatheas.
-
-_Goeppertia veitchiana_ es endémica de Ecuador, recogida por el recolector de plantas Richard Pearce en 1862.
 
 ***
 
@@ -1384,7 +1393,6 @@ Su nombre _Crassula_ proviene de la palabra latina _crassus_ que significa grues
 La Crassula arborescens es una de las más grandes del género, con una altura que va desde los 60 centímetros hasta el metro y medio. Es endémica de El Cabo, en Sudáfrica, y presenta hojas blanquecinas con el margen rojo.
 
 
-***
 ***
 
 
