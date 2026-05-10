@@ -1329,8 +1329,8 @@ En este jardín de sombra he plantado dos grupos, la variedad tradicional y otra
 
 ## COLECCIÓN DE CALATEAS Y MARANTAS
 
-En mayo 2026 estoy intentando crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso y aprovechando que la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda, hay que observar la evolución. Todas son plantas exóticas, de selvas de Amréica Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. 
-En proyecto está combinar estas plantas con algunos ejemplos de plantas de laurisilva, un habitat con similitudes een humedad y luz.
+En mayo 2026 estoy intentando crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso donde la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda, hay que observar la evolución. Todas son plantas exóticas, de selvas de América Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. 
+En proyecto está combinar estas plantas con algunos ejemplos de plantas de laurisilva, un habitat con similitudes en humedad y luz.
 
 ![Coleccion de Calateas y Marantas](images/jard12coleccioncym.jpg)
 &emsp;&emsp;_Colección de Calateas y Marantas_
@@ -1339,13 +1339,13 @@ En proyecto está combinar estas plantas con algunos ejemplos de plantas de laur
 _Maranta leuconeura_  y _Maranta leuconeura_ variegata (tricolor) 
 
 ![Maranta leuconeura y tricolor](images/specpsmarantaleuconeraytricolor.jpg)
-_Marantas_
+&emsp;&emsp;__Marantas_
 
 La _Maranta_, originaria de las selvas tropicales de América Central y del Sur, es una planta exótica conocida por sus llamativas hojas decoradas con patrones únicos.
 El nombre específico _leuconeura_ significa "de nervaduras blancas", en referencia a las hojas. Estas hojas permanecen extendidas durante el día y se pliegan hacia arriba por la noche, como si rezaran, de ahí su nombre común de "planta de la oración". Este comportamiento es un ejemplo de ritmo circadiano. Sus flores son pequeñas, de color blanco a púrpura, no tan llamativas como el follaje. Los dibujos de sus hojas son el motivo de su uso en jardinería.
 
 ![Maranta tricolor](images/specpsmaranta.jpg)
-_Maranta al anochecer, elevando sus hojas. Diminuta flor de la maranta_
+&emsp;&emsp;__Maranta al anochecer, elevando sus hojas. Diminuta flor de la maranta_
 
 Linneo la nombró en homenaje al botánico italiano Bartolomeo Maranta (ca. 1500 - 1571) fue un médico, botánico, y teórico literario italiano. De 1554 a 1556, trabajó en el Jardín Botánico de Nápoles, que Gian Vincenzo Pinelli había fundado, y hacia 1568 había ayudado a desarrollar un incipiente jardín botánico en Roma.
 
@@ -1354,7 +1354,7 @@ Linneo la nombró en homenaje al botánico italiano Bartolomeo Maranta (ca. 1500
 
 
 ### Calateas
-_Goeppertia louisae_, _Calathea Roseopicta- Crimson y _Goeppertia picturata_ Argentea.
+_Goeppertia louisae_, _Calathea Roseopicta_ Crimson y _Goeppertia picturata_ Argentea.
 
 ![3 Calateas](images/specps3calateas.jpg)
 
