@@ -1,4 +1,4 @@
----
+<img width="1115" height="648" alt="image" src="https://github.com/user-attachments/assets/e137c4c3-fbab-4de5-9c20-e433446d2da2" />---
 layout: page
 title: Jardines
 description: 
@@ -513,14 +513,10 @@ Se cultiva en muchos países alrededor del mundo donde se ha naturalizado. Inclu
 
 ![Gaura](images/spectgaura.jpg)
 
-### Gaura
-_Gaura lindheimeri_
+### Gaura 💀 
+_Oenothera lindheimeri_
 
-Es una planta perenne de bajo mantenimiento de aspecto delicado, pero muy resistente. Originaria del sur de Luisiana y Texas. 
-
-_Gaura_ derivado del griego _gaûros_, "soberbio" por el tamaño y floración de algunas especies de este género. _Lindheimeri_ por Ferdinand Lindheimer (1801-1879), botánico de origen alemán que en el siglo XIX recolectó extensamente en Texas para Asa Gray, el botánico estadounidense más importante del siglo XIX. Profesor de botánica en Harvard y gran amigo de Darwin, con quien colaboró y a quien apoyó con sus teorías en EE.UU.
-
-Los cuidados de la gaura son mínimos si se planta en el lugar adecuado. En un par de años se ha adaptado bastante bien y da una nota de color y de flores en movimiento muy interesante. 
+Tras dos años de floración desapareció de este jardín, quizá debido al invierno 2025-2026, muy prolongado y frío. Hay otros ejemplares en los jardines de Secretaría y del patio, allí hay una descripción más completa de esta planta.
 
 ***
 
@@ -766,16 +762,30 @@ Se ha plantado un grupo en una mancha de flores violeta, que esperemos que mante
 ***
 
 ![Gaura](images/specpgaura.jpg)
-_Dibujo de Gaura por Edward Step, 1896 ([Favourite flowers of garden and greenhouse](https://archive.org/details/favouriteflowers03steprich/favouriteflowers03steprich/))_
 
 ### Gaura
-_Gaura lindheimeri_
+_Oenothera lindheimeri_
 
-Es una planta perenne de bajo mantenimiento de aspecto delicado, pero muy resistente. Originaria del sur de Luisiana y Texas. 
+Es una planta perenne de bajo mantenimiento de aspecto delicado, pero muy resistente. Originaria del sur de Luisiana y Texas. En 2007 se cambió su nombre a _Oenothera lindheimeri_, antes se la conocía como *gaura*, y así se sigue llamanado en muchos viveros.
 
-_Gaura_ derivado del griego _gaûros_, "soberbio" por el tamaño y floración de algunas especies de este género. _Lindheimeri_ por Ferdinand Lindheimer (1801-1879), botánico de origen alemán que en el siglo XIX recolectó extensamente en Texas para Asa Gray, el botánico estadounidense más importante del siglo XIX. Profesor de botánica en Harvard y gran amigo de Darwin, con quien colaboró y a quien apoyó con sus teorías en EE.UU.
+_Oenothera_ proviene de la formación de dos palabras griegas: “oinos” y “thêr“. Significan respectivamente “vino” y “animales salvajes”. Según la leyenda, las raíces de las onagra  (oenotheras) remojadas en vino permitirían domar fácilmente a las bestias salvajes. Tournefort creó el género Onagra para las plantas americanas y Linneo cambió dicho nombre por el de Oenother. En castellano, la onagra (_Oenothera biennis_) se conoce también como enotera, hierba del asno o hierba del vino.
+_Gaura_ deriva del griego _gaûros_, "soberbio" por el tamaño y floración de algunas especies de este género. 
+_Lindheimeri_ por Ferdinand Lindheimer (1801-1879), botánico de origen alemán que en el siglo XIX recolectó extensamente en Texas para Asa Gray, el botánico estadounidense más importante del siglo XIX, profesor de botánica en Harvard y gran amigo de Darwin, con quien colaboró y a quien apoyó con sus teorías en EE.UU.
 
 Los cuidados de la gaura son mínimos si se planta en el lugar adecuado. En un par de años se ha adaptado bastante bien y da una nota de color y de flores en movimiento muy interesante. 
+
+La especie fue recolectada y descrita por primera vez por Lindheimer en la decada de 1830 en Texas y Luisiana, durante sus extensas exploraciones botanicas por la frontera de Texas. Lindheimer, llamado a veces el padre de la botanica texana, recogio miles de especimenes vegetales de la región que fueron formalmente descritos mas tarde por George Engelmann y Asa Gray.
+
+![Gaura según Step](images/jard11gauradibujo.jpg)
+_Dibujo de Gaura por Edward Step, 1896 ([Favourite flowers of garden and greenhouse](https://archive.org/details/favouriteflowers03steprich/favouriteflowers03steprich/))_
+
+En su hábitat natural, la gaura crece en suelos arenosos o derivados de caliza junto a orillas de arroyos, praderas abiertas y bordes de caminos alterados, a menudo en asociación con gramíneas nativas y otras flores silvestres. La planta evolucionó para adaptarse al calor extremo, la sequía y los suelos pobres caracteristicos del paisaje texano, desarrollando su profunda raiz pivotante y sus eficientes estrategias de uso del agua.
+
+La gaura fue relativamente desconocida en horticultura hasta la década de 1990, con el renovado interés por las vivaces tolerantes a la sequía y de bajo mantenimiento, con el desarrollo de la *xerojardinería*.
+El cultivar 'Siskiyou Pink' fue introducido en 1991 por el Siskiyou Rare Plant Nursery de Oregón y se hizo muy popular, valorada por sus flores rosa intenso y porte compacto. Desde entonces, se han desarrollado numerosos cultivares, incluidas formas enanas aptas para macetas, colores más intensos y variedades con mayor resistencia al frío. Hoy  la gaura se cultiva en todo el mundo en climas templados y mediterráneos como pieza fundamental de los jardines de uso eficiente del agua y plantaciones de pradera naturalista, apreciada por su porte grácil, su extraordinariamente larga temporada de floración y sus mínimas necesidades de cuidado.
+
+![Gaura distribucion](images/jard11gauradistribucion.jpg)
+&emsp;&emsp;_Distribución de la gaura._
 
 ***
 
