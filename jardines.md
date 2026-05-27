@@ -1,4 +1,4 @@
-<img width="1115" height="648" alt="image" src="https://github.com/user-attachments/assets/e137c4c3-fbab-4de5-9c20-e433446d2da2" />---
+---
 layout: page
 title: Jardines
 description: 
