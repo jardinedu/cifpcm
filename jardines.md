@@ -12,6 +12,7 @@ feature_image:
 4. [Jardín de Secretaría](#4-jardines-de-secretar%C3%ADa)
 5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
 
+
 ![Barra verde](images/jard01barraverde.jpg)
 
 ![Esquema de especies](images/jard01esquemacolorjardin1.jpg)
