@@ -5,6 +5,7 @@ description:
 feature_image: 
 ---
 
+![Vista inicial](images/00jardinesvistainicial.jpg)
 
 1. [Jardín de los Talleres](#1-jard%C3%ADn-de-los-talleres)
 2. [Jardines del patio central](#2-jardines-del-patio-central)
