@@ -802,7 +802,7 @@ Es originaria del Mediterráneo occidental y central hasta Grecia, norte de Áfr
 
 _Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las escamitas que existen en el receptáculo de numerosos miembros de la familia Asteraceae en la base de las flores, y se llama «receptáculo paleáceo» al que las tiene. _Maritima_, del mar.
 
-![Grupo de margaritas](images/specpnerium.jpg)
+![Grupo de margaritas](images/jard11pallenismayo2026.jpg)
 &emsp;&emsp;_Grupo de margaritas en mayo 2026_.
 
 ***
