@@ -596,9 +596,7 @@ Además de _Plumeria rubra_ de diferentes colores, hay un ejemplar de _Plumeria 
 &emsp;&emsp;_Plumeria “ramo de novia”_
 
 
-
 ![Barra verde](images/jard01barraverde.jpg)
-
 
 
 ![Vista jardines patio](images/jard10vistajardinespatio.jpg)
@@ -617,10 +615,9 @@ Una planta que ya estaba en el jardín, y con los cuidados se ha ido extendiendo
 
 Tiene como nombres comunes _amor de hombre_ o _purpurina_. Es originaria de México, y su nombre científico _Tradescantia pallida_ es un homenaje a Sir John Tradescant (hijo), botánico inglés, quien trajo a Europa, entre otras especies, las magnolias.
 
-![Herbario TYradescantia p.](images/jard10TradescantiapallidaPalmerRose1907.jpg)
+![Herbario Tradescantia p.](images/jard10TradescantiapallidaPalmerRose1907.jpg)
 
 Los primeros ejemplares de _Tradescantia pallida_ identificados. Fueron recogidos por el explorador, botánico y arqueólogo Edward Palmer mientras trabajaba para el Smithsonian, en el estado de Tamaulipas, México, en 1907 y descritos por el botánico Joseph Nelson Rose en 1911. Se pueden ver en las [Colecciones Botánicas del Museo Nacional de Historia Natural](https://collections.nmnh.si.edu/search/botany/), perteneciente al Smithsonian. 
-
 
 ***
 
@@ -634,7 +631,7 @@ Suele alcanzar unos 4 metros. Sus flores son muy llamativas por su color amarill
 
 Nombres comunes en inglés son: yellow trumpetbush, yellow bells, yellow elder (arbusto trompeta amarillo, campanas amarillas, anciano amarillo). _Tecoma stans_ es la flor oficial de las Islas Vírgenes de los Estados Unidos y el emblema floral de las Bahamas. Se cultiva en numerosas partes del mundo por su floración, para adornar calles y jardines.
 
-Los dos arbolitos de _Tecoma_ya estaban en el jardín, podados como arbustos pequeños, pero con la desaparición de los flamboyanes han empezado a crecer de nuevo, y aportan un elemento más alto, de flores amarillas muy vistosas.
+Los dos arbolitos de _Tecoma_ ya estaban en el jardín, podados como arbustos pequeños, pero con la desaparición de los flamboyanes han empezado a crecer de nuevo, y aportan un elemento más alto, de flores amarillas muy vistosas.
 
 ***
 
@@ -731,7 +728,6 @@ Su nombre viene del griego _dis_ _morphe_ y _theka_, que significa _la fruta en 
 Ecklon nació en 1795 y realizó expediciones de recolectas en Sudáfrica, siendo su primer viaje en 1823, primero como aprendiz de botica y luego farmacéutico, tratando a la flora con fines medicinales. Sin fondos y con su salud deteriorada se ve forzado a vivir en la pobreza, vendiendo bulbos o preparando remedios herbales. Así todo, regresa a Europa en 1828, llevando una importante cantidad de especímenes de herbario.  Este herbario es la base de la [Flora Capensis](https://www.biodiversitylibrary.org/bibliography/821), escrito por su amigo, el farmacéutico hamburgués Otto W. Sonder en colaboración con su colega irlandés William H. Harvey, profesor de botánica, publicado en Londres en 7 volúmenes desde el año 1860 al 1933.
 La historia de botánicos como Ecklon nos da idea del gigantesco esfuerzo humano por conocer las especies de plantas del planeta.
 
-
 ![Ecklon](images/jard11ecklon.jpg)
 &emsp;&emsp;_Christian Ecklon_
 
@@ -745,7 +741,7 @@ Esta especie está muy cercana a las _Dimorphotecas_, en teoría es perenne mien
 _Actualización_: Probé varios ejemplares de colores diversos, que florecieron un año para después perderse.
 Por razones de sostenibilidad, finalmente no los volví a sembrar sino que he recurrido a otra especie: _Asteriscus maritimus_ 
 
-![Colores de las osteospermium](images/jard11coloresosteorpermium.jpg)
+&emsp;&emsp;![Colores de las osteospermium](images/jard11coloresosteorpermium.jpg)
 
 ***
 
@@ -789,6 +785,25 @@ El cultivar 'Siskiyou Pink' fue introducido en 1991 por el Siskiyou Rare Plant N
 
 ![Gaura distribucion](images/jard11gauradistribucion.jpg)
 &emsp;&emsp;_Distribución de la gaura._
+
+***
+
+![Jorao](images/specpjorao.jpg)
+
+### Margarita de mar
+_Pallenis maritima_
+
+Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_.Me lo vendieron como "margarita majorera" y pensaba que era muy poco probable que fuera el auténtico endemismo de Fuerteventura, aunque por otra parte había leído sobre su introducción en jardinería en otras islas. POr su porte creo que es una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
+
+Es un arbusto de tamaño pequeño, hasta 30cm. de alto, de base leñosa con hojas vellosas y llamativas flores amarillas (en realidad son inflorescencias, o sea grupos de flores) semejantes a las margaritas. Florece casi todo el año, en especial desde la primavera hasta bien entrado el verano. Son sinónimos: _Asteriscus maritimus_ y _Odontospermum maritimum_. 
+
+Soporta altos niveles de insolación, prolongadas sequías estivales y suelos salinos (halófila). Por esto es una planta ideal para xerojardinería. Es pionera en la colonización de suelos pobres, arenosos o rocosos, ayudando en la formación y estabilización de dunas costeras y previniendo la erosión. En el medio natural se la encuentra en acantilados, arenales costeros, de 0 a 200 msnm. 
+Es originaria del Mediterráneo occidental y central hasta Grecia, norte de África e islas Canarias. Se la llama también margarita de mar, asterisco marítimo, estrella de mar, Mediterranean Beach Daisy o Gold Coin. En inglés se la nombra también como _Canary Island daisy_, lo que quizá explique que a veces en viveros se la llame _margarita majorera_, causando confusión con el _jorao_.
+
+_Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las escamitas que existen en el receptáculo de numerosos miembros de la familia Asteraceae en la base de las flores, y se llama «receptáculo paleáceo» al que las tiene. _Maritima_, del mar.
+
+![Grupo de margaritas](images/specpnerium.jpg)
+&emsp;&emsp;_Grupo de margaritas en mayo 2026_.
 
 ***
 
@@ -936,7 +951,10 @@ Endémica de Canarias crece en barrancos, laderas y riscos de la zona central de
 
 _Pterocephalus_ del griego _pteron_, "ala o pluma", y _kephale_ "cabeza", en referencia a la forma plumosa de las flores. _dumetorus_ del latín _dumetum_ "matorral".
 
-Tiene un uso importante como planta ornamental debido a sus vistosas flores y su fácil cultivo. Aunque en este jardín tres años después de su plantación sigue creciendo, pero aún no ha tenido su primera floración.
+Tiene un uso importante como planta ornamental debido a sus vistosas flores y su fácil cultivo. Aunque en este jardín tres años después de su plantación sigue creciendo, pero aún no ha tenido su primera floración. 
+
+![Flores del rosalito](images/jard11rosalitomayo2026.jpg)
+&emsp;&emsp;_Actualización mayo 2026: primera floración del rosalito_.
 
 ***
 
@@ -1046,23 +1064,6 @@ Tenemos dos ejemplares de guaydil, una planta nativa de Canarias, a las que les 
 
 _Convolvulus_ viene del latín _convolvere_ (enredar). _Floridus_ por su abundante y llamativa floración.
 El nombre _guaydil_ se considera una palabra indígena, aunque no se ha podido precisar su significado. La especie fue descrita por Carlos Linneo el Joven (hijo de Linneo)
-
-***
-
-![Jorao](images/specpjorao.jpg)
-
-### Margarita de mar
-_Pallenis maritima_
-
-Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_ (me lo vendieron como "margarita majorera", pero nunca ha crecido más allá de unos 30 cm de alto, con lo cual ya sé que se trata de una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
-
-Es un arbusto de tamaño pequeño, hasta 30cm. de alto, de base leñosa con hojas vellosas y llamativas flores amarillas (en realidad son inflorescencias, o sea grupos de flores) semejantes a las margaritas. Florece casi todo el año, en especial desde la primavera hasta bien entrado el verano. Son sinónimos: _Asteriscus maritimus_ y _Odontospermum maritimum_. 
-
-Soporta altos niveles de insolación, prolongadas sequías estivales y suelos salinos (halófila). Por esto es una planta ideal para xerojardinería. Es pionera en la colonización de suelos pobres, arenosos o rocosos, ayudando en la formación y estabilización de dunas costeras y previniendo la erosión. En el medio natural se la encuentra en acantilados, arenales costeros, de 0 a 200 msnm. 
-
-Es originaria del Mediterráneo occidental y central hasta Grecia, norte de África e islas Canarias. Se la llama también margarita de mar, asterisco marítimo, estrella de mar, Mediterranean Beach Daisy o Gold Coin. En inglés se la nombra también como _Canary Island daisy_, lo que quizá explique que a veces en viveros se la llame _margarita majorera_, causando confusión con el _jorao_.
-
-_Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las escamitas que existen en el receptáculo de numerosos miembros de la familia Asteraceae en la base de las flores, y se llama «receptáculo paleáceo» al que las tiene. _Maritima_, del mar.
 
 ***
 
