@@ -793,7 +793,7 @@ El cultivar 'Siskiyou Pink' fue introducido en 1991 por el Siskiyou Rare Plant N
 ### Margarita de mar
 _Pallenis maritima_
 
-Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_.Me lo vendieron como "margarita majorera" y pensaba que era muy poco probable que fuera el auténtico endemismo de Fuerteventura, aunque por otra parte había leído sobre su introducción en jardinería en otras islas. POr su porte creo que es una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
+Esta es una de las primeras plantas que compré en vivero y traje al jardín, pensando que era el endemismo de Fuerteventura _jorao_. Me lo vendieron como "margarita majorera" y pensaba que era muy poco probable que fuera el auténtico endemismo de Fuerteventura, aunque por otra parte había leído sobre su introducción en jardinería en otras islas. Por su porte creo que es una especie muy cercana, la _Panellia maritima_, que últimamente se suele encontrar en algunos viveros. 
 
 Es un arbusto de tamaño pequeño, hasta 30cm. de alto, de base leñosa con hojas vellosas y llamativas flores amarillas (en realidad son inflorescencias, o sea grupos de flores) semejantes a las margaritas. Florece casi todo el año, en especial desde la primavera hasta bien entrado el verano. Son sinónimos: _Asteriscus maritimus_ y _Odontospermum maritimum_. 
 
@@ -813,7 +813,7 @@ _Pálea_ (del Latín paja), es un término empleado por Carlos Linneo para las e
 _Nerium oleander_
 
 Adelfa o baladre. Originariamente se encontraba como planta nativa en una amplia zona desde el Mediterráneo hasta China y Vietnam, y se ha difundido ampliamente por todas las zonas con clima propicio como planta ornamental, en jardines, medianeras de carretera. Hay numerosas variedades de jardinería, con flores con un número variable de pétalos y diferentes coloraciones que incluyen el rojo, fucsia, carmín, rosa, blanco y, más recientemente, el salmón y el amarillo pálido. También existe una forma con hojas variegadas verde-amarillas y una subespecie enana. Al tratarse de una planta de origen mediterráneo, es muy resistente a la sequía.
-Se ha sembrado la variedad enana, ocupando unas esquinas difíciles, por su robustez, pequeño tamaño y abundante floración. A pesar de ello, he perdido un ejemplar, quedando tres.
+He sembrado la variedad enana, ocupando unas esquinas difíciles, por su robustez, pequeño tamaño y abundante floración. A pesar de ello, he perdido un ejemplar, quedando tres, que también están teniendo un desarrollo muy lento.
 
 _Nerium_ deriva del vocablo griego _nerión_ "agua" o "húmedo", y se puede referir a que crece naturalmente cerca de corrientes de agua (como ríos), o al dios griego Nereo, dios del Mar y padre de las Nereidas. _Oleander_ por la semejanza superficial de sus hojas con el olivo (_Olea europea_)
 
@@ -828,7 +828,7 @@ Existe una persistente leyenda en la que unos lugareños españoles, durante la 
 En [Espores](https://espores.org/es/), una publicación del Jardín Botánico de la Universidad de Valencia, se recoge esta leyenda en el artículo [Adelfa, tan bella como tóxica](https://espores.org/es/etnobotanica-es/adelfa-tan-bella-como-toxica/), con mucha otra información interesante.
 
 En el mundo real, los estudios de toxicidad en animales han concluído que las aves y los roedores son relativamente insensibles a los glucósidos cardíacos de adelfa. Sin embargo, otros mamíferos, como los perros y los humanos, sí que pueden ser afectados. Es peligrosa para animales como ganado, ovejas, caballos. Los recortes de plantas son especialmente peligrosos para los caballos, ya que son dulces. Esto se refleja acertadamente en el nombre sánscrito de la planta, _aśvamāra_, un compuesto de _aśva_ "caballo" y _māra_ "matar".
-La mortalidad humana por ingestión de adelfa es muy baja o inexistente. Cómo dato muy singular que encontré en la red, en 2000 se produjo un caso raro y bastante triste de muerte por envenenamiento con adelfa en Estados Unidos: dos niños pequeños adoptados de un orfanato comieron las hojas del arbusto de un vecino en El Segundo, California. Debido a que la adelfa es extremadamente amarga, se cree que los niños pequeños habían desarrollado una condición causada por la desnutrición (llamada pica), que hace que las personas coman cosas que de otro modo no serían comestibles. Cómo decía, una triste curiosidad.
+La mortalidad humana por ingestión de adelfa es muy baja o inexistente. Un dato muy singular (y triste) que encontré en la red: en 2000 se produjo un caso raro y bastante triste de muerte por envenenamiento con adelfa en Estados Unidos: dos niños pequeños adoptados de un orfanato comieron las hojas del arbusto de un vecino en El Segundo, California. Debido a que la adelfa es extremadamente amarga, se cree que los niños pequeños habían desarrollado una condición causada por la desnutrición (llamada _pica_), que hace que las personas coman cosas que de otro modo no serían comestibles. Cómo decía, una triste curiosidad.
 
 Una última fantasía cinematográfica: en la película _La flor del mal (White oleander, 2003)_ basada en un libro de Janet Fitch y dirigida por Peter Kosminsky, Ingrid (Michelle Pfeiffer) decide envenenar a su amante Barry (Billy Connolly) con un veneno hecho de adelfa blanca.
 
