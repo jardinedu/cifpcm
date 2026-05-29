@@ -18,12 +18,11 @@ Enseña paciencia y atención cuidadosa; enseña laboriosidad y ahorro; sobre to
 ![logo grande](images/00logo2entero.png)
 			
 Este proyecto empezó con una acción educativa de concienciación sobre especies invasoras en las islas, recuperación de un jardín con endemismos y trabajo sobre valores ambientales en el Centro Integrado de Formación Profesional (CIFP) César Manrique, en Santa Cruz de Tenerife. 
-
 El jardín inicial de flora canaria que se recuperó (el de los Talleres) necesita ya (2025) pocos cuidados y es de bajo mantenimiento, aunque en su aparente sencillez ha necesitado varios años de evolución para llegar a este punto. 
 
 ![2022](images/01jardintalleres2022b.jpg)
 
-Igual que las plantas, los proyectos crecen: luego ha venido el trabajo con más parterres, con otros problemas, otros objetivos y otros retos.
+Igual que las plantas, los proyectos crecen: luego ha venido el trabajo con más parterres, con otros problemas, otros objetivos y otros retos. Esta web recoge un poco de la historia de este proyecto,  y es una guía para conocer las especies que viven en estos jardines, con fichas de datos sobre estas plantas que me parecen relevantes. Como todo jardín que se precie, es producto de un proceso de aprendizaje, y aunque algunas especies han desaparecido por diversos motivos (entre ellos mis equivocaciones) dejo sus fichas como memoria. Incluyo en esta web unas reflexiones previas y varias ideas de futuro; también referencias y bibliografía.
 
 Me llamo Jose, profesor del Centro. Siempre me ha gustado cuidar de las plantas, desde mis años en Bachillerato donde coleccionaba plantas nativas canarias en la azotea de mi casa hasta el jardín que trabajé y disfruté muchos años, en mi casa natal en Güímar. En este documento te hablaré del desarrollo de los jardines del CIFP desde 2018, con una guía de especies y datos sobre ellas que me parecen suficientemente interesantes. 
 Si quieres contactar conmigo puedes escribirme a: correoprofe@proton.me
