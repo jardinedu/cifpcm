@@ -924,7 +924,7 @@ En este parterre estaba este granadillo plantado por las profesoras que tuvieron
 
 Llega a ser un arbusto ramificado, de forma muy variable y hasta 3 m de alto, con tallos leñosos y quebradizos, recubiertos con una corteza de color marrón claro, y que pierde parte del follaje en verano, recuperándolo con las primeras lluvias. Florece en primavera, hacia junio, con flores pequeñas, amarillas, en inflorescencias muy densas y olorosas. 
 
-![Flores del granadillo](images/jard11granadilloflor.jpg)
+![Flores del granadillo](images/jard11granadilloflor.png)
 &emsp;&emsp;_Mayo 2026: floración del granadillo_.
 
 Endemismo de Canarias y Madeira. Frecuente en la zona de bosques termófilos y en los márgenes de la laurisilva y fayal-brezal. Prefiere lugares rocosos algo húmedos y soleados, y en ocasiones baja hasta cerca de la costa, o sube hasta zonas dominadas por el pinar. 
