@@ -913,7 +913,40 @@ La revista Espores dedicó un artículo al [acanto en el arte](https://espores.o
 
 Algunas de estas plantas han sido cedidas por el  **Vivero Insular de Flora Autóctona** del Cabildo de Tenerife (rosalito, alhelí, guaydil, salvia). Otras (lavanda, senecio) han nacido espontáneamente o se han recolectado en sus hábitat (magarza, salado).
 
+![Alheli](images/specpgranadillo.jpg)
 
+### Granadillo 
+_Hypericum canariense_
+
+Se conoce como: granadillo, sanjuanero, malfurada, flor de cruz, espantademonios. En inglés, Canary Islands _St. John'swort_ (hierba de San Juan). Granadillo se explicaría por parecerse en tamaño y forma al granado (_Punica granatum_), prescindiendo de las flores.
+
+En este parterre estaba este granadillo plantado por las profesoras que tuvieron una iniciativa de introducir plantas nativas, hace años. Pensaba que había muerto, pero lentamente ha resurgido y en 2026 ha tenido una floración importante. 
+
+Llega a ser un arbusto ramificado, de forma muy variable y hasta 3 m de alto, con tallos leñosos y quebradizos, recubiertos con una corteza de color marrón claro, y que pierde parte del follaje en verano, recuperándolo con las primeras lluvias. Florece en primavera, hacia junio, con flores pequeñas, amarillas, en inflorescencias muy densas y olorosas. 
+
+![Flores del granadillo](images/jard11granadilloflor.jpg)
+&emsp;&emsp;_Mayo 2026: floración del granadillo_.
+
+Endemismo de Canarias y Madeira. Frecuente en la zona de bosques termófilos y en los márgenes de la laurisilva y fayal-brezal. Prefiere lugares rocosos algo húmedos y soleados, y en ocasiones baja hasta cerca de la costa, o sube hasta zonas dominadas por el pinar. 
+De esta especie se distinguen tres variedades, atendiendo a sus diferencias en la forma de las hojas, y la forma y tamaño de los pétalos y los frutos. La var. _canariense_, la var. _platysepalum_, ambas exclusivas de las Islas Canarias, y la var. _floribundum_, que además también crece en la isla de Madeira.
+
+Puede usarse como ornamental en zonas bajas y de medianías. Su cultivo es muy fácil, pues se adapta a casi todo tipo de suelos y sólo necesita riego moderado en verano.
+
+El nombre del género Hypericum deriva del griego _hyper_, "sobre", y eikon, "icono" o "aparición". Se creía que las plantas de este nombre tenían la capacidad de proteger contra los espíritus malignos.
+Nombres que quizá se relacionan con esta planta son: Granadilla: pueblo en el Sur de Tenerife, Granadillos; un caserío de Betancuria en Fuerteventura. 
+
+El granadillo como exótica invasora:
+Como algo bastante peculiar en una especie proveniente de unas pequeñas islas en el Atlántico, esta especie se encuentra asilvestrada, y se ha convertido en exótica invasora en varios lugares del planeta, lugares tan lejanos como [a lo largo de la costa de California y en Hawaii](https://www.invasiveplantatlas.org/subject.html?sub=5734#maps); el sur y suroeste de Australia; Nueva Zelanda; [Sudáfrica](https://www.sciencedirect.com/science/article/pii/S0254629921004786) (Ciudad del Cabo, Hermanus y Gqeberha).
+
+![Granadillo como invasora](images/jard11granadilloflor.jpg)
+&emsp;&emsp;_El granadillo como invasora en la costa de California/Hawaii y en Sudáfrica_.
+
+Este es un resumen de uno de los casos, Sudáfrica:
+
+Hypericum canariense se introdujo a través de la industria de la horticultura ornamental, registrándose las primeras poblaciones en 1950. Tiene el potencial de convertirse en una especie invasora de amplia distribución. Esto se ve favorecido por la abundante producción de semillas y un banco de semillas grande y persistente. Además de beneficiarse de los esfuerzos de introducción y de ser cultivada en la Ciudad del Cabo, H. canariense posee una serie de características que podrían favorecer la invasión: largo periodo de floración, una corta etapa prereproductiva, acumulación de un banco de semillas en el suelo, su polinización generalista y la dispersión de sus semillas por el viento y el agua. La proximidad de todas las poblaciones naturalizadas a carreteras y cursos de agua indica que las vías de movimiento pueden facilitar la dispersión a larga distancia. Su erradicación llevaría unos 10 años con unas acción más intensa el primer año y control durante los 9 años siguientes.
+[La especie exótica invasora Hypericum canariense en Sudáfrica: manejo, costo y viabilidad de erradicación](https://www.sciencedirect.com/science/article/pii/S0254629921004786)
+
+***
 
 ![Alheli](images/specpalheli.jpg)
 
