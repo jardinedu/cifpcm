@@ -918,7 +918,7 @@ Algunas de estas plantas han sido cedidas por el  **Vivero Insular de Flora Aut�
 ### Granadillo 
 _Hypericum canariense_
 
-Se conoce como: granadillo, sanjuanero, malfurada, flor de cruz, espantademonios. En inglés, Canary Islands _St. John'swort_ (hierba de San Juan). Granadillo se explicaría por parecerse en tamaño y forma al granado (_Punica granatum_), prescindiendo de las flores.
+Se conoce como: granadillo, sanjuanero, malfurada, flor de cruz, espantademonios. En inglés, _Canary Islands St. John'swort_ (hierba de San Juan). Granadillo se explicaría por parecerse en tamaño y forma al granado (_Punica granatum_), prescindiendo de las flores.
 
 En este parterre estaba este granadillo plantado por las profesoras que tuvieron una iniciativa de introducir plantas nativas, hace años. Pensaba que había muerto, pero lentamente ha resurgido y en 2026 ha tenido una floración importante. 
 
@@ -932,19 +932,19 @@ De esta especie se distinguen tres variedades, atendiendo a sus diferencias en l
 
 Puede usarse como ornamental en zonas bajas y de medianías. Su cultivo es muy fácil, pues se adapta a casi todo tipo de suelos y sólo necesita riego moderado en verano.
 
-El nombre del género Hypericum deriva del griego _hyper_, "sobre", y eikon, "icono" o "aparición". Se creía que las plantas de este nombre tenían la capacidad de proteger contra los espíritus malignos.
+El nombre del género _Hypericum_ deriva del griego _hyper_, "sobre", y eikon, "icono" o "aparición". Se creía que las plantas de este nombre tenían la capacidad de proteger contra los espíritus malignos.
 Nombres que quizá se relacionan con esta planta son: Granadilla: pueblo en el Sur de Tenerife, Granadillos; un caserío de Betancuria en Fuerteventura. 
 
-El granadillo como exótica invasora:
+**El granadillo como exótica invasora**:
 Como algo bastante peculiar en una especie proveniente de unas pequeñas islas en el Atlántico, esta especie se encuentra asilvestrada, y se ha convertido en exótica invasora en varios lugares del planeta, lugares tan lejanos como [a lo largo de la costa de California y en Hawaii](https://www.invasiveplantatlas.org/subject.html?sub=5734#maps); el sur y suroeste de Australia; Nueva Zelanda; [Sudáfrica](https://www.sciencedirect.com/science/article/pii/S0254629921004786) (Ciudad del Cabo, Hermanus y Gqeberha).
 
-![Granadillo como invasora](images/jard11granadilloflor.jpg)
+![Granadillo como invasora](images/jard11granadilloinvasora.jpg)
 &emsp;&emsp;_El granadillo como invasora en la costa de California/Hawaii y en Sudáfrica_.
 
 Este es un resumen de uno de los casos, Sudáfrica:
 
-Hypericum canariense se introdujo a través de la industria de la horticultura ornamental, registrándose las primeras poblaciones en 1950. Tiene el potencial de convertirse en una especie invasora de amplia distribución. Esto se ve favorecido por la abundante producción de semillas y un banco de semillas grande y persistente. Además de beneficiarse de los esfuerzos de introducción y de ser cultivada en la Ciudad del Cabo, H. canariense posee una serie de características que podrían favorecer la invasión: largo periodo de floración, una corta etapa prereproductiva, acumulación de un banco de semillas en el suelo, su polinización generalista y la dispersión de sus semillas por el viento y el agua. La proximidad de todas las poblaciones naturalizadas a carreteras y cursos de agua indica que las vías de movimiento pueden facilitar la dispersión a larga distancia. Su erradicación llevaría unos 10 años con unas acción más intensa el primer año y control durante los 9 años siguientes.
-[La especie exótica invasora Hypericum canariense en Sudáfrica: manejo, costo y viabilidad de erradicación](https://www.sciencedirect.com/science/article/pii/S0254629921004786)
+> "_Hypericum canariense_ se introdujo a través de la industria de la horticultura ornamental, registrándose las primeras poblaciones en 1950. Tiene el potencial de convertirse en una especie invasora de amplia distribución. Esto se ve favorecido por la abundante producción de semillas y un banco de semillas grande y persistente. Además de beneficiarse de los esfuerzos de introducción y de ser cultivada en la Ciudad del Cabo, _H. canariense_ posee una serie de características que podrían favorecer la invasión: largo periodo de floración, una corta etapa prereproductiva, acumulación de un banco de semillas en el suelo, su polinización generalista y la dispersión de sus semillas por el viento y el agua. La proximidad de todas las poblaciones naturalizadas a carreteras y cursos de agua indica que las vías de movimiento pueden facilitar la dispersión a larga distancia. Su erradicación llevaría unos 10 años con unas acción más intensa el primer año y control durante los 9 años siguientes".
+> <cite>― [La especie exótica invasora Hypericum canariense en Sudáfrica: manejo, costo y viabilidad de erradicación](https://www.sciencedirect.com/science/article/pii/S0254629921004786)</cite>
 
 ***
 
