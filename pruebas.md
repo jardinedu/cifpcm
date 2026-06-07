@@ -39,3 +39,38 @@ int foo() {
 </td>
 </tr>
 </table>
+
+
+::::::::::::::::
+
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```
+*  _Aichryson laxum_ - Gongarillo
+*  _Argyranthemum frutescens_ - Margarita / Magarza
+*  _Argyranthemum frutescens_ - Margarita / Magarza
+*  _Artemisia Thuscula_ - Incienso
+*  _Bencomia caudata_ - Bencomia
+```
+
+</td>
+<td>
+
+```
+*  _Thaumatophyllum bipinnatifidum_ - Filodendro selloum
+*  _Thaumatophyllum xanadu_ - Filodendro xanadu
+*  _Tradescantia pallida_ - Tradescantia
+*  _Tulbaghia violacea_ - Tulbaghia
+*  _Westringia fruticosa_ - Romero australiano
+```
+
+</td>
+</tr>
+</table>
