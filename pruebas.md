@@ -45,3 +45,37 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 </td>
 </tr>
 </table>
+
+
+::::::::::::::::
+
+
+<table>
+<tr>
+<th> Especies nativas de Canarias </th>
+<th> Especies exóticas </th>
+</tr>
+<tr>
+<td>
+
+
+- Aichryson laxum . Gongarillo
+- Argyranthemum frutescens . Margarita / Magarza
+- Argyranthemum frutescens . Margarita / Magarza
+- Artemisia Thuscula . Incienso
+- Bencomia caudata . Bencomia
+
+
+</td>
+<td>
+
+
+- Thaumatophyllum bipinnatifidum . Filodendro selloum
+- Thaumatophyllum xanadu . Filodendro xanadu
+- Tradescantia pallida . Tradescantia
+- Tulbaghia violacea . Tulbaghia
+- Westringia fruticosa . Romero australiano
+
+
+Texto normal
+
