@@ -13,41 +13,8 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table>
-
-
-::::::::::::::::
-
-
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
+<th> Especies nativas de Canarias </th>
+<th> Especies exóticas </th>
 </tr>
 <tr>
 <td>
@@ -70,6 +37,10 @@ int foo() {
 *  _Tulbaghia violacea_ - Tulbaghia
 *  _Westringia fruticosa_ - Romero australiano
 ```
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
