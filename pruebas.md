@@ -19,7 +19,7 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 <tr>
 <td>
 
-- _Aichryson laxum_ . *Gongarillo*<br>  
+- Aichryson laxum . Gongarillo<br>  
 - Argyranthemum frutescens . Margarita / Magarza<br>  
 - Artemisia Thuscula . Incienso<br>  
 - Bencomia caudata . Bencomia<br>  
@@ -31,10 +31,15 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 - Thaumatophyllum xanadu . Filodendro xanadu<br>
 - Tradescantia pallida . Tradescantia<br>
 - Tulbaghia violacea . Tulbaghia<br>
-- Westringia fruticosa . Romero australiano
+_- Westringia fruticosa_ . Romero australiano
 
 </td>
 </tr>
 </table>
 
 Texto normal
+
+:::::::::
+
+_Aichryson laxum_ 
+*Gongarillo*<br>  
