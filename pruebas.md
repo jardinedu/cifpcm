@@ -18,17 +18,17 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 </tr>
 <tr>
 <td>
-
+<small>
 - <i>Aichryson laxum</i> . Gongarillo<br>  
 - Argyranthemum frutescens . Margarita / Magarza<br>  
-- Artemisia Thuscula . Incienso<br>  
+- [Artemisia Thuscula . Incienso](#Incienso)<br>  
 - Bencomia caudata . Bencomia<br>  
-
+</small>
 </td>
 <td>
 
-- Thaumatophyllum bipinnatifidum . Filodendro selloum<br>
-- Thaumatophyllum xanadu . Filodendro xanadu<br>
+- <i>Thaumatophyllum bipinnatifidum</i> . Filodendro selloum<br>
+- <i>Thaumatophyllum xanadu</i> . Filodendro xanadu<br>
 - Tradescantia pallida . Tradescantia<br>
 - Tulbaghia violacea . Tulbaghia<br>
 - Westringia fruticosa . Romero australiano
@@ -37,9 +37,9 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 </tr>
 </table>
 
+- - - 
+
+
 Texto normal
-
-:::::::::
-
-_Aichryson laxum_ 
-*Gongarillo*<br>  
+#Incienso
+Esta es la descripción del incienso canario. 
