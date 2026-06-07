@@ -11,23 +11,31 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 :::::::::::
 
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-*  _Aichryson laxum_ - Gongarillo
-*  _Argyranthemum frutescens_ - Margarita / Magarza
-*  _Argyranthemum frutescens_ - Margarita / Magarza
-*  _Artemisia Thuscula_ - Incienso
-*  _Bencomia caudata_ - Bencomia
-        <pre><code class="language-c">
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
 
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
 
+</td>
+<td>
 
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-*  _Thaumatophyllum bipinnatifidum_ - Filodendro selloum
-*  _Thaumatophyllum xanadu_ - Filodendro xanadu
-*  _Tradescantia pallida_ - Tradescantia
-*  _Tulbaghia violacea_ - Tulbaghia
-*  _Westringia fruticosa_ - Romero australiano
-        <pre><code class="language-c">
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
