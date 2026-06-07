@@ -72,4 +72,35 @@ Texto normal
 
 Texto normal
 
+:::::::::::::
+
+
+<table>
+<tr>
+<th> Especies nativas de Canarias </th>
+<th> Especies exóticas </th>
+</tr>
+<tr>
+<td>
+
+- Aichryson laxum . Gongarillo<br>  
+- Argyranthemum frutescens . Margarita / Magarza<br>  
+- Artemisia Thuscula . Incienso<br>  
+- Bencomia caudata . Bencomia<br>  
+
+</td>
+<td>
+
+- Thaumatophyllum bipinnatifidum . Filodendro selloum<br>
+- Thaumatophyllum xanadu . Filodendro xanadu<br>
+- Tradescantia pallida . Tradescantia<br>
+- Tulbaghia violacea . Tulbaghia<br>
+- Westringia fruticosa . Romero australiano
+
+</td>
+</tr>
+</table>
+
+Texto normal
+
 
