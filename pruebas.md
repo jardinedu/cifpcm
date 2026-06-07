@@ -7,38 +7,67 @@ feature_image:
 
 Gran parte de la literatura sobre jardinería y jardines son libros con directrices de diseño, fotos con ejemplos de jardines perfectos, herramientas, accesorios, materiales, etc. A veces son libros maravillosos, pero casi siempre poco útiles.
 
-Me parece más interesante encontrar libros de pensamiento sobre jardinería y plantas. Aquí hay una pequeña selección.
 
-
-![La sabiduría del jardinero](images/bsabiduriajardinero1000px.jpg)
-&nbsp;La sabiduría del jardinero. Gilles Clément. Gustavo Gili. 2021
-
-_<figure>
-    <img src="images/blamentebienajardinada1000px.jpg" alt="Alt text" />
-    <figcaption>La sabiduría del jardinero</figcaption>
-</figure>_
-
-
-
-&nbsp;&nbsp;Jardinosofía. Una historia filosófica de los jardines. Santiago Beruete. Turner. 2016
-
-&nbsp;&nbsp;Loa a la tierra. Un viaje al jardín. Byung-Chul Han. Herder. 2023
-
-
-
-&ensp;&thinsp;Una breve historia del jardín. Gilles Clément. Gustavo Gili. 2021
-
-&ensp;&thinsp;&ensp;&thinsp;Planta Sapiens. Paco Calvo, Natalie Lawrence. Seix Barral. 2023
-
-![Una breve historia del jardín](images/brevehistoriajardin1000px.jpg)
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;Una breve historia del jardín. Gilles Clément. Gustavo Gili. 2021
-
-![La mente bien ajardinada](images/blamentebienajardinada1000px.jpg)
-La mente bien ajardinada. Sue Stuart-Smith. Debate. 2021
-![La mente bien ajardinada](images/blamentebienajardinada1000px.jpg)
-_La mente bien ajardinada. Sue Stuart-Smith. Debate. 2021_
 
 <figure>
     <img src="images/blamentebienajardinada1000px.jpg" alt="Alt text" />
     <figcaption>_La mente bien ajardinada_</figcaption>
 </figure>
+
+
+
+
+<div class="pull-left">
+<center>Especies nativas de Canarias </center>
+TEXTO
+</div>
+
+<div class="pull-right">
+<center>Especies exóticas</center>
+TEXTO
+</div>
+
+
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        TEXTO
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        TEXTO
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  </div>
+</div>
+
+
+
+
+
+::: {.row}
+  ::: {.col-md-4}
+    table ...
+  :::
+  ::: {.col-md-8}
+    graph ...
+  :::
+:::
