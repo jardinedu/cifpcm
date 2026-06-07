@@ -15,7 +15,7 @@ Visión general de cada jardín, con descripción de las especies utilizadas, ge
 5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
 
 Lista general de las especies que hay en los jardines, divididas en: especies nativas de Canarias y especies exóticas.
-6. [Lista de especies](#6-Lista-de-especies)
+- [Lista de especies](#- Lista-de-especies)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -1607,8 +1607,9 @@ En proyecto está controlar el excesivo crecimiento de las parchas, reorganizar 
 ![Plumerias sonido](images/jard14plumeriassonido.jpg)
 &emsp;&emsp;_Plumerias recién plantadas, octubre 2024_
 
+- - -
 
-# 6. Lista de especies
+# - Lista de especies
 
 <table>
 <tr>
