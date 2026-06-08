@@ -87,6 +87,8 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 [Vídeo: Mario Mairal Pisa – El Ocaso invisible de la laurisilva. XXVII Jornadas Forestales de Gran Canaria](https://youtu.be/z4OBsSvbLX8)
 
+Les roses. Pierre Joseph Redouté, 1759-1840. [Tome I](https://archive.org/details/CAT30984991_01) - [Tome II](https://archive.org/details/CAT30984991_02) - [Tome III](https://archive.org/details/CAT30984991_03) 
+
 
 ![Barra verde](images/jard01barraverde.jpg)
 
