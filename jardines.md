@@ -1644,9 +1644,14 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 
 # 6. Jardín Pabellón 4
 
-![JardinPabellon 4](images/jard15pabellon4.jpg)
+![JardinPabellon 4](images/jard15pabellon4a.jpg)
 
-Este jardín está en proceso. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos. Estoy probando con un grupo de acantos y un filodendro, junto a un grupo de hortensias, con la esperanza de que les sea favorable el suelo acidificado por los _Schinus molle_ . También tengo que retirar dos cardones con un muy mal desarrollo por la combinación falta de sol directo-suelo ácido.
+Este jardín está en proceso, sin prisa. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos. 
+Estoy probando con un grupo de acantos y un filodendro, junto a unas hortensias, con la esperanza de que les sea favorable el suelo acidificado por los _Schinus molle_. 
+
+También tengo que retirar dos cardones con muy mal desarrollo por la combinación falta de sol directo-suelo ácido, para reubicarlos en un sitio más favorable.
+
+![JardinPabellon 4](images/jard15pabellon4b.jpg)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -1655,10 +1660,11 @@ Este jardín está en proceso. He respetado una platanera ornamental presente co
 
 ![Tabaibal cardonal](images/jard16tabaibalcardonal1.png)
 
-El próximo proyecto importante es convertir una pequeña ladera en el patio del Salón de Actos en una zona de tabaibal-cardonal. 
+El próximo proyecto importante es convertir una pequeña ladera en el patio del Salón de Actos en una zona de tabaibal-cardonal exclusivamente con especies nativas de Canarias. 
 
 En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona, más bien en declive, y el terreno ha quedado a cero. Considerando su orientación, insolación y la posibilidad de que permanezca la plaga, la idea es ubicar aquí los cardones que voy a retirar del Pabellón 4 porque tendrán unas condiciones máSadecuadas a lo que necesitan. Esos cardones serán el centro de un pequeño reducto de tabaibal-cardonal: cardones, tabaibas dulces, cardoncillo, orijama, cornical, todo ello sobre un _mulch_ de zahorra (jable), que mantenga la humedad del suelo y en poco tiempo haga que este conjunto de especies no necesite riegos ni más cuidados que alguna limpieza anual.
 
+![Tabaibal cardonal especies](images/jard164especies.png)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
