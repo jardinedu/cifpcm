@@ -1585,14 +1585,24 @@ Este primer proyecto, que planeaba para finales de 2025, finalmente no se va a l
 ![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
 &emsp;&emsp;_Primer proyecto del parterre, ya desechado_
 
+abril 2026<br>
 El proyecto de Renaturalización se aprobó, aunque falta su ejecución. Incluye ubicar en este parterre dos mesas con bancos para el alumnado. Considerando esto, he calculado la ubicación y dimensiones de estas mesas y adaptado el proyecto en consecuencia. Estoy organizando dos islas de plantas con flores: hortensias y rosales, en parte para mantener el trabajo previo de otras jardineras y jardineros que plantaron y cuidaron aquí estas dos especies. 
-
-El primer grupo son hortensias, en el lado del paso, de modo que desde muy cerca se pueda ver su floración. He trasplantado la línea de hortensias antiguas (las más lejanas estaban demasiado distantes) y las he reunido en un grupo más compacto. Estaban muy envejecidas, así que las he podado dentro de lo posible, intentando rejuvenecerlas. También he traido de vivero tres nuevas hortensias, esperando tener un grupo interesante en unos meses. Lo complementan un helecho nacido espontáneamente y que al despejarlo un poco está adquiriendo un buen porte, algunos rhoeos, un grupo de lilium rescatado de este mismo parterre y un jazmín que espero enredar en las columnas metálicas, en el paso de la gente, de modo que disperse su perfume al pasar junto a él. 
-
-El segundo grupo, a distancia media, es un proyecto de rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá. Lo complementa un grupo de lirios rescatado también y algunos rhoeos.
 
 ![Parterre en abril 2026](images/jard13parterrelargoabril26.jpg)
 &emsp;&emsp;_Vista del parterre, abril 2026_
+
+El primer grupo son hortensias, en el lado del paso, de modo que desde muy cerca se pueda ver su floración. He trasplantado la línea de hortensias antiguas (las más lejanas estaban demasiado distantes) y las he reunido en un grupo más compacto. Estaban muy envejecidas, así que las he podado dentro de lo posible, intentando rejuvenecerlas. También he traido de vivero tres nuevas hortensias, esperando tener un grupo interesante en unos meses. Lo complementan un helecho nacido espontáneamente y que al despejarlo un poco está adquiriendo un buen porte, algunos rhoeos, un grupo de lilium rescatado de este mismo parterre y un jazmín que espero enredar en las columnas metálicas, en el paso de la gente, de modo que disperse su perfume al pasar junto a él. 
+
+El segundo grupo, a distancia media, es un proyecto de rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá. Lo complementa un grupo de lirios rescatado también y algunos rhoeos. 
+
+Los rosales no solo son una memoria del pasado de este parterre, sino un pequeño homenaje a mi madre, que fue una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento alcimatar tres variedades de ese color: Friesia, Michelangelo y Oriental Peace. Las tres, obviamente, variedades comerciales. 
+
+La historia de las rosas, su popularización a partir del jardín de La Malmaison de la Emperatriz Josefina Beauharnais, las ilustraciones de variedades de rosas de Redouté... hay todo un tema enorme y troncal en la historia de la jardinería de los dos últimos siglos. 
+
+![Tres rosas](images/jard13tresrosasredoute.jpg)
+&emsp;&emsp;_Tres rosas amarillas ca.1817-1824, ilustraciones de Pierre-Joseph Redouté, en les Roses ([I](https://archive.org/details/CAT30984991_01)) ([II](https://archive.org/details/CAT30984991_02)) ([III](https://archive.org/details/CAT30984991_03))_
+
+
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -1622,20 +1632,20 @@ El jazmín azul (_Plumbago auriculata_) es una especie de planta herbácea de la
 ![Jardin casita sonido](images/jard14belesas.jpg)
 &emsp;&emsp;_Belesas y cornical, junio 2026_
 
-Flores celestes a azules. Es una planta trepadora excelente para cubrir muros, celosías y verjas, pero también como cobertora del suelo. Puede también cultivarse en maceta, formando una esfera de flores azules muy bonita. El plumbago quiere calor y resiste largos periodos de sequía. Planta perenne de hábito arbustivo o trepador, crecimiento rápido e inflorescencias azules que produce casi todo el año. Es una planta de alto valor ornamental. 
+Flores celestes a azules. Es una planta trepadora excelente para cubrir muros, celosías y verjas, pero también como cobertora del suelo. Puede cultivarse en maceta, formando una esfera de flores azules muy bonita. El plumbago quiere calor y resiste largos periodos de sequía. Planta perenne de hábito arbustivo o trepador, crecimiento rápido e inflorescencias azules que produce casi todo el año. Es una planta de alto valor ornamental. 
 
 Su nombre deriva del latín _plumbum_, que significa plomo. Se cree que la planta se utilizaba en la antigüedad para elaborar una cura para la intoxicación por plomo.
 
 La planta se usa en Canarias y Cuba como ornamental. En Canarias se conoce como _belesa_, en Cuba se cultiva desde el siglo XIX y se la conoce como embeleso, belesa, embeleso, azulejo, celest(e).
 
 Un embeleso es un sueño corto y ligero, aunque en Canarias (y Andalucía) embeleso se usa como adormecimiento. A la _belesa_ se le atribuyen virtudes narcóticas. 
-El uso de la palabra _embeleso_ como sueño ligero y breve pasa a la _belesa_ por ser planta que se emplea para emborrachar los peces y pescarlos. _Embelesar_ tiene la acepción etimológica de _aturdir_. En portugués significa "quedar aturdido de resultas de un golpe".
+El uso de la palabra embeleso como sueño ligero y breve pasa a la _belesa_ por ser planta que se emplea para emborrachar los peces y pescarlos. _Embelesar_ tiene la acepción etimológica de _aturdir_. En portugués significa "quedar aturdido de resultas de un golpe".
 
 Las plantas llegadas a Canarias desde América traían habitualmente consigo los nombres del otro lado del Atlántico; por otra parte, muchas de las plantas que se cultivaban en América, se trajeron a Europa pasando por las Islas, donde tras un periodo de aclimatación, sobre todo en el Jardín de Aclimatación de La Orotava, se llevaban luego a la Península. Es difícil determinar por qué vía llegó la _Belesa capensis_ a América o a España, perp se puede suponer que el fitónimo _belesa_ llegó a Canarias desde Cuba.
 
-es llamativa la relación de embeleso con el efecto que produce la belesa precisamente en los peces y no en los humanos, lo que haría suponer que la práctica de esta modalidad de pesca fue algo tan
-frecuente como para dar lugar al nacimiento de un sentido figurado. Con esta finalidad fueron usadas otras plantas además de la belesa. De forma paralela a embelesar, embarbascar además de intoxicar a los peces con esta hierba, ha desarrollado en El Salvador y Venezuela el sentido figurado ‘enamorar ciegamente’, paralelo al de embelesar, lo que apoyaría la idea de que las acepciones modernas se desarrollaron a partir del uso de la planta en la pesca.
-En Canarias, la práctica de embelesar el agua para pescar se ha realizado en Fuerteventura, pero las plantas utilizadas con esta finalidad han sido habitualmente el cardón y la tabaiba. A pesar de su alto grado de toxicidad, el embeleso ha sido utilizado popularmente en Canarias con fines medicinales.
+Es llamativa la relación de embeleso con el efecto que produce la belesa precisamente en los peces y no en los humanos, lo que haría suponer que la práctica de esta modalidad de pesca fue algo tan frecuente como para dar lugar al nacimiento de un sentido figurado. Con esta finalidad fueron usadas otras plantas además de la belesa. De forma paralela a embelesar, embarbascar además de intoxicar a los peces con esta hierba, ha desarrollado en El Salvador y Venezuela el sentido figurado ‘enamorar ciegamente’, paralelo al de embelesar, lo que apoyaría la idea de que las acepciones modernas se desarrollaron a partir del uso de la planta en la pesca.
+
+En lugar de _embelesar_ en Casnarias se usó la expresión _embarbascar_ (o envarbascar): Envenenar el agua con verbasco u otra sustancia análoga como método de pesca para aturdir a los peces. Viera y Clavijo, en su Historia de Canarias, escribe que los primitivos isleños usaban una técnica de pesca consistente en envenenar con leche de cardón o euforbia (tabaiba amarga) grandes charcos donde después de la marea quedaban atrapados los peces, de modo que aturdidos se pueden coger con las manos. Esta práctica se siguió realizando, al menos en Fuerteventura, hasta casi el siglo XX.
 
 Datos extraídos del muy interesante trabajo: [Etimología e historia de un fitónimo canario y cubano. Embeleso: ‘belesa’](https://riull.ull.es/xmlui/bitstream/handle/915/16342/RF_25_%282007%29_15.pdf)
 
