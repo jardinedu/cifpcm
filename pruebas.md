@@ -7,6 +7,25 @@ feature_image:
 
 Gran parte de la literatura sobre jardinería y jardines son libros con directrices de diseño, fotos con ejemplos de jardines perfectos, herramientas, accesorios, materiales, etc. A veces son libros maravillosos, pero casi siempre poco útiles.
 
+:::::::::::
+
+URL Escape Code
+
+á
+%C3%A1
+
+é
+%C3%A9
+
+í
+%C3%AD
+
+ó
+%C3%B3
+
+ú
+%C3%BA
+
 
 :::::::::::
 
