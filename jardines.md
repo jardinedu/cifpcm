@@ -1664,7 +1664,7 @@ El próximo proyecto importante es convertir una pequeña ladera en el patio del
 
 En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona, más bien en declive, y el terreno ha quedado a cero. Considerando su orientación, insolación y la posibilidad de que permanezca la plaga, la idea es ubicar aquí los cardones que voy a retirar del Pabellón 4 porque tendrán unas condiciones máSadecuadas a lo que necesitan. Esos cardones serán el centro de un pequeño reducto de tabaibal-cardonal: cardones, tabaibas dulces, cardoncillo, orijama, cornical, todo ello sobre un _mulch_ de zahorra (jable), que mantenga la humedad del suelo y en poco tiempo haga que este conjunto de especies no necesite riegos ni más cuidados que alguna limpieza anual.
 
-![Tabaibal cardonal especies](images/jard164especies.png)
+![Tabaibal cardonal especies](images/jard164especies.jpg)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -1771,6 +1771,7 @@ En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona, más 
 - <i>Pallenis maritima</i>. Margarita de mar<br>
 - <i>Philodendron bipinnatifidum</i>. Filodendro narrow<br>
 - <i>Philodendron erubescens</i>. Filodendro rojo<br>
+- <i>Plumbago auriculata</i>. Belesa<br>
 - <i>Plumeria pudica</i>. Frangipán ramo de novia<br>
 - <i>Plumeria rubra</i>. Frangipán<br>
 - <i>Salvia rosmarinus</i>. Romero<br>
@@ -1783,7 +1784,6 @@ En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona, más 
 - <i>Tradescantia pallida</i>. Tradescantia<br>
 - <i>Tulbaghia violacea</i>. Tulbaghia<br>
 - <i>Westringia fruticosa</i>. Romero australiano<br>
-- <i>Plimbago auriculata</i>. Belesa>br>
 
 </small>
 </td>
