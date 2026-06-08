@@ -1636,20 +1636,21 @@ es llamativa la relación de embeleso con el efecto que produce la belesa precis
 frecuente como para dar lugar al nacimiento de un sentido figurado. Con esta finalidad fueron usadas otras plantas además de la belesa. De forma paralela a embelesar, embarbascar además de intoxicar a los peces con esta hierba, ha desarrollado en El Salvador y Venezuela el sentido figurado ‘enamorar ciegamente’, paralelo al de embelesar, lo que apoyaría la idea de que las acepciones modernas se desarrollaron a partir del uso de la planta en la pesca.
 En Canarias, la práctica de embelesar el agua para pescar se ha realizado en Fuerteventura, pero las plantas utilizadas con esta finalidad han sido habitualmente el cardón y la tabaiba. A pesar de su alto grado de toxicidad, el embeleso ha sido utilizado popularmente en Canarias con fines medicinales.
 
-
 Datos extraídos del muy interesante trabajo: [Etimología e historia de un fitónimo canario y cubano. Embeleso: ‘belesa’](https://riull.ull.es/xmlui/bitstream/handle/915/16342/RF_25_%282007%29_15.pdf)
-
-
 
 
 # 6. Jardín Pabellón 4
 
 ![JardinPabellon 4](images/jard15pabellon4.jpg)
 
+Este jardín está en proceso. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos. Estoy probando con un grupo de acantos y un filodendro, junto a un grupo de hortensias, con la esperanza de que les sea favorable el suelo acidificado por los _Schinus molle_ . También tengo que retirar dos cardones con un muy mal desarrollo por la combinación falta de sol directo-suelo ácido.
+
 # 7.Tabaibal-Cardonal Salón de Actos
 
 ![JardinPabellon 4](images/jard16tabaibalcardonal1.jpg)
 
+El próximo proyecto importante es convertir una pequeña ladera en el patio del Salón de Actos en una zona de tabaibal-cardonal. En 2025 una plaga arrasó unas _Acalyphas_ que llevaban allí años, y el terreno ha quedado a cero. 
+Considerando su orientación, insolación y la posibilidad de que permanezca la plaga, la idea es tyrasladar aquñí los cardones que voy a retirar del Pabellón 4 y convertirlos en el centro de un pequeño reducto de tabaibal-cardonal: cardones,tabaibas dulces, cardoncillo, orijama, cornical, todo ello sobre un _mulch_ de zahorra (jable), que mantenga la humedad del suelo y en poco tiempo haga que este conjunto de especies no necesite riegos ni más cuidados que alguna limpieza anual.
 
 - - -
 
@@ -1693,6 +1694,7 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 
 - <i>Semele androgina</i>. Gibalbera<br>
 - <i>Sonchus tenerrimus</i>. Cerrajilla<br>
+<br>
 <br>
 <br>
 <br>
@@ -1766,6 +1768,7 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 - <i>Tradescantia pallida</i>. Tradescantia<br>
 - <i>Tulbaghia violacea</i>. Tulbaghia<br>
 - <i>Westringia fruticosa</i>. Romero australiano<br>
+- <i>Plimbago auriculata</i>. Belesa>br>
 
 </small>
 </td>
