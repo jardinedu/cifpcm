@@ -13,8 +13,8 @@ Visión general de cada jardín, con descripción de las especies utilizadas, ge
 3. [Jardines del patio central - sombra](#3-jard%C3%ADn-del-patio-central---sombra)
 4. [Jardín de Secretaría](#4-jardines-de-secretar%C3%ADa)
 5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
-6. [Jardin Pabellón 4](#6-jard%C3%ADn-pabellon-4)
-7. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-cardonal-salon-de-actos)
+6. [Jardin Pabellón 4](#6-jard%C3%ADn-pabell%C3%B3n-4)
+7. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-cardonal-sal%C3%B3n-de-actos)
 
 [Lista general de las especies que hay en los jardines: nativas de Canarias y exóticas](#lista-de-especies)
 
@@ -1598,7 +1598,7 @@ El segundo grupo, a distancia media, es un proyecto de rosaleda, con tres nuevos
 
 # 5. Jardines de la Casita de Sonido
 
-Octubre 2024
+Octubre 2024<br>
 Se empezaron a reacondicionar varios parterres alrededor de la Casita de Sonido.
 De momento se han plantado ejemplares de _Plumeria rubra_, recogidos de la tala de un antiguo ejemplar en la calle Heliodoro Rguez. Glez. de Santa Cruz.
 
@@ -1609,7 +1609,7 @@ En proyecto está controlar el excesivo crecimiento de las parchas, reorganizar 
 ![Plumerias sonido](images/jard14plumeriassonido.jpg)
 &emsp;&emsp;_Plumerias recién plantadas, octubre 2024_
 
-Junio 2026
+Junio 2026<br>
 Tras el invierno 2025/2026, unas belesas que ya estaban aquí se están recuperando, y aparecen algunas más brotando por rizoma, junto a u cornical que ha crecido bastante. En lygar de intervenir más, por ahora creo que es mejor cuidar estos ejemplares y darle unas buenas condiciones. 
 El cornical es una planta nativa, interesante por su bajo mantenimiento. La belesa es una planta muy presente en la jardinería tradicional en Canarias, con una historia interesante, especialmente alrededor de su etimología:
 
@@ -1749,7 +1749,7 @@ El cornical es una planta nativa, interesante por su bajo mantenimiento. La bele
 </tr>
 </table>
 
-- - - 
+
 
 ***
 url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
