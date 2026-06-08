@@ -14,9 +14,9 @@ Visión general de cada jardín, con descripción de las especies utilizadas, ge
 4. [Jardín de Secretaría](#4-jardines-de-secretar%C3%ADa)
 5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
 6. [Jardin Pabellón 4](#6-jard%C3%ADn-pabell%C3%B3n-4)
-7. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-cardonal-sal%C3%B3n-de-actos)
-8. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal/cardonal-sal%C3%B3n-de-actos)
-9. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-cardonal-sal%C3%B3n-de-actos)
+7. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal---cardonal-sal%C3%B3n-de-actos)
+8. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-/-cardonal-sal%C3%B3n-de-actos)
+
 
 [Lista general de las especies que hay en los jardines: nativas de Canarias y exóticas](#lista-de-especies)
 
