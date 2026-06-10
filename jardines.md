@@ -30,8 +30,13 @@ Después del asunto del rabo de gato (que a fecha 2025 aún no se ha resuelto de
 ![Evolución 2018 a 2025](images/jard02evolucion201820232025.jpg)
 
 Mi teoría es que hacia la década de 1980, sobre una parcela donde previamente hubo un terrero de lucha, se intentó crear un jardín exclusivamente de especies nativas de las Islas Canarias (en un momento de búsqueda de elementos de identidad, esto llegó a ser común en muchos centros educativos) que luego fue incluyendo otras especies adaptadas a alta insolación y poco riego. De esa época tenemos dos excelentes ejemplares de cardón y un drago, pequeño de tamaño pero con más años de lo que parece, varias euforbias, un balo majestuoso, etc. El jardín fue mantenido por el personal del Centro y en una época se contó con una jardinera (compartida entre varios Institutos). Luego, en algún momento, se dejó de atender, fue siendo invadido por malas hierbas, algunas plantas sobrecrecieron ahogando a otras, aparecieron y tomaron fuerza malas hierbas, etc.
-Lo fundamental fue poner en valor la flora canaria ya existente y acompañarla de especies adecuadas.
-A partir de 2018 reordené plantas, eliminé especies inadecuadas para un jardín transitable (algunas cactáceas realmente peligrosas) y fui introduciendo especies nuevas: magarzas, lavandas, cardoncillo, salado, etc. Instalé bancos, dejé un paso transitable a lo largo del jardín y año a año el proyecto llega hasta hoy, siempre en proceso, y cada vez más equilibrado.
+Lo fundamental fue poner en valor la flora canaria ya existente y acompañarla de especies adecuadas. 
+
+A partir de 2018 reordené plantas, eliminé especies inadecuadas para un jardín transitable (algunas cactáceas realmente peligrosas) y fui introduciendo especies nuevas: magarzas, lavandas, cardoncillo, salado, etc. 
+Instalé un primer banco fijo, y viendo que el alumnado lo usaba con regularidda, un segundo banco móvil. Dejé un paso transitable a lo largo del jardín y año a año el proyecto llega hasta hoy, siempre en proceso, y cada vez más equilibrado.
+
+2026<br>
+El alumnado del Centro usa a diario el espacio de los bancos para comer algo en los recreos, conversar o estudiar. Muy raramente alguien no se lleva su basura, y alguien hay también que cree que está bien comer pipas y tirar las cáscaras al suelo, pero son casos muy puntuales. En junio 2026 alguien se llevó el banco móvil a la parte trasera del Pabellón 3, dándome una clara señal de lo que quiere el alumnado: simplemente un espacio en sombra donde sentarse.
 
 ![2025](images/jard03jardintalleres2.jpg)
 
