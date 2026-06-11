@@ -1679,7 +1679,7 @@ El próximo proyecto importante es convertir una pequeña ladera en el patio del
 
 En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona. Es difícil saber la causa concreta: pudo ser consecuencia del cambio climático, pudo ser una debilidads previa de las acalifas, o incluso puede que la plaga viniera con árbol que se plantó, un pino de oro (_Grevillea robusta_) que llegó con las ramas de un lado dañadas (quizá por haber crecido junto a una pared), nunca tuvo buen desarrollo, y estaba en punto de inicio de la extensión de esta plaga, y sucumbió junto a las acalifas. 
 
-En la foto se ve lo que debió ser el inicio de la infección: un grupo de tres acalifas, con el pino de oro en el centro (ya sin hojas); más atrás, a la derecha, otras acalifas también agonizantes. Las palmeras (Palmito europeo, _Chamaerops humilis_) no se vieron afectadas.
+En la foto, octubre 2025,  se ve lo que debió ser el inicio de la infección: un grupo de tres acalifas, con el pino de oro en el centro (ya sin hojas); más atrás, a la derecha, otras acalifas también agonizantes. Las palmeras (Palmito europeo, _Chamaerops humilis_) no se vieron afectadas.
 
 ![Plaga](images/jard16plagaacalifas.jpg)
 
