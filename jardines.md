@@ -33,7 +33,7 @@ Mi teoría es que hacia la década de 1980, sobre una parcela donde previamente 
 Lo fundamental fue poner en valor la flora canaria ya existente y acompañarla de especies adecuadas. 
 
 A partir de 2018 reordené plantas, eliminé especies inadecuadas para un jardín transitable (algunas cactáceas realmente peligrosas) y fui introduciendo especies nuevas: magarzas, lavandas, cardoncillo, salado, etc. 
-Instalé un primer banco fijo, y viendo que el alumnado lo usaba con regularidda, un segundo banco móvil. Dejé un paso transitable a lo largo del jardín y año a año el proyecto llega hasta hoy, siempre en proceso, y cada vez más equilibrado.
+Instalé un primer banco fijo, y viendo que el alumnado lo usaba con regularidad, un segundo banco móvil. Dejé un paso transitable a lo largo del jardín y año a año el proyecto llega hasta hoy, siempre en proceso, y cada vez más equilibrado.
 
 2026<br>
 El alumnado del Centro usa a diario el espacio de los bancos para comer algo en los recreos, conversar o estudiar. Muy raramente alguien no se lleva su basura, y alguien hay también que cree que está bien comer pipas y tirar las cáscaras al suelo, pero son casos muy puntuales. En junio 2026 alguien se llevó el banco móvil a la parte trasera del Pabellón 3, dándome una clara señal de lo que quiere el alumnado: simplemente un espacio en sombra donde sentarse.
@@ -1677,7 +1677,13 @@ También tengo que retirar dos cardones con muy mal desarrollo por la combinaci�
 
 El próximo proyecto importante es convertir una pequeña ladera en el patio del Salón de Actos en una zona de tabaibal-cardonal exclusivamente con especies nativas de Canarias. 
 
-En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona, más bien en declive, y el terreno ha quedado a cero. Considerando su orientación, insolación y la posibilidad de que permanezca la plaga, la idea es ubicar aquí los cardones que voy a retirar del Pabellón 4 porque tendrán unas condiciones máSadecuadas a lo que necesitan. Esos cardones serán el centro de un pequeño reducto de tabaibal-cardonal: cardones, tabaibas dulces, cardoncillo, orijama, cornical, todo ello sobre un _mulch_ de zahorra (jable), que mantenga la humedad del suelo y en poco tiempo haga que este conjunto de especies no necesite riegos ni más cuidados que alguna limpieza anual.
+En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona. Es difícil saber la causa concreta: pudo ser consecuencia del cambio climático, pudo ser una debilidads previa de las acalifas, o incluso puede que la plaga viniera con árbol que se plantó, un pino de oro (_Grevillea robusta_) que llegó con las ramas de un lado dañadas (quizá por haber crecido junto a una pared), nunca tuvo buen desarrollo, y estaba en punto de inicio de la extensión de esta plaga, y sucumbió junto a las acalifas. 
+
+En la foto se ve lo que debió ser el inicio de la infección: un grupo de tres acalifas, con el pino de oro en el centro (ya sin hojas); más atrás, a la derecha, otras acalifas también agonizantes. Las palmeras (Palmito europeo, _Chamaerops humilis_) no se vieron afectadas.
+
+![Plaga](images/jard16plagaacalifas.jpg)
+
+El terreno ha quedado a cero. Considerando su orientación, insolación y la posibilidad de que permanezca la plaga, la idea es ubicar aquí los cardones que voy a retirar del Pabellón 4 porque tendrán unas condiciones más adecuadas a lo que necesitan. Esos cardones serán el centro de un pequeño reducto de tabaibal-cardonal: cardones, tabaibas dulces, cardoncillo, orijama, cornical, todo ello sobre una cobertura de zahorra (jable), que mantenga la humedad del suelo y evite en parte las malas hiebras y en poco tiempo haga que este conjunto de especies no necesite riegos ni más cuidados que alguna limpieza anual.
 
 ![Tabaibal cardonal especies](images/jard164especies.jpg)
 
