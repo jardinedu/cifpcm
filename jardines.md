@@ -9,9 +9,9 @@ feature_image:
 
 Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
 1. [Jardín de los Talleres](#1-jard%C3%ADn-de-los-talleres)
-2. [Jardines del patio central](#2-jardines-del-patio-central)
+2. [Jardines naciente patio central](#2-jardines-naciente-del-patio-central)
 3. [Jardines del patio central - sombra](#3-jard%C3%ADn-del-patio-central---sombra)
-4. [Jardín de Secretaría](#4-jardines-de-secretar%C3%ADa)
+4. [Jardín poniente patio central](#4-jardines-poniente-del-patio-central)
 5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
 6. [Jardin Pabellón 4](#6-jard%C3%ADn-pabell%C3%B3n-4)
 7. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-cardonal-sal%C3%B3n-de-actos)
@@ -546,7 +546,7 @@ He plantado una higuera planeando orientar su crecimiento mediante podas para qu
 
 ![Barra verde](images/jard01barraverde.jpg)
 
-# 2. Jardines del Patio central
+# 2. Jardines naciente del Patio Central
 
 ![Nov 2024](images/jard10noviembre2024.jpg)
 &emsp;&emsp;_Noviembre 2024_
@@ -1554,14 +1554,13 @@ Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasul
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 4. Jardines de Secretaría
+# 4. Jardines poniente del Patio Central
 
-En 2025 se empezaron a reacondicionar dos parterres junto al edificio de Secretaría. 
-Estos parterres, que se pueden considerar uno solo, dividido por la escalinata de acceso al patio, y a los que no había llegado hasta este año 2025, de alguna forma son la puerta de entrada al Centro, de modo que deberían funcionar como una bienvenida.
+En 2025 se empezaron a reacondicionar los parterres a poniente del patio, que se prolongan con un parterre más entre el edificio de Secretaría y el Pabellón 1. Esta zona, a la que no había llegado hasta 2025, de alguna forma es la puerta de entrada al Centro, de modo que debería funcionar como una bienvenida. 
 
-## Parterre corto
-En el parterre corto había una serie de plantas dispares en malas condiciones: platanillo, strelitzia y tradescantia, con requisitos de agua muy diferentes, etc.
-Este parterre debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita buen olor.
+En el parterre suroeste hay una línea de grandes acalifas, con algunas nativas canarias.  Las acalifas deberían podarse a un tamaño menos y con una forma coherente entre ellas, evitando su envejeciemiento. En 2026 pod´rna incluirse otras nativas entre las acalifas.
+
+El extremo junto a la entrada al patio debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita buen olor.
 
 ![Parterre corto](images/jard13parterrecortoboceto.jpg)
 
@@ -1579,7 +1578,7 @@ Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tap
 &emsp;&emsp;_Parterre recién plantado, agosto 2025_
 
 
-## Parterre largo
+## Parterre entre Secretaría y Pabellón 1
 De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reorganizar una serie de hortensias que están en una línea dispersas, además de plantear un jardín basado en grupos de pocas plantas, en general de porte bajo para mantener la visión en perspectiva (es un jardín más para mirar que para circular por él). Hay que trasladar unas crásulas que están en primer plano, sobrecrecidas, y que tapan la vista del resto del parterre. También se han reubicado una serie de rocas volcánicas que formaban dos montículos centrales y que, sin mucha sorpresa, ocultaban un problema: unos antiguos troncos secos de árboles muertos, retirarlos con sus raíces ha sido un trabajo inicial muy duro.
 
 ![Parterre largo](images/jard13parterrelargoestadoprevio.jpg)
@@ -1598,9 +1597,9 @@ El proyecto de Renaturalización se aprobó, aunque falta su ejecución. Incluye
 
 El primer grupo son hortensias, en el lado del paso, de modo que desde muy cerca se pueda ver su floración. He trasplantado la línea de hortensias antiguas (las más lejanas estaban demasiado distantes) y las he reunido en un grupo más compacto. Estaban muy envejecidas, así que las he podado dentro de lo posible, intentando rejuvenecerlas. También he traido de vivero tres nuevas hortensias, esperando tener un grupo interesante en unos meses. Lo complementan un helecho nacido espontáneamente y que al despejarlo un poco está adquiriendo un buen porte, algunos rhoeos, un grupo de lilium rescatado de este mismo parterre y un jazmín que espero enredar en las columnas metálicas, en el paso de la gente, de modo que disperse su perfume al pasar junto a él. 
 
-El segundo grupo, a distancia media, es un proyecto de rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá. Lo complementa un grupo de lirios rescatado también y algunos rhoeos. 
+El segundo grupo, a distancia media, es un proyecto de mini rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá. Lo complementa un grupo de lirios rescatado también y algunos rhoeos. 
 
-Los rosales no solo son una memoria del pasado de este parterre, sino un pequeño homenaje a mi madre, que fue una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento alcimatar tres variedades de ese color: Friesia, Michelangelo y Oriental Peace. Las tres, obviamente, variedades comerciales. 
+Los rosales no solo son una memoria del pasado de este parterre, sino un pequeño homenaje a mi madre, que es una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento aclimatar tres variedades de ese color. Las tres son variedades comerciales: Friesia, Michelangelo y Oriental Peace. 
 
 La historia de las rosas, su popularización a partir del jardín de La Malmaison de la Emperatriz Josefina Beauharnais, las ilustraciones de variedades de rosas de Redouté... hay todo un tema enorme y troncal en la historia de la jardinería de los dos últimos siglos. 
 
@@ -1677,7 +1676,7 @@ También tengo que retirar dos cardones con muy mal desarrollo por la combinaci�
 
 El próximo proyecto importante es convertir una pequeña ladera en el patio del Salón de Actos en una zona de tabaibal-cardonal exclusivamente con especies nativas de Canarias. 
 
-En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona. Es difícil saber la causa concreta: pudo ser consecuencia del cambio climático, pudo ser una debilidads previa de las acalifas, o incluso puede que la plaga viniera con árbol que se plantó en diciembre 2025, un pino de oro (_Grevillea robusta_) que llegó con las ramas de un lado dañadas (quizá por haber crecido junto a una pared), nunca tuvo buen desarrollo, estaba en la zona probable de inicio de esta plaga, y sucumbió junto a las acalifas. 
+En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona. Es difícil saber la causa concreta: pudo ser consecuencia del cambio climático, pudo ser una debilidads previa de las acalifas, o incluso puede que la plaga viniera con árbol que se plantó en diciembre 2023, un pino de oro (_Grevillea robusta_) que llegó con las ramas de un lado dañadas (quizá por haber crecido junto a una pared), nunca tuvo buen desarrollo, estaba en la zona probable de inicio de esta plaga, y sucumbió junto a las acalifas. 
 
 En la foto vemos lo que debió ser el inicio de la infección: el grupo de acalifas junto al pino de oro, recién plantado en diciembre 2023 y ya sin hojas y con las acalifas afectadas en octubre 2025. En segundo plano vemos otras acalifas también agonizantes. Las palmeras (_Chamaerops humilis_ y _Washingtonia filifera_) no se vieron afectadas.
 
