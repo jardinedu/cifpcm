@@ -1687,7 +1687,7 @@ En la foto vemos lo que debió ser el inicio de la infección: el grupo de acali
 
 El terreno ha quedado a cero. Considerando su orientación, insolación y la posibilidad de que permanezca la plaga, la idea es ubicar aquí los cardones que voy a retirar del Pabellón 4 porque tendrán unas condiciones más adecuadas a lo que necesitan. Esos cardones serán el centro de un pequeño reducto de tabaibal-cardonal: cardones, tabaibas dulces, cardoncillo, orijama, cornical, todo ello sobre una cobertura de zahorra (jable), que mantenga la humedad del suelo y evite en parte las malas hierbas y en poco tiempo haga que este conjunto de especies no necesite riegos ni más cuidados que alguna limpieza anual.
 
-![Tabaibal cardonal especies](images/jard164especies.jpg)
+![Tabaibal cardonal especies](images/jard16cincoespecies.jpg)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
