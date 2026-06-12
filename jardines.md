@@ -198,7 +198,7 @@ También llamada matorrisco, lavanda, romanillo o yerba risco, es un endemismo c
 
 Es resistente a la sequía y a la insolación y es de la misma familia que las lavandas que se utilizan comercialmente para fabricar perfumes, aunque con menos olor. Lavandula es un género de plantas aromáticas de unas 40 especies distribuidas desde las islas macaronésicas hasta la India. Cinco especies son nativas de las Islas Canarias (cuatro endémicas), conocidas como “matorriscos”: L. canariensis (presente en todas las islas principales), L. minutolii (Gran Canaria y Tenerife), L. buchii (Tenerife), L. bramwellii (Gran Canaria) y L. pinnata (Lanzarote, también presente en Madeira). 
 
-En la conferencia sw 2021 [La especiación de las lavandas en las Islas Canarias: cuándo, dónde y cómo](https://www.researchgate.net/publication/366153989_La_especiacion_de_las_lavandas_en_las_Islas_Canarias_cuando_donde_y_como), presentada en el Primer Congreso Español de Botánica se expuso este estudio sobre muestras de poblaciones de las cinco especies canarias. Sus conclusiones son que en las Islas Canarias ha habido por lo menos dos colonizaciones por parte del genero Lavándula. Las especies L. buchii, L. minutolii y L. bramwellii se han originado a partir de la especie de distribución mas amplia: L. canariensis. L. Pinnata (presente en lanzarote) aparece como un linaje independiente al resto de especies canarias.
+En la conferencia de 2021 [La especiación de las lavandas en las Islas Canarias: cuándo, dónde y cómo](https://www.researchgate.net/publication/366153989_La_especiacion_de_las_lavandas_en_las_Islas_Canarias_cuando_donde_y_como), presentada en el Primer Congreso Español de Botánica se expuso este estudio sobre muestras de poblaciones de las cinco especies canarias. Sus conclusiones son que en las Islas Canarias ha habido por lo menos dos colonizaciones por parte del genero Lavándula. Las especies _L. buchii_, _L. minutolii_ y _L. bramwellii_ se han originado a partir de la especie de distribución mas amplia: _L. canariensis_. _L. Pinnata_ (presente en Lanzarote) aparece como un linaje independiente al resto de especies canarias.
 
 Las lavandas de este jardín se trajeron de la zona costera del Valle de Güímar. Tras varios intentos una de ellas arraigó y ahora su propia semillas van haciendo que aparezcan nuevas plantas. También se han llevado plántulas al jardín del patio y allí se está multiplicando. 
 
@@ -275,7 +275,7 @@ La vinagrera o calcosa es un arbusto que puede alcanzar una altura entre 1-3 met
 Es una especie bastante común en la comunidad del Tabaibal-Cardonal, aunque su hábitat se extiende hasta la zona de medianías y en los límites marginales de los bosques de monteverde y pinar. Es un arbusto muy extendido que crece tanto en terrenos pedregosos como en zonas de huertas abandonadas, terrenos removidos, bordes de pistas, caminos e incluso en los márgenes de las carreteras. También se le considera como una especie de las que primero colonizan las coladas de lava, conos volcánicos, laderas de lapilli más recientes.
 Aseguran algunos campesinos que la mejor manera de cuidarse la garganta y tener una buena voz consiste en masticar de vez en cuando algunas hojas crudas de vinagrera, sin que deba importamos el sabor ácido (avinagrado) de las mismas, ni la sensación "rasposa" que dejan en el paladar. Aún se aprovecha como planta forrajera para las cabras.
 
-_Rumex_ es el nombre que se le daba en latín a todo el género (hay unas 120 especies). _Lunaria_: procede del latín _luna:, aludiendo a la similitud de las valvas de los frutos, más o menos orbiculares, con la luna llena.
+_Rumex_ es el nombre que se le daba en latín a todo el género (hay unas 120 especies). _Lunaria_: procede del latín _luna_:, aludiendo a la similitud de las valvas de los frutos, más o menos orbiculares, con la luna llena.
 
 ***
 
@@ -286,7 +286,7 @@ _Lotus sessilifolius_ - 💀 desaparecido
 
 El corazoncillo, una planta rastrera que se recolectó muy joven de la zona costera del Valle de Güímar. De color verde pálido, con pequeñas hojas sin pedúnculo de aspecto delicado y unas flores de amarillo intenso.
 
-Finalmente después de una floración al cabo del primer año desapareció. 
+Finalmente, después de una floración, al cabo del primer año desapareció. 
 
 ***
 
@@ -468,7 +468,7 @@ Hacia 1900, Carl Correns utilizó _Mirabilis_ como organismo modelo para sus est
 _Opuntia ficus-indica_  - 💀 En desaparición
 
 La penca o tunera, asociada al paisaje rural de Canarias. Sin embargo, es una planta introducida en el siglo XVII, habiendo pasado primero por la Península.
-En Canarias fue la principal industria durante medio siglo. El cultivo de la cochinilla llegó a Canarias en el siglo XIX. Las pencas o tuneras se importaron de América para alojar al parásito (cochinilla, _Dactylopius coccus_) del que se obtenían tintes naturales en la gama de los malva. Pigmentos magníficos, muy estables. Primeras exportaciones: 1832, crisis total 1880. Un ciclo de tan solo 50 años. A la economía de la cochinilla canaria le enterró Sir William Henry Perkin, que sintetizó la malveína en el laboratorio de su casa en 1856, además ni siquiera estaba buscando eso, buscaba sintetizar quinina para la cura de la malaria. Pero la casualidad (serendipia) hizo que a los 18 años descubriera el primer tinte sintético, la malveína. El color púrpura, que desde tiempos antiguos simbolizaba la realeza, tuvo muy buena acogida, y a los veintiún años ya era millonario, mientras que en Canarias arruinó toda una economía, ayudado también por dos mujeres de la realeza: La demanda pública de malva se disparó cuando la emperatriz Eugenia de Francia y la reina Victoria de Gran Bretaña fueron vistas luciendo este color. Se dice que el malva se popularizó cuando la extravagante esposa de Napoleón III, la emperatriz Eugenia, declaró que el color combinaba con sus ojos. Cuando la propia reina Victoria lució un suntuoso vestido malva con ribete de encaje y enaguas a juego para la boda de su hija en 1858, este color, el más actual, se consolidó como la última moda.
+En Canarias fue la principal industria durante medio siglo. El cultivo de la cochinilla llegó a Canarias en el siglo XIX. Las pencas o tuneras se importaron de América para alojar al parásito (cochinilla, _Dactylopius coccus_) del que se obtenían tintes naturales en la gama de los malva. Pigmentos magníficos, muy estables. Primeras exportaciones: 1832, crisis total 1880. Un ciclo de tan solo 50 años. A la economía de la cochinilla canaria la enterró Sir William Henry Perkin, que sintetizó la malveína en el laboratorio de su casa en 1856, además ni siquiera estaba buscando eso, buscaba sintetizar quinina para la cura de la malaria. Pero la casualidad (serendipia) hizo que a los 18 años descubriera el primer tinte sintético, la malveína. El color púrpura, que desde tiempos antiguos simbolizaba la realeza, tuvo muy buena acogida, y a los veintiún años ya era millonario, mientras que en Canarias arruinó toda una economía, ayudado también por dos mujeres de la realeza: La demanda pública de malva se disparó cuando la emperatriz Eugenia de Francia y la reina Victoria de Gran Bretaña fueron vistas luciendo este color. Se dice que el malva se popularizó cuando la extravagante esposa de Napoleón III, la emperatriz Eugenia, declaró que el color combinaba con sus ojos. Cuando la propia reina Victoria lució un suntuoso vestido malva con ribete de encaje y enaguas a juego para la boda de su hija en 1858, este color, el más actual, se consolidó como la última moda.
 
 
 ![Malveina](images/jard07malveina.jpg)
@@ -494,6 +494,7 @@ Es un síntoma más de cambios climáticos globales debido a causas humanas, y u
 
 ### Candelabro
 _Euphorbia candelabrum_
+
 Lleva ese nombre precisamente por tener la forma de un candelabro. A este espécimen se lo suele conocer cómo cactus candelabro y también se le puede encontrar con el nombre de _cactus mexicano_, aunque no se trata de un cactus, ni siquiera es oriundo de México. Es un árbol de la familia de las _euforbias_.
 
 La _Euphorbia candelabrum_ tiene una forma de crecimiento muy especial y distinguible, ya que se parece precisamente a un candelabro. En su estructura es una planta de tipo columna que puede llegar a alcanzar grandes alturas, siendo sus especímenes más altos de unos 20 metros aproximadamente.
@@ -506,6 +507,7 @@ Es endémico del área del cuerno de África, también se extiende por toda la z
 
 ### Tecoma
 _Tecoma stans_ 
+
 Es una planta proveniente de América, también conocida como tecoma, tronadora o trompeta de oro.
 Suele alcanzar unos 4 metros. Sus flores son muy llamativas por su color amarillo intenso. Se extiende desde el sur de Estados Unidos por México, Centroamérica y las Antillas hasta el norte de Venezuela, y por la cordillera de los Andes hasta el norte de la Argentina.
 
@@ -517,6 +519,7 @@ Nombres comunes en inglés son: yellow trumpetbush, yellow bells, yellow elder (
 
 ### Tecomaria
 _Tecomaria capensis_
+
 Tiene nombres comunes como Tecomaria o Bignonia de El Cabo. El género _Tecomaria_ se llama así por su parecido con el género _Tecoma_ de América. _Capensis_ significa “de El Cabo”
 Es un arbusto de crecimiento rápido, revuelto, de tallos múltiples que puede crecer hasta 2-3 m de altura. Es una planta de hoja perenne en regiones cálidas. El tiempo de floración de este arbusto es muy errático y a menudo florece durante todo el año. Las flores son tubulares en vistosas cabezas de muchas flores y varían en color de rojo, naranja intenso, amarillo a salmón. En este jardín tenemos variedades rojas y amarillas.
 
