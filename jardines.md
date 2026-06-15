@@ -36,7 +36,7 @@ A partir de 2018 reordené plantas, eliminé especies inadecuadas para un jardí
 Instalé un primer banco fijo, y viendo que el alumnado lo usaba con regularidad, un segundo banco móvil. Dejé un paso transitable a lo largo del jardín y año a año el proyecto llega hasta hoy, siempre en proceso, y cada vez más equilibrado.
 
 2026<br>
-El alumnado del Centro usa a diario el espacio de los bancos para comer algo en los recreos, conversar o estudiar. Muy raramente alguien no se lleva su basura, y alguien hay también que cree que está bien comer pipas y tirar las cáscaras al suelo, pero son casos muy puntuales. En junio 2026 alguien se llevó el banco móvil a la parte trasera del Pabellón 3, dándome una clara señal de lo que quiere el alumnado: simplemente un espacio en sombra donde sentarse.
+El alumnado del Centro usa a diario el espacio de los bancos para comer algo en los recreos, conversar o estudiar. Muy raramente hay quien no se lleva su basura, y también quien que cree que está bien comer pipas y tirar las cáscaras al suelo, pero son casos muy puntuales. En junio 2026 alguien se llevó el banco móvil a la parte trasera del Pabellón 3, dándome una clara señal de lo que quiere el alumnado: simplemente un espacio en sombra donde sentarse.
 
 ![2025](images/jard03jardintalleres2.jpg)
 
