@@ -138,11 +138,13 @@ En cuanto al porcentaje de especies nativas a utilizar, ordena las islas en 4 zo
 
 En resumen, un Manual muy interesante, orientado a lo que está: flora nativa y su uso, en el que quizá falten ejemplos concretos de jardines.
 
-- Descarga
-[Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Documento%20buenas%20practicas.pdf)
-[Fichas de especie - ANEXO III (20 MB, PDF)](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/FICHAS_AJARDINAMIENTO_V3.pdf)
-- Documento interactivo online
-{Listado de especies y zonificación - ANEXO I Y II (40 MB, contenido interactivo, se recomienda abrir desde un equipo de escritorio).](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Listado%20de%20especies%20y%20zonificaci%C3%B3n.html)
+**Descargas**
+- [Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Documento%20buenas%20practicas.pdf)
+- [Fichas de especie - ANEXO III (20 MB, PDF)](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/FICHAS_AJARDINAMIENTO_V3.pdf)
+
+**Documento interactivo online**
+-
+- [Listado de especies y zonificación - ANEXO I Y II (40 MB, contenido interactivo, se recomienda abrir desde un equipo de escritorio)](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Listado%20de%20especies%20y%20zonificaci%C3%B3n.html)
 
 ![Fichas Manual buenas practicas GobCan](images/manualgobcanfichas.jpg)
 
