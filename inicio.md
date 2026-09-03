@@ -83,7 +83,7 @@ La historia de las plantas, su conocimiento y su difusión por el mundo forman p
 
 Las Islas Canarias han tenido un importante papel en esta historia de expediciones botánicas, siendo las propias islas, por su alta biodiversidad, destino de científicos. Esto, junto a las condiciones climatológicas, podría explicar en parte la larga tradición de uso de flora exótica de todo el planeta en los jardines de Canarias. Como leemos en el estudio [Diversidad florística en los jardines públicos de la ciudad de La Laguna (Tenerife), Patrimonio de la Humanidad](https://www.museosdetenerife.org/assets/downloads/file-147-6011eda4a3.pdf):
 
-> “La procedencia de las especies catalogadas en el ámbito de este estudio es muy diversa y abarca los cinco continentes, lo cual refleja la amplia y antigua tradición canaria de albergar en nuestros jardines una rica flora ornamental originaria de muchas zonas geográficas del planeta. “
+> "La procedencia de las especies catalogadas en el ámbito de este estudio es muy diversa y abarca los cinco continentes, lo cual refleja la amplia y antigua tradición canaria de albergar en nuestros jardines una rica flora ornamental originaria de muchas zonas geográficas del planeta".
 
 ## Algunos materiales de trabajo
 Voy reuniendo las recomendaciones que puedo encontrar, con un mínimo de rigor, sobre jardinería en estas islas, que no son muchas. 
@@ -119,7 +119,35 @@ Además de casi 30 fichas con una selección de especies nativas recomendadas, d
 - Los jardines autóctonos pueden servir de corredores ecológicos y ayudar así a minimizar los efectos negativos que causa la fragmentación de los hábitats naturales debido a la urbanización excesiva.
 - Un jardín canario da a conocer la flora local, poniéndola en valor desde un punto de vista paisajístico y didáctico. Proporciona, asimismo, el marco ideal para reivindicar la naturaleza de las islas frente a la vegetación exótica, tan utilizada en la jardinería convencional, acercando así la vegetación natural de nuestro archipiélago a la población residente y visitante. Nuestra vegetación es única y debemos conocerla y difundirla. 
 
+### Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias
+
+Publicado recientemente (2026) por el **Servicio de Biodiversidad** de la Dirección General del Medio Natural. Consejería de Transición Ecológica y Energía. Gobierno de Canarias, es un documento de 29 páginas que propone _ofrecer recomendaciones e indicaciones para el manejo de flora nativa en jardinería en la Comunidad Autónoma de Canarias y promover el correcto uso de nuestras especies en la jardinería de espacios libres públicos y grandes zonas verdes privadas_.
+Los objetivos específicos que se persiguen son:
+- a) Reducir los riesgos relacionados con el empleo de flora alóctona, como las invasiones biológicas y la introducción de plagas y/o enfermedades.
+- b) Favorecer la conectividad ecológica y disminuir las fragmentación de hábitats naturales, convirtiendo las zonas ajardinadas en infraestructuras verdes que sirvan de refugio a la fauna silvestre y de fuente emisora de diásporas nativas a las áreas colindantes.
+- c) Evitar las posibles hibridaciones y contaminaciones genéticas que se puedan dar en el medio natural más cercano, así como garantizar la variabilidad genética y morfológica de poblaciones y especies
+- d) Mejorar la calidad ambiental, reduciendo la huella de carbono y el consumo de recursos tan vitales como el agua, así como reducir el uso de los productos fitosanitarios.
+
+![Portada manual buenas practicas GobCan](images/gobcanmanualbpport.jpg)
+
+Como vemos, tiene una orientación científica y técnica, y así, confirmando mi intuición y lo que he leído previamente sobre usos de flora nativa, y la conveniente prudencia en su uso, en el apartado **Hibridación**, se explica: 
+
+> "En Canarias existen numerosos casos de hibridaciones no naturales entre especies endémicas, debido al uso de las mismas en jardinería, y a las traslocaciones realizadas por la ciudadanía con fines ornamentales. Un ejemplo de ello son las especies de los géneros _Lotus_, _Echium_ o _Aeonium_ entre otras. Los ejemplares de estas especies han sido ampliamente usados en jardinería, y codiciados por coleccionistas y viveristas de todo el mundo por la extrema belleza de sus flores. Muchas de estas especies se encuentran protegidas por la normativa vigente , tanto en el Catálogo **Canario de Especies Protegidas** como en el **Catálogo Español de Especies Amenazadas**. El trasiego de plantas entre localidades y entre islas ha provocado la aparición de ejemplares híbridos, lo que supone un grave riesgo para la conservación de las especies".
+
+En cuanto al porcentaje de especies nativas a utilizar, ordena las islas en 4 zonas. Nuestro CIFP está en **Zona 4** (zona urbana), y según estas recomendaciones: _"al menos el 15% de los ejemplares de flora empleados pertenecerán a especies nativas, seleccionadas adecuadamente en función del piso bioclimático y de la ubicación, según el listado que se recoge en el Anexo II"_. Actualmente (2026) en los jardines hay aproximadamente un 30-50% de flora nativa, según la zona, y de las 92 especies que se recogen en el Anexo III están presentes más de 20, además de otras no recogidas en este.
+
+En resumen, un Manual muy interesante, orientado a lo que está: flora nativa y su uso, en el que quizá falten ejemplos concretos de jardines.
+
+- Descarga
+[Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Documento%20buenas%20practicas.pdf)
+[Fichas de especie - ANEXO III (20 MB, PDF)](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/FICHAS_AJARDINAMIENTO_V3.pdf)
+- Documento interactivo online
+{Listado de especies y zonificación - ANEXO I Y II (40 MB, contenido interactivo, se recomienda abrir desde un equipo de escritorio).](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Listado%20de%20especies%20y%20zonificaci%C3%B3n.html)
+
+![Fichas Manual buenas practicas GobCan](images/manualgobcanfichas.jpg)
+
 ### Una cita para concluir este apartado
+
 
 Ya se ha hablado de los objetivos educativos, la educación ambiental, el conocimiento del medio de las Islas Canarias, la educación en sostenibilidad, la jardinería como cultura, solo quiero añadir una cita de uno de los libros que incluyo en la Bibliografía (no son libros técnicos de jardinería, sino de pensamiento):
 
