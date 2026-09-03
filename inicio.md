@@ -123,10 +123,10 @@ Además de casi 30 fichas con una selección de especies nativas recomendadas, d
 
 Publicado recientemente (2026) por el **Servicio de Biodiversidad** de la Dirección General del Medio Natural. Consejería de Transición Ecológica y Energía. Gobierno de Canarias, es un documento de 29 páginas que propone _ofrecer recomendaciones e indicaciones para el manejo de flora nativa en jardinería en la Comunidad Autónoma de Canarias y promover el correcto uso de nuestras especies en la jardinería de espacios libres públicos y grandes zonas verdes privadas_.
 Los objetivos específicos que se persiguen son:
-- a) Reducir los riesgos relacionados con el empleo de flora alóctona, como las invasiones biológicas y la introducción de plagas y/o enfermedades.
-- b) Favorecer la conectividad ecológica y disminuir las fragmentación de hábitats naturales, convirtiendo las zonas ajardinadas en infraestructuras verdes que sirvan de refugio a la fauna silvestre y de fuente emisora de diásporas nativas a las áreas colindantes.
-- c) Evitar las posibles hibridaciones y contaminaciones genéticas que se puedan dar en el medio natural más cercano, así como garantizar la variabilidad genética y morfológica de poblaciones y especies
-- d) Mejorar la calidad ambiental, reduciendo la huella de carbono y el consumo de recursos tan vitales como el agua, así como reducir el uso de los productos fitosanitarios.
+1. Reducir los riesgos relacionados con el empleo de flora alóctona, como las invasiones biológicas y la introducción de plagas y/o enfermedades.
+2.  Favorecer la conectividad ecológica y disminuir las fragmentación de hábitats naturales, convirtiendo las zonas ajardinadas en infraestructuras verdes que sirvan de refugio a la fauna silvestre y de fuente emisora de diásporas nativas a las áreas colindantes.
+3.  Evitar las posibles hibridaciones y contaminaciones genéticas que se puedan dar en el medio natural más cercano, así como garantizar la variabilidad genética y morfológica de poblaciones y especies
+4.  Mejorar la calidad ambiental, reduciendo la huella de carbono y el consumo de recursos tan vitales como el agua, así como reducir el uso de los productos fitosanitarios.
 
 ![Portada manual buenas practicas GobCan](images/gobcanmanualbpport.jpg)
 
