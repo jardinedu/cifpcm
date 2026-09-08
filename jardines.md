@@ -1718,6 +1718,7 @@ El terreno ha quedado a cero. Considerando su orientación, insolación y la pos
 - <i>Euphorbia balsamifera</i>. Tabaiba dulce<br>
 - <i>Euphorbia canariensis</i>. Cardón<br>
 - <i>Euphorbia lamarckii</i>. Tabaiba amarga<br>
+- <i>Hypericum canariense</i>. Granadillo<br>
 - <i>Kleinia neriifolia</i>. Senecio/Verode<br>
 - <i>Lavandula canariensis</i>. Lavanda/Matorrisco<br>
 - <i>Lotus sessilifolius</i>. Corazoncillo<br>
