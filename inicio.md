@@ -86,7 +86,7 @@ Las Islas Canarias han tenido un importante papel en esta historia de expedicion
 > "La procedencia de las especies catalogadas en el ámbito de este estudio es muy diversa y abarca los cinco continentes, lo cual refleja la amplia y antigua tradición canaria de albergar en nuestros jardines una rica flora ornamental originaria de muchas zonas geográficas del planeta".
 
 ## Algunos materiales de trabajo
-Voy reuniendo las recomendaciones que puedo encontrar, con un mínimo de rigor, sobre jardinería en estas islas, que no son muchas. 
+Voy reuniendo las recomendaciones que puedo encontrar, con un mínimo de rigor, sobre jardinería en estas islas. Cuando empecé este proyecto no había ninguna publicación específica, pero en los últimos se han editado varios manuales y guías imprescindibles, aunque la orientación de todos ellos es la dimensión ecológica, con el uso de flora nativa, y sigo echando en falta otros enfoques híbridos y que conecten con la historia de la jardinería y nuestra propìa historia.
 
 ### Charla sobre jardines históricos en Canarias
 Hay una interesante charla del Dr. Arnoldo Santos sobre jardines históricos en Canarias, en la RACBA. Se unen aspectos históricos, recomendaciones de especies nativas, etc.  [Enlace a YouTube](https://youtu.be/gdMhMR-dAIs). 
