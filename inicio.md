@@ -140,7 +140,7 @@ Se puede consultar y descarga su [Manual para el Ajardinamiento Urbano de Canari
 ![Renaturalizacion 1](images/renatura2.jpg)
 
 o su Catálogo de Vegetación Autóctona para los Entornos Urbanos de Canarias, en dos tomos:
-]Tomo I: Costa](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T1_WEB.pdf) y [Tomo II: Medianías y Cumbres](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T2_WEB.pdf)
+[Tomo I: Costa](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T1_WEB.pdf) y [Tomo II: Medianías y Cumbres](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T2_WEB.pdf)
 
 ![Renaturalizacion 1](images/renatura3.jpg)
 
