@@ -15,7 +15,7 @@ Visión general de cada jardín, con descripción de las especies utilizadas, ge
 5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
 6. [Jardin Pabellón 4](#6-jard%C3%ADn-pabell%C3%B3n-4)
 7. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-cardonal-sal%C3%B3n-de-actos)
-
+8. [Proyecto 2026](#8-proyecto2026)
 
 [Lista general de las especies que hay en los jardines: nativas de Canarias y exóticas](#lista-de-especies)
 
@@ -1688,6 +1688,15 @@ En la foto vemos lo que debió ser el inicio de la infección: el grupo de acali
 El terreno ha quedado a cero. Considerando su orientación, insolación y la posibilidad de que permanezca la plaga, la idea es ubicar aquí los cardones que voy a retirar del Pabellón 4 porque tendrán unas condiciones más adecuadas a lo que necesitan. Esos cardones serán el centro de un pequeño reducto de tabaibal-cardonal: cardones, tabaibas dulces, cardoncillo, orijama, cornical, todo ello sobre una cobertura de zahorra (jable), que mantenga la humedad del suelo y evite en parte las malas hierbas y en poco tiempo haga que este conjunto de especies no necesite riegos ni más cuidados que alguna limpieza anual.
 
 ![Tabaibal cardonal especies](images/jard16cincoespecies.jpg)
+
+![Barra verde](images/jard01barraverde.jpg)
+
+# 8. proyecto2026
+
+![Proyecto 2026 portada](images/proyecto202601portada.jpg)
+
+Una nueva etapa, desarrollada a partir de septiembre de 2026. Tiene como líneas principales la utilización de flora nativa y trabajar con nuevos espacios. Puedes leer su planteamiento en el siguiente enlace: [proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026) 
+
 
 ![Barra verde](images/jard01barraverde.jpg)
 
