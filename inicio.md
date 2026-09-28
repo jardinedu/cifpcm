@@ -18,7 +18,7 @@ Enseña paciencia y atención cuidadosa; enseña laboriosidad y ahorro; sobre to
 ![logo grande](images/00logo2entero.png)
 			
 Este proyecto empezó con una acción educativa de concienciación sobre especies invasoras en las islas, recuperación de un jardín con endemismos y trabajo sobre valores ambientales en el Centro Integrado de Formación Profesional (CIFP) César Manrique, en Santa Cruz de Tenerife. 
-El jardín inicial de flora canaria que se recuperó (el de los Talleres) necesita ya (2025) pocos cuidados y es de bajo mantenimiento, aunque en su aparente sencillez ha necesitado varios años de evolución para llegar a este punto. 
+El jardín inicial de flora canaria que se recuperó (el de los Talleres) necesita ya (2025) pocos cuidados y es de bajo mantenimiento, aunque en su aparente sencillez ha necesitado varios años de evolución para llegar a este punto. En 2026 se está iniciando una nueva etapa, trabajando con más espacios e incluyendo más especies de flora nativa. 
 
 ![2022](images/01jardintalleres2022b.jpg)
 
@@ -118,6 +118,31 @@ Además de casi 30 fichas con una selección de especies nativas recomendadas, d
 - Un jardín canario atrae especies autóctonas de animales (aves, insectos, polinizadores, etc.), ayudando así a la recuperación de la fauna asociada.
 - Los jardines autóctonos pueden servir de corredores ecológicos y ayudar así a minimizar los efectos negativos que causa la fragmentación de los hábitats naturales debido a la urbanización excesiva.
 - Un jardín canario da a conocer la flora local, poniéndola en valor desde un punto de vista paisajístico y didáctico. Proporciona, asimismo, el marco ideal para reivindicar la naturaleza de las islas frente a la vegetación exótica, tan utilizada en la jardinería convencional, acercando así la vegetación natural de nuestro archipiélago a la población residente y visitante. Nuestra vegetación es única y debemos conocerla y difundirla. 
+
+### Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias
+
+En 2025 se desarrolla por GesPlan y la Consejería de Política Territorial, Cohesión Territorial y Aguas del Gobierno de Canarias [renaturalizacionurbanacanaria.com](https://renaturalizacionurbanacanaria.com/), un proyecto muy detallado y amplio, que:
+
+> ... establece criterios interdisciplinares para orientar la renaturalización de ciudades y pueblos del archipiélago. Su finalidad es promover una infraestructura verde y azul multifuncional, integrada en el planeamiento urbanístico y en el diseño urbano
+
+![Renaturalizacion 1](images/renatura1.jpg)
+
+Sus objetivos son:
+
+- Restituir servicios ecosistémicos esenciales.
+- Contribuir a la adaptación y mitigación del cambio climático.
+- Reforzar la cohesión territorial y genere sinergias positivas con el sistema natural y rural, favoreciendo la conectividad ecológica y la continuidad de procesos ambientales.
+- Impulsar la custodia del territorio y el compromiso social hacia la conservación activa de los espacios verdes urbanos y periurbanos.
+- Mejorar la calidad ambiental del espacio urbano y su habitabilidad.
+
+Se puede consultar y descarga su [Manual para el Ajardinamiento Urbano de Canarias (PDF, 284 páginas)](https://renaturalizacionurbanacanaria.com/manual/)
+
+![Renaturalizacion 1](images/renatura2.jpg)
+
+o su Catálogo de Vegetación Autóctona para los Entornos Urbanos de Canarias, en dos tomos:
+]Tomo I: Costa](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T1_WEB.pdf) y [Tomo II: Medianías y Cumbres](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T2_WEB.pdf)
+
+![Renaturalizacion 1](images/renatura3.jpg)
 
 ### Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias
 
