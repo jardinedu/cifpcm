@@ -119,7 +119,7 @@ Además de casi 30 fichas con una selección de especies nativas recomendadas, d
 - Los jardines autóctonos pueden servir de corredores ecológicos y ayudar así a minimizar los efectos negativos que causa la fragmentación de los hábitats naturales debido a la urbanización excesiva.
 - Un jardín canario da a conocer la flora local, poniéndola en valor desde un punto de vista paisajístico y didáctico. Proporciona, asimismo, el marco ideal para reivindicar la naturaleza de las islas frente a la vegetación exótica, tan utilizada en la jardinería convencional, acercando así la vegetación natural de nuestro archipiélago a la población residente y visitante. Nuestra vegetación es única y debemos conocerla y difundirla. 
 
-### Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias
+### Proyecto de Renaturalización Urbana en el marco de los Objetivos de Desarrollo Sostenible (ODS) y la Agencia Urbana Española (AUE)
 
 En 2025 se desarrolla por GesPlan y la Consejería de Política Territorial, Cohesión Territorial y Aguas del Gobierno de Canarias [renaturalizacionurbanacanaria.com](https://renaturalizacionurbanacanaria.com/), un proyecto muy detallado y amplio, que:
 
