@@ -13,10 +13,7 @@ feature_image:
    
 # Bibliografía
 
-Gran parte de la literatura sobre jardinería y jardines son libros con directrices de diseño, fotos con ejemplos de jardines perfectos, herramientas, accesorios, materiales, etc. A veces son libros maravillosos, pero casi siempre poco útiles. Me parece más interesante encontrar pensamiento sobre jardinería y plantas. Es que todo lo demás lo da la experiencia, la observación y el aprendizaje lento. 
-
-Aquí hay una pequeña selección de libros y cine:
-
+Gran parte de la literatura sobre jardinería y jardines son libros con directrices de diseño, fotos con ejemplos de jardines perfectos, herramientas, accesorios, materiales, etc. A veces son libros maravillosos, pero casi siempre poco útiles. Me parece más interesante encontrar pensamiento sobre jardinería y plantas. Es que todo lo demás lo da la experiencia, la observación y el aprendizaje lento. Aquí hay una pequeña selección de libros y cine:
 
 ![Una breve historia del jardín](images/brevehistoriajardin1000px.jpg)
 **Una breve historia del jardín**. Gilles Clément. Gustavo Gili. 2021.
@@ -37,11 +34,15 @@ Desde los jardines colgantes de Babilonia hasta los huertos ecológicos de las �
 
 Loa a la Tierra, más que un ensayo, son las confesiones y reflexiones de Byung-Chul Han surgidas en el tiempo dedicado a su jardín. A caballo entre la filosofía, la espiritualidad y la poesía, esta obra ofrece bellos textos e ilustraciones sobre cada una de las plantas que cultiva el filósofo. De esta manera, su lectura nos hace ser conscientes de la belleza floreciente de nuestro planeta, llena de magia, misterio y singularidad.
 
+![separador](images/bpseparadorblanco1000px.jpg) 
+
 ![tercer paisaje](images/btercerpaisaje1000px.jpg)
 **Manifiesto del Tercer paisaje**. Gilles Clément. 
 Editorial Gustavo Gili, 2018. 
 
 Uno de los textos clave para entender el paisajismo contemporáneo. Gilles Clément vuelca en este ensayo un programa para el tercer paisaje, aquel que aparece en las cunetas de las carreteras, en los lugares residuales de las ciudades, en los espacios de transición entre la ciudad y el campo que no han sido controlados por la acción deliberada del hombre. Es en esos lugares donde aflora un sistema biológico verdaderamente libre.
+
+![separador](images/bpseparadorblanco1000px.jpg)
 
 ![hicimos un jardin](images/bwemadeagarden1000px.jpg)
 **Hicimos un jardín**. Margery Fish. 1956.
@@ -54,6 +55,8 @@ Publicado por primera vez en 1956, *We Made a Garden* narra cómo Margery Fish �
 **La mente bien ajardinada**. Sue Stuart-Smith. Debate. 2021.
 
 Sue Stuart-Smith, psiquiatra, jardinera y narradora, entreteje ejemplos como el papel clave de la horticultura para su abuelo tras la Primera Guerra Mundial, la obsesión de Freud por las flores y curiosas historias clínicas de sus propios pacientes. Con todo ello, nos convence de hasta qué punto puede influirnos la conexión con los ciclos de la naturaleza (en los que, tras la descomposición, brota de nuevo la vida), de las muchas formas en que la mente y el jardín interactúan y de la idea de que hundir nuestras manos en la tierra puede ser un modo de cuidarnos a nosotros mismos. A través de de curiosidades científicas e historias humanas, La mente bien ajardinada combina neurociencia, literatura, historia y psicoanálisis que indaga en el secreto que muchos jardineros conocen desde siempre: el contacto con la naturaleza puede transformar radicalmente nuestra salud y nuestra autoestima.
+
+![separador](images/bpseparadorblanco1000px.jpg)
 
 ![verdolatria](images/bverdolatria1000px.jpg)
 **Verdolatría**. Santiago Beruete. 2026.
