@@ -397,10 +397,14 @@ Esta zona tiene el potencial de ser un lugar donde el alumnado pueda estar, pase
 ![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
 &emsp;&emsp;_Estado de la zona en octubre 2025_
 
-El lugar puede tener un gran potencial. Simplemente haciendo algo de mantenimiento y disfrutando de su estado semi-natural. Tras una mínima limpieza de troncos secos, podas y retirada de y basuras diversas, despues de un invierno muy lluvioso, en primavera 2026 se convirtió en una espectacular pradera de cerrajillas y cardos, puntuada con los árboles que se empiezan a recuperar. Es un momento casi efímero pero puede indicar una opción para tratar ese sitio.
+El lugar puede tener un gran potencial. Simplemente haciendo algo de mantenimiento y disfrutando de su estado semi-natural. Tras una mínima limpieza de troncos secos, podas y retirada de basuras diversas, despues de un invierno muy lluvioso, en primavera 2026 se convirtió en una espectacular pradera de cerrajillas y cardos, puntuada con los árboles que se empiezan a recuperar. Es un momento casi efímero pero puede indicar una opción para tratar ese sitio.
 
 ![Parque norte abril 2026](images/jard20parquenortevistasabr2026.jpg)
 &emsp;&emsp;_Flores silvestres en abril 2026_
+
+**_Actualización SEPTIEMBRE 2026:_**
+
+Trabajar en este sitio profundizando en las ideas del _tercer paisaje_ de Gilles Clément podría haber sido una experiencia interesante, pero esta zona ha pasado a integrarse en el [Proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026, acogiendo una serie de plantas nativas, bancos y mesas y buscando convertirse en un lugar muy utilizado por el alumnado (y profesorado).
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -433,10 +437,39 @@ Mucho más completa es la guía [Naturaleza y Salud: la infraestructura verde en
 > «... las zonas verdes y los espacios públicos «son áreas multifuncionales para la interacción social, la salud humana y el bienestar». Actualmente en la Unión Europea se están dedicando muchos esfuerzos a desarrollar las infraestructuras verdes del territorio y avanzar en el desarrollo e implementación de Soluciones Basadas en la Naturaleza (SbN), que la Comisión Europea define como «acciones inspiradas, basadas o copiadas de la naturaleza, que utilizan o mejoran soluciones existentes para afrontar diversos retos ambientales, sociales y económicos, de manera sostenible y eficiente» 
 > <cite>― _del Prólogo de Renaturalización de la ciudad_.
 
-Por último, esta idea también se inspira muy directamente en el proyecto de [Jardín del Campus Central de la ULL](#jard%C3%ADn-de-flora-canaria-de-la-ull), donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
+Esta idea también se inspira muy directamente en el proyecto de [Jardín del Campus Central de la ULL](#jard%C3%ADn-de-flora-canaria-de-la-ull), donde se ha transformado un gran espacio con extensiones de césped agónico y zonas descuidadas en auténticos ecosistemas representativos de la flora canaria. Un proyecto que sigue vivo, y al que le faltan etapas, con un enorme potencial educativo y científico.
 
 ![Campus central Sauceda de 2017 a 2022](images/jard20campuscentral20172022.jpg)
 &emsp;_Sauceda y su evolución entre 2017 y 2022, Campus Central ULL_
+
+Por último, en 2026 parece que en Canarias las Administraciones ya empiezan a ver la necesidad de **renaturalizar**. Con un largo título, ha publicado hace pocos meses un proyecto muy completo (y con muchos colores y dibujitos). es el:
+
+**Proyecto de Renaturalización Urbana en el marco de los Objetivos de Desarrollo Sostenible (ODS) y la Agencia Urbana Española (AUE)**
+
+Este proyecto ha sido impulsado por la Dirección General de Ordenación del Territorio y Cohesión Territorial del Gobierno de Canarias y desarrollado y publicado en 2026 por un equipo multidisciplinar de Gestión y Planeamiento Territorial y Medioambiental, S.A. (Gesplan), con el asesoramiento técnico del Instituto de Productos Naturales y Agrobiología - Consejo Superior de Investigaciones Científicas (IPNA-CSIC) y la Universidad de Las Palmas de Gran Canaria – Facultad de Geografía e Historia.
+
+![logo](images/renaturalogo.jpg)
+&emsp;&emsp;_Imagen gráfica del Proyecto_
+
+Se materializa en la web [www.renaturalizacionurbanacanaria.com](https://renaturalizacionurbanacanaria.com/) a través de un [Manual](https://renaturalizacionurbanacanaria.com/manual/), una Pildora con [Soluciones para la Proyección del Ajardinamiento Urbano](https://renaturalizacionurbanacanaria.com/pildora/) y un [Catálogo de vegetación autóctona](https://renaturalizacionurbanacanaria.com/catalogo/) en dos Tomos: Tomo I Costa - Tomo II Medianías y cumbres.
+
+![parque urbano](images/renaturaparquesurbanos.jpg)
+&emsp;&emsp;_Ejemplo de tratamiento de la categoría Parque urbano, probablemente la más adecuada a nuestro caso_
+
+>¿Para qué creamos espacios verdes?
+
+>La transición de lugares grises hacía entornos verdes urbanos es una inversión estratégica que genera múltiples cobeneficios de diversa índole en la salud pública y el confort ambiental:
+- Incrementa la belleza y atractivo de la ciudad con un alto beneficio socioecológico ayudando a impulsar la economía en las ciudades.
+- Protege nuestra salud mental, física y social.
+- Ayuda a la conectividad social y favorece las relaciones humanas.
+- Mejora la calidad del aire actuando como sumidero de CO2.
+- Suaviza las condiciones climáticas y el microclima urbano (protege de las radiaciones UV, refresca las temperaturas y el efecto “isla de calor”.
+- Regula el ciclo hídrico en las ciudades y depura el agua de lluvia.
+- Disminuye la contaminación acústica mediante la absorción, desviación, reflexión y refracción de las ondas sonoras.[
+- Mantiene la biodiversidad en los espacios urbanos y, por tanto, asegura el bienestar humano especialmente frente a plagas.
+
+>Sobre esta base, apostar por espacios verdes y azules constituye una inversión en el futuro de nuestras ciudades y de quienes las habitan. La infancia que crece en contacto con la naturaleza desarrolla mejores habilidades cognitivas, emocionales y sociales. Al promover entornos urbanos más verdes y azules, estamos construyendo un futuro más saludable y sostenible, tanto para las generaciones presentes como para las futuras.
+
 
 ***
 url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
