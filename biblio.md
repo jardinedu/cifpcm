@@ -20,21 +20,21 @@ Gran parte de la literatura sobre jardinería y jardines son libros con directri
 
 Gilles Clément ha escrito un recorrido por la historia del jardín que parte de sus significados más profundos y atávicos; un libro breve y delicioso que nos conecta con los sentidos que, desde nuestra condición de seres humanos, le hemos ido dando a la naturaleza domesticada. “El primer jardín es un cercado. Conviene proteger el bien preciado del jardín: las hortalizas, las frutas; luego las flores, los animales, el arte de vivir… todo aquello que, a lo largo del tiempo, se presentará siempre como lo ‘mejor’ […]. La noción de ‘mejor’, de bien preciado, no deja de evolucionar. La escenografía destinada a valorar lo mejor se adapta al cambio de los fundamentos del jardín, pero el principio del jardín permanece constante: acercarse lo más posible al paraíso.” 
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![Jardinosofía](images/bjardinosofia1000px.jpg)
 **Jardinosofía**. Una historia filosófica de los jardines. Santiago Beruete. Turner. 2016.
 
 Desde los jardines colgantes de Babilonia hasta los huertos ecológicos de las «guerrillas urbanas», el jardín ha sido un reflejo de la sociedad. Un viaje por los jardines de los filósofos, los pensadores, los arquitectos y los escritores de la historia. Imprescindible para los interesados en la historia de las ideas y en el concepto de felicidad y buena vida a través de las civilizaciones. 
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![Loa a la tierra. Un viaje al jardín](images/bloaalatierra1000px.jpg)
 **Loa a la tierra. Un viaje al jardín**. Byung-Chul Han. Herder. 2023.
 
 Loa a la Tierra, más que un ensayo, son las confesiones y reflexiones de Byung-Chul Han surgidas en el tiempo dedicado a su jardín. A caballo entre la filosofía, la espiritualidad y la poesía, esta obra ofrece bellos textos e ilustraciones sobre cada una de las plantas que cultiva el filósofo. De esta manera, su lectura nos hace ser conscientes de la belleza floreciente de nuestro planeta, llena de magia, misterio y singularidad.
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![tercer paisaje](images/btercerpaisaje1000px.jpg)
 **Manifiesto del Tercer paisaje**. Gilles Clément. 
@@ -42,49 +42,49 @@ Editorial Gustavo Gili, 2018.
 
 Uno de los textos clave para entender el paisajismo contemporáneo. Gilles Clément vuelca en este ensayo un programa para el tercer paisaje, aquel que aparece en las cunetas de las carreteras, en los lugares residuales de las ciudades, en los espacios de transición entre la ciudad y el campo que no han sido controlados por la acción deliberada del hombre. Es en esos lugares donde aflora un sistema biológico verdaderamente libre.
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![hicimos un jardin](images/bwemadeagarden1000px.jpg)
 **Hicimos un jardín**. Margery Fish. 1956.
 
 Publicado por primera vez en 1956, *We Made a Garden* narra cómo Margery Fish —una jardinera referente de la década de 1960— y su esposo Walter transformaron un acre de terreno agreste en un impresionante jardín de estilo *cottage*, que aún hoy permanece abierto al público en East Lambrook Manor (Somerset, Inglaterra). Se trata, a día de hoy, de una de las obras sobre jardinería más importantes jamás escritas.
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![La mente bien ajardinada](images/blamentebienajardinada1000px.jpg)
 **La mente bien ajardinada**. Sue Stuart-Smith. Debate. 2021.
 
 Sue Stuart-Smith, psiquiatra, jardinera y narradora, entreteje ejemplos como el papel clave de la horticultura para su abuelo tras la Primera Guerra Mundial, la obsesión de Freud por las flores y curiosas historias clínicas de sus propios pacientes. Con todo ello, nos convence de hasta qué punto puede influirnos la conexión con los ciclos de la naturaleza (en los que, tras la descomposición, brota de nuevo la vida), de las muchas formas en que la mente y el jardín interactúan y de la idea de que hundir nuestras manos en la tierra puede ser un modo de cuidarnos a nosotros mismos. A través de de curiosidades científicas e historias humanas, La mente bien ajardinada combina neurociencia, literatura, historia y psicoanálisis que indaga en el secreto que muchos jardineros conocen desde siempre: el contacto con la naturaleza puede transformar radicalmente nuestra salud y nuestra autoestima.
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![verdolatria](images/bverdolatria1000px.jpg)
 **Verdolatría**. Santiago Beruete. 2026.
 
 Verdolatría se articula en torno a cuatro preguntas esenciales de la filosofía: qué puedo saber, cómo debo actuar, qué me cabe esperar y qué significa ser humano. Se nutre del pensamiento ecológico, las lecciones del arte del jardín y la ciencia botánica para cambiar nuestra forma de entender la vida en el planeta y nuestro lugar en ella. El canto subterráneo de las raíces, la epopeya escrita en las anillas concéntricas de los árboles, la sabiduría enigmática de las plantas con propiedades psicoactivas, la ética de la resistencia de las malas hierbas, el olvidado arte de criar malvas, la vocación de jardinópeda, las simbiosis sentimentales humanas, la alargada sombra del ecofascismo, la épica de los huertos urbanos, la floreciente industria de los muros verdes, los engaños de la agricultura orgánica, entre muchos otros temas, tienen cabida en estas páginas, por las que se pasean jardineros ilustrados, ermitaños a sueldo, pensadores silvestres, luditas armados con azadones, cazadores de orquídeas, floricultoras sufragistas, mártires de la botánica, agricultores urbanos, landartistas, hortoterapeutas, multimillonarios paisajistas, robots jardineros y demás protagonistas de esta historia natural de la filosofía. 
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![El jardin contra el tiempo](images/beljardincontraeltiempo1000px.jpg)
 **El jardín contra el tiempo**. Olivia Laing. 2024.
 
 Inspirándose en la restauración de su propio jardín, Olivia Laing se embarca en una estimulante investigación del paraíso. En 2020, comenzó a restaurar un jardín amurallado del siglo XVIII en Suffolk, un edén cubierto de plantas insólitas. Este ensayo saca a la luz una cuestión crucial para nuestra época: ¿quién puede vivir en el paraíso y cómo podemos compartirlo mientras aún estemos a tiempo? Moviéndose entre jardines reales e imaginarios, desde El paraíso perdido de Milton hasta las elegías sobre los cercamientos de John Clare, desde un santuario en tiempos de guerra en Italia hasta un grotesco campo de recreo aristocrático financiado por la esclavitud, Laing cuestiona el coste, en ocasiones escandaloso, de construir el paraíso en la tierra. Pero la historia del jardín no siempre representa modelos de privilegio y exclusión. También es escenario de avanzadillas rebeldes y sueños comunitarios. Desde la utopía queer conjurada por Derek Jarman en la playa de Dungeness hasta la fértil visión de un Edén común soñada por William Morris, entre los parterres de flores se han intentado nuevos modos de vida, experimentos que podrían resultar vitales en la próxima era del cambio climático. El resultado es un relato bello y exigente de los abundantes placeres y posibilidades de los jardines: no como un lugar donde esconderse del mundo, sino como un sitio de encuentro y descubrimiento.
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![lanta Sapiens](images/bplantasapiens1000px.jpg)
 **Planta Sapiens**. Paco Calvo, Natalie Lawrence. Seix Barral. 2023.
 
 El reino vegetal sigue siendo un misterio, a pesar de que vivimos rodeados de plantas. Durante siglos, hemos estudiado su influencia en nuestro entorno y, sin embargo, seguimos condenándolas a un papel secundario, a ser un mero elemento decorativo en nuestras frenéticas vidas. Aunque las plantas no tengan cerebro ni se muevan como nosotros, la ciencia de vanguardia está revelando descubrimientos sorprendentes sobre ellas: pueden aprender, recordar, comunicarse, reconocer a sus iguales, evaluar riesgos y tomar decisiones, y tienen algo que bien podríamos definir como personalidad. Planta sapiens ofrece una perspectiva creativa y audaz sobre la biología vegetal y la ciencia cognitiva. Partiendo de experimentos realizados con las tecnologías más avanzadas, este ensayo apasionante nos invita a pensar el mundo natural de una manera radicalmente distinta. 
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![La sabiduría del jardinero](images/bsabiduriajardinero1000px.jpg)
 **La sabiduría del jardinero**. Gilles Clément. Gustavo Gili. 2021.
 
 Los libros sobre jardines no hablan de los animales en libertad, salvo para explicar cómo luchar contra ellos. De los habitantes naturales no se dice nada. Los libros los omiten obstinadamente y no mencionan los topos de Babilonia, las libélulas de Versalles, las culebras de la Alhambra. Y a pesar de ello, deben todavía encontrar morada en esos lugares. Sin embargo, ni unos ni otros participan del artificio propio de los jardines. La tradición excluye del territorio ajardinado a todas las especies animales y vegetales vivas que eluden el dominio del jardinero. Los seres vagabundos no tienen lugar en él. A partir de estas reflexiones, Clément construye la particular visión del jardín y de la sabiduría del jardinero en su manejo que nos presenta en este libro.
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![Color schemes for the flower garden](images/bcolorschemes1000px.jpg)
 **Color schemes for the flower garden**. Gertrude Jekyll. Country Life. 1919.
@@ -106,7 +106,7 @@ He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuest
 
 Narvel Roth es el meticuloso horticultor de Gracewood Gardens. Está tan dedicado a cuidar los jardines de esta maravillosa e histórica finca como a complacer a su jefa, la rica viuda Sra. Havernhill.
 
-![separador](images/bseparadorblanco1000px.jpg)
+![separador](images/bseparadorverde1000px.jpg)
 
 ![el amigo silencioso](images/belamigosilencioso1000px.jpg)
 **Silent Friend**. Ildikó Enyedi. 2025
