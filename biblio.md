@@ -160,6 +160,11 @@ En el corazón de un jardín botánico en una ciudad universitaria medieval de A
 
 Les roses. Pierre Joseph Redouté, 1759-1840. [Tome I](https://archive.org/details/CAT30984991_01) - [Tome II](https://archive.org/details/CAT30984991_02) - [Tome III](https://archive.org/details/CAT30984991_03) 
 
+[Manual para el Ajardinamiento Urbano de Canarias (PDF, 284 páginas)](https://renaturalizacionurbanacanaria.com/manual/)
+Catálogo de Vegetación Autóctona para los Entornos Urbanos de Canarias, en dos tomos: [Tomo I: Costa](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T1_WEB.pdf) y [Tomo II: Medianías y Cumbres](https://renaturalizacionurbanacanaria.com/wp-content/uploads/2025/docs/Catalogo_T2_WEB.pdf)
+
+[Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Documento%20buenas%20practicas.pdf) con su Anexo [Fichas de especies - ANEXO III (20 MB, PDF)](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/FICHAS_AJARDINAMIENTO_V3.pdf)
+
 
 ![Barra verde](images/jard01barraverde.jpg)
 
