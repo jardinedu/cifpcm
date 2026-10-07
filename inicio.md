@@ -165,7 +165,7 @@ En resumen, un Manual muy interesante, orientado a lo que está: flora nativa y 
 
 **Descargas**
 - [Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Documento%20buenas%20practicas.pdf)
-- [Fichas de especie - ANEXO III (20 MB, PDF)](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/FICHAS_AJARDINAMIENTO_V3.pdf)
+- [Fichas de especies - ANEXO III (20 MB, PDF)](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/FICHAS_AJARDINAMIENTO_V3.pdf)
 
 **Documento interactivo online**
 -
