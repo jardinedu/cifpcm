@@ -147,3 +147,16 @@ URL Escape Code
 </table>
 
 - - - 
+
+LIBRO ELIMINADO -> era poco interesante, mejor El jardin en movimiento, que lo sustituyço
+![separador](images/bseparadorverde1000px.jpg)
+
+![El jardin contra el tiempo](images/beljardincontraeltiempo1000px.jpg)
+**El jardín contra el tiempo**. Olivia Laing. 2024.
+
+Inspirándose en la restauración de su propio jardín, Olivia Laing se embarca en una estimulante investigación del paraíso. En 2020, comenzó a restaurar un jardín amurallado del siglo XVIII en Suffolk, un edén cubierto de plantas insólitas. Este ensayo saca a la luz una cuestión crucial para nuestra época: ¿quién puede vivir en el paraíso y cómo podemos compartirlo mientras aún estemos a tiempo? Moviéndose entre jardines reales e imaginarios, desde El paraíso perdido de Milton hasta las elegías sobre los cercamientos de John Clare, desde un santuario en tiempos de guerra en Italia hasta un grotesco campo de recreo aristocrático financiado por la esclavitud, Laing cuestiona el coste, en ocasiones escandaloso, de construir el paraíso en la tierra. Pero la historia del jardín no siempre representa modelos de privilegio y exclusión. También es escenario de avanzadillas rebeldes y sueños comunitarios. Desde la utopía queer conjurada por Derek Jarman en la playa de Dungeness hasta la fértil visión de un Edén común soñada por William Morris, entre los parterres de flores se han intentado nuevos modos de vida, experimentos que podrían resultar vitales en la próxima era del cambio climático. El resultado es un relato bello y exigente de los abundantes placeres y posibilidades de los jardines: no como un lugar donde esconderse del mundo, sino como un sitio de encuentro y descubrimiento.
+
+![separador](images/bseparadorverde1000px.jpg)
+
+
+
