@@ -17,7 +17,7 @@ La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de
 6. [Jardín de la platanera](#6-jard%C3%ADn-de-la-platanera)
 7. [Tabaibal-Cardonal](#7-tabaibal-cardonal)
 8. [El monte](#8-el-monte)
-9. [Jardín de L.](#9-jard%C3%ADn-de-L)
+9. [Jardín de L.](#9-jard%C3%ADn-de-l)
 10. [Proyecto 2026](#10-proyecto2026)
 
 [Lista general de las especies que hay en los jardines: nativas de Canarias y exóticas](#lista-de-especies)
