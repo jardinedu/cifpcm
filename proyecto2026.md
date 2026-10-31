@@ -11,9 +11,9 @@ feature_image:
 
 El proyecto **Un viaje cultural a través de los jardines/2026** es una continuación del trabajo iniciado en 2018, que se ha ido construyendo de forma orgánica a la vez que extendiendo sus límites, ocupando gradual y lentamente nuevos parterres del Centro, adaptando la filosofía general a cada caso. Es un relato que recorre 9 años de trabajo con las plantas.
 
-En 2026, a partir de septiembre, se va a trabajar con nuevas zonas. Hay pocos objetivos, pero importantes: construir jardines adecuados en cada zona y aumentar el uso de flora nativa. Se está colaborando con José Hassanías, profesor jubilado colaborador del IES El Sobradillo, donde se imparten Ciclos Formativos de Agraria (_Agrojardinería y composiciones florales; Jardinería y floristería; Aprovechamiento y conservación del medio natural; Paisajismo y medio rural; Gestion forestal y medio natural_). Este profesor está impulsando en varios Centros el uso de flora nativa en jardinería en colaboración también con el Vivero de Flora Insular La Tahonilla del Cabildo de Tenerife. 
+En 2026, a partir de septiembre, estoy empezando a trabajar con nuevas zonas. Hay pocos objetivos, pero importantes: construir jardines adecuados en cada zona y aumentar el uso de flora nativa. Se está colaborando con Carlos, profesor jubilado colaborador del IES El Sobradillo, donde se imparten Ciclos Formativos de Agraria. Este profesor está impulsando en varios Centros el uso de flora nativa en jardinería. Como ya había hecho en años anteriores, estoy haciendo las peticiones de planta en el Vivero de Flora Insular La Tahonilla del Cabildo de Tenerife. 
 
-Se manejan asímismo dos documentos: el [_Manual de buenas prácticas para el uso de flora nativa en jardinería_](https://www.gobiernodecanarias.org/medioambiente/materias/biodiversidad/difusion/publicaciones/), editado en 2026 por el Servicio de Biodiversidad del gobierno de Canarias y el [_Manual para el ajardinamiento urbano de Canarias_](http://www.renaturalizacionurbanacanaria.com), editado por GesPlan y Gobierno de Canarias en 2025.
+He intentado tener en cuenta asímismo dos documentos: el [_Manual de buenas prácticas para el uso de flora nativa en jardinería_](https://www.gobiernodecanarias.org/medioambiente/materias/biodiversidad/difusion/publicaciones/), editado en 2026 por el Servicio de Biodiversidad del gobierno de Canarias y el [_Manual para el ajardinamiento urbano de Canarias_](http://www.renaturalizacionurbanacanaria.com), editado por GesPlan y Gobierno de Canarias en 2025.
 
 El _Manual de buenas prácticas_ del Servicio de Biodiversidad sitúa nuestro Centro en *Zona 4* y dentro de esta, como espacio público, aconseja un porcentaje de uso de plantas nativas de un 25 por ciento.
 
@@ -21,16 +21,12 @@ El _Manual de buenas prácticas_ del Servicio de Biodiversidad sitúa nuestro Ce
 > ... la presencia de una selección adecuada de especies nativas en las zonas ajardinadas de archipiélago generaría infraestructuras verdes, en el marco de una red de corredores ecológicos en las islas, que permitirían dar una ventana de oportunidad a las especies de flora y fauna que actualmente sufren graves problemas de fragmentación de su hábitat natural, y a la vez aportarían un importante valor cultural, educativo y de singularidad a los jardines, al tratarse de especies que en muchos casos son exclusivas de Canarias y que son muy demandadas en la jardinería internacional por su singularidad y belleza...
 > <cite>― [de la Introducción al Manual de buenas prácticas...]
 
-
 Estos manuales tratan de poner en valor la flora nativa de Canarias por múltiples motivos: estéticos, ecológicos, Agenda Canaria 2030, cumplimiento de los ODS, etc. algo que se lleva haciendo en este CIFP desde 2018, añadiendo capas de complejidad, ofrecendo más diversidad, color y nuevas historias, porque cada especie tiene algo que contarnos.No podemos olvidar que nuestro territorio es uno de los puntos con mayor biodiversidad del planeta, lo que supone una responsabilidad sobre nuestro patrimonio natural. 
-
 
 > ... El territorio canario es considerado un Punto Caliente de Biodiversidad a nivel mundial. Sin embargo, en la actualidad, soporta una importante presión antrópica ... Teniendo en cuenta la fragmentación y el aislamiento ecológico que ocasionan los entornos urbanos (efectos que serán retroalimentados negativamente por el cambio climático), resulta urgente llevar a cabo procesos de renaturalización que fomenten la biodiversidad en las urbes canarias, jugando un papel importante las Soluciones basadas en la Naturaleza (SbN)...
 > <cite>― [del Manual para el ajardinamiento urbano...]
 
 ![manuales](images/proyecto202603manuales.jpg)
-
-
 
 No solo hablamos de jardinería, sino también de paisajismo. El paisajismo requiere aplicar principios de composición, arquitectura de plantas, colores y texturas para crear espacios, pero también es verdad que el diseño no son ideas geniales que salen de la mente de artistas, debe insertarse en una interacción entre diseñadores y diseñadoras, usuarias y usuarios, contextos sociales, identidad, memoria, en nuestro caso también didáctica, y múltiples aspectos que aparecen durante el proceso. A esto se suma que un jardín por definición no es algo acabado, sino un proceso con más desorden que orden, guiado por una jardinera o jardinero.
 
@@ -47,16 +43,15 @@ Las actuaciones van dirigidas a cinco zonas, destacando dos de ellas, mientras q
 
 1. **Jardín de cactus de entrada al Centro**.
    
-Este parterre es de alguna forma la bienvenida al Centro y habla de su identidad. Proponemos enriquecer esta con nuevas capas.
+Este parterre es de alguna forma la bienvenida al Centro y habla de su identidad. Propongo enriquecer esta con nuevas capas.
 
 3. **Parterre de acceso a la pradera al norte del Pabellón de Administración**.
 
 Prólogo a la zona 3.
 
-
 3. **Pradera al norte del Pabellón de Administración**.
 
-Aquí se propone crear un espacio de tranquilidad mental, una pausa, donde se pueda estar en medio de una idea de naturaleza, vivir ese aprendizaje y recibir sus beneficios psicológicos. Si se consigue que sea un espacio muy utilizado por alumnado y profesorado habremos cumplido un objetivo fundamental.
+Aquí propongo crear un espacio de tranquilidad mental, una pausa, donde se pueda estar en medio de una idea de naturaleza, vivir ese aprendizaje y recibir sus beneficios psicológicos. Si se consigue que sea un espacio muy utilizado por alumnado y profesorado habremos cumplido un objetivo fundamental.
 
 
 4. **Patio central (parterre del lado oeste)**.
@@ -80,7 +75,7 @@ Este espacio actualmente se organiza como una colección de cactáceas. Aquí se
 
 Este jardín, tal como lo vemos en su estado actual, es claramente una referencia a la obra de César Manrique, quizá inspirado en una de sus obras más conocidas, el Jardín de Cactus de Guatiza, en Lanzarote. Lo dominan dos grandes cactus candelabro (_Euphorbia candelabrum_), rodeadas de diversas cactáceas: _cereus_ y _stenocereus_, _echinocactus, myrtillocactus_, etc. así como crasuláceas y yucas, con nula presencia de flora nativa, todo ello sobre una base de picón rojo.
 
-En este primer jardín de entrada al Centro, proponemos establecer un diálogo entre ese cliché _"a la César Manrique"_ con los criterios actuales de uso de flora nativa. Sin pretender un análisis crítico de los trabajos paisajísticos de César Manrique y sus conceptos en el uso de flora, podemos infiltrarnos en este grupo de cactáceas y esbozar otras cuestiones contemporáneas necesarias: identidad, sostenibilidad, y a la vez qué responsabilidades afrontamos y qué ideas nuevas podemos aportar a una jardinería en nuestro territorio. Hay mucho que pensar, y el proceso no va a ser rápido, porque en este primer jardín ya no solo hablamos de plantas.
+En este primer jardín de entrada al Centro, propongo establecer un diálogo entre ese cliché _"a la César Manrique"_ con los criterios actuales de uso de flora nativa. Sin pretender un análisis crítico de los trabajos paisajísticos de César Manrique y sus conceptos en el uso de flora, podemos infiltrarnos en este grupo de cactáceas y esbozar otras cuestiones contemporáneas necesarias: identidad, sostenibilidad, y a la vez qué responsabilidades afrontamos y qué ideas nuevas podemos aportar a una jardinería en nuestro territorio. Hay mucho que pensar, y el proceso no va a ser rápido, porque en este primer jardín ya no solo hablamos de plantas. Tengo también mis reservas sobre el uso exclusivo de flora nativa, que nos puede llevar a un extremo de fundamentalismo vegetal, y ese nunca ha sido mi proyecto. 
 
 ![dibujo zona 1](images/proyecto202608dibujocactus.jpg)
 
@@ -110,9 +105,9 @@ Se ubicarán **gildana** (_Genista canariensis_), **jazmín silvestre** (_Jasmin
 
 * * *
 
-## 3. PRADERA
+## 3. El monte
 
-La pradera posterior es un espacio muy amplio donde se van a ubicar bancos y mesas a la sombra para uso del alumnado. Hay una fila de pimenteros (_Schinus molle_) de gran porte, un pino de oro (_Grevillea robusta_) así como otros árboles, incluso frutales, herencia de anteriores tratamientos del espacio: nisperero, limonero, granado, varias palmeras (_Washingtonia_), ficus y unos dragos _(Dracaena draco_).
+La pradera posterior (_El monte_, como la ha bautizado muy certeramente una profesora) es un espacio muy amplio donde se van a ubicar bancos y mesas a la sombra para uso del alumnado. Hay una fila de pimenteros (_Schinus molle_) de gran porte, un pino de oro (_Grevillea robusta_) así como otros árboles, incluso frutales, herencia de anteriores tratamientos del espacio: nisperero, limonero, granado, varias palmeras (_Washingtonia_), ficus y unos dragos _(Dracaena draco_).
 Otras plantas más pequeñas como magarza (_Argyranthemum frutescens_) belesa azul (_Plumbago_), romero (_Salvia rosmarinus_) o hierbamora (_Bosea yervamora_) complementan los árboles de mayor porte. 
 
 En este jardín no puede olvidarse la dimensión social: debe ser un espacio muy usado. Ante un alumnado (y profesorado) que se aleja de la realidad y profundiza en la digitalización, aquí podemos ofrecerles, en palabras del filósofo Byung-Chul Han, una _realidad recuperada_.
