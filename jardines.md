@@ -10,13 +10,13 @@ feature_image:
 La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
 
 1. [El primer jardín](#1-el-primer-jard%C3%ADn)
-2. [Jardín de los frangipanes](#2-jard%C3%ADn-de-los-frangipanes)
+2. [Jardines de los frangipanes](#2-jardines-de-los-frangipanes)
 3. [Jardín de los filodendros](#3-jard%C3%ADn-de-los-filodendros)
-4. [Jardín de la bencomia](#4-jard%C3%ADn-de-la-bencomia)
-5. [Jardines de las belesas](#5-jardines-de-las-belesas)
-6. [Jardín de la platanera](#6-jard%C3%ADn-de-la-platanera)
-7. [Tabaibal-Cardonal](#7-tabaibal-cardonal)
-8. [El monte](#8-el-monte)
+4. [Jardines de las belesas](#4-jardines-de-las-belesas)
+5. [Jardín de la platanera](#5-jard%C3%ADn-de-la-platanera)
+6. [Tabaibal-Cardonal](#6-tabaibal-cardonal)
+7. [El monte](#7-el-monte)
+8. [Jardín de cactus](#8-jard%C3%ADn-de-cactus)
 9. [Jardín de L.](#9-jard%C3%ADn-de-l)
 10. [Proyecto 2026](#10-proyecto2026)
 
@@ -1201,6 +1201,29 @@ _tenerrimus_: del latín tenerrimus: tierno, delicado, por sus hojas fina y estr
 &emsp;&emsp;_Cerrajilla mezclada de forma natural con magarzas y lavandas. primavera 2026_
 
 
+# Parterres de poniente
+
+En 2025 se empezaron a reacondicionar los parterres a poniente del patio, que se prolongan con un parterre más entre el edificio de Secretaría y el Pabellón 1. Esta zona, a la que no había llegado hasta 2025, de alguna forma es la puerta de entrada al Centro, de modo que debería funcionar como una bienvenida. 
+
+En el parterre suroeste hay una línea de grandes acalifas, con algunas nativas canarias.  Las acalifas deberían podarse a un tamaño menos y con una forma coherente entre ellas, evitando su envejeciemiento. En 2026 podrán incluirse otras nativas entre las acalifas.
+
+El extremo junto a la entrada al patio debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita buen olor.
+
+![Parterre corto](images/jard13parterrecortoboceto.jpg)
+
+Al extremo de estos parterres se le ha dado un tratamiento especial, con vegetación más baja, que permita una vista panorámica del patio al entrar. Se trasladaron las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades y se han unido los grupos de Tradescantia. Se han plantado pocas especies, en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), resistentes a la sequía y la insolación. También se ha organizado una rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
+Una mancha de _Tradescantia pallida_, tapizante.
+Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas.
+Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar una masa de tallos medianos muy móviles, con floración prolongada.
+Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada, con el objetivo de que dispersen su aroma.
+Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tapizante.
+Una abelia /_Abelia grandiflora_) para una nota de color más claro.
+Y por último he recuperado un tartaguero (_Ricinus communis_) que ya utilicé en el primer jardín para rellenar espacios de forma rápida y provisional. En Canarias está asociado a lugares en abandono y descuido, pero en Europa se sigue usando en jardinería. Esto es un intento de dignificación de esta espeie, con texturas y olores que pueden ser muy interesantes.
+
+![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
+&emsp;&emsp;_Parterre recién plantado, agosto 2025_
+
+
 ![Barra verde](images/jard01barraverde.jpg)
 
 
@@ -1563,29 +1586,6 @@ Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasul
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 4. Jardín de la bencomia
-
-En 2025 se empezaron a reacondicionar los parterres a poniente del patio, que se prolongan con un parterre más entre el edificio de Secretaría y el Pabellón 1. Esta zona, a la que no había llegado hasta 2025, de alguna forma es la puerta de entrada al Centro, de modo que debería funcionar como una bienvenida. 
-
-En el parterre suroeste hay una línea de grandes acalifas, con algunas nativas canarias.  Las acalifas deberían podarse a un tamaño menos y con una forma coherente entre ellas, evitando su envejeciemiento. En 2026 pod´rna incluirse otras nativas entre las acalifas.
-
-El extremo junto a la entrada al patio debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita buen olor.
-
-![Parterre corto](images/jard13parterrecortoboceto.jpg)
-
-Se han trasladado las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades y se han unido los grupos de Tradescantia. 
-
-Se han plantado pocas especies, en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), relativamente resistentes a la sequía y la insolación. También se ha organizado una rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
-Una mancha de _Tradescantia pallida_, tapizante.
-Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas.
-Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar una masa de tallos medianos muy móviles, con floración prolongada.
-💀 Un grupo pequeño de _Anigozanthos_ de color rojizo-rosáceo que se están adaptando muy mal, y que finalmente desaparecieron, tras dos intentos.
-Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada, con el objetivo de que dispersen su aroma.
-Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tapizante.
-
-![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
-&emsp;&emsp;_Parterre recién plantado, agosto 2025_
-
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -1635,7 +1635,7 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 6. Jardín de la platanera
+# 5. Jardín de la platanera
 
 ![JardinPabellon 4](images/jard15pabellon4a.jpg)
 
@@ -1649,7 +1649,7 @@ También tengo que retirar dos cardones con muy mal desarrollo por la combinaci�
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 7. Tabaibal-Cardonal
+# 6. Tabaibal-Cardonal
 
 ![Tabaibal cardonal](images/jard16tabaibalcardonal1.png)
 
@@ -1667,7 +1667,7 @@ El terreno ha quedado a cero. Considerando su orientación, insolación y la pos
 
 ![Barra verde](images/jard01barraverde.jpg)
 
-# 8. El monte
+# 7. El monte
 
 ## Parterre de acceso
 En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí.
@@ -1684,6 +1684,9 @@ La historia de las rosas, su popularización a partir del jardín de La Malmaiso
 
 ![Tres rosas](images/jard13tresrosasredoute.jpg)
 &emsp;&emsp;_Tres rosas amarillas ca.1817-1824, ilustraciones de Pierre-Joseph Redouté, en les Roses ([I](https://archive.org/details/CAT30984991_01)) ([II](https://archive.org/details/CAT30984991_02)) ([III](https://archive.org/details/CAT30984991_03))_
+
+# 8. Jardín de cactus
+
 
 # 9. Jardín de L
 
