@@ -1669,6 +1669,32 @@ El terreno ha quedado a cero. Considerando su orientación, insolación y la pos
 
 # 7. El monte
 
+![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
+
+Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmeras (_Washingtonia_) altas, dos dragos con desarrollo un poco desequilibrado (demasiado altos para su primera ramificación) y varios frutales: nisperero, granado, limonero, romero. También un palo blanco, dos belesas y numerosas lantanas (enfermas de mosca blanca), en medio de esa pradera de hierbas silvestres. Podríamos hablar de un estado de un cierto abandono hasta 2026. Fui eliminando lantanas, haciendo una primera limpieza de hierbas y respetando magarzas nacidas espontáneamente. 
+
+Esta zona ya tenía el potencial de ser un lugar donde el alumnado pudiera estar, pasear, sentarse a la sombra, con pocas intervenciones de jardinería en sí, y más cerca del paisajismo, manteniendo los elementos que de sombra.
+
+![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
+&emsp;&emsp;_Estado de la zona en octubre 2025_
+
+Después de un invierno muy lluvioso, en primavera 2026 se convirtió en una espectacular pradera de cerrajillas y cardos, puntuada con los árboles que se empiezan a recuperar. Es un momento casi efímero que indicaba ya un potencial y una opción para tratar ese sitio, si nos atrevemos a imaginar, profundizando en las ideas del _tercer paisaje_ de Gilles Clément. 
+
+![Parque norte abril 2026](images/jard20parquenortevistasabr2026.jpg)
+&emsp;&emsp;_Flores silvestres en abril 2026_
+
+Por iniciativa del equipo directivo del Centro se hizo tala controlada de los pimenteros y una limpieza de hierbas y restos por parte de una empresa especializada. Desde septiembre de 2026 esta zona ha pasado a integrarse en el [Proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026, acogiendo una serie de plantas nativas, bancos y mesas y buscando convertirse en un lugar muy utilizado por el alumnado (y profesorado).
+
+En un futuro se maneja también la opción de ordenar de alguna forma el lugar con unos pequeños caminos, para lo cual hay algunas propuestas, como la siguiente:
+
+![El monte octubre 2026](images/jard20elmontepropuestacaminos.jpg)
+
+Falta mucho trabajo y tener la paciencia necesaria para que la vegetación se desarrolle y ver la evolución del sitio.
+
+
+![Barra verde](images/jard01barraverde.jpg)
+
+
 ## Parterre de acceso
 En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí.
 Posiblemente lo más adecuado es que sea el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos.
