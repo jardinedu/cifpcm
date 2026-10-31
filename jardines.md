@@ -13,11 +13,11 @@ La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de
 2. [Jardín de los frangipanes](#2-jard%C3%ADn-de-los-frangipanes)
 3. [Jardín de los filodendros](#3-jard%C3%ADn-de-los-filodendros)
 4. [Jardín de la bencomia](#4-jard%C3%ADn-de-la-bencomia)
-5. [Jardín de las belesas](#5-jard%C3%ADn-de-las-belesas)
-6. [Jardin de la platanera](#6-jard%C3%ADn-de-la-platanera)
+5. [Jardines de las belesas](#5-jardines-de-las-belesas)
+6. [Jardín de la platanera](#6-jard%C3%ADn-de-la-platanera)
 7. [Tabaibal-Cardonal](#7-tabaibal-cardonal)
 8. [El monte](#8-el-monte)
-9. [Jardín de L.](#9-jard%C3%ADn-de-L.)
+9. [Jardín de L.](#9-jard%C3%ADn-de-L)
 10. [Proyecto 2026](#10-proyecto2026)
 
 [Lista general de las especies que hay en los jardines: nativas de Canarias y exóticas](#lista-de-especies)
@@ -1685,7 +1685,7 @@ La historia de las rosas, su popularización a partir del jardín de La Malmaiso
 ![Tres rosas](images/jard13tresrosasredoute.jpg)
 &emsp;&emsp;_Tres rosas amarillas ca.1817-1824, ilustraciones de Pierre-Joseph Redouté, en les Roses ([I](https://archive.org/details/CAT30984991_01)) ([II](https://archive.org/details/CAT30984991_02)) ([III](https://archive.org/details/CAT30984991_03))_
 
-# 9. Jardín de L.
+# 9. Jardín de L
 
 Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de eliminar un gigantesco ejemplar de cactus candelabro cuyas raíces habían afectado peligrosamente a un muro, a punto de caer. En su lugar se construyó un elegante parterre alargado, bien drenado. Según las sugerencias de L. se ha planteado un juego de formas, texturas y tamaños con plantas crasas, euforbias, mediterráneas, etc., todas ellas adecuadas a la xerojardinería. Es como una miniatura de plantas exóticas que habla también de diversidad. 
 
