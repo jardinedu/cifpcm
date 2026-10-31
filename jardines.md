@@ -1590,7 +1590,7 @@ Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tap
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 5. Jardines de la Casita de Sonido
+# 5. Jardines de las belesas
 
 Octubre 2024<br>
 Se empezaron a reacondicionar varios parterres alrededor de la Casita de Sonido.
