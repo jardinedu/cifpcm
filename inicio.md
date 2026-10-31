@@ -47,7 +47,7 @@ Llevo unos años haciendo un registro documental del trabajo de esta Asociación
 
 Tras quitar _Pennisetum_ durante un año, y sin ser este estrictamente un Proyecto de Innovación, sino una iniciativa educativa de concienciación, hacía 2018 le planteé al Director (en ese momento Michel) una intervención para recuperar un jardín frente a los Talleres 1 2 y 3. Razones didácticas en la puesta en valor de la flora canaria; también la flora que se ha usado en jardinería popular en las islas. En otro apartado escribo un poco más sobre esto.
 
-![Evolución del jardín de los Talleres](images/01evolucionjardintalleres20182020.jpg)
+![Evolución de _El primer jardín_](images/01evolucionjardintalleres20182020.jpg)
 
 Por supuesto también está siempre presente una educación ambiental en su más puro sentido: valorar la Naturaleza y la Vida.
 Y más razones didácticas en ese despertar de la curiosidad sobre el mundo y la historia de los descubrimientos botánicos y el viaje de las plantas que supone un jardín. 
@@ -161,7 +161,7 @@ Como vemos, tiene una orientación científica y técnica, y así, confirmando m
 
 En cuanto al porcentaje de especies nativas a utilizar, ordena las islas en 4 zonas. Nuestro CIFP está en **Zona 4** (zona urbana), y según estas recomendaciones: _"al menos el 15% de los ejemplares de flora empleados pertenecerán a especies nativas, seleccionadas adecuadamente en función del piso bioclimático y de la ubicación, según el listado que se recoge en el Anexo II"_. Actualmente (2026) en los jardines hay aproximadamente un 30-50% de flora nativa, según la zona, y de las 92 especies que se recogen en el Anexo III están presentes más de 20, además de otras no recogidas en este.
 
-En resumen, un Manual muy interesante, orientado a lo que está: flora nativa y su uso, en el que quizá falten ejemplos concretos de jardines.
+En resumen, un Manual muy interesante, orientado a lo que está: flora nativa y su uso, en el que quizá falten ejemplos concretos de jardines y sobre todo de pensamiento sobre los jardines.
 
 **Descargas**
 - [Manual de buenas prácticas para el uso de flora nativa en jardinería en la Comunidad Autónoma de Canarias](https://www.gobiernodecanarias.org/medioambiente/descargas/Biodiversidad/conservacion_especies/flora/general/ajardinamiento/Documento%20buenas%20practicas.pdf)
