@@ -7,25 +7,31 @@ feature_image:
 
 ![Vista inicial](images/00jardinesvistainicial.jpg)
 
-Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
-1. [Jardín de los Talleres](#1-jard%C3%ADn-de-los-talleres)
-2. [Jardines naciente patio central](#2-jardines-naciente-del-patio-central)
-3. [Jardines del patio central - sombra](#3-jard%C3%ADn-del-patio-central---sombra)
-4. [Jardín poniente patio central](#4-jardines-poniente-del-patio-central)
-5. [Jardín de la casita de sonido](#5-jardines-de-la-casita-de-sonido)
-6. [Jardin Pabellón 4](#6-jard%C3%ADn-pabell%C3%B3n-4)
-7. [Tabaibal-Cardonal Salón de Actos](#7-tabaibal-cardonal-sal%C3%B3n-de-actos)
-8. [Proyecto 2026](#8-proyecto2026)
+La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
+
+1. [El primer jardín](#1-el-primer-jard%C3%ADn)
+2. [Jardín de los frangipanes](#2-jard%C3%ADn-de-los-frangipanes)
+3. [Jardín de los filodendros](#3-jard%C3%ADn-de-los-filodendros)
+4. [Jardín de la bencomia](#4-jard%C3%ADn-de-la-bencomia)
+5. [Jardín de las belesas](#5-jard%C3%ADn-de-las-belesas)
+6. [Jardin de la platanera](#6-jard%C3%ADn-de-la-platanera)
+7. [Tabaibal-Cardonal](#7-tabaibal-cardonal)
+8. [El monte](#8-el-monte)
+9. [Jardín de L.](#9-jard%C3%ADn-de-L.)
+10. [Proyecto 2026](#10-proyecto2026)
 
 [Lista general de las especies que hay en los jardines: nativas de Canarias y exóticas](#lista-de-especies)
 
+![Jardines de jardines](images/jard1jardinesdejardines.jpg)
+&emsp;&emsp;_Hidcote Manor, Sissinghurst y LurGarden, ejemplos de "jardines de jardines". Los bocetos son de Íñigo Segurola_
+
 ![Barra verde](images/jard01barraverde.jpg)
 
-![Esquema de especies](images/jard01esquemacolorjardin1.jpg)
+![Esquema de especies el primer jardin](images/jard01esquemacolorjardin1.jpg)
 
-# 1. Jardín de los Talleres
+# 1. El primer jardín
 
-Después del asunto del rabo de gato (que a fecha 2025 aún no se ha resuelto del todo) empecé a trabajar en este primer jardín, que estaba en estado de abandono.
+Después del asunto del rabo de gato (que a fecha 2025 aún no se ha resuelto del todo) empecé a trabajar en este _primer jardín_, que estaba en estado de abandono.
 
 ![Evolución 2018 a 2025](images/jard02evolucion201820232025.jpg)
 
@@ -549,7 +555,7 @@ He plantado una higuera planeando orientar su crecimiento mediante podas para qu
 
 ![Barra verde](images/jard01barraverde.jpg)
 
-# 2. Jardines naciente del Patio Central
+# 2. Jardín de los frangipanes
 
 ![Nov 2024](images/jard10noviembre2024.jpg)
 &emsp;&emsp;_Noviembre 2024_
@@ -1198,7 +1204,7 @@ _tenerrimus_: del latín tenerrimus: tierno, delicado, por sus hojas fina y estr
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 3. Jardín del Patio central - sombra
+# 3. Jardín de los filodendros
 
 Continuando los parterres del Patio central, entre el Pabellón 1 y el Aula ATECA hay unos parterres alargados con unas condiciones de semisombra y humedad que crean un ambiente diferente.
 
@@ -1557,7 +1563,7 @@ Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasul
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 4. Jardines poniente del Patio Central
+# 4. Jardín de la bencomia
 
 En 2025 se empezaron a reacondicionar los parterres a poniente del patio, que se prolongan con un parterre más entre el edificio de Secretaría y el Pabellón 1. Esta zona, a la que no había llegado hasta 2025, de alguna forma es la puerta de entrada al Centro, de modo que debería funcionar como una bienvenida. 
 
@@ -1579,36 +1585,6 @@ Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tap
 
 ![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
 &emsp;&emsp;_Parterre recién plantado, agosto 2025_
-
-
-## Parterre entre Secretaría y Pabellón 1
-De momento estoy dando forma a un proyecto, que pasa por mantener un rosal y reorganizar una serie de hortensias que están en una línea dispersas, además de plantear un jardín basado en grupos de pocas plantas, en general de porte bajo para mantener la visión en perspectiva (es un jardín más para mirar que para circular por él). Hay que trasladar unas crásulas que están en primer plano, sobrecrecidas, y que tapan la vista del resto del parterre. También se han reubicado una serie de rocas volcánicas que formaban dos montículos centrales y que, sin mucha sorpresa, ocultaban un problema: unos antiguos troncos secos de árboles muertos, retirarlos con sus raíces ha sido un trabajo inicial muy duro.
-
-![Parterre largo](images/jard13parterrelargoestadoprevio.jpg)
-&emsp;&emsp;_Vista del parterre, agosto 2025_
-
-Este primer proyecto, que planeaba para finales de 2025, finalmente no se va a llevar a cabo debido a la participación de Centro en la convocatoria de proyectos de Renaturalización de la Consejería de Educación.
-
-![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
-&emsp;&emsp;_Primer proyecto del parterre, ya desechado_
-
-abril 2026<br>
-El proyecto de Renaturalización se aprobó, aunque falta su ejecución. Incluye ubicar en este parterre dos mesas con bancos para el alumnado. Considerando esto, he calculado la ubicación y dimensiones de estas mesas y adaptado el proyecto en consecuencia. Estoy organizando dos islas de plantas con flores: hortensias y rosales, en parte para mantener el trabajo previo de otras jardineras y jardineros que plantaron y cuidaron aquí estas dos especies. 
-
-![Parterre en abril 2026](images/jard13parterrelargoabril26.jpg)
-&emsp;&emsp;_Vista del parterre, abril 2026_
-
-El primer grupo son hortensias, en el lado del paso, de modo que desde muy cerca se pueda ver su floración. He trasplantado la línea de hortensias antiguas (las más lejanas estaban demasiado distantes) y las he reunido en un grupo más compacto. Estaban muy envejecidas, así que las he podado dentro de lo posible, intentando rejuvenecerlas. También he traido de vivero tres nuevas hortensias, esperando tener un grupo interesante en unos meses. Lo complementan un helecho nacido espontáneamente y que al despejarlo un poco está adquiriendo un buen porte, algunos rhoeos, un grupo de lilium rescatado de este mismo parterre y un jazmín que espero enredar en las columnas metálicas, en el paso de la gente, de modo que disperse su perfume al pasar junto a él. 
-
-El segundo grupo, a distancia media, es un proyecto de mini rosaleda, con tres nuevos rosales y uno antiguo, en bastante mal estado, rescatado del centro del parterre, que no sé si sobrevivirá. Lo complementa un grupo de lirios rescatado también y algunos rhoeos. 
-
-Los rosales no solo son una memoria del pasado de este parterre, sino un pequeño homenaje a mi madre, que es una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento aclimatar tres variedades de ese color. Las tres son variedades comerciales: Friesia, Michelangelo y Oriental Peace. 
-
-La historia de las rosas, su popularización a partir del jardín de La Malmaison de la Emperatriz Josefina Beauharnais, las ilustraciones de variedades de rosas de Redouté... hay todo un tema enorme y troncal en la historia de la jardinería de los dos últimos siglos. 
-
-![Tres rosas](images/jard13tresrosasredoute.jpg)
-&emsp;&emsp;_Tres rosas amarillas ca.1817-1824, ilustraciones de Pierre-Joseph Redouté, en les Roses ([I](https://archive.org/details/CAT30984991_01)) ([II](https://archive.org/details/CAT30984991_02)) ([III](https://archive.org/details/CAT30984991_03))_
-
 
 
 ![Barra verde](images/jard01barraverde.jpg)
@@ -1659,7 +1635,7 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 6. Jardín Pabellón 4
+# 6. Jardín de la platanera
 
 ![JardinPabellon 4](images/jard15pabellon4a.jpg)
 
@@ -1673,7 +1649,7 @@ También tengo que retirar dos cardones con muy mal desarrollo por la combinaci�
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 7. Tabaibal-Cardonal Salón de Actos
+# 7. Tabaibal-Cardonal
 
 ![Tabaibal cardonal](images/jard16tabaibalcardonal1.png)
 
@@ -1691,11 +1667,35 @@ El terreno ha quedado a cero. Considerando su orientación, insolación y la pos
 
 ![Barra verde](images/jard01barraverde.jpg)
 
-# 8. proyecto2026
+# 8. El monte
+
+## Parterre de acceso
+En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí.
+Posiblemente lo más adecuado es que sea el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos.
+
+Dadas las condiciones de luz, corrientes de aire, etc. he ido renunciando a algunas soluiciones que difícilmente funcionarían, como esta, de noviembre de 2025:
+
+![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
+&emsp;&emsp;_Primer proyecto del parterre, ya desechado_
+
+A la espera de concretar ideas, mantengo unas hortensias ya existentes y a distancia media una mini rosaleda. Los rosales no solo son una memoria del pasado de este parterre, sino un pequeño homenaje a mi madre, que es una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento aclimatar tres variedades de ese color. Las tres son variedades comerciales: Friesia, Michelangelo y Oriental Peace. 
+
+La historia de las rosas, su popularización a partir del jardín de La Malmaison de la Emperatriz Josefina Beauharnais, las ilustraciones de variedades de rosas de Redouté... hay todo un tema enorme y troncal en la historia de la jardinería de los dos últimos siglos. 
+
+![Tres rosas](images/jard13tresrosasredoute.jpg)
+&emsp;&emsp;_Tres rosas amarillas ca.1817-1824, ilustraciones de Pierre-Joseph Redouté, en les Roses ([I](https://archive.org/details/CAT30984991_01)) ([II](https://archive.org/details/CAT30984991_02)) ([III](https://archive.org/details/CAT30984991_03))_
+
+# 9. Jardín de L.
+
+Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de eliminar un gigantesco ejemplar de cactus candelabro cuyas raíces habían afectado peligrosamente a un muro, a punto de caer. En su lugar se construyó un elegante parterre alargado, bien drenado. Según las sugerencias de L. se ha planteado un juego de formas, texturas y tamaños con plantas crasas, euforbias, mediterráneas, etc., todas ellas adecuadas a la xerojardinería. Es como una miniatura de plantas exóticas que habla también de diversidad. 
+
+![Jardin de L](images/jard13jardindeloct2026.jpg)
+
+# 10. proyecto2026
 
 ![Proyecto 2026 portada](images/proyecto202601portada.jpg)
 
-Una nueva etapa, desarrollada a partir de septiembre de 2026. Tiene como líneas principales la utilización de flora nativa y trabajar con nuevos espacios. Puedes leer su planteamiento en el siguiente enlace: [proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026) 
+Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada a partir de septiembre de 2026. Tiene como línea objetivo incrementar la flora nativa, repensando algunos espacios. Puedes leer su planteamiento en el siguiente enlace: [proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026) 
 
 
 ![Barra verde](images/jard01barraverde.jpg)
