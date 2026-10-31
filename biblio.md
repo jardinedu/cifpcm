@@ -397,29 +397,8 @@ Además del cuidado de los parterres construidos para jardines surgen ideas que 
 ![Otros proyectos](images/01esquemaotrosjardineslogonov2025peq.jpg)
 
 
-## 1. Parque norte
 
-Entre el edificio de Secretaría, el Pabellón 1 y el cerramiento del recinto por el norte hay un triángulo de unos 850m². Actualmente hay una fila de pimenteros en el borde con la Avenida Príncipes de España, varias palmeras altas, un drago con mal desarrollo y varios frutales: nisperero, granado, limonero, naranjo, romero. Todo en un estado de un cierto abandono.
-
-![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
-
-Esta zona tiene el potencial de ser un lugar donde el alumnado pueda estar, pasear, sentarse a la sombra, con pocas intervenciones de jardinería en sí, y más cerca del paisajismo, manteniendo todos los elementos que den sombra y creen un espacio y pensando sin prisas en las posibilidades del lugar a medida que se trabaje en el sitio. 
-
-![Parque norte octubre 2025](images/jard20parquenortevistas1025.jpg)
-&emsp;&emsp;_Estado de la zona en octubre 2025_
-
-El lugar puede tener un gran potencial. Simplemente haciendo algo de mantenimiento y disfrutando de su estado semi-natural. Tras una mínima limpieza de troncos secos, podas y retirada de basuras diversas, despues de un invierno muy lluvioso, en primavera 2026 se convirtió en una espectacular pradera de cerrajillas y cardos, puntuada con los árboles que se empiezan a recuperar. Es un momento casi efímero pero puede indicar una opción para tratar ese sitio.
-
-![Parque norte abril 2026](images/jard20parquenortevistasabr2026.jpg)
-&emsp;&emsp;_Flores silvestres en abril 2026_
-
-**_Actualización SEPTIEMBRE 2026:_**
-
-Trabajar en este sitio profundizando en las ideas del _tercer paisaje_ de Gilles Clément podría haber sido una experiencia interesante, pero esta zona ha pasado a integrarse en el [Proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026, acogiendo una serie de plantas nativas, bancos y mesas y buscando convertirse en un lugar muy utilizado por el alumnado (y profesorado).
-
-![Barra verde](images/jard01barraverde.jpg)
-
-## 2. Parque sur - proyecto de renaturalización
+## Parque sur - proyecto de renaturalización
 
 El lado sur del recinto del CIFP tiene una serie de patios con pavimento de mosaico, con escaleras, una fuente (seca, en desuso hace muchos años), algunos bancos, y muy escasa vegetación. Hay algunas ideas de uso del espacio, pero su ubicación, dimensiones y perspectivas climáticas futuras abren la imaginación a pensar en si su renaturalización sería una opción posible.
 
