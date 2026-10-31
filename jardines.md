@@ -23,7 +23,7 @@ La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de
 [Lista general de las especies que hay en los jardines: nativas de Canarias y exóticas](#lista-de-especies)
 
 ![Jardines de jardines](images/jard1jardinesdejardines.jpg)
-&emsp;&emsp;_Hidcote Manor, Sissinghurst y LurGarden, ejemplos de "jardines de jardines". Los bocetos son de Íñigo Segurola_
+&emsp;&emsp;_Hidcote Manor, Sissinghurst y LurGarden, ejemplos de "jardines de jardines". Los bocetos de izquierda y derecha son de Íñigo Segurola, creador de LurGarden._
 
 ![Barra verde](images/jard01barraverde.jpg)
 
