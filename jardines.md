@@ -1696,13 +1696,14 @@ Falta mucho trabajo y tener la paciencia necesaria para que la vegetación se de
 
 
 ## Parterre de acceso
-En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí.
-Posiblemente lo más adecuado es que sea el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos.
-
-Dadas las condiciones de luz, corrientes de aire, etc. he ido renunciando a algunas soluiciones que difícilmente funcionarían, como esta, de noviembre de 2025:
+En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí. Dadas las condiciones de luz, corrientes de aire, etc. he ido renunciando a algunas soluciones que difícilmente funcionarían, como esta, de noviembre de 2025:
 
 ![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
 &emsp;&emsp;_Primer proyecto del parterre, ya desechado_
+
+Posiblemente lo más adecuado es que sea el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos.
+
+![El monte octubre 2026](images/jard20elmonteacceso.jpg)
 
 A la espera de concretar ideas, mantengo unas hortensias ya existentes y a distancia media una mini rosaleda. Los rosales no solo son una memoria del pasado de este parterre, sino un pequeño homenaje a mi madre, que es una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento aclimatar tres variedades de ese color. Las tres son variedades comerciales: Friesia, Michelangelo y Oriental Peace. 
 
