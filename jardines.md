@@ -1683,7 +1683,7 @@ Después de un invierno muy lluvioso, en primavera 2026 se convirtió en una esp
 ![Parque norte abril 2026](images/jard20parquenortevistasabr2026.jpg)
 &emsp;&emsp;_Flores silvestres en abril 2026_
 
-Por iniciativa del equipo directivo del Centro se hizo tala controlada de los pimenteros y una limpieza de hierbas y restos por parte de una empresa especializada. Desde septiembre de 2026 esta zona ha pasado a integrarse en el [Proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026, acogiendo una serie de plantas nativas, bancos y mesas y buscando convertirse en un lugar muy utilizado por el alumnado (y profesorado).
+Por iniciativa del equipo directivo del Centro se hizo tala controlada de los pimenteros y una limpieza de hierbas y restos por parte de una empresa especializada. Desde septiembre de 2026 esta zona ha pasado a integrarse en el [Proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026), acogiendo una serie de plantas nativas, bancos y mesas y buscando convertirse en un lugar muy utilizado por el alumnado (y profesorado).
 
 En un futuro se maneja también la opción de ordenar de alguna forma el lugar con unos pequeños caminos, para lo cual hay algunas propuestas, como la siguiente:
 
