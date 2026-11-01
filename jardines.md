@@ -9,6 +9,8 @@ feature_image:
 
 La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
 
+# INDICE DE JARDINES
+
 1. [El primer jardín](#1-el-primer-jard%C3%ADn)
 2. [Jardines de los frangipanes](#2-jardines-de-los-frangipanes)
 3. [Jardín de los filodendros](#3-jard%C3%ADn-de-los-filodendros)
@@ -552,7 +554,7 @@ La higuera es una de las numerosísimas especies del género _Ficus_, cuya infru
 He plantado una higuera planeando orientar su crecimiento mediante podas para que en unos años dé sombra en los meses de más calor en una esquina del jardín, y en ese momento quitar uno de los agaves y parte del vallado para crear un espacio para estar, con un banco. Con suerte, además tendremos cosecha de higos.
 
 
-
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 # 2. Jardín de los frangipanes
@@ -1629,7 +1631,7 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 
 ![Barra verde](images/jard01barraverde.jpg)
 
-
+<< [Volver al ÍNDICE](#indice-de-jardines)
 # 5. Jardín de la platanera
 
 ![JardinPabellon 4](images/jard15pabellon4a.jpg)
@@ -1641,6 +1643,7 @@ También tengo que retirar dos cardones con muy mal desarrollo por la combinaci�
 
 ![JardinPabellon 4](images/jard15pabellon4b.jpg)
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 
@@ -1660,6 +1663,7 @@ El terreno ha quedado a cero. Considerando su orientación, insolación y la pos
 
 ![Tabaibal cardonal especies](images/jard16cincoespecies.jpg)
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 # 7. El monte
@@ -1686,6 +1690,7 @@ En un futuro se maneja también la opción de ordenar de alguna forma el lugar c
 
 Falta mucho trabajo y tener la paciencia necesaria para que la vegetación se desarrolle y ver la evolución del sitio.
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
@@ -1710,6 +1715,9 @@ La historia de las rosas, su popularización a partir del jardín de La Malmaiso
 ![Tres rosas](images/jard13tresrosasredoute.jpg)
 &emsp;&emsp;_Tres rosas amarillas ca.1817-1824, ilustraciones de Pierre-Joseph Redouté, en les Roses ([I](https://archive.org/details/CAT30984991_01)) ([II](https://archive.org/details/CAT30984991_02)) ([III](https://archive.org/details/CAT30984991_03))_
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
+![Barra verde](images/jard01barraverde.jpg)
+
 # 8. Jardín de cactus
 
 Este jardín de cactus, a la entrada del Centro, tiene la posibilidad de abriri un diálogo entre el uso de cactáceas y euforbiáceas exóticas y plantas nativas.
@@ -1717,6 +1725,7 @@ Este jardín de cactus, a la entrada del Centro, tiene la posibilidad de abriri 
 ![Jardin de cactus octubre 2026](images/jard13cactusoct2026.jpg)
 &emsp;&emsp;_Vistas del jardín de cactus, octubre 2026_.
 
+![Barra verde](images/jard01barraverde.jpg)
 
 # 9. Jardín de L
 
@@ -1724,6 +1733,8 @@ Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de 
 
 ![Jardin de L](images/jard13jardindeloct2026.jpg)
 &emsp;&emsp;_Esquema inicial, octubre 2026_.
+
+![Barra verde](images/jard01barraverde.jpg)
 
 # 10. proyecto2026
 
@@ -1735,6 +1746,8 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 
 ![Barra verde](images/jard01barraverde.jpg)
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
+![Barra verde](images/jard01barraverde.jpg)
 
 # Lista de especies
 
@@ -1858,7 +1871,7 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 </tr>
 </table>
 
-
+<< [Volver al ÍNDICE](#indice-de-jardines)
 
 ***
 url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
