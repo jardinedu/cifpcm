@@ -7,7 +7,7 @@ feature_image:
 
 ***
 
-#####2026.10.01
+##### 2026.10.01
 
 ![Dibujo Adenium](images/notasadenium1.jpg)
 
