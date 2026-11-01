@@ -1585,7 +1585,7 @@ Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasul
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-# 5. Jardines de las belesas
+# 4. Jardines de las belesas
 
 Octubre 2024<br>
 Se empezaron a reacondicionar varios parterres alrededor de la Casita de Sonido.
