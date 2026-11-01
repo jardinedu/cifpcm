@@ -1638,10 +1638,9 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 
 ![JardinPabellon 4](images/jard15pabellon4a.jpg)
 
-Este jardín está en proceso, sin prisa. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos. 
+Este jardín está en proceso, sin prisa. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos de azucenas, agapanto, etc. incluso unas calas.
 Estoy probando con un grupo de acantos y un filodendro, junto a unas hortensias, con la esperanza de que les sea favorable el suelo acidificado por los _Schinus molle_. 
 
-También tengo que retirar dos cardones con muy mal desarrollo por la combinación falta de sol directo-suelo ácido, para reubicarlos en un sitio más favorable.
 
 ![JardinPabellon 4](images/jard15pabellon4b.jpg)
 
@@ -1653,7 +1652,7 @@ También tengo que retirar dos cardones con muy mal desarrollo por la combinaci�
 
 ![Tabaibal cardonal](images/jard16tabaibalcardonal1.png)
 
-El próximo proyecto importante es convertir una pequeña ladera en el patio del Salón de Actos en una zona de tabaibal-cardonal exclusivamente con especies nativas de Canarias. 
+Un proyecto para 2026-2027 es convertir una pequeña ladera en el patio del Salón de Actos en una zona de tabaibal-cardonal exclusivamente con especies nativas de Canarias. 
 
 En 2025 una plaga arrasó unas _Acalyphas_ que llevaban años en esa zona. Es difícil saber la causa concreta: pudo ser consecuencia del cambio climático, pudo ser una debilidads previa de las acalifas, o incluso puede que la plaga viniera con árbol que se plantó en diciembre 2023, un pino de oro (_Grevillea robusta_) que llegó con las ramas de un lado dañadas (quizá por haber crecido junto a una pared), nunca tuvo buen desarrollo, estaba en la zona probable de inicio de esta plaga, y sucumbió junto a las acalifas. 
 
@@ -1692,10 +1691,7 @@ En un futuro se maneja también la opción de ordenar de alguna forma el lugar c
 
 Falta mucho trabajo y tener la paciencia necesaria para que la vegetación se desarrolle y ver la evolución del sitio.
 
-
-<< [Volver al ÍNDICE](#indice-de-jardines)
-![Barra verde](images/jard01barraverde.jpg)
-
+***
 
 ## Acceso a El monte
 En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí. Dadas las condiciones de luz, corrientes de aire, etc. he ido renunciando a algunas soluciones que difícilmente funcionarían, como estas de 2025:
