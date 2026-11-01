@@ -1693,10 +1693,10 @@ Falta mucho trabajo y tener la paciencia necesaria para que la vegetación se de
 ## Acceso a El monte
 En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí. Dadas las condiciones de luz, corrientes de aire, etc. he ido renunciando a algunas soluciones que difícilmente funcionarían, como estas de 2025:
 
-![Parterre largo](images/jard13parterrelargobocetos2025.jpg)
-&emsp;&emsp;_Primeros proyecto del parterre, ya desechados_
+![Parterre largo](images/jard13parterrelargobocetos2025b.jpg)
+&emsp;&emsp;_Proyecto del parterre en 2025, ya desechados, lo trataban como un pasillo con pequeños grupos de plantas a los lados._
 
-Lo más adecuado para este estrecho rectángulo es que sea simplemente el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos, con alguna planta nativa y algún recuerdo de estados anteriores de este sitio.
+Lo más adecuado para este rectángulo es que sea simplemente el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos, con alguna planta nativa y algún recuerdo de estados anteriores de este sitio.
 
 ![El monte octubre 2026](images/jard20elmonteacceso.jpg)
 
