@@ -9,7 +9,7 @@ feature_image:
 
 La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
 
-# INDICE DE JARDINES
+#### INDICE DE JARDINES
 
 1. [El primer jardín](#1-el-primer-jard%C3%ADn)
 2. [Jardines de los frangipanes](#2-jardines-de-los-frangipanes)
