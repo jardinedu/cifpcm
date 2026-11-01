@@ -1225,7 +1225,7 @@ El extremo de estos parterres, que hace de introducción a ellos, es un sitio de
 ![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
 &emsp;&emsp;_Parterre recién plantado, agosto 2025_
 
-
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 
@@ -1584,6 +1584,7 @@ Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasul
 ![Aichryson](images/aychrisonenflor.jpg)
 &emsp;&emsp;_Floración en primavera 2026_
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 
@@ -1629,9 +1630,10 @@ En lugar de _embelesar_ en Casnarias se usó la expresión _embarbascar_ (o enva
 
 Datos extraídos del muy interesante trabajo: [Etimología e historia de un fitónimo canario y cubano. Embeleso: ‘belesa’](https://riull.ull.es/xmlui/bitstream/handle/915/16342/RF_25_%282007%29_15.pdf)
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
-<< [Volver al ÍNDICE](#indice-de-jardines)
+
 # 5. Jardín de la platanera
 
 ![JardinPabellon 4](images/jard15pabellon4a.jpg)
@@ -1690,8 +1692,8 @@ En un futuro se maneja también la opción de ordenar de alguna forma el lugar c
 
 Falta mucho trabajo y tener la paciencia necesaria para que la vegetación se desarrolle y ver la evolución del sitio.
 
-<< [Volver al ÍNDICE](#indice-de-jardines)
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 
@@ -1725,6 +1727,7 @@ Este jardín de cactus, a la entrada del Centro, tiene la posibilidad de abriri 
 ![Jardin de cactus octubre 2026](images/jard13cactusoct2026.jpg)
 &emsp;&emsp;_Vistas del jardín de cactus, octubre 2026_.
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 # 9. Jardín de L
@@ -1734,6 +1737,7 @@ Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de 
 ![Jardin de L](images/jard13jardindeloct2026.jpg)
 &emsp;&emsp;_Esquema inicial, octubre 2026_.
 
+<< [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
 # 10. proyecto2026
@@ -1744,7 +1748,6 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 
 ![Nativas recien llegadas](images/jard13nativasoct2026.jpg)
 
-![Barra verde](images/jard01barraverde.jpg)
 
 << [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
