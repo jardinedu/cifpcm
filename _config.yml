@@ -38,7 +38,7 @@ navigation:
   url: https://jardinedu.github.io/cifpcm/proyecto2026
 - text: Visual
   url: https://jardinedu.github.io/cifpcm/visual
-  - text: Notas
+- text: Notas
   url: https://jardinedu.github.io/cifpcm/notas
 #  - text: Download
 #    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
