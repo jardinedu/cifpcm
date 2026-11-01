@@ -1203,22 +1203,22 @@ _tenerrimus_: del latín tenerrimus: tierno, delicado, por sus hojas fina y estr
 
 # Parterres de poniente
 
-En 2025 se empezaron a reacondicionar los parterres a poniente del patio, que se prolongan con un parterre más entre el edificio de Secretaría y el Pabellón 1. Esta zona, a la que no había llegado hasta 2025, de alguna forma es la puerta de entrada al Centro, de modo que debería funcionar como una bienvenida. 
+En el parterre suroeste hay una línea de grandes acalifas, con algunas nativas canarias: quedan un rosalito, una gran bencomia y un jazmín silvestre.  Las acalifas deberían podarse a un tamaño menos y con una forma coherente entre ellas, evitando su envejecimiento. En 2026, con el [proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026) se van a incluir más nativas entre las acalifas.
 
-En el parterre suroeste hay una línea de grandes acalifas, con algunas nativas canarias.  Las acalifas deberían podarse a un tamaño menos y con una forma coherente entre ellas, evitando su envejeciemiento. En 2026 podrán incluirse otras nativas entre las acalifas.
+![Parterres de poniente octubre 2026](images/jard13parterresponienteoct2026.jpg)
+&emsp;&emsp;_Fila de acalifas con una primera poda. Abajo: bencomia y jazmín silvestre_
 
-El extremo junto a la entrada al patio debe tener una vegetación más bien baja, para no tapar la perspectiva del patio, con plantas separadas del borde, por la circulación de la gente, y alguna aromática que en caso de roce emita buen olor.
-
+**Introducción a los parterres**
 ![Parterre corto](images/jard13parterrecortoboceto.jpg)
 
-Al extremo de estos parterres se le ha dado un tratamiento especial, con vegetación más baja, que permita una vista panorámica del patio al entrar. Se trasladaron las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades y se han unido los grupos de Tradescantia. Se han plantado pocas especies, en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), resistentes a la sequía y la insolación. También se ha organizado una rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
-Una mancha de _Tradescantia pallida_, tapizante.
-Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas.
-Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar una masa de tallos medianos muy móviles, con floración prolongada.
-Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada, con el objetivo de que dispersen su aroma.
-Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tapizante.
-Una abelia /_Abelia grandiflora_) para una nota de color más claro.
-Y por último he recuperado un tartaguero (_Ricinus communis_) que ya utilicé en el primer jardín para rellenar espacios de forma rápida y provisional. En Canarias está asociado a lugares en abandono y descuido, pero en Europa se sigue usando en jardinería. Esto es un intento de dignificación de esta espeie, con texturas y olores que pueden ser muy interesantes.
+El extremo de estos parterres, que hace de introducción a ellos, es un sitio de paso inevitable y el punto donde después de atravesar la zona administrativa se tiene la sensación de _entrar_ de verdad en el CIFP. Así pues se le ha dado un tratamiento especial, con vegetación más baja, que permita una vista panorámica del patio. Ya llevo años haciendo un trabajo lento: se trasladaron las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades, uní grupos de tradescantia y planté unas pocas especies, en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), resistentes a la sequía y la insolación. También se ha organizado una mini-rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
+- Una mancha de _Tradescantia pallida_, tapizante.
+- Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas.
+- Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar una masa de tallos medianos muy móviles, con floración prolongada.
+- Un grupo de _Lavandula_ de dos variedades de diferente altura junto a la esquina más transitada, con el objetivo de que dispersen su aroma.
+- Un grupo de rhoeo (_Tradescantia spathacea_) en diálogo con la tradescantia tapizante.
+- Una abelia /_Abelia grandiflora_) para una nota de color más claro.
+- Y por último he recuperado un tartaguero (_Ricinus communis_) que ya utilicé en el primer jardín para rellenar espacios de forma rápida y provisional. En Canarias está asociado a lugares en abandono y descuido, pero en Europa se sigue usando en jardinería. Esto es un intento de dignificación de esta espeie, con texturas y colores que pueden ser muy interesantes.
 
 ![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
 &emsp;&emsp;_Parterre recién plantado, agosto 2025_
@@ -1229,7 +1229,7 @@ Y por último he recuperado un tartaguero (_Ricinus communis_) que ya utilicé e
 
 # 3. Jardín de los filodendros
 
-Continuando los parterres del Patio central, entre el Pabellón 1 y el Aula ATECA hay unos parterres alargados con unas condiciones de semisombra y humedad que crean un ambiente diferente.
+Continuando los parterres del Patio central, entre el Pabellón 1 y el Aula ATECA hay unos parterres alargados con unas condiciones de semisombra y humedad que crean un ambiente diferente. Jardín de los filodendros por un gigantesco filodendro, acompañado de otras especies de la misma familia hasta tener 5 especies en la actualidad (octubre 2026).
 
 ![Vistas jardin sombra](images/jard12vistasjardinsombra.jpg)
 
@@ -1582,11 +1582,6 @@ Robert Lloyd Praeger, botánico irlandés y experto en la familia de las _Crasul
 ![Aichryson](images/aychrisonenflor.jpg)
 &emsp;&emsp;_Floración en primavera 2026_
 
-
-![Barra verde](images/jard01barraverde.jpg)
-
-
-
 ![Barra verde](images/jard01barraverde.jpg)
 
 
@@ -1695,17 +1690,20 @@ Falta mucho trabajo y tener la paciencia necesaria para que la vegetación se de
 ![Barra verde](images/jard01barraverde.jpg)
 
 
-## Parterre de acceso
-En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí. Dadas las condiciones de luz, corrientes de aire, etc. he ido renunciando a algunas soluciones que difícilmente funcionarían, como esta, de noviembre de 2025:
+## Acceso a El monte
+En este espacio, complicado, he ido planteándome soluciones, más que proyectos en sí. Dadas las condiciones de luz, corrientes de aire, etc. he ido renunciando a algunas soluciones que difícilmente funcionarían, como estas de 2025:
 
-![Parterre largo](images/jard13parterrelargoboceto12nov25.jpg)
-&emsp;&emsp;_Primer proyecto del parterre, ya desechado_
+![Parterre largo](images/jard13parterrelargobocetos2025.jpg)
+&emsp;&emsp;_Primeros proyecto del parterre, ya desechados_
 
-Posiblemente lo más adecuado es que sea el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos.
+Lo más adecuado para este estrecho rectángulo es que sea simplemente el acceso natural a _El monte_, con un camino, una verja de entrada y una visión clara de a dónde llegamos, con alguna planta nativa y algún recuerdo de estados anteriores de este sitio.
 
 ![El monte octubre 2026](images/jard20elmonteacceso.jpg)
 
-A la espera de concretar ideas, mantengo unas hortensias ya existentes y a distancia media una mini rosaleda. Los rosales no solo son una memoria del pasado de este parterre, sino un pequeño homenaje a mi madre, que es una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento aclimatar tres variedades de ese color. Las tres son variedades comerciales: Friesia, Michelangelo y Oriental Peace. 
+A la espera de concretar ideas se colocarán algunas plantas nativas y también mantengo unas hortensias ya existentes y a distancia media una mini rosaleda. 
+
+**Los rosales**
+Los rosales son una memoria del pasado de este parterre, no sé quién plantó los primeros pero quienes llevan años trabajando en este Centro siempre los recuerdan. También, para mí son un pequeño homenaje a mi madre, que es una gran amante de las rosas, y cuidó una pequeña rosaleda en su jardín trasero. Compraba rosales por correo en Barcelona, mediante un catálogo, y le gustan especialmante las rosas amarillas, y aquí intento aclimatar tres variedades de ese color. Las tres son variedades comerciales: Friesia, Michelangelo y Oriental Peace. 
 
 La historia de las rosas, su popularización a partir del jardín de La Malmaison de la Emperatriz Josefina Beauharnais, las ilustraciones de variedades de rosas de Redouté... hay todo un tema enorme y troncal en la historia de la jardinería de los dos últimos siglos. 
 
@@ -1714,12 +1712,18 @@ La historia de las rosas, su popularización a partir del jardín de La Malmaiso
 
 # 8. Jardín de cactus
 
+Este jardín de cactus, a la entrada del Centro, tiene la posibilidad de abriri un diálogo entre el uso de cactáceas y euforbiáceas exóticas y plantas nativas.
+
+![Jardin de cactus octubre 2026](images/jard13cactusoct2026.jpg)
+&emsp;&emsp;_Vistas del jardín de cactus, octubre 2026_.
+
 
 # 9. Jardín de L
 
 Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de eliminar un gigantesco ejemplar de cactus candelabro cuyas raíces habían afectado peligrosamente a un muro, a punto de caer. En su lugar se construyó un elegante parterre alargado, bien drenado. Según las sugerencias de L. se ha planteado un juego de formas, texturas y tamaños con plantas crasas, euforbias, mediterráneas, etc., todas ellas adecuadas a la xerojardinería. Es como una miniatura de plantas exóticas que habla también de diversidad. 
 
 ![Jardin de L](images/jard13jardindeloct2026.jpg)
+&emsp;&emsp;_Esquema inicial, octubre 2026_.
 
 # 10. proyecto2026
 
@@ -1727,6 +1731,7 @@ Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de 
 
 Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada a partir de septiembre de 2026. Tiene como línea objetivo incrementar la flora nativa, repensando algunos espacios. Puedes leer su planteamiento en el siguiente enlace: [proyecto2026](https://jardinedu.github.io/cifpcm/proyecto2026) 
 
+![Nativas recien llegadas](images/jard13nativasoct2026.jpg)
 
 ![Barra verde](images/jard01barraverde.jpg)
 
