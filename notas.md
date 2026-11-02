@@ -15,5 +15,5 @@ Encontré en un vivero unos _Adenium_, no conocía ese género de suculentas en 
 ***
 url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
 
-***
----
+
+
