@@ -13,7 +13,7 @@ Llevar el móvil a un jardín puede disculparse si vas a hacer fotos y no tienes
 
 ![flora incognita](images/notasnov26flora.jpg)
 
-**Una app, y que te den por saco google**. En un foro encontré una app de reconocimiento de plantas: Flora incógnita. Funciona relativamente bien, diría que muy bien. La interfaz es un poquito näif, pero quizá es un indicio de que ahí más que diseñadores y gente del marketing han estado científicos trabajando en la utilidad de la aplicación. Por ahora ha reconocido casi todas las especies del flora canaria, incluso sin flores. Antes usaba Google Lens.
+**Una app, y que te den por saco google**. En un foro encontré una app de reconocimiento de plantas: Flora incógnita. Funciona relativamente bien, diría que muy bien. La interfaz es un poquito näif, pero quizá es un indicio de que más que diseñadores y gente del marketing han estado trabajando científicos en la utilidad de la aplicación. Por ahora ha reconocido casi todas las especies del flora canaria, incluso sin flores. Antes usaba Google Lens.
 
 Flora Incognita es un proyecto conjunto de investigación en ciencia ciudadana de la Universidad Técnica de Ilmenau (una universidad pública)y el Instituto Max Planck de Biogeoquímica para la identificación semiautomatizada de plantas utilizando métodos de aprendizaje automático.
 
