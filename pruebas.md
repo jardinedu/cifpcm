@@ -158,5 +158,12 @@ Inspirándose en la restauración de su propio jardín, Olivia Laing se embarca 
 
 ![separador](images/bseparadorverde1000px.jpg)
 
+***
+
+SIMBOLOS DE CUADRADO PARA COPIAR
+
+▣▤▥▦▧▨❏❐❑❒▢░▒▓◨◩◪◫∎■□⊞⊠⊡◊◈◇◆⎔⬜◼◻⬛■∎◾◽▪▫
+
+***
 
 
