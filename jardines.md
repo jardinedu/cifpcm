@@ -1335,7 +1335,7 @@ Ese artículo me lleva a su coautora, [Cassia Sakuragui](https://www.researchgat
 
 ![separador](images/bseparadorverde1000px.jpg)
 
-__Philodendron luanae_, del Bosque Atlántico del estado de Espírito Santo, en el sureste de Brasil.
+◾ _Philodendron luanae_, del Bosque Atlántico del estado de Espírito Santo, en el sureste de Brasil.
 
 ![Filodendro luanae](images/jard2026pluana.jpg)
 
@@ -1352,7 +1352,7 @@ Esta especie fue descubierta [durante la observación de aves](https://g1.globo.
 
 ![separador](images/bseparadorverde1000px.jpg)
 
-_Philodendron quartziticola_, del Bosque Atlántico de Espírito Santo, en el sureste de Brasil.
+◾ _Philodendron quartziticola_, del Bosque Atlántico de Espírito Santo, en el sureste de Brasil.
 
 ![Filodendro quartz](images/jard2026pquartz.jpg)
 &emsp;&emsp;_La imagen de la izquierda es del paper de 2025, por João Paulo Medeiros. La foto de la derecha es de de Alexandre Magno._
@@ -1364,7 +1364,7 @@ Asociada con sustratos cuarcíticos, descubierto en la Reserva Ambiental Águia 
 
 ![separador](images/bseparadorverde1000px.jpg)
 
-_Philodendron angelicanum_ de Cachoeiras de Macacu, en Río de Janeiro.
+◾ _Philodendron angelicanum_ de Cachoeiras de Macacu, en Río de Janeiro.
 
 ![Filodendro angel](images/jard2026pangel.jpg)
 
@@ -1480,13 +1480,12 @@ En este jardín de sombra he plantado dos grupos, la variedad tradicional y otra
 
 ***
 
-## COLECCIÓN DE CALATEAS Y MARANTAS
+## GRUPO DE HELECHOS
 
-En mayo 2026 estoy intentando crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso donde la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda, hay que observar la evolución. Todas son plantas exóticas, de selvas de América Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. 
-En proyecto está combinar estas plantas con algunos ejemplos de plantas de laurisilva, un habitat con similitudes en humedad y luz.
+A lo largo de 2026 intenté crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso donde la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda. Todas son plantas exóticas, de selvas de América Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. Finalmente han desaparecido dos de las Calateas y una de las Marantas, y estoy intentando (noviembre 2026) trabajar con algunos helechos de tamaño pequeño. En proyecto está combinar estas plantas con algún ejemplos de planta de laurisilva.
 
 ![Coleccion de Calateas y Marantas](images/specpsmarantasycalateas.jpg)
-&emsp;&emsp;_Colección de Calateas y Marantas_
+&emsp;&emsp;_Colección de Calateas y Marantas, casi desaparecidastodas ellas._
 
 ### Marantas
 _Maranta leuconeura_  y _Maranta leuconeura_ variegata (tricolor) 
@@ -1507,13 +1506,23 @@ Linneo la nombró en homenaje al botánico italiano Bartolomeo Maranta (ca. 1500
 
 
 ### Calateas
-_Goeppertia louisae_, _Calathea Roseopicta_ Crimson y _Goeppertia picturata_ Argentea.
+_Goeppertia louisae_, 💀 _Calathea Roseopicta_ Crimson y 💀 _Goeppertia picturata_ Argentea.
 
 ![3 Calateas](images/specps3calateas.jpg)
 
 _Calathea_ es un género de plantas con flores perteneciente a la familia _Marantaceae_, con alrededor de 60 especies. Originarias de las Américas tropicales, muchas de estas especies son populares como plantas de maceta. Las hojas de _Calathea_ suelen ser grandes y con patrones coloridos con colores como rosa, naranja, rojo y blanco, y envés suele ser morado.
 
-Este género prefiere luz baja o media, y necesitan una humedad alta para imitar su hábitat natural. La especie se introdujo por primera vez como planta de interior en las décadas de 1970 y 1980. Con el paso de los años, las calateas se han convertido en una planta de interior popular gracias a sus atractivas hojas. Debido a la destrucción del hábitat, varias especies están en peligro de extinción.
+Este género prefiere luz baja o media, y necesitan una humedad alta para imitar su hábitat natural. La especie se introdujo por primera vez como planta de interior en las décadas de 1970 y 1980. Con el paso de los años, las Calateas se han convertido en una planta de interior popular gracias a sus atractivas hojas. Debido a la destrucción del hábitat, varias especies están en peligro de extinción. De las tres Calateas que intenté arraigar solo queda una. 
+
+### Helechos
+
+![5 helechos](images/jard2026helechos.jpg)
+
+. Asplenium antiquum "osaka"
+. Oceaniopteris gibba (Blechium Blechnum gibbon)
+. Asplenium nidus 
+. Phlebodium blue star 
+. Pheblodium
 
 
 ***
@@ -1790,10 +1799,16 @@ Este jardín de cactus, a la entrada del Centro, tiene la posibilidad de abriri 
 
 # 9. Jardín de L
 
-Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de eliminar un gigantesco ejemplar de cactus candelabro cuyas raíces habían afectado peligrosamente a un muro, a punto de caer. En su lugar se construyó un elegante parterre alargado, bien drenado. Según las sugerencias de L. se ha planteado un juego de formas, texturas y tamaños con plantas crasas, euforbias, mediterráneas, etc., todas ellas adecuadas a la xerojardinería. Es como una miniatura de plantas exóticas que habla también de diversidad. 
+Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de eliminar un gigantesco ejemplar de cactus candelabro cuyas raíces habían afectado peligrosamente a un muro, a punto de caer. En su lugar se construyó un elegante parterre alargado, bien drenado. Según las sugerencias de L. se ha planteado un juego de formas, texturas y tamaños con plantas crasas, euforbias, mediterráneas, etc., todas ellas adecuadas a la xerojardinería. Es como una miniatura de jardín, de plantas exóticas que habla también de diversidad, de otros lugares. En cierto sentido me recuerda a la _orangeries_, que desde el siglo XVI se fueron poniendo de moda en Europa, y donde con grandes esfuerzos se creaban jardines de naranjos en climas en los que no deberían estar, por una pasión por lo exótico, quizá, muy humana. 
 
 ![Jardin de L](images/jard13jardindeloct2026.jpg)
 &emsp;&emsp;_Esquema inicial, octubre 2026_.
+
+He tenido que cambiar alguna planta, por mi falta de experiencia en este tipo de soluciones pero en general el resultado es bueno y se resuelven adecuadamente la dimensión ecológica, la social y la estética. En una línea estrecha, impuesta por las proporciones del parterre. La ubicación del parterre plantea que al pasar a su lado hay un momento en que ves las plantas a nivel de tu mirada, la poca profundidad del parterre condiciona el tyamaño de las plantas, y el punto de drenaje condiciona también la ubicación de las especies según su necesidad de suelo con mayor o menor drenaje. Se empieza con una euforbia de dimensión vertical y un cactus de hojas muy delicadas y finas (ambos riman con las cactáceas y euforbias del jardín de cactus de enfrente) alrededor de los cuales hay varias crasuláceas y un rhoeo; más adelante, unas cinerarias, una abelia y una ajania marcan más o menos el centro del parterre; el tercer tramo lo componen aromáticas, muy de jardín mediterráneo: lavanda y dos tipos de romero que rodean a un cordyline; el fondo lo compone un triángulo de pequeños arbustos: mirto, teucrio y metrosideros. 
+
+![Jardin de cactus octubre 2026](images/jard2026especiesL.jpg)
+
+En la imagen, las plantas del parterre en noviembre 2026: **Fila superior**: _Euphorbia trigona_; _Dasylirion serratifolium_; arriba y abajo _Echeverias_; arriba _Senecio barbertonicus_; abajo un grupito formado por _Cotyledon gigantea_, _Crassula capitella_ y _Sedum burrito_; _Tradescantia spathacea_; _Cineraria maritima_; _Abelia grandiflora_; _Chrysanthemum pacificum_. **Fila inferior**: _Salvia rosmarinus_; _Lavandula angustifolia_; _Salvia rosmarinus postratus_; _Cordyline purple_; _Myrtus communis_; _Metrosideros excelsa_; _Teucrium chamaedrys_.
 
 << [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
