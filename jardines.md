@@ -1325,18 +1325,21 @@ En un [artículo de 2005](https://www.scielo.br/j/rod/a/s9Gmhz63GWzSsnfktgnYDky/
 El autor y la autora trabajan con material de herbario, y citan un "ejemplar 12228" en una fotografía de la colección del Chicago Field Museum, que "podría corresponder al material tipo" es decir al que sirvió originalmente para identificar la especie. El espécimen original probablemente fue destruido durante la Segunda Guerra Mundial, pero queda, al menos, esta fotografía, donde se pueden leer etiquetas, anotaciones y ver formas. También se habla en el artículo del pliego de Kew (las hojas provenientes de Viena). Maravillas de internet: podemos acceder a las fotografías de estos dos pliegos:
 
 ![Filodendro hastatum](images/jard2026phastatumpliegos.jpg)
-_[Pliegos de Chicago](https://collections-botany.fieldmuseum.org/list?genus=Philodendron&species=hastatum), el de Berlín es el último. Y pliego de [Kew](https://powo.science.kew.org/taxon/87792-1
+&emsp;&emsp;_[Pliegos de Chicago](https://collections-botany.fieldmuseum.org/list?genus=Philodendron&species=hastatum), el de Berlín es el último. Y pliego de [Kew](https://powo.science.kew.org/taxon/87792-1
 )._
 
-
+bseparadorverde1000px
 **Nuevas especies de filodendro**
 
 Ese artículo me lleva a su coautora, [Cassia Sakuragui](https://www.researchgate.net/profile/Cassia-Sakuragui). Profesora en la Universidad Federal de Rio de Janeiro, es autora en la identificación y nombramiento de muchas nuevas especies para la ciencia, especialmente de la familia Araceae, y del género Philodendron. Selecciono aquí tres nuevas especies de filodendro en cuya identificación ha participado: _Philodendron luanae_ (2026), _Philodendron quartziticola_ (2025) y _Philodendron angelicanum_ (2026).
 
-![Filodendro luanae](images/jard2026pluana.jpg)
-_Philodendron luanae_, del Bosque Atlántico del estado de Espírito Santo, en el sureste de Brasil.
+![separador](images/bseparadorverde1000px.jpg)
 
-Esta especie fue descubierta [durante la observación de aves](https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/08/13/nova-especie-de-planta-e-descoberta-em-fotografias-de-observacao-de-aves-no-es.ghtml).
+__Philodendron luanae_, del Bosque Atlántico del estado de Espírito Santo, en el sureste de Brasil.
+
+![Filodendro luanae](images/jard2026pluana.jpg)
+
+Esta especie fue descubierta [durante la observación de aves](https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/08/13/nova-especie-de-planta-e-descoberta-em-fotografias-de-observacao-de-aves-no-es.ghtml):
 
 > **Descubren una nueva especie de planta en fotografías de observación de aves en Espírito Santo**
 
@@ -1345,17 +1348,21 @@ Esta especie fue descubierta [durante la observación de aves](https://g1.globo.
 > En sus redes sociales, Alexandre Magno, investigador del Jardín Botánico de Río de Janeiro, relató que notó las características distintivas de la planta en fotografías compartidas por el biólogo Rogério Truglio en la plataforma iNaturalist, registradas durante una jornada de observación de aves en la reserva. Dicha plataforma funciona como una red social de ciencia ciudadana y permite compartir registros realizados en la naturaleza, ayudando así a científicos y entusiastas a conocer y mapear especies de plantas, animales y hongos. El nombre Philodendron luanae fue elegido en honor a la bióloga Luana Silva Braucks Calazans, quien trabaja junto a Magno en el herbario de la Ufes y es especialista en la familia Araceae. En sus redes sociales, Alexandre celebró el descubrimiento: "Es un recordatorio de que la ciencia se construye con muchas manos: por investigadores, naturalistas, horticultores y personas curiosas que observan la naturaleza y comparten lo que encuentran".
 
 ![Filodendro luanae](images/jar2026pluana2.jpg)
-_En la foto, dos de los autores del paper definitivo: Alexandre Magno (con una camiseta [ANTHURIUM](https://tropicsnarcotics.com/products/anthurium-metal-family-black-unisex-t-shirt)) y Cassia Sakuragui, y a la bióloga Luana Silva Braucks Calazans, que le dio el nombre._
+&emsp;&emsp;_En la foto, dos de los autores del paper definitivo: Alexandre Magno (con una camiseta [ANTHURIUM](https://tropicsnarcotics.com/products/anthurium-metal-family-black-unisex-t-shirt)) y Cassia Sakuragui, y en último término, la bióloga Luana Silva Braucks Calazans, que le dio el nombre._
+
+![separador](images/bseparadorverde1000px.jpg)
 
 _Philodendron quartziticola_, del Bosque Atlántico de Espírito Santo, en el sureste de Brasil.
 
 ![Filodendro quartz](images/jard2026pquartz.jpg)
-_La imagen de la izquierda es del paper de 2025, por João Paulo Medeiros. La foto de la derecha es de de Alexandre Magno._
+&emsp;&emsp;_La imagen de la izquierda es del paper de 2025, por João Paulo Medeiros. La foto de la derecha es de de Alexandre Magno._
 
-Asociada con sustratos cuarcíticos, descubierto en la Reserva Ambiental Águia Branca, en las montañas de Espírito Santo, reconocidas como centros de biodiversidad y endemismo dentro de la Mata Atlántica. _Philodendron quartziticola_ se caracteriza por sus hojas largas y estrechas, así como por detalles únicos en su estructura reproductiva y vive en suelos cuarcíticos, predominantemente arenosos y de drenaje rápido., los "Morros de Sal", entornos geológicos poco comunes y vulnerables a la degradación, causada por la minería o las plantaciones de eucalipto. Asimismo, participa en interacciones ecológicas significativas, como la polinización llevada a cabo por escarabajos del género _Cyclocephala_, lo que subraya la complejidad de los ecosistemas locales. Inicialmente fue observada por Alexandre Magno. Alexandre tiene una cuenta de instagram, [@araceologo](https://www.instagram.com/araceologo/) que es un paraíso de los filodendros, llena de amor por estas especies.
+Asociada con sustratos cuarcíticos, descubierto en la Reserva Ambiental Águia Branca, en las montañas de Espírito Santo, reconocidas como centros de biodiversidad y endemismo dentro de la Mata Atlántica. _Philodendron quartziticola_ se caracteriza por sus hojas largas y estrechas, así como por detalles únicos en su estructura reproductiva y vive en suelos cuarcíticos, predominantemente arenosos y de drenaje rápido, los "Morros de Sal", entornos geológicos poco comunes y vulnerables a la degradación, causada por la minería o las plantaciones de eucalipto. Asimismo, participa en interacciones ecológicas significativas, como la polinización llevada a cabo por escarabajos del género _Cyclocephala_, lo que subraya la complejidad de los ecosistemas locales. Inicialmente fue observada por Alexandre Magno. Alexandre tiene una cuenta de instagram, [@araceologo](https://www.instagram.com/araceologo/) que es un paraíso de los filodendros, llena de amor por estas especies.
 
 ![alexandre Magno](images/jard2026alexandre.jpg)
-_Alexandre, felizmente rodeado de _Philodendron cordatum_ en una imagen de su cuenta de Instagram, con su camiseta molona de Tropics Narcotics [PHLDNDRN](https://tropicsnarcotics.com/products/philodendron-phldndrn-black-unisex-t-shirt), inspirada en el black metal_
+&emsp;&emsp;_Alexandre, felizmente rodeado de Philodendron cordatum en una imagen de su cuenta de Instagram, con su camiseta molona de Tropics Narcotics [PHLDNDRN](https://tropicsnarcotics.com/products/philodendron-phldndrn-black-unisex-t-shirt), inspirada en el black metal_
+
+![separador](images/bseparadorverde1000px.jpg)
 
 _Philodendron angelicanum_ de Cachoeiras de Macacu, en Río de Janeiro.
 
@@ -1363,7 +1370,7 @@ _Philodendron angelicanum_ de Cachoeiras de Macacu, en Río de Janeiro.
 
 La planta fue identificada por un equipo de investigadores brasileños pertenecientes a la Universidad del Estado de Río de Janeiro y al Instituto de Investigaciones del Jardín Botánico de Río de Janeiro. El espécimen tipo (holotipo) fue recolectado en octubre de 2024 en el Monumento Natural Municipal de la Serra do Soarinho. Su área y extensión de presencia son limitadas, con subpoblaciones restringidas a un pequeño fragmento de bosque, por lo que se clasifica como "En peligro".
 
-El epíteto específico _angelicanum_ recibe su nombre en honor a la botánica brasileña Prof. Dra. Ana Angélica Monteiro de Barros, en reconocimiento a su valiosa contribución al estudio y la conservación de la biodiversidad. Además, los autores mencionaron que el epíteto hace un juego de palabras técnico, ya que alude de igual forma a los márgenes ondulados de sus hojas, los cuales asemejan a unas alas (característica que facilitó su identificación como una nueva especie).
+El epíteto específico _angelicanum_ recibe su nombre en honor a la botánica brasileña Prof. Dra. Ana Angélica Monteiro de Barros, en reconocimiento a su valiosa contribución al estudio y la conservación de la biodiversidad. Además, los autores mencionaron que el epíteto hace un juego de palabras, ya que alude de igual forma a los márgenes ondulados de sus hojas, los cuales asemejan a unas alas (característica que facilitó su identificación como nueva especie).
 
 
 ***
