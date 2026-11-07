@@ -9,7 +9,8 @@ feature_image:
 
 La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Salvando muchas distancias, como Sissinghurst, para entendernos.
 
-#### INDICE DE JARDINES. Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
+##### ÍNDICE DE JARDINES. 
+Visión general de cada jardín, con descripción de las especies utilizadas (generalmente ordenadas por orden de llegada) y todo dato que me parezca interesante sobre etimología de las plantas, historia de su descubrimiento, usos en jardinería y cualquier asunto relacionado que aparezca en mi camino.
 
 1. [El primer jardín](#1-el-primer-jard%C3%ADn)
 2. [Jardines de los frangipanes](#2-jardines-de-los-frangipanes)
