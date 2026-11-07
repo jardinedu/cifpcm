@@ -1325,10 +1325,10 @@ En un [artículo de 2005](https://www.scielo.br/j/rod/a/s9Gmhz63GWzSsnfktgnYDky/
 El autor y la autora trabajan con material de herbario, y citan un "ejemplar 12228" en una fotografía de la colección del Chicago Field Museum, que "podría corresponder al material tipo" es decir al que sirvió originalmente para identificar la especie. El espécimen original probablemente fue destruido durante la Segunda Guerra Mundial, pero queda, al menos, esta fotografía, donde se pueden leer etiquetas, anotaciones y ver formas. También se habla en el artículo del pliego de Kew (las hojas provenientes de Viena). Maravillas de internet: podemos acceder a las fotografías de estos dos pliegos:
 
 ![Filodendro hastatum](images/jard2026phastatumpliegos.jpg)
-&emsp;&emsp;_[Pliegos de Chicago](https://collections-botany.fieldmuseum.org/list?genus=Philodendron&species=hastatum), el de Berlín es el último. Y pliego de [Kew](https://powo.science.kew.org/taxon/87792-1
+&emsp;&emsp;_[Pliego de Chicago](https://collections-botany.fieldmuseum.org/catalogue/229039), y [Pliego de Kew](https://powo.science.kew.org/taxon/87792-1
 )._
 
-bseparadorverde1000px
+
 **Nuevas especies de filodendro**
 
 Ese artículo me lleva a su coautora, [Cassia Sakuragui](https://www.researchgate.net/profile/Cassia-Sakuragui). Profesora en la Universidad Federal de Rio de Janeiro, es autora en la identificación y nombramiento de muchas nuevas especies para la ciencia, especialmente de la familia Araceae, y del género Philodendron. Selecciono aquí tres nuevas especies de filodendro en cuya identificación ha participado: _Philodendron luanae_ (2026), _Philodendron quartziticola_ (2025) y _Philodendron angelicanum_ (2026).
