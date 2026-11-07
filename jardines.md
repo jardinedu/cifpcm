@@ -5,7 +5,7 @@ description:
 feature_image: 
 ---
 
-![Vista inicial](images/00jardinesvistainicial.jpg)
+![Vista inicial](images/00jardinesvistainicial2.jpg)
 
 La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Visión general de cada jardín, con descripción de las especies utilizadas, generalmente ordenadas por orden de llegada.
 
@@ -1798,7 +1798,7 @@ Este jardín de cactus, a la entrada del Centro, tiene la posibilidad de abrir u
 
 > Este jardín, tal como lo vemos en su estado actual, es claramente una referencia a la obra de César Manrique, quizá inspirado en una de sus obras más conocidas, el Jardín de Cactus de Guatiza, en Lanzarote. Lo dominan dos grandes cactus candelabro (Euphorbia candelabrum), rodeadas de diversas cactáceas: cereus y stenocereus, echinocactus, myrtillocactus, etc. así como crasuláceas y yucas, con nula presencia de flora nativa, todo ello sobre una base de picón rojo.
 
-> En este primer jardín de entrada al Centro, propongo establecer un diálogo entre ese cliché “a la César Manrique” con los criterios actuales de uso de flora nativa. Sin pretender un análisis crítico de los trabajos paisajísticos de César Manrique y sus conceptos en el uso de flora, podemos infiltrarnos en este grupo de cactáceas y esbozar otras cuestiones contemporáneas necesarias: identidad, sostenibilidad, y a la vez qué responsabilidades afrontamos y qué ideas nuevas podemos aportar a una jardinería en nuestro territorio. Hay mucho que pensar, y el proceso no va a ser rápido, porque en este primer jardín ya no solo hablamos de plantas. Tengo también mis reservas sobre el uso exclusivo de flora nativa, que nos puede llevar a un extremo de fundamentalismo vegetal, y ese nunca ha sido mi proyecto.
+> En este primer jardín de entrada al Centro, propongo establecer un diálogo entre ese cliché _"a la César Manrique"_ con los criterios actuales de uso de flora nativa. Sin pretender un análisis crítico de los trabajos paisajísticos de César Manrique y sus conceptos en el uso de flora, podemos infiltrarnos en este grupo de cactáceas y esbozar otras cuestiones contemporáneas necesarias: sostenibilidad, función social, qué responsabilidades afrontamos y qué ideas nuevas podemos aportar a una jardinería en nuestro territorio. Hay mucho que pensar, y el proceso no va a ser rápido, porque en este primer jardín ya no solo hablamos de plantas. Relacionado con todo esto, tengo también mis reservas sobre el uso exclusivo de flora nativa, que nos puede llevar a un extremo de fundamentalismo vegetal y a deducir de ahí un sentido de _identidad_ -ese concepto tan manejado por el Poder. Ese nunca ha sido mi proyecto, y no creo que una jardinería en Canarias se deba basar en un uso exclusivo de plantas exóticas, pero tampoco en el uso exclusivo de nativas..
 
 ![Jardin de cactus noviembre 2026](images/jard2026catusgen.jpg)
 &emsp;&emsp;_Primer grupo de plantas nativas recién llegadas, octubre-noviembre 2026_.
