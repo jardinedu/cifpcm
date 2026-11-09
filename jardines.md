@@ -1237,6 +1237,10 @@ En el parterre suroeste hay una línea de grandes acalifas, con algunas nativas 
 ![Parterre corto](images/jard13parterrecortoboceto.jpg)
 
 El extremo de estos parterres, que hace de introducción a ellos, es un sitio de paso inevitable y el punto donde después de atravesar la zona administrativa se tiene la sensación de _entrar_ de verdad en el CIFP. Así pues se le ha dado un tratamiento especial, con vegetación más baja, que permita una vista panorámica del patio. Ya llevo años haciendo un trabajo lento: se trasladaron las plantas en mal estado (casi todas) a otros parterres más adecuados a sus necesidades, uní grupos de tradescantia y planté unas pocas especies, en gama de violetas y lilas principalmente (colores asociados a la imagen de marca del CIFP), resistentes a la sequía y la insolación. También se ha organizado una mini-rocalla de piedra volcánica, a juego con el _mulch_ de picón rojizo que se ha mantenido.
+
+![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
+&emsp;&emsp;_Parterre recién plantado, agosto 2025_
+
 - Una mancha de _Tradescantia pallida_, tapizante.
 - Una _Duranta_, de flores violeta, que se ha de mantener en un tamaño mediano mediante podas.
 - Un grupo  de _Gauras_ de color fucsia intenso, que  deberían formar una masa de tallos medianos muy móviles, con floración prolongada.
@@ -1245,8 +1249,8 @@ El extremo de estos parterres, que hace de introducción a ellos, es un sitio de
 - Una abelia /_Abelia grandiflora_) para una nota de color más claro.
 - Y por último he recuperado un tartaguero (_Ricinus communis_) que ya utilicé en el primer jardín para rellenar espacios de forma rápida y provisional. En Canarias está asociado a lugares en abandono y descuido, pero en Europa se sigue usando en jardinería. Esto es un intento de dignificación de esta espeie, con texturas y colores que pueden ser muy interesantes.
 
-![Parterre corto plantado](images/jard13parterreprimerasplantas.jpg)
-&emsp;&emsp;_Parterre recién plantado, agosto 2025_
+![Parterre corto plantado](images/jard2026intropationov.jpg)
+&emsp;&emsp;_Parterre en noviembre 2026. Las gauras vuelven a florecer y a oscilar con el viento_
 
 << [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
