@@ -942,6 +942,28 @@ Combina dos atributos rara vez unidos en el mismo género: un caudex robusto, pr
 En los últimos decenios ha crecido enormemente su popularidad en lugares lejanos a su origen, en particular en el mundo asiático, donde han sido secleccionadas innumerables variedades por la forma y color de sus flores. En Filipinas, debido a su parecido con el género emparentado _Plumeria_ y al hecho de que fue introducida en el país desde Bangkok, se la denomina "kalachuchi de Bangkok". Debido a su semejanza con la Plumeria en miniatura y a su popularidad en el cultivo de bonsáis, a veces también se la conoce como "frangipani japonés".
 
 ***
+
+![Abelia](images/specpabelia2026.jpg)
+
+### Abelia
+_Abelia grandiflora_
+
+Abelia es un género de arbustos que actualmente incluye 6 especies. Originarios del este de Asia, en particular de China, Taiwan y Vietnam se distribuyen por Afganistán y desde el Himalaya hasta el este de Asia, con 2 especies en México.
+
+Son populares como arbustos de jardines y adornos urbanos, por su floración y su perfume. la variedad más extendida es _Abelia × grandiflora_ (_Abelia chinensis_ × _Abelia uniflora_). En general vivir en condiciones adversas. 
+
+El género fue descrito por Robert Brown y publicado en [Narrative of a Journey in the Interior of China](https://dn720309.ca.archive.org/0/items/narrativeofjourn00abel/narrativeofjourn00abel.pdf), 1818. 
+
+![Abelia Journey](images/jard2026abeliajourney.jpg)
+&emsp;&emsp;_Ilustración final de Narrative of a journey... ¿un naufragio?_.
+
+> El género _Abelia_ recibe su nombre en honor a su descubridor, Clarke Abel, Esq., quien formó parte de la embajada enviada a China como médico jefe en el séquito de Lord Amherst. Lamentablemente para la ciencia, casi la totalidad de las extensas colecciones reunidas en China por este entusiasta naturalista se perdieron en el naufragio del *Alceste*; lo único que se salvó fue una pequeña selección de especímenes vegetales que él mismo había regalado, durante su estancia en China, a Sir George Staunton, quien, con gran generosidad, se los devolvió a su llegada a Inglaterra.
+> de: Narrative of a Journey in the Interior of China.
+
+No fue hasta 1844 cuando Robert Fortune importó a Inglaterra los primeros ejemplares vivos de _Abelia chinensis_.
+
+
+***
 ***
 
 ![Evolución parterre](images/jard11evolucionparterre.jpg)
