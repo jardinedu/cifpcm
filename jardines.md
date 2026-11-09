@@ -875,43 +875,9 @@ Una última fantasía cinematográfica: en la película _La flor del mal (White 
 ![Asclepias](images/specpasclepias.jpg)
 
 ### Asclepias
-_Asclepias curassavica_
+💀 _Asclepias curassavica_
 
-Esta planta, con muchos nombres populares como: algodoncillo, venenillo, bandera española, mata ganado, etc. es una especie perenne del género _Asclepias_, en la familia _Apocynaceae_. Es nativa de la América tropical, y naturalizada en muchas otras partes del mundo. Se cultiva como planta ornamental de jardín y como fuente de alimento para las mariposas, en los jardines de mariposas. En este jardín estoy intentando aclimatarla por ese motivo: para que lo visiten las mariposas. 
-
-![lepidopterus Georgia](images/jard11lepidopterosgeorgia.jpg)
-&emsp;&emsp;_Asclepias con su mariposa. Grabado coloreado a mano por John Abbot. [The natural history of the rarer lepidopterous insects of Georgia, volume 1 (1797)](https://www.biodiversitylibrary.org/item/5968#page/50/mode/2up)_
-
-_Asclepias_ por Asklepios, dios de la Medicina en la mitología griega. _curassavica_ por la isla de Curaçao, en el Caribe.
-
-![orugas monarca](images/jard11orugasmonarca.jpg)
-&emsp;&emsp;_Diciembre 2024. Apenas dos semanas después de plantar las Asclepias las mariposas ya localizaron  las plantas, pusieron sus huevos y nacieron orugas que empezaron a devorar  las hojas._
-
-**La mariposa monarca**
-
-Esta planta atrae la mariposa monarca, Danaus plexippus, un espectacular insecto, de alas color naranja con líneas negras, fácilmente reconocible.
-La Asclepia es una planta hospedera para esta mariposa: los adultos visitan las flores, posteriormente los gusanos se alimentan de sus hojas y ponen huevos en la planta, reiniciando su ciclo.
-
-**Mariposas, orugas y el veneno de la asclepias**
-
-Las _Asclepias_ son plantas tóxicas. Los colores llamativos amarillo y negro de la oruga y naranja y negro de la mariposa adulta son un aviso (aposematismo o coloración de aviso) de que son tóxicos para la mayoría de los depredadores. Esta estrategia funciona porque la mayoría de los depredadores asocia colores chillones (especialmente naranja, amarillo y negro), con veneno y otras propiedades desagradables.
-La mariposa monarca contiene glucósidos cardíacos en su cuerpo, como resultado de que las orugas comen asclepias; las integran en sus tejidos y son tóxicas, así evitan a sus depredadores. 
-
-Es uno de los pocos insectos que logra realizar travesías transatlánticas. Unas cuantas mariposas monarca llegan al suroeste de Gran Bretaña y a España en los años de vientos favorables, e incluso se han instalado de forma permanente en las Islas Canarias desde 1804, en Tenerife. Reside en las Islas Canarias, Azores, Madeira y Andalucía.
-
-
-**La migración de la Monarca**
-
-Una de las subespecies de la Monarca es especialmente conocida por su larga migración anual, desde Canadá a México.
-La migración de las mariposas monarca americanas (_D. plexippus plexippus_) es la más evolucionada de todas las especies conocidas de su tipo: vuelan hasta 5.000 km desde Estados Unidos y Canadá, donde se reproducen, hasta los bosques del centro de México, donde hibernan. Esta gran migración está bajo amenaza. El cambio climático, tanto en las áreas de hibernación en México como en las áreas de reproducción de verano en Estados Unidos, causa impacto en la migración de la monarca. La deforestación en los bosques mexicanos, la conversión de pastizales en tierras de cultivo, el uso de herbicidas y pesticidas y la reducción de las poblaciones de _Asclepia_ en sus rutas, son factores que se suman creando una tormenta perfecta para estas pequeñas criaturas.
-En julio de 2022, la Unión Internacional para la Conservación de la Naturaleza (UNIC) declaró a la mariposa monarca como una especie en peligro de extinción.
-
-Hay una historia fabulosa sobre las investigaciones sobre las migraciones de las monarcas: 
-
-El zoólogo canadiense Fred Urquhart y su esposa Nora R. Urquhart trabajaron desde 1937 hasta 1975 buscando dónde hibernan las mariposas en México.
-Durante décadas Fred y Nora Urquhart coordinaron a miles de voluntarios para poner minúsculas etiquetas de papel en las alas de las mariposas monarca y así poder documentar su ruta migratoria. La película _Flight of the Butterflies_, de 2012, cuenta esta historia. Ken Brugger y su esposa Catalina Aguado, de Ciudad de México, se unieron al proyecto y encontraron el lugar de hibernación en 1975 en los bosques de Cerro Pelón.
-
-![Pelicula monarcas](images/jard11peliculamonarcas.jpg)
+Las _Asclepias_ de este parterre han terminado desapareciendo. Sin embargo, las que trasladé a la zona más sombría crecen sin problema, más allá del ataque ocasional de las orugas de la mariposa monarca.
 
 ***
 
@@ -1054,7 +1020,7 @@ _Erysimum bicolor_
 Es un pequeño arbusto, con hojas estrechas y lanceoladas, de flores violetas y blancas. Endemismo macaronésico que se encuentra en Canarias y Madeira.
 
 Ya se ha intentado tener alhelíes en tres ocasiones. El primer año los ejemplares tuvieron un buen desarrollo, florecieron, pero en verano 2024 tuvieron un importante retroceso. Se plantaron nuevos ejemplares en otoño de 2024, que desaparecieron de nuevo en verano de 2025. 
-Se está haciendo un último intento de adaptarlos desde otoño 2025, cambiando el lugar a un sitio con menos insolación.
+Se está haciendo un último intento de adaptarlos desde otoño 2025, cambiando el lugar a un sitio con menos insolación. Un año después (noviembre 2026) la planta original se secó casi totalmente, pero en otoño está rebrotando y ha dejado varios hijos alrededor.
 
 ***
 
@@ -1173,13 +1139,14 @@ Hasta hace pocos años se la llamaba _Euphorbia regis-jubae_, en honor al rey Ju
 _Salvias y su floración_
 
 ### Salvia
-_Salvia canariensis_
+💀 _Salvia canariensis_
 
 Esta salvia es una especie originaria de las Islas Canarias, presente en todas las islas aunque escasa en las orientales.
 Es un arbusto perenne que puede alcanzar una altura de hasta 1-2 metros, con hojas de forma ovalada cubiertas por una fina capa de pelo. 
 Tiene flores de color malva-azul intenso en racimos, follaje verde y buena resistencia a condiciones adversas. Su periodo de floración es amplio, desde finales del invierno hasta comienzos del otoño siguiente, aunque lo más común es entre los meses de febrero y agosto.
-En teoría atrae a polinizadores como abejas y mariposas, aunque hasta ahora no lo he observado. 
-Por todo esto, se emplea habitualmente en jardinería.
+En teoría atrae a polinizadores como abejas y mariposas, aunque hasta ahora no lo he observado. Por todo esto, se emplea habitualmente en jardinería.
+
+Sin embargo, tras un ciclo  de dos años, las plantas han muerto sin dejar descendencia.
 
 ***
 
@@ -1453,6 +1420,9 @@ La planta fue identificada por un equipo de investigadores brasileños perteneci
 
 El epíteto específico _angelicanum_ recibe su nombre en honor a la botánica brasileña Prof. Dra. Ana Angélica Monteiro de Barros, en reconocimiento a su valiosa contribución al estudio y la conservación de la biodiversidad. Además, los autores mencionaron que el epíteto hace un juego de palabras, ya que alude de igual forma a los márgenes ondulados de sus hojas, los cuales asemejan a unas alas (característica que facilitó su identificación como nueva especie).
 
+![P angel ubicación](images/jard2026ubicpangel.jpg)
+&emsp;&emsp;_Ubicación del P. angelicanum._
+
 
 ***
 
@@ -1506,10 +1476,47 @@ _Asclepias asediadas por las mariposas monarca, verano 2025_
 
 ### Asclepias
 _Asclepias curassavica_
-En este parterre estoy intentando aclimatarlas también para atraer a las mariposas. Las condiciones de luz y humedad parecen serle más favorables. Ya han sufrido ataques de los gusanos de la mariposa Monarca dejándolas sin una sola hoja, para recuperarse rápidamente.
+
+Las condiciones de luz y humedad en esta zona parecen serle más favorables a las asclepias. Ya han sufrido ataques de los gusanos de la mariposa Monarca dejándolas sin una sola hoja, para recuperarse rápidamente.
 
 ![Orugas devoran Asclepia](images/specpsorugasabril2026.jpg)
 _Orugas devorando la planta a mediados de abril 2026_
+
+Esta planta, con muchos nombres populares como: algodoncillo, venenillo, bandera española, mata ganado, etc. es una especie perenne del género _Asclepias_, en la familia _Apocynaceae_. Es nativa de la América tropical, y naturalizada en muchas otras partes del mundo. Se cultiva como planta ornamental de jardín y como fuente de alimento para las mariposas, en los jardines de mariposas. En este jardín estoy intentando aclimatarla por ese motivo: para que lo visiten las mariposas. 
+
+![lepidopterus Georgia](images/jard11lepidopterosgeorgia.jpg)
+&emsp;&emsp;_Asclepias con su mariposa. Grabado coloreado a mano por John Abbot. [The natural history of the rarer lepidopterous insects of Georgia, volume 1 (1797)](https://www.biodiversitylibrary.org/item/5968#page/50/mode/2up)_
+
+_Asclepias_ por Asklepios, dios de la Medicina en la mitología griega. _curassavica_ por la isla de Curaçao, en el Caribe.
+
+![orugas monarca](images/jard11orugasmonarca.jpg)
+&emsp;&emsp;_Diciembre 2024. Apenas dos semanas después de plantar las Asclepias las mariposas ya localizaron  las plantas, pusieron sus huevos y nacieron orugas que empezaron a devorar  las hojas._
+
+**La mariposa monarca**
+
+Esta planta atrae la mariposa monarca, Danaus plexippus, un espectacular insecto, de alas color naranja con líneas negras, fácilmente reconocible.
+La Asclepia es una planta hospedera para esta mariposa: los adultos visitan las flores, posteriormente los gusanos se alimentan de sus hojas y ponen huevos en la planta, reiniciando su ciclo.
+
+**Mariposas, orugas y el veneno de la asclepias**
+
+Las _Asclepias_ son plantas tóxicas. Los colores llamativos amarillo y negro de la oruga y naranja y negro de la mariposa adulta son un aviso (aposematismo o coloración de aviso) de que son tóxicos para la mayoría de los depredadores. Esta estrategia funciona porque la mayoría de los depredadores asocia colores chillones (especialmente naranja, amarillo y negro), con veneno y otras propiedades desagradables.
+La mariposa monarca contiene glucósidos cardíacos en su cuerpo, como resultado de que las orugas comen asclepias; las integran en sus tejidos y son tóxicas, así evitan a sus depredadores. 
+
+Es uno de los pocos insectos que logra realizar travesías transatlánticas. Unas cuantas mariposas monarca llegan al suroeste de Gran Bretaña y a España en los años de vientos favorables, e incluso se han instalado de forma permanente en las Islas Canarias desde 1804, en Tenerife. Reside en las Islas Canarias, Azores, Madeira y Andalucía.
+
+
+**La migración de la Monarca**
+
+Una de las subespecies de la Monarca es especialmente conocida por su larga migración anual, desde Canadá a México.
+La migración de las mariposas monarca americanas (_D. plexippus plexippus_) es la más evolucionada de todas las especies conocidas de su tipo: vuelan hasta 5.000 km desde Estados Unidos y Canadá, donde se reproducen, hasta los bosques del centro de México, donde hibernan. Esta gran migración está bajo amenaza. El cambio climático, tanto en las áreas de hibernación en México como en las áreas de reproducción de verano en Estados Unidos, causa impacto en la migración de la monarca. La deforestación en los bosques mexicanos, la conversión de pastizales en tierras de cultivo, el uso de herbicidas y pesticidas y la reducción de las poblaciones de _Asclepia_ en sus rutas, son factores que se suman creando una tormenta perfecta para estas pequeñas criaturas.
+En julio de 2022, la Unión Internacional para la Conservación de la Naturaleza (UNIC) declaró a la mariposa monarca como una especie en peligro de extinción.
+
+Hay una historia fabulosa sobre las investigaciones sobre las migraciones de las monarcas: 
+
+El zoólogo canadiense Fred Urquhart y su esposa Nora R. Urquhart trabajaron desde 1937 hasta 1975 buscando dónde hibernan las mariposas en México.
+Durante décadas Fred y Nora Urquhart coordinaron a miles de voluntarios para poner minúsculas etiquetas de papel en las alas de las mariposas monarca y así poder documentar su ruta migratoria. La película _Flight of the Butterflies_, de 2012, cuenta esta historia. Ken Brugger y su esposa Catalina Aguado, de Ciudad de México, se unieron al proyecto y encontraron el lugar de hibernación en 1975 en los bosques de Cerro Pelón.
+
+![Pelicula monarcas](images/jard11peliculamonarcas.jpg)
 
 ***
 
