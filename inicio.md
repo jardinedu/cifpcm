@@ -67,6 +67,11 @@ Si es posible prefiero plantas que se desarrollen desde pequeñas en el propìo 
 No utilizo herbicidas ni tampoco sistemas como cubrir la tierra con malla, ni desbrozadoras o cortadoras de hilo (en los dos casos, fuentes de microplásticos). Elimino las malas hierbas a mano, respetando en lo posible plantas nativas que aparecen espontáneamente. Aquí no se trata de productividad -estamos haciendo jardinería, no agricultura- ni de prisas. 
 No soy jardinero profesional, ni siquiera tengo formación, como cursillos, en esta disciplina, y trabajo desde la observación y la intuición. Con un poco de creatividad, porque entiendo un jardín también como una obra plástica, efímera y en cambio constante. Por último, procuro leer sobre jardinería y paisajismo y observar a las propias plantas.
 
+La mayor parte de lo que me guía en jardinería lo he aprendido trabajando con las plantas. Sin embargo, me gusta leer sobre el tema. El el apartado [Bibliografía](https://jardinedu.github.io/cifpcm/biblio) hay una selección de libros que he ido manejando. Como persona de mi tiempo, mi forma de entender este trabajo coincide con lo contemporáneo, con la jardinería naturalista. Creo en esa búsqueda de la recreación de comunidades vegetales en entornos humanizados, en usar especies locales (combinadas con otras exóticas), creo en emocionar a quien transita el jardín, y creo que los jardines son organismos vivos en constante cambio, no tanto con las estaciones (aquí en nuestras islas subtropicales) sino con los meses y años, etc etc. Me han seducido los libros de Gilles Clément, los proyectos de Piet Oudolf o Fernando Martos, la visita que hice a LurGarden, todo esto desde la humildad más absoluta.
+
+![naturalismo](images/jard2026newperennials.jpg)
+&emsp;&emsp;_High Line en Nueva York, de Piet Oudolf - Entrada del Jardín Botánico de Madrid, de Fernando Martos - LurGarden, de Íñigo Segurola_
+
 * * *
 
 ## Educar sobre nuestro territorio, nuestro patrimonio cultural y el planeta donde vivimos: 
@@ -125,15 +130,7 @@ En 2025 se desarrolla por GesPlan y la Consejería de Política Territorial, Coh
 
 > ... establece criterios interdisciplinares para orientar la renaturalización de ciudades y pueblos del archipiélago. Su finalidad es promover una infraestructura verde y azul multifuncional, integrada en el planeamiento urbanístico y en el diseño urbano
 
-![Renaturalizacion 1](images/renatura1.jpg)
-
-Sus objetivos son:
-
-- Restituir servicios ecosistémicos esenciales.
-- Contribuir a la adaptación y mitigación del cambio climático.
-- Reforzar la cohesión territorial y genere sinergias positivas con el sistema natural y rural, favoreciendo la conectividad ecológica y la continuidad de procesos ambientales.
-- Impulsar la custodia del territorio y el compromiso social hacia la conservación activa de los espacios verdes urbanos y periurbanos.
-- Mejorar la calidad ambiental del espacio urbano y su habitabilidad.
+Curiosamente muchos de los principios de estos manuales coinciden con las corrientes actuales en jardinería, la jardinería naturalista o _new perennial_. Sin embargo, echo en falta reflexiones más allá de lo técnico y que completen los aspectos técnicos con conceptos sobre jardinería o simplemente pensamiento sobre paisajism. 
 
 Se puede consultar y descarga su [Manual para el Ajardinamiento Urbano de Canarias (PDF, 284 páginas)](https://renaturalizacionurbanacanaria.com/manual/)
 
