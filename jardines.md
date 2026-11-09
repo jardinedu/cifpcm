@@ -10,7 +10,7 @@ feature_image:
 La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Salvando muchas distancias, como Sissinghurst, para entendernos.
 
 ##### ÍNDICE DE JARDINES. 
-Visión general de cada jardín, con descripción de las especies utilizadas (generalmente ordenadas por orden de llegada) y todo dato que me parezca interesante sobre etimología de las plantas, historia de su descubrimiento, usos en jardinería y cualquier asunto relacionado que aparezca en mi camino.
+Visión general de cada jardín, con descripción de las especies utilizadas (generalmente ordenadas por orden de llegada) y todo dato que me parezca interesante sobre etimología de las plantas, historia de su descubrimiento, usos en jardinería y cualquier asunto relacionado que aparezca en mi camino, porque cada planta tiene una historia que contar.
 
 1. [El primer jardín](#1-el-primer-jard%C3%ADn)
 2. [Jardines de los frangipanes](#2-jardines-de-los-frangipanes)
@@ -920,7 +920,7 @@ Durante décadas Fred y Nora Urquhart coordinaron a miles de voluntarios para po
 ### Rosa del desierto
 _Adenium obesum_
 
-_Adenium_ es un género de arbustos perteneciente a la familia _Apocynaceae_. Es originaria de  África y de la península arábiga. El género fue descrito por Roem & Schult. y publicado en Systema Vegetabilium 4, en 1819. Actualmente se reconocen cinco especies: _Adenium boehmianum_ Namibia, Angola. _Adenium multiflorum_ África austral, desde Zambia hacia el sur. _Adenium obesum_ desde Senegal hasta Somalia, además de en la península arábiga. _Adenium oleifolium_ Sudáfrica, Botsuana, Namibia. _Adenium swazicum_ (Este de Sudáfrica.
+_Adenium_ es un género de arbustos perteneciente a la familia _Apocynaceae_. Es originaria de  África y de la península arábiga. El género fue descrito por Roem & Schult. y publicado en _Systema Vegetabilium_, en 1819. Actualmente se reconocen cinco especies: _Adenium boehmianum_ Namibia, Angola. _Adenium multiflorum_ África austral, desde Zambia hacia el sur. _Adenium obesum_ desde Senegal hasta Somalia, además de en la península arábiga. _Adenium oleifolium_ Sudáfrica, Botsuana, Namibia. _Adenium swazicum_ (Este de Sudáfrica.
 
 ![Distribucion Adenium](images/jard2026distriadenium.jpg)
 &emsp;&emsp;_Adenium obesum recien plantados, noviembre 2026_.
@@ -940,6 +940,38 @@ Los introduzco en octubre noviembre 2026 buscando su juego de espejo con las plu
 Combina dos atributos rara vez unidos en el mismo género: un caudex robusto, propio de plantas adaptadas a la sequía severa, y una floración con flores grandes y vistosas, propia de plantas tropicales con polinizadores activos. Esa combinación la convierte en un caso atípico dentro de las suculentas. La mayoría de las plantas con caudex producen flores discretas. La mayoría de las plantas con floración espectacular requieren riego frecuente. _Adenium obesum_ es la excepción que combina ambos rasgos.
 
 En los últimos decenios ha crecido enormemente su popularidad en lugares lejanos a su origen, en particular en el mundo asiático, donde han sido secleccionadas innumerables variedades por la forma y color de sus flores. En Filipinas, debido a su parecido con el género emparentado _Plumeria_ y al hecho de que fue introducida en el país desde Bangkok, se la denomina "kalachuchi de Bangkok". Debido a su semejanza con la Plumeria en miniatura y a su popularidad en el cultivo de bonsáis, a veces también se la conoce como "frangipani japonés".
+
+##### _Systema Vegetabilium_
+La referencia de la primera descripción científica de _Adenium_ en _Systema Vegetabilium_, (Ed. 16) de por Johann Jacob Roemer, Josef August Schultes y Julius Hermann Schultes me lleva a buscar el libro, y lo encuentro, como casi siempre, en un sitio web fundamental: [Archive](http://archive.org). Casi todos los tomos (7 volúmenes publicado entre 1817-1830) los ha proporcionado el Missouri Botanical Garden  [Tomo 1](https://archive.org/details/mobot31753000802527).
+
+El Jardín Botánico de Missouri fue fundado por Henry Shaw en el siglo XIX (abrió en 1859). Su herbario, con más de 7,5 millones de especímenes, es el segundo más grande de Norteamérica. Su biblioteca, denominada Peter H. Raven Library, alberga el 85 % de toda la bibliografía publicada sobre botánica sistemática y taxonomía vegetal. 
+
+![Climatron](images/jard2026climatron.jpg)
+
+En 1959, el conservatorio inició la construcción del [Climatron](https://en.wikipedia.org/wiki/Climatron), un invernadero geodésico diseñado para simular el clima de una selva tropical. Se inauguró en 1960, convirtiéndose en uno de los primeros invernaderos con cúpula geodésica. Con el paso del tiempo, el edificio sufrió el deterioro de los paneles de plexiglás originales, así como los efectos de la humedad en algunos elementos metálicos, por lo que después de una renovación integral volvió a abrir en 1990. El acristalamiento original de plexiglás fue sustituido por paneles de vidrio termorresistente con una capa de plástico  Saflex y recubiertos con una película de baja emisividad. 
+
+##### Los fitotrones
+El Climatron es uno más de los llamados "fitotrones", enormes laboratorios con control climático para la investigación de investigar las causas ambientales que determinan el crecimiento y el desarrollo de los organismos vivos. 
+
+![Genealogia](images/jard2026genecotrons.jpg)
+&emsp;&emsp;_Gráfico tomado de [World of trons](https://www.worldoftrons.com/)_
+
+El primer fitotrón fue construido en CalTech en 1949. Entre 1945 y la actualidad, los fitotrones se extendieron por todo el mundo, llegando a Australia, Francia, Hungría, la Unión Soviética, Inglaterra y Estados Unidos. Además, han dado lugar a variantes como el Biotron en la Universidad de Wisconsin-Madison; el Brisatron en el Laboratorio de Ecología del río Savannah; en Francia el [Ecotron Europeo de Montpellier](https://ecotron.cnrs.fr/) (2007) y el [Ecotron Ile-de-France](https://www.foljuif.ens.fr/) (2008) o el Ecotron en el Imperial College de Londres: 
+
+> El Silwood Park Ecotron es una instalación científica de investigación ecológica ubicada en el Centre for Population Biology de Imperial College London (en Silwood Park, Ascot, Reino Unido). Está compuesto por 16 cámaras ambientales físicas y electrónicas interconectadas y transitables (walk-in chambers) que permiten simular y controlar condiciones climáticas como temperatura, humedad e iluminación (incluso emitiendo datos meteorológicos reales). El Ecotron de Silwood Park está actualmente parcialmente cerrado.
+
+![EcotronClimatron](images/jard2026ecotronuk.jpg)
+
+
+Encontré un curioso libro: **Engineering the Environment: Phytotrons and the Quest to Control Climate in the Cold War** (Ingeniería del medio ambiente: los fitotrones y la búsqueda del control climático durante la Guerra Fría) de David P. D. Munns, que además relaciona los fitotrones de mediados del siglo XX con la Guerra Fría. Tiene sentido que empezaran a aparecer estas ideas en un mundo que en ese momento fue amedrentado con los peligros de la Era Atómica.
+
+![Portada Engineering](images/jard2026coverphyto.jpg)
+
+
+Por último, relacionado con esto está **Biosfera 2**, una estructura construida originalmente para formar un ecosistema artificial cerrado en Arizona (EE.UU.) por Space Biosphere Ventures. Construida entre 1987 y 1991, fue diseñada para comprender el complejo entramado de interacciones en un ecosistema, así como para estudiar la viabilidad de biosferas cerradas en la colonización espacial y permitir el estudio y manipulación de una biosfera sin dañar la Tierra. Entre 1991 y 1993 ocho personas (cuatro hombres y cuatro mujeres) vivieron selladas dentro de la estructura durante dos años. Sin embargo, los niveles de dióxido de carbono (CO₂) se dispararon, el oxígeno cayó drásticamente (obligando a bombear oxígeno desde el exterior), los cultivos fueron insuficientes y los árboles crecieron débiles por la falta de viento. Surgieron divisiones interna. Se intentó un segundo experimento en 1994, pero fue cancelado a los pocos meses. Un alucinante documental de 2020 que tuve oportunidad de ver: **Spaceship Earth**, contó la historia del primer aislamiento.
+
+![spaceship](images/jard2026spaceshipearth.jpg)
+
 
 ***
 
