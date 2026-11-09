@@ -747,7 +747,7 @@ _Canna indica_
 
 Es originaria de América del Sur: Colombia, Venezuela, Ecuador, Perú, Brasil, Uruguay y Argentina, así como de las Indias Occidentales y América Central. En Canarias se usa en jardinería popular de manera habitual, estando muy bien adaptada a la climatología de las islas En América del Sur su nombre más común es _achira_, y se cultiva como alimento: los rizomas se comen crudos u horneados y sobre todo se usa como materia prima para harinas.
 
-Estos ejemplares de platanillo, de flor roja, se han trasladado y agrupado de otros parterres donde estaban en mal estado. Aquí tendrán más humedad y en grupo serán más visibles.
+Unos ejemplares de platanillo, de flor roja, se trasladaron y agruparon de otros parterres donde estaban en mal estado. Aquí han tenido mejores condiciones de humedad y en grupo son más visibles. A lo largo de 2026 he añadido otros dos pequeños grupos: uno de ellos de planta herborizada en la zona de Pedro Álvarez, con hoja rojiza y flor naranja pequeña, y el otro de hoja verde pálido, aún no ha florecido.
 
 ***
 
@@ -852,8 +852,7 @@ He sembrado la variedad enana, ocupando unas esquinas difíciles, por su robuste
 _Nerium_ deriva del vocablo griego _nerión_ "agua" o "húmedo", y se puede referir a que crece naturalmente cerca de corrientes de agua (como ríos), o al dios griego Nereo, dios del Mar y padre de las Nereidas. _Oleander_ por la semejanza superficial de sus hojas con el olivo (_Olea europea_)
 
 
-**La toxicidad de la adelfa**
-_Nerium_ contiene varios compuestos tóxicos, e históricamente se ha considerado una planta venenosa. Sin embargo, su amargura lo hace desagradable para los humanos y la mayoría de los animales, por lo que los casos de intoxicación son muy raros, además de que en caso de ingestión causa náuseas y vómitos. El contacto prolongado con la savia puede causar irritación de la piel o los ojos.
+**La toxicidad de la adelfa**. _Nerium_ contiene varios compuestos tóxicos, e históricamente se ha considerado una planta venenosa. Sin embargo, su amargura lo hace desagradable para los humanos y la mayoría de los animales, por lo que los casos de intoxicación son muy raros, además de que en caso de ingestión causa náuseas y vómitos. El contacto prolongado con la savia puede causar irritación de la piel o los ojos.
 Muchas (muchísimas) plantas del planeta, y por extensión utilizadas en jardinería, son tóxicas, venenosas o irritantes.
 
 Un artículo de 2014 en la revista médica _Perspectives in Biology and Medicine_ proponía que la adelfa era la sustancia utilizada para inducir alucinaciones en la Pitia, la sacerdotisa de Apolo, también conocida como el Oráculo de Delfos en la Antigua Grecia. Según esta teoría, los síntomas de los trances de la Pitia (_enthusiasmos_) corresponden a la inhalación del humo o la masticación de pequeñas cantidades de hojas de adelfa, a menudo llamadas con el término genérico laurel en la Antigua Grecia, lo que llevó a confusión con el laurel que citan los autores antiguos.
@@ -1983,7 +1982,6 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 - <i>Plocama pendula</i>. Balo<br>
 - <i>Pterocephalus dumetorus</i>. Rosalito<br>
 - <i>Rumex lunaria</i>. Vinagrera<br>
-- <i>Salvia canariensis</i>. Salvia<br>
 - <i>Schizogyne sericea</i>. Salado<br>
 
 - <i>Semele androgina</i>. Gibalbera<br>
@@ -2013,7 +2011,9 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 
 <td>
 <small>
+- <i>Abelia grandiflora</i>. Abelia<br>
 - <i>Acanthus mollis</i>. Acanto<br>
+- <i>Adenium obesum</i>. Rosa del desierto<br>
 - <i>Agave americana</i>. Pitera<br>
 - <i>Agave attenuata</i>. Ágave<br>
 - <i>Aloe vera</i>. Aloe<br>
@@ -2021,7 +2021,6 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 - <i>Aspidistra elatior</i>. Hoja de salón<br>
 - <i>Breynia dischita</i>. Pompadour<br>
 - <i>Brugmansia suaveolens</i>. Santas noches<br>
-- <i>Calathea Roseopicta_ Crimson</i>. Calateas<br>
 - <i>Canna indica</i>. Platanillo<br>
 
 - <i>Colocasia esculenta</i>. Ñamera<br>
@@ -2035,7 +2034,6 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 - <i>Ficus carica</i>. Higuera<br>
 - <i>Goeppertia louisae</i>. Calatea<br>
 
-- <i>Goeppertia picturata</i> Argentea. Calatea<br>
 - <i>Loropetalum chinense</i>. Loropétalo/Arbusto chino<br>
 - <i>Maranta leuconeura</i>. Maranta<br>
 - <i>Maranta leuconeura</i> variegata. Maranta<br>
@@ -2050,9 +2048,11 @@ Una ramificación, o una nueva capa del proyecto iniciado en 2018, desarrollada 
 - <i>Pallenis maritima</i>. Margarita de mar<br>
 - <i>Philodendron bipinnatifidum</i>. Filodendro narrow<br>
 - <i>Philodendron erubescens</i>. Filodendro rojo<br>
+- <i>Philodendron hastatum</i>. Filodendro espada de plata<br>
 - <i>Plumbago auriculata</i>. Belesa<br>
 - <i>Plumeria pudica</i>. Frangipán ramo de novia<br>
 - <i>Plumeria rubra</i>. Frangipán<br>
+- <i>Ricinus communis</i>. Tartaguero<br>
 - <i>Salvia rosmarinus</i>. Romero<br>
 - <i>Schinus molle</i>. Pimentero<br>
 - <i>Tecoma stans</i>. Tecoma<br>
