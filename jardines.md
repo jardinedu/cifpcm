@@ -889,7 +889,7 @@ _Adenium obesum_
 _Adenium_ es un género de arbustos perteneciente a la familia _Apocynaceae_. Es originaria de  África y de la península arábiga. El género fue descrito por Roem & Schult. y publicado en _Systema Vegetabilium_, en 1819. Actualmente se reconocen cinco especies: _Adenium boehmianum_ Namibia, Angola. _Adenium multiflorum_ África austral, desde Zambia hacia el sur. _Adenium obesum_ desde Senegal hasta Somalia, además de en la península arábiga. _Adenium oleifolium_ Sudáfrica, Botsuana, Namibia. _Adenium swazicum_ (Este de Sudáfrica.
 
 ![Distribucion Adenium](images/jard2026distriadenium.jpg)
-&emsp;&emsp;_Distribución de Adenium_.
+&emsp;&emsp;_Distribución de Adenium_
 
 Son arbustos perennes suculentos de climas tropicales y semi-caducos a caducos en los climas más fríos, también depende de la especie. Alcanzan a 1-3 m de altura. Las hojas están dispuestas en espiral, agrupadas hacia las puntas de los brotes, las flores son tubulares con cinco pétalos, semejantes a géneros como _Plumeria_ y _Nerium_. Las flores tienden a rojo y rosa, a menudo con una vista hacia el exterior blanquecino en la garganta. Se cultiva como planta de interior en regiones templadas y tropicales. Se han desarrollado numerosos híbrido, ya que son muy apreciados por sus flores coloridas y sus inusuales caudices (tallos engrosados).
 La savia de _Adenium boehmianum_, _A. multiflorum_ y _A. obesum_ contiene glucósidos cardíacos tóxicos; en diversas regiones de África se emplea como veneno para flechas destinado a la caza de animales de gran tamaño. De hecho al _A. boehmianum_ se llama así por los bosquimanos (Bushman), y su nombre común en inglés es _Bushman poison_ (veneno del bosquimano). Ahora llamados preferentemente [San](https://es.wikipedia.org/wiki/San), son pueblos africanos, tradicionalmente cazadores-recolectores.
@@ -913,6 +913,7 @@ La referencia de la primera descripción científica de _Adenium_ en _Systema Ve
 El Jardín Botánico de Missouri fue fundado por Henry Shaw en el siglo XIX (abrió en 1859). Su herbario, con más de 7,5 millones de especímenes, es el segundo más grande de Norteamérica. Su biblioteca, denominada Peter H. Raven Library, alberga el 85 % de toda la bibliografía publicada sobre botánica sistemática y taxonomía vegetal. 
 
 ![Climatron](images/jard2026climatron.jpg)
+&emsp;&emsp;_Climatrón: exterior e interior_
 
 En 1959, el conservatorio inició la construcción del [Climatron](https://en.wikipedia.org/wiki/Climatron), un invernadero geodésico diseñado para simular el clima de una selva tropical. Se inauguró en 1960, convirtiéndose en uno de los primeros invernaderos con cúpula geodésica. Con el paso del tiempo, el edificio sufrió el deterioro de los paneles de plexiglás originales, así como los efectos de la humedad en algunos elementos metálicos, por lo que después de una renovación integral volvió a abrir en 1990. El acristalamiento original de plexiglás fue sustituido por paneles de vidrio termorresistente con una capa de plástico  Saflex y recubiertos con una película de baja emisividad. 
 
@@ -927,12 +928,11 @@ El primer fitotrón fue construido en CalTech en 1949. Entre 1945 y la actualida
 > El Silwood Park Ecotron es una instalación científica de investigación ecológica ubicada en el Centre for Population Biology de Imperial College London (en Silwood Park, Ascot, Reino Unido). Está compuesto por 16 cámaras ambientales físicas y electrónicas interconectadas y transitables (walk-in chambers) que permiten simular y controlar condiciones climáticas como temperatura, humedad e iluminación (incluso emitiendo datos meteorológicos reales). El Ecotron de Silwood Park está actualmente parcialmente cerrado.
 
 ![EcotronClimatron](images/jard2026ecotronuk.jpg)
-
+&emsp;&emsp;_El Ecotrón británico_
 
 Encontré un curioso libro: **Engineering the Environment: Phytotrons and the Quest to Control Climate in the Cold War** (Ingeniería del medio ambiente: los fitotrones y la búsqueda del control climático durante la Guerra Fría) de David P. D. Munns, que además relaciona los fitotrones de mediados del siglo XX con la Guerra Fría. Tiene sentido que empezaran a aparecer estas ideas en un mundo que en ese momento fue amedrentado con los peligros de la Era Atómica.
 
 ![Portada Engineering](images/jard2026coverphyto.jpg)
-
 
 Por último, relacionado con esto está **Biosfera 2**, una estructura construida originalmente para formar un ecosistema artificial cerrado en Arizona (EE.UU.) por Space Biosphere Ventures. Construida entre 1987 y 1991, fue diseñada para comprender el complejo entramado de interacciones en un ecosistema, así como para estudiar la viabilidad de biosferas cerradas en la colonización espacial y permitir el estudio y manipulación de una biosfera sin dañar la Tierra. Entre 1991 y 1993 ocho personas (cuatro hombres y cuatro mujeres) vivieron selladas dentro de la estructura durante dos años. Sin embargo, los niveles de dióxido de carbono (CO₂) se dispararon, el oxígeno cayó drásticamente (obligando a bombear oxígeno desde el exterior), los cultivos fueron insuficientes y los árboles crecieron débiles por la falta de viento. Surgieron divisiones interna. Se intentó un segundo experimento en 1994, pero fue cancelado a los pocos meses. Un alucinante documental de 2020 que tuve oportunidad de ver: **Spaceship Earth**, contó la historia del primer aislamiento.
 
@@ -956,6 +956,7 @@ El género fue descrito por Robert Brown y publicado en [Narrative of a Journey 
 &emsp;&emsp;_Ilustración final de Narrative of a journey... ¿un naufragio?_.
 
 > El género _Abelia_ recibe su nombre en honor a su descubridor, Clarke Abel, Esq., quien formó parte de la embajada enviada a China como médico jefe en el séquito de Lord Amherst. Lamentablemente para la ciencia, casi la totalidad de las extensas colecciones reunidas en China por este entusiasta naturalista se perdieron en el naufragio del *Alceste*; lo único que se salvó fue una pequeña selección de especímenes vegetales que él mismo había regalado, durante su estancia en China, a Sir George Staunton, quien, con gran generosidad, se los devolvió a su llegada a Inglaterra.
+> 
 > de: Narrative of a Journey in the Interior of China.
 
 No fue hasta 1844 cuando Robert Fortune importó a Inglaterra los primeros ejemplares vivos de _Abelia chinensis_.
@@ -1573,7 +1574,7 @@ En este jardín de sombra he plantado dos grupos, la variedad tradicional y otra
 A lo largo de 2026 intenté crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso donde la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda. Todas son plantas exóticas, de selvas de América Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. Finalmente han desaparecido dos de las Calateas y una de las Marantas, y estoy intentando (noviembre 2026) trabajar con algunos helechos de tamaño pequeño. En proyecto está combinar estas plantas con algún ejemplos de planta de laurisilva.
 
 ![Coleccion de Calateas y Marantas](images/specpsmarantasycalateas.jpg)
-&emsp;&emsp;_Colección de Calateas y Marantas, casi desaparecidastodas ellas._
+&emsp;&emsp;_Colección de Calateas y Marantas, casi desaparecidas todas ellas._
 
 ### Marantas
 _Maranta leuconeura_  y _Maranta leuconeura_ variegata (tricolor) 
