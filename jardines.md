@@ -914,22 +914,32 @@ Durante décadas Fred y Nora Urquhart coordinaron a miles de voluntarios para po
 ![Pelicula monarcas](images/jard11peliculamonarcas.jpg)
 
 ***
-![Acanto](images/specpacanto.jpg)
-_Acantos asilvestrados en el Palatino, Roma. Foto: Anthony Majanlahti en Flickr. CC-By_
 
-### Acanto
-_Acanthus mollis_
+![Adenium](images/specpadenium2026.jpg)
 
-Es un arbusto de grandes hojas brillantes y espinosas y con una floración muy elegante en espiga, de altas flores blancas y lilas.
-Las tres especies de acanto son nativas del centro y este de la región mediterránea, adaptada desde la antigüedad en el cultivo de jardines, y ahora naturalizada y cultivada prácticamente en todo el mundo.
-Se describió y publicó por vez primera en Species Plantarum, en 1753 por Carlos Linneo.
+### Rosa del desierto
+_Adenium obesum_
 
-Tiene usos medicinales pero sobre todo, presencia en el arte. El motivo de la hoja de acanto como elemento decorativo se remonta a la antigua Grecia y Roma. Según el arquitecto romano Vitruvio, un escultor griego llamado Calímaco (siglo V a.C.) lo inventó para el capitel de estilo corintio tras ver crecer una planta de acanto a través de una cesta colocada sobre la tumba de una niña, copiando esa forma para crear un nuevo tipo de capitel. A lo largo de los siglos, este elegante diseño de hojas apareció en capiteles de columnas corintias, frisos, tallas de madera y otros elementos. Con múltiples variantes se utiliza en las épocas griega, romana, bizantina, y en toda la historia de la arquitectura hasta los neoclasicismos, el _nouveau_ y _deco_, etc. 
-La revista Espores dedicó un artículo al [acanto en el arte](https://espores.org/es/es-plantas/el-acanto-en-el-arte/)
+_Adenium_ es un género de arbustos perteneciente a la familia _Apocynaceae_. Es originaria de  África y de la península arábiga. El género fue descrito por Roem & Schult. y publicado en Systema Vegetabilium 4, en 1819. Actualmente se reconocen cinco especies: _Adenium boehmianum_ Namibia, Angola. _Adenium multiflorum_ África austral, desde Zambia hacia el sur. _Adenium obesum_ desde Senegal hasta Somalia, además de en la península arábiga. _Adenium oleifolium_ Sudáfrica, Botsuana, Namibia. _Adenium swazicum_ (Este de Sudáfrica.
 
-![Hoja de acanto](images/jard11mitoacanto.jpg)
-&emsp;&emsp;_El mito de la creación del orden corintio, según un dibujo de la traducción francesa de Vitruvio por Claude Perrault en 1689. Columnas corintias con capiteles de hoja de acanto en el Panteón de Roma. Foto: Carole Raddato CC-By-Sa_
+![Distribucion Adenium](images/jard2026distriadenium.jpg)
+&emsp;&emsp;_Adenium obesum recien plantados, noviembre 2026_.
 
+Son arbustos perennes suculentos de climas tropicales y semi-caducos a caducos en los climas más fríos, también depende de la especie. Alcanzan a 1-3 m de altura. Las hojas están dispuestas en espiral, agrupadas hacia las puntas de los brotes, las flores son tubulares con cinco pétalos, semejantes a géneros como _Plumeria_ y _Nerium_. Las flores tienden a rojo y rosa, a menudo con una vista hacia el exterior blanquecino en la garganta. Se cultiva como planta de interior en regiones templadas y tropicales. Se han desarrollado numerosos híbrido, ya que son muy apreciados por sus flores coloridas y sus inusuales caudices (tallos engrosados).
+La savia de _Adenium boehmianum_, _A. multiflorum_ y _A. obesum_ contiene glucósidos cardíacos tóxicos; en diversas regiones de África se emplea como veneno para flechas destinado a la caza de animales de gran tamaño. De hecho al _A. boehmianum_ se llama así por los bosquimanos (Bushman), y su nombre común en inglés es _Bushman poison_ (veneno del bosquimano). Ahora llamados preferentemente [San](https://es.wikipedia.org/wiki/San), son pueblos africanos, tradicionalmente cazadores-recolectores.
+
+Los introduzco en octubre noviembre 2026 buscando su juego de espejo con las plumerias. Cómo crecerán, cuándo florecerán exactamente, etc. son aún preguntas cuya respuesta iré aprendiendo con el tiempo.
+
+![Adenium recien plantados](images/jard2026adeniums.jpg)
+&emsp;&emsp;_Adenium obesum recien plantados, noviembre 2026_.
+
+**Etimología**: _adenium_ de Aden, la localidad donde fue recogida originariamente la especie. _obesum_ por su caudex engrosado.
+
+**Nombres comunes**: rosa del deserto (italiano); desert rose, mock azalea, impala lily  Sabi star, kudu (inglés); rose du desert (francés); Wüstenrose (alemán); adenio, rosa del desierto, adeno (español); rosa do deserto (portugués).
+
+Combina dos atributos rara vez unidos en el mismo género: un caudex robusto, propio de plantas adaptadas a la sequía severa, y una floración con flores grandes y vistosas, propia de plantas tropicales con polinizadores activos. Esa combinación la convierte en un caso atípico dentro de las suculentas. La mayoría de las plantas con caudex producen flores discretas. La mayoría de las plantas con floración espectacular requieren riego frecuente. _Adenium obesum_ es la excepción que combina ambos rasgos.
+
+En los últimos decenios ha crecido enormemente su popularidad en lugares lejanos a su origen, en particular en el mundo asiático, donde han sido secleccionadas innumerables variedades por la forma y color de sus flores. En Filipinas, debido a su parecido con el género emparentado _Plumeria_ y al hecho de que fue introducida en el país desde Bangkok, se la denomina "kalachuchi de Bangkok". Debido a su semejanza con la Plumeria en miniatura y a su popularidad en el cultivo de bonsáis, a veces también se la conoce como "frangipani japonés".
 
 ***
 ***
@@ -1725,6 +1735,25 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 Este jardín está en proceso, sin prisa. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos de azucenas, agapanto, etc. incluso unas calas.
 Estoy probando con un grupo de acantos y un filodendro, junto a unas hortensias, con la esperanza de que les sea favorable el suelo acidificado por los _Schinus molle_. 
 
+***
+![Acanto](images/specpacanto.jpg)
+_Acantos asilvestrados en el Palatino, Roma. Foto: Anthony Majanlahti en Flickr. CC-By_
+
+### Acanto
+_Acanthus mollis_
+
+Es un arbusto de grandes hojas brillantes y espinosas y con una floración muy elegante en espiga, de altas flores blancas y lilas.
+Las tres especies de acanto son nativas del centro y este de la región mediterránea, adaptada desde la antigüedad en el cultivo de jardines, y ahora naturalizada y cultivada prácticamente en todo el mundo.
+Se describió y publicó por vez primera en Species Plantarum, en 1753 por Carlos Linneo.
+
+Tiene usos medicinales pero sobre todo, presencia en el arte. El motivo de la hoja de acanto como elemento decorativo se remonta a la antigua Grecia y Roma. Según el arquitecto romano Vitruvio, un escultor griego llamado Calímaco (siglo V a.C.) lo inventó para el capitel de estilo corintio tras ver crecer una planta de acanto a través de una cesta colocada sobre la tumba de una niña, copiando esa forma para crear un nuevo tipo de capitel. A lo largo de los siglos, este elegante diseño de hojas apareció en capiteles de columnas corintias, frisos, tallas de madera y otros elementos. Con múltiples variantes se utiliza en las épocas griega, romana, bizantina, y en toda la historia de la arquitectura hasta los neoclasicismos, el _nouveau_ y _deco_, etc. 
+La revista Espores dedicó un artículo al [acanto en el arte](https://espores.org/es/es-plantas/el-acanto-en-el-arte/)
+
+![Hoja de acanto](images/jard11mitoacanto.jpg)
+&emsp;&emsp;_El mito de la creación del orden corintio, según un dibujo de la traducción francesa de Vitruvio por Claude Perrault en 1689. Columnas corintias con capiteles de hoja de acanto en el Panteón de Roma. Foto: Carole Raddato CC-By-Sa_
+
+
+***
 
 ![JardinPabellon 4](images/jard15pabellon4b.jpg)
 
