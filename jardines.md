@@ -558,7 +558,7 @@ He plantado una higuera planeando orientar su crecimiento mediante podas para qu
 << [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
 
-# 2. Jardín de los frangipanes
+# 2. Jardines de los frangipanes
 
 ![Nov 2024](images/jard10noviembre2024.jpg)
 &emsp;&emsp;_Noviembre 2024_
@@ -596,7 +596,19 @@ Muy habitual en la jardinería tradicional de los patios y casas canarias. En Ca
 
 Su nombre científico es _Plumeria_, y hay mucha historia detrás: _Plumeria_ fue acuñado en 1700 en honor a Charles Plumier, el “Padre de la Flora de las Indias Occidentales”. Plumier fue un monje, botánico y dibujante muy conocido por sus numerosos dibujos y documentación de sus expediciones a las Indias Occidentales y América Central. Estas fueron encargadas por la corona francesa y fueron parte de un patrón más amplio de imperialismo botánico que vinculó el estudio de la naturaleza al poder político y la expansión territorial. El movimiento de plantas y conocimiento botánico estuvo estrechamente vinculado a las potencias coloniales y sirvió para sostenerlas y enriquecerlas económicamente.
 
-En el siglo XVII el botánico Ignacio de Mercado Morales escribe que el _Frangipani_ (aunque bajo el nombre _Calachuche_, una variante de la lenga náhuatl _kalachuchl_) provenía de “la Neuva Espalia” o “la Nueva España” (actual México). Esta hipótesis está respaldada por la propia familiaridad de Morales con la flora de la región, y fue reforzada por botánicos como el jesuita Georg Josef Camel SJ, quien nombra a la planta _Cacaloxochitl mexicana_ en sus _Descriptiones Fruticum et Arborum Luzonis_ (1704). Además, basándose en la filología, el botánico E. D. Merrill examinó los nombres utilizados para las especies de _Plumeria_ en todo el mundo y concluyó que muchos de ellos eran, en muchos casos, derivados de variantes mexicanas.
+En el siglo XVII el botánico Ignacio de Mercado Morales escribe que el _Frangipani_ (aunque bajo el nombre _Calachuche_, una variante de la lenga náhuatl _kalachuchl_) provenía de “la Neuva Espalia” o “la Nueva España” (actual México). Esta hipótesis está respaldada por la propia familiaridad de Morales con la flora de la región, y fue reforzada por botánicos como el jesuita Georg Josef Camel SJ, quien nombra a la planta _Cacaloxochitl mexicana_ en sus _Descriptiones Fruticum et Arborum Luzonis_ (1704). Además, basándose en la filología, el botánico E. D. Merrill examinó los nombres utilizados para las especies de _Plumeria_ en todo el mundo y concluyó que muchos de ellos eran, en muchos casos, derivados de variantes mexicanas. 
+
+Se conmocía como Sak-Nikté, por los mayas y Cacaloxóchitl -flor del cuervo- por los nahuas, y de ahí a su vez deriva el nombre Kalachuchi o kalatsutsi, como se le conoce en Filipinas. Las plumerias pasaron de América Central al Sudeste asiático, probablemente como resultado colateral del comercio durante el imperio español, y se convirtió en una planta valiosa y simbólica. El frangipani es el árbol nacional de Laos —llamado _dak lampa_—, donde se le considera un árbol sagrado. La fragancia de la plumeria se asocia con la kuntilanak, un espíritu vampírico maligno —el de una madre fallecida— presente en el folclore malasio-indonesio.
+
+En Filipinas, el kalachuchi o kalatsutsi (_Plumeria rubra_ o _acuminata_) crece en abundancia, tanto en cementerios —donde se utiliza como árbol— como en forma de setos. Es tan común que uno simplemente lo pasa por alto. 
+
+Para muchos filipinos el kalachuchi tiene la reputación de ser la "flor de los muertos" (_bulaklak ng patay_. El kalachuchi es un árbol extremadamente resistente. Puede sobrevivir a sequías, suelos pobres y largos periodos de abandono, lo que lo hace ideal para cementerios y los terrenos que rodean las iglesias. Con el paso de las generaciones, los filipinos se acostumbraron a ver sus flores blancas y amarillas cerca de las tumbas, lo que forjó una fuerte asociación entre la flor y la muerte. En el folclore filipino, percibir de repente el olor a kalachuchi durante la noche solía interpretarse como una señal de que un espíritu o un ser querido fallecido se encontraba cerca. Las historias sobre fantasmas, apariciones y parientes que "se hacen sentir" (_nagpaparamdam_) contribuyeron a consolidar la reputación sobrenatural de esta flor.
+
+![frangipanes y cementerios](images/jard2026frangicement.jpg)
+&emsp;&emsp;_Cementerio Imus en Cavite Filipinas por micah r.c. en Flickr | Cementerio de Saint-Leu (isla de la Reunión) B.Navez en Wikimedia Commons | Cementerio de Santa Ifigenia en Santiago de Cuba por BluesyPete en Wikimedia Commons_
+
+> Pero aquellas flores eran blancas, no rosas. Sus pétalos eran gruesos y firmes, no frágiles ni inquietantes como los de las rosas o las gardenias. Desprendían un aroma dulce y tenue que, al haber muchas flores juntas, se tornaba rápidamente penetrante. Bajo un árbol especialmente vigoroso, las flores marchitas se acumulaban en el suelo, dotando a los cementerios de ese olor característico a descomposición floral que, para los niños del barrio, era sinónimo de los muertos. No es exactamente un hedor, sino una especie de sensación olfativa ambigua que oscila entre la melaza, la gangrena y un pedo. Al pasar junto al cementerio público cuando el kalachuchi estaba en plena floración, el aroma resultaba incluso agradable desde lejos. Pero, a medida que uno se acercaba, ese mismo aroma suave te asaltaba de repente, provocándote arcadas y obligándote a salir corriendo. Cualquier niño de diez años sabía que ese era el olor de los muertos; y los muertos, como es lógico, siempre se levantaban e intentaban comerte.
+> _Leído en un blog filipino_
 
 ![frangipan2024](images/jard10frangipan2024.jpg)
 &emsp;&emsp;_Ejemplar plantado a comienzos de 2024_
