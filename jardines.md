@@ -1663,9 +1663,29 @@ Su nombre _Crassula_ proviene de la palabra latina _crassus_ que significa grues
 
 La Crassula arborescens es una de las más grandes del género, con una altura que va desde los 60 centímetros hasta el metro y medio. Es endémica de El Cabo, en Sudáfrica, y presenta hojas blanquecinas con el margen rojo.
 
-
 ***
 
+![Heliconia mini](images/specpsheliconia2026.jpg)
+
+### Heliconia
+_Heliconia psittacorum_
+
+Es una planta de la familia Heliconiaceae con varios nombres comunes (platanillo, ave del paríso (nombre confuso pues también se da a las strelitzias), pico de loro, flor de periquito, flor de loro, plátano de loro, etc.),El hábitat natural de _Heliconia psittacorum_ se encuentra en América del Sur, extendiéndose por países como Brasil, Venezuela, Colombia y las Guayanas, así como en algunas islas del Caribe. Es ampliamente cultivada como planta ornamental en regiones fuera de su rango nativo. Su crecimiento a partir de rizomas le permite una rápida colonización de áreas perturbadas en su hábitat natural y una fácil propagación en cultivo.
+
+**Etimología**: _heliconia_, nombre genérico dado por Linneo que hace referencia a la montaña griega Helicón, lugar sagrado donde se reunían las Musas. _psittacorum_ hace referencia a la similitud de sus brácteas florales con las plumas de un loro, de la palabra loro: _psittacus_ en latín, _psittakos_ en griego.
+
+Un aspecto interesante de _Heliconia psittacorum_ (y de muchas otras especies del género) es su adaptación a la polinización. Las flores tubulares, protegidas por las brácteas, están adaptadas para ser polinizadas por colibríes, que son atraídos por el néctar y los colores brillantes de la inflorescencia. Las brácteas no solo protegen las flores sino que también actúan como "banderas" para atraer a los polinizadores. 
+
+Estudios recientes han investigado la interacción entre las plantas y los colibríes que la polinizan:
+
+> «La flor solo se activa cuando es visitada por el tipo de colibrí adecuado». Los investigadores trataron de averiguar cómo la planta distingue entre los colibríes conocidos como «ermitaño verde» (*Phaethornis guy*) y «colibrí ala de sable violeta» (*Campylopterus hemileucurus*) —sus polinizadores preferidos— y el resto de los visitantes, ya sean otros colibríes o seres humanos. Descubrieron que estas dos especies particulares poseen picos largos y curvados, capaces de penetrar profundamente en las flores y extraer una mayor cantidad de néctar que otras especies. ¿Podría ser esta la forma en que las flores las identifican? Para poner a prueba esta hipótesis, los investigadores utilizaron una pipeta larga para extraer néctar mientras polinizaban manualmente las plantas. Efectivamente, las flores resultaron fecundadas. Los investigadores consideran que, para las plantas, resulta ventajoso seleccionar el polen proveniente exclusivamente de sus colibríes predilectos. Estas especies suelen transportar polen desde distancias mayores que otros tipos de colibríes, lo que reduce la probabilidad de endogamia y da lugar a una descendencia más sana.
+
+![heliconias y colibris](images/jard2026helicolib.jpg)
+&emsp;&emsp;___Colibrís y heliconias. Fotos: mbakok (licencia CCBy) y plantpollinator (licencia CCByNcSa), ambos en Flickr._
+
+
+***
+***
 
 ## PLANTAS NATIVAS DE CANARIAS
 
