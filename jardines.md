@@ -635,7 +635,7 @@ Además de _Plumeria rubra_ de diferentes colores, hay un ejemplar de _Plumeria 
 
 ![Vista jardines patio](images/jard10vistajardinespatio.jpg)
 
-### Además de los frangipanes: ## Las otras especies no nativas de Canarias
+### Además de los frangipanes: Las otras especies no nativas de Canarias
 
 En estos parterres también se ha intentado combinar plantas nativas de Canarias con otras exóticas. La proporción actual es aproximadamente 15 exóticas/13 nativas.
 
