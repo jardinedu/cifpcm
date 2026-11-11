@@ -749,6 +749,9 @@ Es originaria de América del Sur: Colombia, Venezuela, Ecuador, Perú, Brasil, 
 
 Unos ejemplares de platanillo, de flor roja, se trasladaron y agruparon de otros parterres donde estaban en mal estado. Aquí han tenido mejores condiciones de humedad y en grupo son más visibles. A lo largo de 2026 he añadido otros dos pequeños grupos: uno de ellos de planta herborizada en la zona de Pedro Álvarez, con hoja rojiza y flor naranja pequeña, y el otro de hoja verde pálido, aún no ha florecido.
 
+![Cannas 2026](images/jard2026cannas.jpg)
+&emsp;&emsp;_Dos nuevas variedades de platanillo, noviembre 0226_
+
 ***
 
 ![Dimorphoteca](images/specpdimorphoteca.jpg)
@@ -1800,6 +1803,9 @@ Datos extraídos del muy interesante trabajo: [Etimología e historia de un fit�
 Este jardín está en proceso, sin prisa. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos de azucenas, agapanto, etc. incluso unas calas.
 Estoy probando con un grupo de acantos y un filodendro, junto a unas hortensias, con la esperanza de que les sea favorable el suelo acidificado por los _Schinus molle_. 
 
+![JardinPabellon 4](images/jard2026jplata1.jpg)
+&emsp;&emsp;_Noviembre 2026_
+
 ***
 ![Acanto](images/specpacanto.jpg)
 _Acantos asilvestrados en el Palatino, Roma. Foto: Anthony Majanlahti en Flickr. CC-By_
@@ -1816,11 +1822,6 @@ La revista Espores dedicó un artículo al [acanto en el arte](https://espores.o
 
 ![Hoja de acanto](images/jard11mitoacanto.jpg)
 &emsp;&emsp;_El mito de la creación del orden corintio, según un dibujo de la traducción francesa de Vitruvio por Claude Perrault en 1689. Columnas corintias con capiteles de hoja de acanto en el Panteón de Roma. Foto: Carole Raddato CC-By-Sa_
-
-
-***
-
-![JardinPabellon 4](images/jard15pabellon4b.jpg)
 
 << [Volver al ÍNDICE](#indice-de-jardines)
 ![Barra verde](images/jard01barraverde.jpg)
