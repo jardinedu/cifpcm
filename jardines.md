@@ -963,6 +963,24 @@ El género fue descrito por Robert Brown y publicado en [Narrative of a Journey 
 
 No fue hasta 1844 cuando Robert Fortune importó a Inglaterra los primeros ejemplares vivos de _Abelia chinensis_.
 
+***
+
+![Cineraria](images/specpcineraria2026.jpg)
+
+### Cineraria
+_Jacobaea maritima_
+
+Anteriormente conocida como _Cineraria maritima_, _Senecio cineraria_, _Senecio bicolor subsp. cineraria_. Nombres comunes: Cineraria, silver ragwort (literalmente Hierba cana de plata), dusty miller (literalmente: molinero polvoriento)
+
+Son plantas perennes nativas de la región mediterránea. Muy cultivadas como ornamental por el color grisáceo de sus hojas aterciopeladas. Como en otras plantas grises, este color es una adaptación a la alta insolación, combinada con texturas sedosas, pelillos, etc en la superficie de las hojas.
+
+**Etimología**: _Jacobaea_ podría provenir de San Jacob o San Jacobo, uno de los 12 apóstoles o (en referencia a la isla de Santiago (Cabo Verde). El nombre científico aceptado actualmente (Jacobaea) fue propuesta por el botánico escocés Philip Miller en la publicación ”The Gardeners dictionary, containing the methods of cultivating and improving the kitchen, fruit and flower garden, as also the physick garden, wilderness, conservatory and vineyard” de 1754. _maritima_ por su preferencia de habitats cercanos al mar.
+
+![Cineraria](images/jard2026cinerilust.jpg)
+&emsp;&emsp;_Ilustración de cineraria en "Flora de bolsillo ilustrada del litoral mediterráneo, de Génova a Barcelona, incluida Córcega. Ottone Penzig, 1902_
+
+
+En BHL se puede encontrar la digitalización de [Flore coloriée de poche du littoral méditerranéen de Gênes à Barcelone y compris la Corse](https://www.biodiversitylibrary.org/bibliography/9960), 1902, de Ottone Penzig, **Biodiversity Heritage Library (BHL)** es la "biblioteca digital de acceso abierto más grande del mundo dedicada a la literatura y los archivos sobre biodiversidad". Comenzó en 2006, y con 20 años de recorrido, ofrece acceso gratuito a más de 64 millones de páginas y atiende a más de 16 millones de usuarios en más de 240 países y territorios. En 2026, la BHL inició una nueva etapa como una organización totalmente distribuida y gobernada por su propia comunidad, manteniendo su compromiso de larga data con el acceso abierto, la colaboración y la gestión compartida del conocimiento sobre la biodiversidad. Fue fundada inicialmente por 10 instituciones, entre otras: American Museum of Natural History; Harvard University, Botany Libraries; Missouri Botanical Garden; Natural History Museum, London; The New York Botanical Garden; Royal Botanic Gardens, Kew.
 
 ***
 ***
