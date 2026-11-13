@@ -1604,10 +1604,10 @@ A lo largo de 2026 intenté crear una pequeña colección de Calateas y Marantas
 ![Lomaria](images/specpsoceaniopterisg.jpg)
 &emsp;&emsp;_Ilustración del libro de Labillardière._
 
-Helecho enano
+### Helecho enano
 _Oceaniopteris gibba_
 
-Es nativo de Nueva Caledonia. Puede crecer más de 1 metro, con un falso tronco que en realidad es un rizoma. Prefiere suelos ácidos y semisombra y es muy poco tolerante a temperaturas pore debajo de 15 °C. Fue descubierto por el botánico francés Jacques-Julien Houtou de Labillardière en Nueva Caledonia durante una expedición francesa que buscaba el paradero del explorador perdido Jean-François de La Pérouse. 
+Es nativo de Nueva Caledonia. Puede crecer más de 1 metro, con un falso tronco que en realidad es un rizoma. Prefiere suelos ácidos y semisombra y es muy poco tolerante a temperaturas por debajo de 15 °C. Fue descubierto por el botánico francés Jacques-Julien Houtou de Labillardière en Nueva Caledonia durante una expedición francesa que buscaba el paradero del explorador perdido Jean-François de La Pérouse. 
 Tras regresar a Europa, Labillardière publicó la descripción oficial de la planta en 1824 dentro de [Sertum Austro-Caledonicum](https://archive.org/details/LaBillardiereSertumAustroCaledonicumImages), dedicada a la flora de Nueva Caledonia.
 
 
@@ -1621,7 +1621,7 @@ A lo largo de dos siglos, la clasificación botánica de este helecho fue cambia
 • _Struthiopteris gibba_ (1940). El pteridólogo chino Ren-Chang Ching propuso brevemente su inclusión en este género.
 • _Oceaniopteris gibba_ (2016). Los botánicos André Luís de Gasper y Alexandre Salino crearon el género Oceaniopteris tras análisis filogenéticos de la familia _Blechnaceae_. 
 
-Según la denominación actual _Oceaniopteris_ por su origen en Oceanía, y _gibba_ manteniendo el mismo primer epíteto de Labillardière.Este nombre actual destaca su origen geográfico en las islas de Oceanía
+Según la denominación actual _Oceaniopteris_ por su origen en Oceanía, y _gibba_ manteniendo el mismo primer epíteto de Labillardière. Este nombre actual destaca su origen geográfico en las islas de Oceanía.
 
 La **Pteridomanía**, la fiebre victoriana por los helechos. 
 
