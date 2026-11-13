@@ -1593,8 +1593,69 @@ En este jardín de sombra he plantado dos grupos, la variedad tradicional y otra
 
 A lo largo de 2026 intenté crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso donde la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda. Todas son plantas exóticas, de selvas de América Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. Finalmente han desaparecido dos de las Calateas y una de las Marantas, y estoy intentando (noviembre 2026) trabajar con algunos helechos de tamaño pequeño. En proyecto está combinar estas plantas con algún ejemplos de planta de laurisilva.
 
+![4 helechos](images/jard2026helechos2.jpg)
+
+. Asplenium antiquum "osaka"
+. Asplenium nidus
+. Oceaniopteris gibba (Blechium Blechnum gibbon)
+. Pheblodium
+
+
+![Lomaria](images/specpsoceaniopterisg.jpg)
+&emsp;&emsp;_Ilustración del libro de Labillardière._
+
+Helecho enano
+_Oceaniopteris gibba_
+
+Es nativo de Nueva Caledonia. Puede crecer más de 1 metro, con un falso tronco que en realidad es un rizoma. Prefiere suelos ácidos y semisombra y es muy poco tolerante a temperaturas pore debajo de 15 °C. Fue descubierto por el botánico francés Jacques-Julien Houtou de Labillardière en Nueva Caledonia durante una expedición francesa que buscaba el paradero del explorador perdido Jean-François de La Pérouse. 
+Tras regresar a Europa, Labillardière publicó la descripción oficial de la planta en 1824 dentro de [Sertum Austro-Caledonicum](https://archive.org/details/LaBillardiereSertumAustroCaledonicumImages), dedicada a la flora de Nueva Caledonia.
+
+
+![Helecho enano y su distribución mundial](images/jard2026gibbonconubi.jpg)
+&emsp;&emsp;_Helecho en el jardín y su distribución mundial._
+
+A lo largo de dos siglos, la clasificación botánica de este helecho fue cambiando a medida que avanzaron los estudios genéticos y morfológicos.
+
+• _Lomaria gibba_ (1824). Nombre original asignado por Labillardière. _gibba_ (jorobada o abultada) por la forma de sus estructuras reproductivas o frondes.
+• _Blechnum gibbum_ (1856). El botánico alemán Georg Heinrich Mettenius lo transfirió al género Blechnum, denominación con la que se hizo mundialmente famoso en viveros y jardines botánicos.
+• _Struthiopteris gibba_ (1940). El pteridólogo chino Ren-Chang Ching propuso brevemente su inclusión en este género.
+• _Oceaniopteris gibba_ (2016). Los botánicos André Luís de Gasper y Alexandre Salino crearon el género Oceaniopteris tras análisis filogenéticos de la familia _Blechnaceae_. 
+
+Según la denominación actual _Oceaniopteris_ por su origen en Oceanía, y _gibba_ manteniendo el mismo primer epíteto de Labillardière.Este nombre actual destaca su origen geográfico en las islas de Oceanía
+
+La **Pteridomanía**, la fiebre victoriana por los helechos. 
+
+A mediados del siglo XIX, la especie llegó a los invernaderos europeos en pleno auge de la pteridomanía o fiebre victoriana por los helechos. El uso de las cajas de Ward permitió transportar ejemplares vivos desde el Pacífico sin que murieran durante las largas travesías marítimas. La demanda fue tan extrema que los recolectores comerciales arrasaron poblaciones enteras de helechos silvestres en el campo británico. Algunas especies raras fueron llevadas casi al borde de la extinción local. La _woodsia oblonga_, la _woodsia alpina_, el helecho de Killarney, estuvieron a punto de extinguirse. Uno de los libros más conocidos que manejaban los cazadores de helechos [The Ferns of Great Britain and Ireland](https://archive.org/details/mobot31753002807086) con 51 placas impresas con un peculiar método: los helechos se impresionaron sobre planchas de plomo blando y fueron electrochapadas para convertirse en la placa de impresión, los detalles de las hojas y el tallo, coloreadas a mano. Hacia finales del siglo XIX, el interés por los helechos fue perdiendo fuerza frente a nuevas obsesiones botánicas.
+
+![The ferns W.alpina](images/jard2026fernwalpina.jpg)
+&emsp;&emsp;_Woodsia alpina, casi desaparecida, en el libro The Ferns of..._
+
+La Pteridomanía no hubiera sido posible sin la **Wardian case**, que además propició episodios de extractivismo colonialista que cambiaron la historia de regiones enteras del planeta.
+
+![Cajas de Ward](images/jard2026ilustlibroward.jpg)
+&emsp;&emsp;_Dibujos de cajas de Ward de su propio libro._
+
+**La caja de Ward**. Nathaniel Ward era un médico apasionado por la botánica. Los helechos en su jardín de Londres estaban siendo envenenados por la contaminación del aire de Londres (humo de carbón y ácido sulfúrico). Fue un invento casual: Ward guardó capullos de polillas y similares en botellas de vidrio selladas. En una encontró que en su interior habían germinado y estaban creciendo una espora de helecho y una hoja de hierba. Dejó intacto el sello durante 4 años, y notó que había florecido. Al comprender las posibilidades, hizo que un carpintero le construyera una caja de madera con cristales completamente hermética, y descubrió que los helechos crecían perfectamente en su interior, convertido en una especie de minibiosfera. 
+
+Una caja de Ward era un contenedor protector, para plantas, completamente sellado (un tipo primitivo de terrarium). En el siglo XIX obtuvo gran uso, para proteger plantas exóticas importadas a Europa desde países remotos, la mayoría de las cuales, en intentos anteriores, había muerto, debido a los largos viajes por mar. La caja de Ward fue precursora directa del moderno terrario y del vivarium. Su libro, de apenas 170 páginas sería una herramienta fundamental en los colonialismos extractivistas del siglo XIX.  [On the Growth of Plants in Closely Glazed Cases](https://archive.org/details/ongrowthplantsc00ward/page/ii/mode/2up) se puede consultar directamente en archive.org.
+
+![Cajas de Ward](images/jard2026oldwardcases.jpg)
+&emsp;&emsp;_Cajas de Ward supervivientes de los viajes en velero, de Reino Unido y Alemania._
+
+Desde finales del siglo XVI, los botánicos y comerciantes ingleses habían estado explorando el mundo en busca de nuevas plantas, pero debían transportar solamente sus semillas, o cormos, o rizomas o raíces secas. La falta de agua no salobre, luz, aire fresco y cuidado suficiente, así como el aire salado, a menudo destruían todas o casi todas las plantas. Con las nuevas cajas de Ward, las plantas jóvenes tiernas podían colocarse en la cubierta para beneficiarse de la luz del día. Al mismo tiempo, la humedad condensada dentro de la caja las mantenía irrigadas, pero protegidas del rocío salado del mar. 
+
+Las cajas de Ward tuvieron un papel fundamental en varios hitos del pillaje colonial de los recursos de otros paises: 
+
+- En 1848, Robert Fortune —cazador de plantas y miembro de la Sociedad de Horticultura de Londres—, disfrazado de comerciante chino, sacó de contrabando de China hacia la India cerca de 20 000 plántulas y plantas de té, valiéndose para ello de cajas Ward, rompiendo el monopolio mundial de China sobre el té y sentando las bases de la industria del té en la India, uno de los actos de espionaje botánico más famosos de la historia.
+- En 1876, el explorador Henry Wickham sacó de contrabando del Amazonas hacia Londres cerca de 70 000 semillas del árbol del caucho, _Hevea brasiliensis_. Tras ser cultivadas y transportadas en cajas Ward estas semillas sirvieron de base para la industria del caucho en Asia.
+- Expediciones británicas y holandesas usaron las cajas de Ward para trasladar árboles de quina (_Cinchona_) desde los Andes sudamericanos hasta la India y Java. La producción masiva de quinina permitió a los ejércitos y colonos europeos sobrevivir a la malaria, facilitando la expansión imperial en África y Asia.
+
+Artículo interesante: [The Wardian Case: How a Simple Box Moved the Plant Kingdom. 2017](https://arboretum.harvard.edu/arnoldia-stories/the-wardian-case-how-a-simple-box-moved-the-plant-kingdom/)
+
+***
+
 ![Coleccion de Calateas y Marantas](images/specpsmarantasycalateas.jpg)
-&emsp;&emsp;_Colección de Calateas y Marantas, casi desaparecidas todas ellas._
+&emsp;&emsp;_Colección inicial de Calateas y Marantas._
 
 ### Marantas
 _Maranta leuconeura_  y _Maranta leuconeura_ variegata (tricolor) 
@@ -1622,17 +1683,6 @@ _Goeppertia louisae_, 💀 _Calathea Roseopicta_ Crimson y 💀 _Goeppertia pict
 _Calathea_ es un género de plantas con flores perteneciente a la familia _Marantaceae_, con alrededor de 60 especies. Originarias de las Américas tropicales, muchas de estas especies son populares como plantas de maceta. Las hojas de _Calathea_ suelen ser grandes y con patrones coloridos con colores como rosa, naranja, rojo y blanco, y envés suele ser morado.
 
 Este género prefiere luz baja o media, y necesitan una humedad alta para imitar su hábitat natural. La especie se introdujo por primera vez como planta de interior en las décadas de 1970 y 1980. Con el paso de los años, las Calateas se han convertido en una planta de interior popular gracias a sus atractivas hojas. Debido a la destrucción del hábitat, varias especies están en peligro de extinción. De las tres Calateas que intenté arraigar solo queda una. 
-
-### Helechos
-
-![5 helechos](images/jard2026helechos.jpg)
-
-. Asplenium antiquum "osaka"
-. Oceaniopteris gibba (Blechium Blechnum gibbon)
-. Asplenium nidus 
-. Phlebodium blue star 
-. Pheblodium
-
 
 ***
 
