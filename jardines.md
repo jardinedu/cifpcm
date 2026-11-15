@@ -1594,11 +1594,7 @@ En este jardín de sombra he plantado dos grupos, la variedad tradicional y otra
 A lo largo de 2026 intenté crear una pequeña colección de Calateas y Marantas, situada en un sitio muy de paso donde la altura del parterre permite verlas muy de cerca. La zona es sombría y relativamente húmeda. Todas son plantas exóticas, de selvas de América Central y Sur, diversificadas en muchos cultivares espectaculares al gusto de un público aficionado a jardinería de interior, supongo. Finalmente han desaparecido dos de las Calateas y una de las Marantas, y estoy intentando (noviembre 2026) trabajar con algunos helechos de tamaño pequeño. En proyecto está combinar estas plantas con algún ejemplos de planta de laurisilva.
 
 ![4 helechos](images/jard2026helechos2.jpg)
-
-. Asplenium antiquum "osaka"
-. Asplenium nidus
-. Oceaniopteris gibba (Blechium Blechnum gibbon)
-. Pheblodium
+&emsp;&emsp;_Asplenium antiquum "osaka" | Asplenium nidus | Oceaniopteris gibba | Pheblodium._
 
 
 ![Lomaria](images/specpsoceaniopterisg.jpg)
