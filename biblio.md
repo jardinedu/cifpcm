@@ -105,6 +105,17 @@ Soy una firme defensora de un tratamiento pictórico del jardín y el bosque, pr
 He aprendido mucho de los pequeños jardines rurales que contribuyen a que nuestros caminos ingleses sean los más bonitos del mundo templado. Es difícil entrar en el jardín rural más pequeño sin aprender u observar algo nuevo. Pueden ser dos plantas que crecen maravillosamente juntas por una feliz casualidad, o una bonita maraña de enredaderas, o algo que siempre se pensó que debía tener una pared sur que prosperaría mejor en una este. Pero la vista y la mente deben estar alerta para recibir la impresión y ser estudiosos para almacenarla, para enriquecer el acervo de experiencias.
 > <cite>― [Gertrude Jekyll](https://www.countrylife.co.uk/gardens/gardening-tips/great-british-garden-makers-gertrude-jekyll-25395)</cite>
 
+![separador](images/bseparadorverde1000px.jpg)
+
+![Paseando entre jardines](images/bpaseandoarnoldo1000px.jpg)
+**Paseando entre jardines**. Arnoldo Santos. Revista Rincones del Atlántico número 5. 2008.
+
+Un recorrido por la jardinería en Canarias desde el siglo XV hasta la actualidad, desde los jardines nobles y de las  acomodadas hasta los jardines humildes, de esos patios populares donde se utilizan latas de aceite en lugar de macetas porque no se pueden permitir otra cosa. Enumera un catálogo amplísimo de científicos y viajeros, especies de todo el planeta que han ido pasando por las islas e incorporándose a nuestro paisaje. Al final hace una acertada defensa del uso de flora canaria en jardinería, con las precauciones necesarias para que no surjan nuevos problemas de invasoras canarias en nuestras propias islas. 
+
+Se puede [leer online en la web de Rincones del Atlántico](https://www.rinconesdelatlantico.es/num5/5_arnoldo.html)
+
+
+
 ***
 
 ![el maestro jardinero](images/belmaestrojardinero1000px.jpg)
