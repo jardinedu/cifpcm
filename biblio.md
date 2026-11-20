@@ -298,15 +298,13 @@ El Jardín Botánico de El Portillo se denomina desde 2024 ‘Jardín Botánico 
 ![Postal Sitio Litre](images/0922litrepostal.jpg)
 
 El Jardín Sitio Litre es un jardín de propiedad privada que mantiene una gran colección de plantas tropicales y subtropicales en el Puerto de la Cruz. Es el jardín más antiguo de Tenerife con más de 220 años. 
-El nombre actual le viene dado por su primer propietario Archibald Little, quien compró la finca en 1774, dando lugar a que esta hacienda se denominase _Little´s Place_ o el _Sitio Little_, localmente transformado en _Sitio Litre_ para los isleños.
-Little realizó un conjunto de reformas para convertirla en un lugar de ocio y distracción. De este modo, la mansión fue reestructurada para transformarse en una fonda o quinta de descanso. Archibald Little, además, diseñó un jardín al característico estilo británico en el que plantó especies típicas de la flora canaria y tropical. 
 
-![Vista del jardín Sitio Litre](images/0924litrevista.jpg)
-&emsp;&emsp;_Foto Till Krech.CCBy_
+El nombre actual le viene dado por su primer propietario Archibald Little, quien compró la finca en 1774, dando lugar a que esta hacienda se denominase _Little´s Place_ o el _Sitio Little_, localmente transformado en _Sitio Litre_ para los isleños. Little realizó un conjunto de reformas para convertirla en un lugar de ocio y distracción. De este modo, la mansión fue reestructurada para transformarse en una fonda o quinta de descanso. Archibald Little, además, diseñó un jardín al característico estilo británico en el que plantó especies típicas de la flora canaria y tropical. Actualmente (2026) las especies nativas son muy pocas, en la última visita no conté más de dos (_Dracaena draco_ y _Kleinia neriifolia_, quizá nacida espontáneamente) y dominan plantas vistosas, incluyendo una extensa colección de orquídeas
+
+![Vista del jardín Sitio Litre](images/0940sitiolitre2.jpg)
 
 La casona del Sitio Litre es de estilo colonial con elementos de arquitectura doméstica canaria. El edificio está rematado por un mirador octogonal de estilo inglés colonial.
-Sitio Litre fue lugar de estancia o de visita para muchos extranjeros que visitaban la isla, como André Pierre Ledru, Humboldt, Marianne North,, Alfred Diston, Charles Piazzi Smyth, Agatha Christie o Richard F. Burton. 
-En 1852 fue vendido a Charles Smith y en 1996 a John Lucas, quien abrió al público los jardines.
+Sitio Litre fue lugar de estancia o de visita para muchos extranjeros que visitaban la isla, como André Pierre Ledru, Humboldt, Marianne North, Alfred Diston, Charles Piazzi Smyth, Agatha Christie, William Wilde (famoso médico y padre de Óscar Wilde) o Richard F. Burton. En 1852 fue vendido a Charles Smith y en 1996 a John Lucas, quien abrió al público los jardines.
 
 ![Marianne North en Ceilán](images/0926mariannecameron.jpg)
 &emsp;&emsp;_Marianne North fotografiada por Julia Margaret Cameron en Ceilán, la actual Sri Lanka, 1877_
