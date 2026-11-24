@@ -9,7 +9,7 @@ feature_image:
 ![Cabecera proyecto 2026](images/proyecto202601portada.jpg)
 
 
-El proyecto **Un viaje cultural a través de los jardines/2026** es una continuación del trabajo iniciado en 2018, que se ha ido construyendo de forma orgánica a la vez que extendiendo sus límites, ocupando gradual y lentamente nuevos parterres del Centro, adaptando la filosofía general a cada caso. Es un relato que recorre 9 años de trabajo con las plantas.
+El proyecto **Un viaje cultural a través de los jardines/2026** es una continuación del trabajo iniciado en 2018. Desde ese año he ido construyendo de forma orgánica diversos jardines, a la vez que extendiendo mis límites y ocupando gradual y lentamente nuevos parterres del Centro, adaptando la filosofía general a cada caso. Es un relato que recorre 9 años de trabajo con las plantas.
 
 En 2026, a partir de septiembre, estoy empezando a trabajar con nuevas zonas. Hay pocos objetivos, pero importantes: construir jardines adecuados en cada zona y aumentar el uso de flora nativa. Se está colaborando con Carlos, profesor jubilado colaborador del IES El Sobradillo, donde se imparten Ciclos Formativos de Agraria. Este profesor está impulsando en varios Centros el uso de flora nativa en jardinería. Como ya había hecho en años anteriores, estoy haciendo las peticiones de planta en el Vivero de Flora Insular La Tahonilla del Cabildo de Tenerife. 
 
@@ -166,6 +166,8 @@ En el aparcamiento superior actualmente hay varios árboles: flamboyant (_Deloni
 
 * * *
 
+![Nativas recien llegadas](images/jard13nativasoct2026.jpg)
+
 _Lista de especies nativas_
 
 - Cardón - _Euphorbia canariensis_
@@ -187,7 +189,10 @@ _Lista de especies nativas_
 ![contraportada](images/proyecto202618contraportada.jpg)
 
 
-***
-url: [www.jardinedu.es](https://jardinedu.github.io/cifpcm/inicio) / contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
+---
+
+[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIO.-REFER.-APÉND.](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
+
+contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
 
 ***
