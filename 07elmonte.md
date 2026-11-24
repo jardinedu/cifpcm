@@ -52,6 +52,7 @@ La historia de las rosas, su popularización a partir del jardín de La Malmaiso
 &emsp;&emsp;_Tres rosas amarillas ca.1817-1824, ilustraciones de Pierre-Joseph Redouté, en les Roses ([I](https://archive.org/details/CAT30984991_01)) ([II](https://archive.org/details/CAT30984991_02)) ([III](https://archive.org/details/CAT30984991_03))_
 
 
----
+[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIOGRAFÍA-REFERENCIAS-APÉNDICES](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
 
-[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIO.-REFER.-APÉND.](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
+contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
+
