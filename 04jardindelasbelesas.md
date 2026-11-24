@@ -49,6 +49,11 @@ En lugar de _embelesar_ en Casnarias se usó la expresión _embarbascar_ (o enva
 Datos extraídos del muy interesante trabajo: [Etimología e historia de un fitónimo canario y cubano. Embeleso: ‘belesa’](https://riull.ull.es/xmlui/bitstream/handle/915/16342/RF_25_%282007%29_15.pdf)
 
 
----
 
-[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIO.-REFER.-APÉND.](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
+
+[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIOGRAFÍA-REFERENCIAS-APÉNDICES](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
+
+contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
+
+
+
