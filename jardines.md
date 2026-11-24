@@ -7,10 +7,7 @@ feature_image:
 
 ![Vista inicial](images/00jardinesvistainicial2.jpg)
 
-La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. Salvando muchas distancias, como Sissinghurst, para entendernos.
-
-##### ÍNDICE DE JARDINES. 
-Visión general de cada jardín, con descripción de las especies utilizadas (generalmente ordenadas por orden de llegada) y todo dato que me parezca interesante sobre etimología de las plantas, historia de su descubrimiento, usos en jardinería y cualquier asunto relacionado que aparezca en mi camino, porque cada planta tiene una historia que contar.
+La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de jardines*. A partir de este **ÍNDICE** se puede tener una visión general de cada jardín, con descripción de las especies utilizadas (generalmente ordenadas por orden de llegada) y todo dato que me parezca interesante sobre etimología de las plantas, historia de su descubrimiento, usos en jardinería y cualquier asunto relacionado que aparezca en mi camino, porque cada planta tiene una historia que contar.
 
 1. [El primer jardín](https://jardinedu.github.io/cifpcm/01elprimerjardin)
 2. [Jardines de los frangipanes](https://jardinedu.github.io/cifpcm/02jardinesdelosfrangipanes)
