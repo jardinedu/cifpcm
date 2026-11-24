@@ -13,15 +13,15 @@ La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de
 Visión general de cada jardín, con descripción de las especies utilizadas (generalmente ordenadas por orden de llegada) y todo dato que me parezca interesante sobre etimología de las plantas, historia de su descubrimiento, usos en jardinería y cualquier asunto relacionado que aparezca en mi camino, porque cada planta tiene una historia que contar.
 
 1. [El primer jardín](https://jardinedu.github.io/cifpcm/01elprimerjardin)
-2. [Jardines de los frangipanes](https://jardinedu.github.io/cifpcm/02jardinesdelosfrangipanes.md)
-3. [Jardín de los filodendros](https://jardinedu.github.io/cifpcm/03jardindelosfilodendros.md)
-4. [Jardines de las belesas](https://jardinedu.github.io/cifpcm/04jardindelasbelesas.md)
-5. [Jardín de la platanera](https://jardinedu.github.io/cifpcm/05jardindelaplatanera.md)
-6. [Tabaibal-Cardonal](https://jardinedu.github.io/cifpcm/06tabaibalcardonal.md)
-7. [El monte](https://jardinedu.github.io/cifpcm/07elmonte.md)
-8. [Jardín de cactus](https://jardinedu.github.io/cifpcm/08.jardindecactus.md)
+2. [Jardines de los frangipanes](https://jardinedu.github.io/cifpcm/02jardinesdelosfrangipanes)
+3. [Jardín de los filodendros](https://jardinedu.github.io/cifpcm/03jardindelosfilodendros)
+4. [Jardines de las belesas](https://jardinedu.github.io/cifpcm/04jardindelasbelesas)
+5. [Jardín de la platanera](https://jardinedu.github.io/cifpcm/05jardindelaplatanera)
+6. [Tabaibal-Cardonal](https://jardinedu.github.io/cifpcm/06tabaibalcardonal)
+7. [El monte](https://jardinedu.github.io/cifpcm/07elmonte)
+8. [Jardín de cactus](https://jardinedu.github.io/cifpcm/08.jardindecactus)
 9. [Jardín de L.](https://jardinedu.github.io/cifpcm/09jardindel)
-10. [Proyecto 2026]([#10-proyecto2026](https://jardinedu.github.io/cifpcm/10proyecto2026.md))
+10. [Proyecto 2026]([#10-proyecto2026](https://jardinedu.github.io/cifpcm/10proyecto2026)
 
 ---
 
