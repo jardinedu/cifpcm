@@ -357,6 +357,8 @@ En término medio se ve la mansión de Sitio Litre con su característico mirado
 
 ## Plazas y parques en Santa Cruz y La Laguna
 
+### Parque García Sanabria
+
 ![Parque Garcia Sanabria](images/0940garciasanabria.jpg)
 
 ![Parque Garcia Sanabria](images/0940garciasanabria2.jpg)
@@ -366,22 +368,30 @@ Con apenas un siglo de existencia (se aprobó el proyecto en 1926) se le conside
 En 2004-2006 tuvo una reforma en la que se eliminaron o reformaron definitivamente las zonas destinadas a animales y se conectó con la Rambla todo el lado oeste.
 Encontramos más de 300 especies: palmeras, dragos, flamboyants, laureles de Indias, jacarandás, tuliperos de Gabón, ficus, hibiscos, ceibas, tamarindos.
 
+![separador](images/bseparadorverde1000px.jpg)
+
+### Plaza del Orche
 
 ![Plaza del Orche](images/0940orche.jpg)
 &emsp;&emsp;_Plaza del Orche, Santa Cruz de Tenerife_
 
 Creada en 2025 donde antes hubo una zona de aparcamientos, el proyecto de jardinería restituyó una fila de flamboyants, incluyó un grupo de palmeras, creó un amplio parterre elíptico y otro concéntrico a la antigua farola que ocupa el centro de la nueva plaza. En los parterres se ha optado por vegetación de bajo mantenimiento;: gauras, tulbagias, filodendros, etc. En los alcorques de los flamboyanes se ha optado por una selección de plantas nativas de muy bajo mantenimiento: magarza, incienso, lavanda, siempreviva, todas ellas de las variedades canarias. Es pues, el ajardinamiento más sostenible y responsable de todos los espacios públicos de Santa Cruz.
 
+![separador](images/bseparadorverde1000px.jpg)
+
+### Plaza Weyler
 
 ![Plaza Weyler](images/0940weyler.jpg)
 &emsp;&emsp;_Plaza Weyler, Santa Cruz de Tenerife_
 
 Una plaza para circular por ella, con diferentes tratamientos, desde grandes grupos de capas de la reina a la sombra de los laureles de Indias hasta la rosaleda soleada que rodea la fuente central. En varios parterres se usan bordes de roheo y otras especies y en general es un tratamiento casi decimonónico, al gusto francés.
 
+![separador](images/bseparadorverde1000px.jpg)
+
+### Plaza del Adelantado
 
 ![Plaza del Adelantado](images/0940adelantado.jpg)
 &emsp;&emsp;_Plaza del Adelantado, La Laguna_
-
 
 La Plaza del Adelantado es el espacio central en torno al cual se definirá la Villa de Abajo de La Laguna (La Villa de Arriba se concentra en torno a la Iglesia de la Concepción desde 1497). La plaza recibe este nombre porque el primer Adelantado, conquistador de La Palma y Tenerife, Don Alonso Fernández de Lugo, construyó su segunda residencia en un extremo de la Plaza de Abajo, en parte del terreno que hoy ocupa el convento de Santa Clara. Inicialmente, el Adelantado la bautizó como San Miguel de Los Ángeles, convirtiéndose posteriormente en Plaza Mayor de la Villa, aunque se sigue conociendo como Plaza del Adelantado. El Adelantado dispuso un trazado ordenado, en cuadrícula. En el primer plano de la ciudad, del ingeniero Leonardo Torriani hacia 1558 se ve cómo las calles y los límites que definen el casco permanecen prácticamente inalterados hasta nuestros días. La Plaza del Adelantado, señalada como G, es un espacio cuadrangular con la característica fuente, aún vacío, pero ya con un espacio igual al actual, aunque de ese entorno solo quedan hoy la Ermita de San Miguel, marcada como F, y quizá algún inmueble. 
 
@@ -397,7 +407,26 @@ Encontramos especies endémicas o macaronésicas, de origen asiático, australia
 
 **Relación de especies**: Ailanto (_Ailanthus altissima_), Ciprés (_Cupressus sempervirens_), Jacarandá (_Jacaranda mimosifolia_), Magnolio (_Magnolia grandiflora_), Plátano (_Platanus x hispanica_), Barbusano (_Apollonias barbujana_), Drago (_Dracaena draco_), Lagunaria (_Lagunaria patersonii_), Viñático (_Persea indica_), Rosal (_Rosa sp._), Mucuteno (_Cassis spectabile_), Laurel de Indias (_Ficus microcarpa_), Aligustre (_Ligustrum lucidum_), Palmera canaria (_Phoenix canariensis_), Tipuana (_Tipuana tipu_), Palmito (_Chamaerops humilis_), Roble australiano (_Grevillea robusta_), Palmera de abanico (_Livistonia chinensis_), Pitosporo (_Pittosporum undulatum_), Olmo (_Ulmus minor_).
 
+![separador](images/bseparadorverde1000px.jpg)
+
+### Jardines del Instituto de Canarias
+
+![Plaza del Adelantado](images/0940cabrerapinto.jpg)
+
+El Instituto de Canarias es el primer y más antiguo instituto en activo de toda Canarias. Se fundó en 1846, en el ex-convento de San Agustín, uno de los más antiguos de La Laguna (de alrededor de 1560). Actualmente es la sede de varios museos y comparte espacio con la Sala de Arte del Instituto de Canarias Cabrera Pinto, gestionada por el Gobierno de Canarias. Tiene varios patios, interiores y exteriores. Se rehabilitó en 1997.
+
+Desde la época como convento seguramente ha ido cambiando su patrimonio vegetal. Existen referencias anteriores, pero la descripción más completa de su flora se publicó en 2001 en el Anuario del Instituto de Estudios Canarios, por Wolfredo Wildpret y otros.
+
+https://www.museocabrerapinto.es/publicaciones/pdf/el-jardin-del-instituto-de-canarias.pdf
+
+Ya en ese momento se señalaba su abundancia de especies tropicales y subtropìcales. pero se advertía de cierto estado de abandono de los jardines. El abandono es más patente en 2026: uno de los naranjos casi agoniza, hay plantas en mal estado junto a otras sobrecrecidas. Ni siquiera se puede circular por el jardín, porque alguien lo ha decidido así, y en su pobreza de espíritu ha colocado papeleras obstruyendo los caminos. En 2001 se citan, entre otras especies: 
+
+_Laurus azorica_ (Loro, laurel); _Citrus sinensis_ (Naranjo); _Camellia japonica_ (Camelia); _Phormium tenax_ (Lino de Nueva Zelanda); _Yucca recurvifolia_ (Yuca); _Monstera deliciosa_ (Costilla de Adán); _Archontophoenix cunninghamiana_ (Palmera de Cunningham); _Aspidistra elatior_ (Hoja de salón): _Strelitzia reginae_ (Flor ave del paraíso); _Acantus mollis_ (Acanto). 
+
+
 ![Barra verde](images/jard01barraverde.jpg)
+
+
 
 # Apéndice 2: Otros proyectos, otras ideas
 
