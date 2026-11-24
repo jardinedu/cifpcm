@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jardines
+title: 
 description: 
 feature_image: 
 ---
