@@ -18,7 +18,7 @@ La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de
 7. [El monte](https://jardinedu.github.io/cifpcm/07elmonte)
 8. [Jardín de cactus](https://jardinedu.github.io/cifpcm/08.jardindecactus)
 9. [Jardín de L.](https://jardinedu.github.io/cifpcm/09jardindel)
-10. [Proyecto 2026]([#10-proyecto2026](https://jardinedu.github.io/cifpcm/10proyecto2026)
+10. [Proyecto 2026](https://jardinedu.github.io/cifpcm/10proyecto2026)
 
 ---
 
