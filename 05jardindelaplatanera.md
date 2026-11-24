@@ -33,10 +33,10 @@ La revista Espores dedicó un artículo al [acanto en el arte](https://espores.o
 ![Hoja de acanto](images/jard11mitoacanto.jpg)
 &emsp;&emsp;_El mito de la creación del orden corintio, según un dibujo de la traducción francesa de Vitruvio por Claude Perrault en 1689. Columnas corintias con capiteles de hoja de acanto en el Panteón de Roma. Foto: Carole Raddato CC-By-Sa_
 
-<< [Volver al ÍNDICE](#indice-de-jardines)
-![Barra verde](images/jard01barraverde.jpg)
 
 
----
+[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIOGRAFÍA-REFERENCIAS-APÉNDICES](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
 
-[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIO.-REFER.-APÉND.](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
+contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
+
+
