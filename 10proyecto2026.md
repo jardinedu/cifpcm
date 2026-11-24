@@ -189,10 +189,10 @@ _Lista de especies nativas_
 ![contraportada](images/proyecto202618contraportada.jpg)
 
 
----
+
 
 [INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIO.-REFER.-APÉND.](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
 
 contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
 
-***
+
