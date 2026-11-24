@@ -12,7 +12,7 @@ La propia dinámica de los sitios ha ido llevando este proyecto a un *jardín de
 ##### ÍNDICE DE JARDINES. 
 Visión general de cada jardín, con descripción de las especies utilizadas (generalmente ordenadas por orden de llegada) y todo dato que me parezca interesante sobre etimología de las plantas, historia de su descubrimiento, usos en jardinería y cualquier asunto relacionado que aparezca en mi camino, porque cada planta tiene una historia que contar.
 
-1. [El primer jardín](https://jardinedu.github.io/cifpcm/01elprimerjardin.md)
+1. [El primer jardín](https://jardinedu.github.io/cifpcm/01elprimerjardin)
 2. [Jardines de los frangipanes](https://jardinedu.github.io/cifpcm/02jardinesdelosfrangipanes.md)
 3. [Jardín de los filodendros](https://jardinedu.github.io/cifpcm/03jardindelosfilodendros.md)
 4. [Jardines de las belesas](https://jardinedu.github.io/cifpcm/04jardindelasbelesas.md)
@@ -154,10 +154,10 @@ Visión general de cada jardín, con descripción de las especies utilizadas (ge
 </table>
 
 
-***
+
 
 [INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIOGRAFÍA-REFERENCIAS-APÉNDICES](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
 
 contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
 
-***
+
