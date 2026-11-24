@@ -19,6 +19,7 @@ He tenido que cambiar alguna planta, por mi falta de experiencia en este tipo de
 En la imagen, las plantas del parterre en noviembre 2026: **Fila superior**: _Euphorbia trigona_; _Dasylirion serratifolium_; arriba y abajo _Echeverias_; arriba _Senecio barbertonicus_; abajo un grupito formado por _Cotyledon gigantea_, _Crassula capitella_ y _Sedum burrito_; _Tradescantia spathacea_; _Cineraria maritima_; _Abelia grandiflora_; _Chrysanthemum pacificum_. **Fila inferior**: _Salvia rosmarinus_; _Lavandula angustifolia_; _Salvia rosmarinus postratus_; _Cordyline purple_; _Myrtus communis_; _Metrosideros excelsa_; _Teucrium chamaedrys_.
 
 
----
+[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIOGRAFÍA-REFERENCIAS-APÉNDICES](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
 
-[INICIO](https://jardinedu.github.io/cifpcm/inicio) | [ÍNDICE DE JARDINES](https://jardinedu.github.io/cifpcm/jardines) | [BIBLIO.-REFER.-APÉND.](https://jardinedu.github.io/cifpcm/biblio) | [PROYECTO2026](https://jardinedu.github.io/cifpcm/proyecto2026) | [VISUAL](https://jardinedu.github.io/cifpcm/visual) | [NOTAS](https://jardinedu.github.io/cifpcm/notas)
+contacto: correoprofe@proton.me / [bio](https://jardinedu.github.io/cifpcm/about) 
+
