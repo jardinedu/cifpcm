@@ -12,19 +12,17 @@ feature_image:
 ![Nov 2024](images/jard10noviembre2024.jpg)
 &emsp;&emsp;_Noviembre 2024_
 
-Estos dos largos parterres, de unos 17 metros cada uno, estaban ocupados por cuatro árboles, ejemplares de flamboyán de más de 20 años de edad. Daban mucha sombra en verano y una floración espectacular hacia el mes de junio. Es una especie muy utilizada en Santa Cruz de Tenerife, y en general abundante en Canarias. En francés _flamboyant_ significa llamativo, vistoso.
-
-Su nombre científico es _Delonix regia_, originaria de Madagascar, donde está en peligro de extinción, mientras que es muy abundante en todo el mundo, especialmente en climas subtropicales.
+Estos dos largos parterres, de unos 17 metros cada uno, estaban ocupados por cuatro árboles, ejemplares de flamboyán de más de 20 años de edad. Daban mucha sombra en verano y una floración espectacular hacia el mes de junio. Es una especie muy utilizada en Santa Cruz de Tenerife, y en general está muy presente en Canarias. En francés _flamboyant_ significa llamativo, vistoso. Su nombre científico es _Delonix regia_, originaria de Madagascar, donde está en peligro de extinción, mientras que es muy abundante en todo el mundo, especialmente en climas subtropicales.
 
 ![Rambla de las tinajas](images/jard10ramblatinajas.jpg)
 &emsp;&emsp;_Rambla de Santa Cruz, bordeada por ejemplares de flamboyán_
 
-Por desgracia las raíces de esta especie son agresivas. Poco a poco fueron levantando el pavimento del patio, y en su búsqueda de agua, además de levantar el pavimento de la plaza central, llegaron subterráneamente hasta los baños del Pabellón 1, donde rompieron conducciones de agua y causaron varios problemas. Por esta razón se talaron en verano de 2022.
+Por desgracia las raíces de esta especie pueden ser agresivas. Poco a poco fueron levantando el pavimento del patio, y en su búsqueda de agua, además de levantar el pavimento de la plaza central, llegaron subterráneamente hasta los baños del Pabellón 1, donde rompieron conducciones de agua y causaron varios problemas. Por esta razón se talaron en verano de 2022.
 
 ![Flamboyanes patio](images/jard10flamboyanespatio.jpg)
 &emsp;&emsp;_Línea de flamboyanes, 2016 (y su diferencia de altura y volumen según nos alejamos de la orientación sur). | Tala en julio 2022._
 
-En 2022 la Vicedirectora Laura me planteó la remodelación de estos dos jardines. Asesorado por un amigo jardinero, propusimos una línea principal de _plumeria_ (también conocido como frangipán), por varias razones: la poca agresividad de sus raíces, su porte mediano, resistencia a la escasez de riegos, la vistosidad de sus flores e incluso su perfume. Además de estos arbolitos, pensé en una organización inicial de plantas que los acompañaran, aunque la jardinería no es una ciencia exacta, y el propio jardín ha ido sugiriendo su forma.
+En 2022 la Vicedirectora Laura me planteó la remodelación de estos dos jardines. Asesorado por un amigo jardinero, propusimos una línea principal de _plumeria_ (también conocido como frangipán), por varias razones: la poca agresividad de sus raíces, su porte mediano, resistencia a la escasez de riegos, la vistosidad de sus flores e incluso su perfume. Además de estos arbolitos, pensé en una organización inicial de plantas que los acompañaran, aunque la jardinería no es una ciencia exacta, y el propio jardín ha ido sugiriendo su forma. El parterre norte tiene menos insolación que el parterre sur. Conseguir una combinación de plantas adaptadas a cada lugar, con floración vistosa y unos mínimos de sostenibilidad ha sido proceso lento, de prueba y error.
 
 ![Proyecto inicial](images/jard10proyectoinicial.jpg)
 &emsp;&emsp;_Proyecto original de remodelación, muy simple, 2022_
@@ -32,15 +30,13 @@ En 2022 la Vicedirectora Laura me planteó la remodelación de estos dos jardine
 ![Proyecto 2025](images/jard10proyecto2025.jpg)
 &emsp;&emsp;_El proyecto, modificado y enriquecindo por la propia dinámica del lugar, tres años después_
 
-El parterre norte tiene menos insolación que el parterre sur. Conseguir una combinación de plantas adaptadas a cada lugar, con floración vistosa y unos mínimos de sostenibilidad ha sido proceso lento, de prueba y error.
+Estos dos parterres, tienen una forma demasiado alargada, una pendiente demasiado pronunciada,  unas diferencias de insolación importante de uno a otro extremo y ni siquiera tienen buenos puntos de vista. Sin embargo son los que han visto más errores y a la vez los que me han dado más satisfacciones y me han obligado a aceptar sus tiempos, y no imponer los míos. Por ejemplo, en 2002 yo mismo escribía _"...tardarán unos años en crecer pero le darán mucha personalidad al patio. En el futuro los frangipanes serán la especie visiblemente dominante pero también se está ajardinando con otras plantas"_. La realidad ha sido que más de la mitad de los frangipanes han muerto varios años después de plantados. Solo considero bien adaptados dos ejemplares. Por otra parte, combinar todas las _otras plantas_ de forma lógica y estética ha sido lo más interesante.
 
 ![Variedades de frangipan primeras flores](images/jard10frangipanprimerasflores.jpg)
 &emsp;&emsp;_Variedades de frangipán con sus primeras flores en el jardín, 2023._
 
 ## Los frangipanes o plumerias
-Se hizo un esfuerzo por conseguir ejemplares de _plumeria_ con flores de colores diversos; las clásicas blancas de centro amarillo y también rosa, fucsia y naranja. Tardarán unos años en crecer pero le darán mucha personalidad al patio. En el futuro los frangipanes serán la especie visiblemente dominante pero también se está ajardinando con otras plantas. 
-
-El frangipán es un árbol pequeño, de flores blancas o en tonos rosa o naranja, muy fragantes. Proviene de México, América central y Venezuela. 
+Se hizo un esfuerzo por conseguir ejemplares de _plumeria_ con flores de colores diversos; las clásicas blancas de centro amarillo y también rosa, fucsia y naranja. El frangipán es un árbol pequeño, de flores blancas o en tonos rosa o naranja, muy fragantes. Proviene de México, América central y Venezuela. 
 Muy habitual en la jardinería tradicional de los patios y casas canarias. En Canarias se le suele llamar _árbol de sebo_. En este jardín hay ejemplares de _Plumeria rubra_, la más habitual en las islas.
 
 Su nombre científico es _Plumeria_, y hay mucha historia detrás: _Plumeria_ fue acuñado en 1700 en honor a Charles Plumier, el “Padre de la Flora de las Indias Occidentales”. Plumier fue un monje, botánico y dibujante muy conocido por sus numerosos dibujos y documentación de sus expediciones a las Indias Occidentales y América Central. Estas fueron encargadas por la corona francesa y fueron parte de un patrón más amplio de imperialismo botánico que vinculó el estudio de la naturaleza al poder político y la expansión territorial. El movimiento de plantas y conocimiento botánico estuvo estrechamente vinculado a las potencias coloniales y sirvió para sostenerlas y enriquecerlas económicamente.
@@ -86,7 +82,7 @@ Además de _Plumeria rubra_ de diferentes colores, hay un ejemplar de _Plumeria 
 
 ### Además de los frangipanes: Las otras especies no nativas de Canarias
 
-En estos parterres también se ha intentado combinar plantas nativas de Canarias con otras exóticas. La proporción actual es aproximadamente 15 exóticas/13 nativas.
+En estos parterres también combino plantas nativas de Canarias con exóticas. La proporción actual es aproximadamente 15 exóticas/13 nativas.
 
 
 ![Tradescantia](images/specptradescantia.jpg)
@@ -399,7 +395,7 @@ _Abelia grandiflora_
 
 Abelia es un género de arbustos que actualmente incluye 6 especies. Originarios del este de Asia, en particular de China, Taiwan y Vietnam se distribuyen por Afganistán y desde el Himalaya hasta el este de Asia, con 2 especies en México.
 
-Son populares como arbustos de jardines y adornos urbanos, por su floración y su perfume. la variedad más extendida es _Abelia × grandiflora_ (_Abelia chinensis_ × _Abelia uniflora_). En general vivir en condiciones adversas. 
+Son populares como arbustos de jardines y adornos urbanos, por su floración y su perfume. la variedad más extendida es _Abelia × grandiflora_, un híbrido de otras dos: _Abelia chinensis_ y _Abelia uniflora_. En general vivir en condiciones adversas. 
 
 El género fue descrito por Robert Brown y publicado en [Narrative of a Journey in the Interior of China](https://dn720309.ca.archive.org/0/items/narrativeofjourn00abel/narrativeofjourn00abel.pdf), 1818. 
 
@@ -454,7 +450,7 @@ _Hypericum canariense_
 
 Se conoce como: granadillo, sanjuanero, malfurada, flor de cruz, espantademonios. En inglés, _Canary Islands St. John'swort_ (hierba de San Juan). Granadillo se explicaría por parecerse en tamaño y forma al granado (_Punica granatum_), prescindiendo de las flores.
 
-En este parterre estaba este granadillo plantado por las profesoras que tuvieron una iniciativa de introducir plantas nativas, hace años. Pensaba que había muerto, pero lentamente ha resurgido y en 2026 ha tenido una floración importante. 
+En este parterre estaba este granadillo plantado por las profesoras que tuvieron una iniciativa de introducir plantas nativas, hace años. Pensaba que había muerto, pero lentamente ha resurgido y en verano de 2026 ha tenido una floración importante. 
 
 Llega a ser un arbusto ramificado, de forma muy variable y hasta 3 m de alto, con tallos leñosos y quebradizos, recubiertos con una corteza de color marrón claro, y que pierde parte del follaje en verano, recuperándolo con las primeras lluvias. Florece en primavera, hacia junio, con flores pequeñas, amarillas, en inflorescencias muy densas y olorosas. 
 
@@ -501,7 +497,7 @@ _Lavandula canariensis_
 
 También llamada mato risco, lavanda, romanillo o yerba risco, es un endemismo canario, frecuente y hasta abundante en barrancos y laderas pedregosas del Cardonal-tabaibal, formando parte de la vegetación típica de ese ecosistema. Aparece menos en áreas cálidas y soleadas de los bosques termófilos.
 En el año 2004 se publicó una revisión del género _Lavandula_ que determinó que hay hasta siete subespecies de esta planta, una por cada una de las islas de nuestro archipiélago
-Las lavandas de este jardín se trajeron de la zona costera del Valle de Güímar. Tras varios intentos una de ellas arraigó y ahora su propia semillas van haciendo que aparezcan nuevas plantas.
+Las lavandas de este jardín se trajeron de la zona costera del Valle de Güímar. Tras varios intentos, una de ellas arraigó y ahora su propia semillas van haciendo que aparezcan nuevas plantas.
 Es resistente a la sequía y a la insolación y es de la misma familia que las lavandas que se utilizan comercialmente para fabricar perfumes, aunque con menos olor. También se han llevado semillas al jardín del patio y allí se está multiplicando.
 
 Desde la primera retirada de malas hierbas nacieron numerosos ejemplares en los dos parterres largos, aunque su desarrollo es muy diferente según la insolación y humedad.
@@ -518,7 +514,7 @@ Endémica de Canarias crece en barrancos, laderas y riscos de la zona central de
 
 _Pterocephalus_ del griego _pteron_, "ala o pluma", y _kephale_ "cabeza", en referencia a la forma plumosa de las flores. _dumetorus_ del latín _dumetum_ "matorral".
 
-Tiene un uso importante como planta ornamental debido a sus vistosas flores y su fácil cultivo. Aunque en este jardín tres años después de su plantación sigue creciendo, pero aún no ha tenido su primera floración. 
+Tiene un uso importante como planta ornamental debido a sus vistosas flores y su fácil cultivo. Cuatro años después de su plantación tuvo su pr9mera floración en verano de 2026.
 
 ![Flores del rosalito](images/jard11rosalitomayo2026.jpg)
 &emsp;&emsp;_Actualización mayo 2026: primera floración del rosalito_.
@@ -556,7 +552,7 @@ _Schizogyne_ procede del griego _schizein_, "partir o separar" y _gyne_, "hembra
 ![Incienso](images/specpincienso.jpg)
 
 ### Incienso
-_Artemisia Thuscula_
+_Artemisia thuscula_
 
 Un ejemplar de esta especie apareció espontáneamente. Ha florecido varias veces de modo que quizá tenga descendencia.
 
@@ -638,11 +634,11 @@ El nombre _guaydil_ se considera una palabra indígena, aunque no se ha podido p
 ![Bencomia](images/specpbencomia.jpg) 
 
 ### Bencomia
-💀 _Bencomia caudata_
+_Bencomia caudata_
 
 Esta planta ya estaba en el jardín, plantada por varias profesoras que tuvieron una iniciativa de introducir flora canaria, vía el vivero del Cabildo. La bencomia prosperó y alcanzó 3-4 metros de altura. 
 
-En verano de 2025, tras una floración, ha ido en retroceso hasta secarse por completo. 
+En verano de 2025, tras una floración, ha ido en retroceso hasta secarse por completo. Afortunadamente, el gran ejemplar que está en los parterres del otro lado del patio, aunque no lo he visto nunca florecer, está en buenas condiciones.
 
 _Bencomia_ es un género de plantas perteneciente a la familia de las rosáceas.
 La bencomia de monte (_Bencomia caudata_) es un endemismo macaronésico presente en Madeira y en Canarias (Tenerife, La Palma y Gran Canaria). Es un arbusto o arbolito de 2 a 4 metros de altura, con una copa amplia y llamativa de color verde oscuro que contrasta con el color marrón o pardo de la corteza.
