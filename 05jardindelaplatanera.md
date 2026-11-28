@@ -5,6 +5,8 @@ description:
 feature_image:
 ---
 
+![separador asterisco verde](images/bseparadorverde1000px.jpg)
+
 # 5. Jardín de la platanera
 
 ![esquema](images/2026esquemajardindelaplatanera.jpg)
