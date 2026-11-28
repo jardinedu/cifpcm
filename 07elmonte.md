@@ -5,6 +5,8 @@ description:
 feature_image: 
 ---
 
+![separador asterisco verde](images/bseparadorverde1000px.jpg)
+
 # 7. El monte
 
 ![Parque norte medicion](images/jard20medicionparcelanorte.jpg)
