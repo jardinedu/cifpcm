@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 description: 
 feature_image: 
 ---
@@ -8,7 +8,7 @@ feature_image:
 
 # 5. Jardín de la platanera
 
-![Jardinde la platanera. esquema](images/2026esquemajardindelaplatanera.jpg)
+![esquema](images/2026esquemajardindelaplatanera.jpg)
 
 ![JardinPabellon 4](images/jard15pabellon4a.jpg)
 
