@@ -5,6 +5,7 @@ description:
 feature_image: 
 ---
 
+![separador asterisco verde](images/bseparadorverde1000px.jpg)
 
 # 4. Jardines de las belesas
 
