@@ -8,6 +8,8 @@ feature_image:
 
 # 5. Jardín de la platanera
 
+![Jardinde la platanera. esquema](images/2026esquemajardindelaplatanera.jpg)
+
 ![JardinPabellon 4](images/jard15pabellon4a.jpg)
 
 Este jardín está en proceso, sin prisa. He respetado una platanera ornamental presente con anterioridad, y en la limpieza del parterre he rescatado diversos bulbos de azucenas, agapanto, etc. incluso unas calas.
@@ -17,8 +19,8 @@ Estoy probando con un grupo de acantos y un filodendro, junto a unas hortensias,
 &emsp;&emsp;_Noviembre 2026_
 
 ***
-![Acanto](images/specpacanto.jpg)
-_Acantos asilvestrados en el Palatino, Roma. Foto: Anthony Majanlahti en Flickr. CC-By_
+![Acanto](images/specplatacanto.jpg)
+_Acanto en junio 2026_
 
 ### Acanto
 _Acanthus mollis_
