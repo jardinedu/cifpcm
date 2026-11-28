@@ -5,6 +5,8 @@ description:
 feature_image: 
 ---
 
+![separador asterisco verde](images/bseparadorverde1000px.jpg)
+
 # 9. Jardín de L
 
 Desarrollado en octubre de 2026, es una idea de Laura, fruto de la necesidad de eliminar un gigantesco ejemplar de cactus candelabro cuyas raíces habían afectado peligrosamente a un muro, a punto de caer. En su lugar se construyó un elegante parterre alargado, bien drenado. Según las sugerencias de L. se ha planteado un juego de formas, texturas y tamaños con plantas crasas, euforbias, mediterráneas, etc., todas ellas adecuadas a la xerojardinería. Es como una miniatura de jardín, de plantas exóticas que habla también de diversidad, de otros lugares. En cierto sentido me recuerda a la _orangeries_, que desde el siglo XVI se fueron poniendo de moda en Europa, y donde con grandes esfuerzos se creaban jardines de naranjos en climas en los que no deberían estar, por una pasión por lo exótico, quizá, muy humana. 
