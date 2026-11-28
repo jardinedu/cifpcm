@@ -5,6 +5,8 @@ description:
 feature_image: 
 ---
 
+![separador asterisco verde](images/bseparadorverde1000px.jpg)
+
 # 3. Jardín de los filodendros
 
 Continuando los parterres del Patio central, entre el Pabellón 1 y el Aula ATECA hay unos parterres alargados con unas condiciones de semisombra y humedad que crean un ambiente diferente. Jardín de los filodendros por un gigantesco filodendro, acompañado de otras especies de la misma familia hasta tener 5 especies en la actualidad (octubre 2026).
