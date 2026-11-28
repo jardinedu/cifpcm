@@ -5,6 +5,8 @@ description:
 feature_image: 
 ---
 
+![separador asterisco verde](images/bseparadorverde1000px.jpg)
+
 ![Esquema de especies el primer jardin](images/jard01esquemacolorjardin1.jpg)
 
 # 1. El primer jardín
