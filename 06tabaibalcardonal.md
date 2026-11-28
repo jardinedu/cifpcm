@@ -5,6 +5,8 @@ description:
 feature_image: 
 ---
 
+![separador asterisco verde](images/bseparadorverde1000px.jpg)
+
 # 6. Tabaibal-Cardonal
 
 ![Tabaibal cardonal](images/jard16tabaibalcardonal1.png)
