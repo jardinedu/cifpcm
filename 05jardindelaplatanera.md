@@ -5,6 +5,7 @@ description:
 feature_image:
 ---
 
+# 5. Jardín de la platanera
 
 ![esquema](images/2026esquemajardindelaplatanera.jpg)
 
